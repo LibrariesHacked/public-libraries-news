@@ -44,11 +44,13 @@ jobs:
 
       - name: Run Scraper
         run: |
+          MODE="${{ inputs.mode }}"
+          MODE="${MODE:-incremental}"
           PAGES_FLAG=""
-          if [ -n "${{ github.event.inputs.pages }}" ]; then
-            PAGES_FLAG="--pages ${{ github.event.inputs.pages }}"
+          if [ -n "${{ inputs.pages }}" ]; then
+            PAGES_FLAG="--pages ${{ inputs.pages }}"
           fi
-          python -m src.cli --mode "${{ github.event.inputs.mode || 'incremental' }}" $PAGES_FLAG
+          python -m src.cli --mode "$MODE" $PAGES_FLAG
 
       - name: Commit and push changes
         run: |
