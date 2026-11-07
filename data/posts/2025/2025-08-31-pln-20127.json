@@ -1,0 +1,42 @@
+{
+  "id": "pln-post-20127",
+  "source_id": 20127,
+  "url": "https://www.publiclibrariesnews.com/2025/08/the-end-of-august.html",
+  "slug": "the-end-of-august",
+  "title": "The End of August",
+  "date_published": "2025-08-31T13:32:38",
+  "date_modified": "2025-08-31T13:32:51",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 12,
+  "story_ids": [
+    "pln-story-20127-local-001",
+    "pln-story-20127-local-002",
+    "pln-story-20127-local-003",
+    "pln-story-20127-local-004",
+    "pln-story-20127-local-005",
+    "pln-story-20127-local-006",
+    "pln-story-20127-local-007",
+    "pln-story-20127-local-008",
+    "pln-story-20127-local-009",
+    "pln-story-20127-local-010",
+    "pln-story-20127-intl-001",
+    "pln-story-20127-intl-002"
+  ],
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

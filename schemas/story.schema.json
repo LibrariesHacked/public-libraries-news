@@ -1,0 +1,117 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/LibrariesHacked/public-libraries-news/schemas/story.schema.json",
+  "title": "PLN Story Item",
+  "description": "Schema for an individual news story item extracted from a Public Libraries News post",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the story, e.g. pln-story-12345-local-001"
+    },
+    "post_id": {
+      "type": "string",
+      "description": "Reference to the parent post ID"
+    },
+    "post_date": {
+      "type": "string",
+      "format": "date",
+      "description": "Publication date of the post (YYYY-MM-DD)"
+    },
+    "section": {
+      "type": "string",
+      "enum": [
+        "editorial",
+        "changes",
+        "local_news",
+        "international_news",
+        "national_news",
+        "ideas",
+        "other"
+      ]
+    },
+    "entity_raw": {
+      "type": "string",
+      "description": "The raw entity or heading name extracted from before the separator (e.g. 'Barnsley', 'USA')"
+    },
+    "text": {
+      "type": "string",
+      "description": "Clean plain text content of the story item"
+    },
+    "text_html": {
+      "type": "string",
+      "description": "Sanitized HTML content of the story item preserving links"
+    },
+    "links": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "properties": {
+          "url": { "type": "string", "format": "uri" },
+          "text": { "type": "string" }
+        },
+        "required": ["url", "text"]
+      }
+    },
+    "resolution": {
+      "type": "object",
+      "properties": {
+        "entity_type": {
+          "type": "string",
+          "enum": ["local_authority", "country", "national", "general"]
+        },
+        "country": { "type": ["string", "null"] },
+        "country_code": { "type": ["string", "null"] },
+        "library_service": {
+          "type": ["object", "null"],
+          "properties": {
+            "name": { "type": "string" },
+            "gss_code": { "type": "string" },
+            "confidence": { "type": "string", "enum": ["exact", "alias", "fuzzy", "unmatched"] }
+          },
+          "required": ["name", "confidence"]
+        },
+        "libraries_mentioned": {
+          "type": "array",
+          "items": {
+            "type": "object",
+            "properties": {
+              "id": { "type": "string" },
+              "name": { "type": "string" },
+              "postcode": { "type": ["string", "null"] },
+              "lat": { "type": ["number", "null"] },
+              "lng": { "type": ["number", "null"] },
+              "status": { "type": ["string", "null"] },
+              "slug": { "type": ["string", "null"] }
+            },
+            "required": ["id", "name"]
+          }
+        },
+        "coordinates": {
+          "type": ["object", "null"],
+          "properties": {
+            "latitude": { "type": "number" },
+            "longitude": { "type": "number" }
+          },
+          "required": ["latitude", "longitude"]
+        }
+      },
+      "required": ["entity_type", "libraries_mentioned"]
+    },
+    "tags": {
+      "type": "array",
+      "items": { "type": "string" }
+    }
+  },
+  "required": [
+    "id",
+    "post_id",
+    "post_date",
+    "section",
+    "entity_raw",
+    "text",
+    "text_html",
+    "links",
+    "resolution"
+  ]
+}

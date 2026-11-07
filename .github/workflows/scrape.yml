@@ -1,0 +1,63 @@
+name: Scrape Public Libraries News
+
+on:
+  schedule:
+    # Run every Sunday at 21:00 UTC (9:00 PM)
+    - cron: '0 21 * * 0'
+  workflow_dispatch:
+    inputs:
+      mode:
+        description: 'Scraping mode'
+        required: true
+        default: 'incremental'
+        type: choice
+        options:
+          - incremental
+          - backfill
+      pages:
+        description: 'Max pages to process (optional, backfill mode only)'
+        required: false
+        default: ''
+
+jobs:
+  scrape-and-update:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          if [ -s requirements.txt ]; then pip install -r requirements.txt; fi
+
+      - name: Run test suite
+        run: python -m unittest discover tests
+
+      - name: Run Scraper
+        run: |
+          PAGES_FLAG=""
+          if [ -n "${{ github.event.inputs.pages }}" ]; then
+            PAGES_FLAG="--pages ${{ github.event.inputs.pages }}"
+          fi
+          python -m src.cli --mode "${{ github.event.inputs.mode || 'incremental' }}" $PAGES_FLAG
+
+      - name: Commit and push changes
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/
+          if git diff --staged --quiet; then
+            echo "No new PLN posts or changes detected. Nothing to commit."
+          else
+            git commit -m "chore(data): sync latest PLN news stories [skip ci]"
+            git push
+          fi

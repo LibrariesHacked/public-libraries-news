@@ -1,0 +1,88 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/LibrariesHacked/public-libraries-news/schemas/post.schema.json",
+  "title": "PLN Post",
+  "description": "Schema for a weekly roundup post from Public Libraries News",
+  "type": "object",
+  "properties": {
+    "id": {
+      "type": "string",
+      "description": "Unique identifier for the post, e.g. pln-post-12345"
+    },
+    "source_id": {
+      "type": "integer",
+      "description": "WordPress post ID"
+    },
+    "url": {
+      "type": "string",
+      "format": "uri",
+      "description": "Canonical URL of the post"
+    },
+    "slug": {
+      "type": "string",
+      "description": "URL slug"
+    },
+    "title": {
+      "type": "string",
+      "description": "Title of the post"
+    },
+    "date_published": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 publication date and time"
+    },
+    "date_modified": {
+      "type": "string",
+      "format": "date-time",
+      "description": "ISO 8601 last modified date and time"
+    },
+    "author": {
+      "type": "string",
+      "description": "Author or curator of the post"
+    },
+    "editorial": {
+      "type": "object",
+      "properties": {
+        "text": { "type": "string" },
+        "html": { "type": "string" }
+      },
+      "required": ["text", "html"]
+    },
+    "sections_found": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "stories_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "story_ids": {
+      "type": "array",
+      "items": { "type": "string" }
+    },
+    "attribution": {
+      "type": "object",
+      "properties": {
+        "source": { "type": "string" },
+        "source_url": { "type": "string", "format": "uri" },
+        "license": { "type": "string" },
+        "license_url": { "type": "string", "format": "uri" },
+        "notes": { "type": "string" }
+      },
+      "required": ["source", "source_url", "license", "license_url"]
+    }
+  },
+  "required": [
+    "id",
+    "source_id",
+    "url",
+    "slug",
+    "title",
+    "date_published",
+    "editorial",
+    "sections_found",
+    "stories_count",
+    "story_ids",
+    "attribution"
+  ]
+}
