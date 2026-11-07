@@ -1,0 +1,76 @@
+{
+  "id": "pln-post-11742",
+  "source_id": 11742,
+  "url": "https://www.publiclibrariesnews.com/2016/11/no-ambition.html",
+  "slug": "no-ambition",
+  "title": "No Ambition",
+  "date_published": "2016-11-29T20:33:55",
+  "date_modified": "2016-12-04T22:14:51",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I was sorry to see deep cuts to Swindon confirmed, although with one fewer library loss than expected. 50 FTE job losses means, in the part-time dominated world of libraries, far more actual jobs lost than that, with families affected as well, a month before Christmas. Moreover, it means two-thirds of all libraries in the borough being closed or passed to volunteers. Meanwhile, up in Redcar and Cleveland, branch closures (apart from the mobile) have been avoided but a loss of over 100 opening hours per week is still fairly major. These reductions, repeated seemingly in every post, are serious enough to warrant urgent action but that’s the opposite of what we’re getting from the Government. While the Ambition document waits yet more days/months/eons until it is finally published, the Taskforce has to wonder about its purpose in life. To avoid it simply becoming known as the Blogforce, the Government needs to actually do something, at the very least allowing it to go in one direction. Minister, you’re employing these people, now use them, sort of thing. However, the tale of the last six years has been of general neglect of the sector even while deep cuts mean the service is diminished as ever before. This lack of ambition for the sector by libraries ministers is shown by the continuing, well, lack of Ambition.",
+    "html": "<p style=\"text-align: justify;\">I was sorry to see deep cuts to Swindon confirmed, although with one fewer library loss than expected. 50 FTE job losses means, in the part-time dominated world of libraries, far more actual jobs lost than that, with families affected as well, a month before Christmas. Moreover, it means two-thirds of all libraries in the borough being closed or passed to volunteers. Meanwhile, up in Redcar and Cleveland, branch closures (apart from the mobile) have been avoided but a loss of over 100 opening hours per week is still fairly major.</p> <p style=\"text-align: justify;\">These reductions, repeated seemingly in every post, are serious enough to warrant urgent action but that&#8217;s the opposite of what we&#8217;re getting from the Government. While the <em>Ambition </em>document waits yet more days/months/eons until it is finally published, the Taskforce has to wonder about its purpose in life. To avoid it simply becoming known as the Blogforce, the Government needs to actually do something, at the very least allowing it to go in one direction. Minister, you&#8217;re employing these people, now use them, sort of thing. However, the tale of the last six years has been of general neglect of the sector even while deep cuts mean the service is diminished as ever before. This lack of ambition for the sector by libraries ministers is shown by the continuing, well, lack of <em>Ambition.</em></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-11742-changes-001",
+    "pln-story-11742-changes-002",
+    "pln-story-11742-changes-003",
+    "pln-story-11742-changes-004",
+    "pln-story-11742-local-001",
+    "pln-story-11742-local-002",
+    "pln-story-11742-local-003",
+    "pln-story-11742-local-004",
+    "pln-story-11742-local-005",
+    "pln-story-11742-local-006",
+    "pln-story-11742-local-007",
+    "pln-story-11742-local-008",
+    "pln-story-11742-local-009",
+    "pln-story-11742-local-010",
+    "pln-story-11742-local-011",
+    "pln-story-11742-local-012",
+    "pln-story-11742-local-013",
+    "pln-story-11742-local-014",
+    "pln-story-11742-intl-001",
+    "pln-story-11742-natl-001",
+    "pln-story-11742-natl-002",
+    "pln-story-11742-natl-003",
+    "pln-story-11742-natl-004",
+    "pln-story-11742-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 22,
+    "countries_count": 4,
+    "top_categories": {
+      "cuts_and_finance": 13,
+      "closures_and_threats": 8,
+      "staffing_and_unions": 8,
+      "opening_hours": 6,
+      "volunteers_and_community": 4,
+      "digital_and_technology": 4,
+      "governance_and_trusts": 2,
+      "mobile_and_outreach": 2,
+      "events_and_activities": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "co_location": 1,
+      "campaigns_and_protests": 1,
+      "unstaffed_open_plus": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

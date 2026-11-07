@@ -1,0 +1,75 @@
+{
+  "id": "pln-post-10272",
+  "source_id": 10272,
+  "url": "https://www.publiclibrariesnews.com/2015/12/if-you-take-the-money-away-people-dont-come-as-much-cipfa-figures-201415.html",
+  "slug": "if-you-take-the-money-away-people-dont-come-as-much-cipfa-figures-201415",
+  "title": "If you take the money away, people don’t come as much: CIPFA figures 2014/15",
+  "date_published": "2015-12-10T21:25:04",
+  "date_modified": "2015-12-13T19:18:32",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The annual CIPFA figures detailing changes in UK libraries has come out, a mere eight months after the end of the financial year they are supposed to record and with a huge price tag (£475 + VAT just for the set for one year) if you want to actually drill down into the figures. That’s shame enough but then you see what the figures actually show – that the decline in library funding (16% since 2010) has, unsurprisingly enough, gone hand in hand with a 14% decline in visits over the same time, with the 106 libraries closing in that year certainly not exactly helping usage. That the head of CIPFA then goes on to say, widely quoted, that the only hope is that lots of unpaid people are replacing employed staff, does not fill me with a warm glow either. Neither does the LocalGov reporting that the library figures bring “into question their long-term sustainability” of the sector. Well, of course it does, Mr LocalGov. That tends to happen to any service when you take all the money away. However, I’m not seeing such drops in usage in other countries where funding hasn’t been cut. So, the decline in usage is not because people are naturally not using libraries any more but, rather, that, completely unsurprisingly, money is important. That the money isn’t there is nothing to do with the viability of libraries and everything to do with political decisions at national level.",
+    "html": "<p style=\"text-align: justify;\">The annual CIPFA figures detailing changes in UK libraries has come out, a mere eight months after the end of the financial year they are supposed to record and with a huge price tag (<a href=\"http://www.cipfa.org/services/statistics/comparative-profiles/public-libraries\">£475 + VAT just for the set for one year)</a> if you want to actually drill down into the figures. That&#8217;s shame enough but then you see what the figures actually show &#8211; that the decline in library funding (16% since 2010) has, unsurprisingly enough, gone hand in hand with a 14% decline in visits over the same time, with the 106 libraries closing in that year certainly not exactly helping usage. That the head of CIPFA then goes on to say, widely quoted, that the only hope is that lots of unpaid people are replacing employed staff, does not fill me with a warm glow either. Neither does the LocalGov reporting that the library figures bring &#8220;into question their long-term sustainability&#8221; of the sector. Well, of course it does, Mr LocalGov. That tends to happen to any service when you take all the money away. However, I&#8217;m not seeing such drops in usage in other countries where funding <em>hasn&#8217;t </em>been cut. So, the decline in usage is not because people are naturally not using libraries any more but, rather, that, completely unsurprisingly, money is important. That the money isn&#8217;t there is nothing to do with the viability of libraries and everything to do with political decisions at national level.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 27,
+  "story_ids": [
+    "pln-story-10272-changes-001",
+    "pln-story-10272-changes-002",
+    "pln-story-10272-changes-003",
+    "pln-story-10272-changes-004",
+    "pln-story-10272-changes-005",
+    "pln-story-10272-changes-006",
+    "pln-story-10272-changes-007",
+    "pln-story-10272-changes-008",
+    "pln-story-10272-changes-009",
+    "pln-story-10272-changes-010",
+    "pln-story-10272-changes-011",
+    "pln-story-10272-changes-012",
+    "pln-story-10272-local-001",
+    "pln-story-10272-local-002",
+    "pln-story-10272-local-003",
+    "pln-story-10272-local-004",
+    "pln-story-10272-local-005",
+    "pln-story-10272-local-006",
+    "pln-story-10272-local-007",
+    "pln-story-10272-local-008",
+    "pln-story-10272-local-009",
+    "pln-story-10272-local-010",
+    "pln-story-10272-local-011",
+    "pln-story-10272-natl-001",
+    "pln-story-10272-natl-002",
+    "pln-story-10272-natl-003",
+    "pln-story-10272-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 5,
+    "countries_count": 2,
+    "top_categories": {
+      "closures_and_threats": 8,
+      "cuts_and_finance": 8,
+      "staffing_and_unions": 5,
+      "governance_and_trusts": 3,
+      "campaigns_and_protests": 3,
+      "events_and_activities": 2,
+      "digital_and_technology": 2,
+      "volunteers_and_community": 1,
+      "opening_hours": 1,
+      "mobile_and_outreach": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

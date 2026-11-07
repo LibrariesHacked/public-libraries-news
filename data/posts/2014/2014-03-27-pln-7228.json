@@ -1,0 +1,61 @@
+{
+  "id": "pln-post-7228",
+  "source_id": 7228,
+  "url": "https://www.publiclibrariesnews.com/2014/03/thanks-for-reading-a-couple-of-offers-queries-and-the-news.html",
+  "slug": "thanks-for-reading-a-couple-of-offers-queries-and-the-news",
+  "title": "Thanks for reading: a couple of offers, queries and the news",
+  "date_published": "2014-03-27T22:03:37",
+  "date_modified": "2014-03-30T20:29:33",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I’ve had a professional award-winning photographer contact me – he wants to take pictures of public library users for an exhibition. He’s also interested in photographing campaigners. Initially, he’s most interested in Northwest England but may go national. Let me know if you think you could help him out. In addition, I’ve had a member of the public contact me who is concerned about her local town centre library being moved out of town to a place with no public transport. She wants to know the following: should there be a public consultation? are there any studies/research that shows the impact of when a library is in the heart of the community? are there any studies that show the impact when they are located out of town? If you are interested or can help in either case, please contact me at ianlibrarian@live.co.uk. I am also of course interested in any news stories, comments or thoughts you may have on public libraries. Thanks for reading.",
+    "html": "<p style=\"text-align: justify;\">I&#8217;ve had a professional award-winning photographer contact me &#8211; he wants to take pictures of public library users for an exhibition. He&#8217;s also interested in photographing campaigners. Initially, he&#8217;s most interested in Northwest England but may go national. Let me know if you think you could help him out.</p> <p style=\"text-align: justify;\">In addition, I&#8217;ve had a member of the public contact me who is concerned about her local town centre library being moved out of town to a place with no public transport. She wants to know the following:</p> <li>should there be a public consultation?</li> <li>are there any studies/research that shows the impact of when a library is in the heart of the community?</li> <li>are there any studies that show the impact when they are located out of town?</li> <p style=\"text-align: justify;\">If you are interested or can help in either case, please contact me at <a href=\"mailto:ianlibrarian@live.co.uk\">ianlibrarian@live.co.uk</a>. I am also of course interested in any news stories, comments or thoughts you may have on public libraries. Thanks for reading.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 15,
+  "story_ids": [
+    "pln-story-7228-intl-001",
+    "pln-story-7228-intl-002",
+    "pln-story-7228-intl-003",
+    "pln-story-7228-intl-004",
+    "pln-story-7228-intl-005",
+    "pln-story-7228-intl-006",
+    "pln-story-7228-intl-007",
+    "pln-story-7228-intl-008",
+    "pln-story-7228-intl-009",
+    "pln-story-7228-intl-010",
+    "pln-story-7228-intl-011",
+    "pln-story-7228-intl-012",
+    "pln-story-7228-intl-013",
+    "pln-story-7228-intl-014",
+    "pln-story-7228-natl-001"
+  ],
+  "stats": {
+    "authorities_count": 4,
+    "libraries_count": 2,
+    "countries_count": 3,
+    "top_categories": {
+      "staffing_and_unions": 5,
+      "cuts_and_finance": 4,
+      "digital_and_technology": 3,
+      "closures_and_threats": 3,
+      "book_bans_and_challenges": 1,
+      "refurbishment_and_new_builds": 1,
+      "events_and_activities": 1,
+      "volunteers_and_community": 1,
+      "opening_hours": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

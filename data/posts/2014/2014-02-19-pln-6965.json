@@ -1,0 +1,64 @@
+{
+  "id": "pln-post-6965",
+  "source_id": 6965,
+  "url": "https://www.publiclibrariesnews.com/2014/02/its-a-barbaric-world-so-lets-learn-to-speak-barbarian.html",
+  "slug": "its-a-barbaric-world-so-lets-learn-to-speak-barbarian",
+  "title": "It’s a barbaric world … so let’s learn to speak Barbarian",
+  "date_published": "2014-02-19T23:27:58",
+  "date_modified": "2014-02-20T22:12:35",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "We live in a barbaric world where money talks and culture walks. Maria Miller, the advertising executive Culture Minister, has made it clear that the only culture she is interested in is that which makes money. This we can decry and cry about, feel superior with and generally protest about but it does not affect the fact that it’s true. So, if the current Government persists in power (and, let’s face it, Labour are disturbingly similar to them in many policies) then we had better start speaking their language, or at the very least be able to win arguments using their own terms. This may be ideological heresy to some but its pragmatism does not change the truth. As such, the news that Arts Council England are launching what one suspects is the largest scale research project in the world on the economic benefits of public libraries is to be welcomed. Previous research suggests that there is a notable magnifier between the money that goes into libraries and the benefit that the community reaps from it. Let’s prove that to be true. Let’s quantify the quality … because if public libraries can’t, then they run the danger that there won’t be much of them left, either in quantity or quality.",
+    "html": "<p style=\"text-align: justify;\">We live in a barbaric world where money talks and culture walks. <a title=\"Spectator\" href=\"http://www.spectator.co.uk/arts/opera/8900001/the-point-of-life/\">Maria Miller, the advertising executive Culture Minister, has made it clear that the only culture she is interested in is that which makes money</a>. This we can decry and cry about, feel superior with and generally protest about but it does not affect the fact that it&#8217;s true. So, if the current Government persists in power (and, let&#8217;s face it, Labour are disturbingly similar to them in many policies) then we had better start speaking their language, or at the very least be able to win arguments using their own terms. This may be ideological heresy to some but its pragmatism does not change the truth. As such, the news that Arts Council England are launching what one suspects is the largest scale research project <em>in the world</em> on the economic benefits of public libraries is to be welcomed. <a title=\"PLN\" href=\"https://www.publiclibrariesnews.com/reasons-for/reasons-for-libraries-values-for-money\">Previous research suggests that there is a notable magnifier between the money that goes into libraries and the benefit that the community reaps from it</a>. Let&#8217;s prove that to be true. Let&#8217;s quantify the quality &#8230; because if public libraries can&#8217;t, then they run the danger that there won&#8217;t be much of them left, either in quantity or quality.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 16,
+  "story_ids": [
+    "pln-story-6965-changes-001",
+    "pln-story-6965-changes-002",
+    "pln-story-6965-changes-003",
+    "pln-story-6965-changes-004",
+    "pln-story-6965-local-001",
+    "pln-story-6965-local-002",
+    "pln-story-6965-local-003",
+    "pln-story-6965-local-004",
+    "pln-story-6965-local-005",
+    "pln-story-6965-local-006",
+    "pln-story-6965-local-007",
+    "pln-story-6965-intl-001",
+    "pln-story-6965-intl-002",
+    "pln-story-6965-natl-001",
+    "pln-story-6965-natl-002",
+    "pln-story-6965-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 2,
+    "countries_count": 5,
+    "top_categories": {
+      "cuts_and_finance": 5,
+      "campaigns_and_protests": 4,
+      "staffing_and_unions": 4,
+      "closures_and_threats": 3,
+      "mobile_and_outreach": 2,
+      "events_and_activities": 2,
+      "warm_spaces_and_wellbeing": 1,
+      "governance_and_trusts": 1,
+      "opening_hours": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

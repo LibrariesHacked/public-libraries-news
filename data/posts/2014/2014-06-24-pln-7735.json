@@ -1,0 +1,62 @@
+{
+  "id": "pln-post-7735",
+  "source_id": 7735,
+  "url": "https://www.publiclibrariesnews.com/2014/06/youre-all-heroes.html",
+  "slug": "youre-all-heroes",
+  "title": "You’re all heroes",
+  "date_published": "2014-06-24T22:18:40",
+  "date_modified": "2014-06-26T22:08:09",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "One of the things that has become obvious to me writing Public Libraries News over the last three years is that avoiding change is not an option. It’s going to happen, like it or not and, if anything, the pace of change is accelerating. This is both in terms of financial constraints and technological change. Those library services which respond well to change are not immune to cuts, far from it, but such an attitude surely helps limit damage to the service as a result. One notably forward-looking library service the last few years has been Northamptonshire. It’s not perfect – it’s had cuts, staff reductions and usage drops like so many other places – but the positive energy is noticeable. They do things differently there: from running library conferences for other authorities, setting up a charity for business income and providing code clubs. Now that new approach is reaping rewards, with the library service winning the prestigious Municipal Journal award for Best Council Services Team. Well done to them and well done to everyone of you who are facing down the challenges of today’s public library world, seeking a better way and keeping libraries open. You’re all heroes.",
+    "html": "<p style=\"text-align: justify;\">One of the things that has become obvious to me writing <em>Public Libraries News</em> over the last three years is that avoiding change is not an option. It&#8217;s going to happen, like it or not and, if anything, the pace of change is accelerating. This is both in terms of financial constraints and technological change. Those library services which respond well to change are not immune to cuts, far from it, but such an attitude surely helps limit damage to the service as a result. One notably forward-looking library service the last few years has been Northamptonshire. It&#8217;s not perfect &#8211; it&#8217;s had cuts, staff reductions and usage drops like so many other places &#8211; but the positive energy is noticeable. <a title=\"PLN: Free journals for all, an Early Day Motion and Northamptonshire\" href=\"https://www.publiclibrariesnews.com/2014/02/free-journals-for-all-an-early-day-motion-and-northamptonshire.html#more-6850\">They do things differently there</a>: from running library conferences for other authorities, setting up a charity for business income and providing code clubs. Now that new approach is reaping rewards, with the library service winning the prestigious Municipal Journal award for Best Council Services Team. Well done to them and well done to everyone of you who are facing down the challenges of today&#8217;s public library world, seeking a better way and keeping libraries open. You&#8217;re all heroes.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 13,
+  "story_ids": [
+    "pln-story-7735-changes-001",
+    "pln-story-7735-intl-001",
+    "pln-story-7735-intl-002",
+    "pln-story-7735-intl-003",
+    "pln-story-7735-intl-004",
+    "pln-story-7735-intl-005",
+    "pln-story-7735-intl-006",
+    "pln-story-7735-intl-007",
+    "pln-story-7735-natl-001",
+    "pln-story-7735-natl-002",
+    "pln-story-7735-natl-003",
+    "pln-story-7735-natl-004",
+    "pln-story-7735-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 6,
+    "libraries_count": 3,
+    "countries_count": 3,
+    "top_categories": {
+      "digital_and_technology": 4,
+      "book_bans_and_challenges": 3,
+      "co_location": 2,
+      "closures_and_threats": 2,
+      "cuts_and_finance": 2,
+      "opening_hours": 2,
+      "staffing_and_unions": 2,
+      "campaigns_and_protests": 2,
+      "events_and_activities": 2,
+      "volunteers_and_community": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

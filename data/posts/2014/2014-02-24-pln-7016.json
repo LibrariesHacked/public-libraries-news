@@ -1,0 +1,57 @@
+{
+  "id": "pln-post-7016",
+  "source_id": 7016,
+  "url": "https://www.publiclibrariesnews.com/2014/02/reading-spas-non-crises-and-fines-exchanges.html",
+  "slug": "reading-spas-non-crises-and-fines-exchanges",
+  "title": "Reading spas, non-crises and fines exchanges",
+  "date_published": "2014-02-24T21:23:13",
+  "date_modified": "2014-02-25T21:42:31",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 11,
+  "story_ids": [
+    "pln-story-7016-intl-001",
+    "pln-story-7016-intl-002",
+    "pln-story-7016-intl-003",
+    "pln-story-7016-intl-004",
+    "pln-story-7016-intl-005",
+    "pln-story-7016-intl-006",
+    "pln-story-7016-intl-007",
+    "pln-story-7016-natl-001",
+    "pln-story-7016-natl-002",
+    "pln-story-7016-natl-003",
+    "pln-story-7016-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 6,
+    "libraries_count": 2,
+    "countries_count": 2,
+    "top_categories": {
+      "book_bans_and_challenges": 2,
+      "campaigns_and_protests": 2,
+      "cuts_and_finance": 2,
+      "warm_spaces_and_wellbeing": 1,
+      "closures_and_threats": 1,
+      "mobile_and_outreach": 1,
+      "governance_and_trusts": 1,
+      "co_location": 1,
+      "staffing_and_unions": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

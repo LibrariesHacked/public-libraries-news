@@ -1,0 +1,76 @@
+{
+  "id": "pln-post-12289",
+  "source_id": 12289,
+  "url": "https://www.publiclibrariesnews.com/2017/04/150k-for-health-and-wellbeing-from-carnegie-and-wellcome.html",
+  "slug": "150k-for-health-and-wellbeing-from-carnegie-and-wellcome",
+  "title": "£150k for health and wellbeing from Carnegie and Wellcome",
+  "date_published": "2017-04-04T20:41:22",
+  "date_modified": "2017-04-06T20:25:19",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "It’s good to see some funding from Carnegie and Wellcome for public library projects being announced. I’m pleased to see too that it is about health and wellbeing. The Taskforce are also keeping up their impressive article production by publishing a couple more posts, both of which may be useful if they have backing from the Minister. By the way, I’d also like to note that New South Wales has just invested the pro rata equivalent of £17m in their public libraries. That puts the rushed £3 million from the Government that’s just been doled out in perspective and, sadly, also the £150k from Carnegie/Wellcome. However, there’s some more time, at least, with these to do it right. And, if you don’t have time, library services should start keeping a couple of ideas / bids (proto-bids?) to one side for next time. With any luck, more will come along. Although not as many as in Australlia.",
+    "html": "<p style=\"text-align: justify;\">It&#8217;s good to see some funding from Carnegie and Wellcome for public library projects being announced. I&#8217;m pleased to see too that it is about health and wellbeing. The Taskforce are also keeping up their impressive article production by publishing a couple more posts, both of which may be useful if they have backing from the Minister. By the way, I&#8217;d also like to note that New South Wales has just invested the pro rata equivalent of £17m in their public libraries. That puts the rushed £3 million from the Government that&#8217;s just been doled out in perspective and, sadly, also the £150k from Carnegie/Wellcome. However, there&#8217;s some more time, at least, with these to do it right. And, if you don&#8217;t have time, library services <em>should start keeping a couple of ideas / bids (proto-bids?) to one side </em>for next time. With any luck, more will come along. Although not as many as in Australlia.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-12289-changes-001",
+    "pln-story-12289-changes-002",
+    "pln-story-12289-changes-003",
+    "pln-story-12289-local-001",
+    "pln-story-12289-local-002",
+    "pln-story-12289-local-003",
+    "pln-story-12289-local-004",
+    "pln-story-12289-local-005",
+    "pln-story-12289-local-006",
+    "pln-story-12289-local-007",
+    "pln-story-12289-local-008",
+    "pln-story-12289-local-009",
+    "pln-story-12289-local-010",
+    "pln-story-12289-local-011",
+    "pln-story-12289-local-012",
+    "pln-story-12289-local-013",
+    "pln-story-12289-local-014",
+    "pln-story-12289-intl-001",
+    "pln-story-12289-intl-002",
+    "pln-story-12289-natl-001",
+    "pln-story-12289-natl-002",
+    "pln-story-12289-natl-003",
+    "pln-story-12289-natl-004",
+    "pln-story-12289-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 14,
+    "countries_count": 4,
+    "top_categories": {
+      "volunteers_and_community": 6,
+      "staffing_and_unions": 5,
+      "campaigns_and_protests": 5,
+      "cuts_and_finance": 4,
+      "events_and_activities": 4,
+      "governance_and_trusts": 4,
+      "closures_and_threats": 3,
+      "opening_hours": 3,
+      "refurbishment_and_new_builds": 2,
+      "book_bans_and_challenges": 2,
+      "unstaffed_open_plus": 1,
+      "mobile_and_outreach": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

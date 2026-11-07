@@ -1,0 +1,61 @@
+{
+  "id": "pln-post-7097",
+  "source_id": 7097,
+  "url": "https://www.publiclibrariesnews.com/2014/03/us-library-lobbying-cornish-protests-and-15-reasons-to-date-a-librarian.html",
+  "slug": "us-library-lobbying-cornish-protests-and-15-reasons-to-date-a-librarian",
+  "title": "US library lobbying, Cornish protests and 15 reasons to date a librarian",
+  "date_published": "2014-03-10T21:59:50",
+  "date_modified": "2014-03-11T21:05:05",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Items of note include a third of a Cornish town signing a petition against its library reducing its hours and the sheer effectiveness of library lobbying in the USA. Apparently, for the latter, every one dollar given to the EveryLibrary group results in more than one thousand dollars of extra funding for public libraries. We need more of that over here perhaps, although it is quite possible our different systems would reduce its effectiveness. The less said about the “15 reasons to date a librarian” the better, though …",
+    "html": "<p style=\"text-align: justify;\">Items of note include a third of a Cornish town signing a petition against its library reducing its hours and the sheer effectiveness of library lobbying in the USA. Apparently, for the latter, every one dollar given to the EveryLibrary group results in more than one thousand dollars of extra funding for public libraries. We need more of that over here perhaps, although it is quite possible our different systems would reduce its effectiveness.</p> <p style=\"text-align: justify;\">The less said about the &#8220;15 reasons to date a librarian&#8221; the better, though &#8230;</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 15,
+  "story_ids": [
+    "pln-story-7097-changes-001",
+    "pln-story-7097-intl-001",
+    "pln-story-7097-intl-002",
+    "pln-story-7097-intl-003",
+    "pln-story-7097-intl-004",
+    "pln-story-7097-intl-005",
+    "pln-story-7097-intl-006",
+    "pln-story-7097-intl-007",
+    "pln-story-7097-intl-008",
+    "pln-story-7097-intl-009",
+    "pln-story-7097-intl-010",
+    "pln-story-7097-intl-011",
+    "pln-story-7097-intl-012",
+    "pln-story-7097-natl-001",
+    "pln-story-7097-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 5,
+    "libraries_count": 3,
+    "countries_count": 4,
+    "top_categories": {
+      "staffing_and_unions": 6,
+      "cuts_and_finance": 5,
+      "campaigns_and_protests": 4,
+      "closures_and_threats": 3,
+      "events_and_activities": 2,
+      "digital_and_technology": 1,
+      "opening_hours": 1,
+      "book_bans_and_challenges": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "pln-post-19589",
+  "source_id": 19589,
+  "url": "https://www.publiclibrariesnews.com/2024/06/dont-mention-it.html",
+  "slug": "dont-mention-it",
+  "title": "Don’t mention it",
+  "date_published": "2024-06-16T08:15:50",
+  "date_modified": "2024-06-16T08:16:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Hmmm. It’s been an odd election. Themes which are extremely important to us all such as Brexit and the Environment have had barely a mention. A party to the right of the Conservatives is having the strongest showing of any such party I can remember in a national election. And the main argument appears to be all about taxation rather than the importance of what the taxes are for. The Conservatives commit to “continuing to support” libraries and, in the same Manifesto, promise to help volunteers who take them over, presumably if councils unaccountably find for some strange reason they don’t have enough funding for paid staffing any more. The Labour Manifesto, wait for it, does not mention libraries at all. And nor do the Liberal Democrats or Reform. The Greens say that they will keep libraries “open and thriving”, showing one can always count on the Greens to support libraries – after all, re-use is fundamental to what we do. Groovy news, too, with the Psychedelic Movement party who offer to protect libraries if they get in. Thank goodness for that. Congratulations to those on the Honours List connected to the public library world. Nick Poole, formally of CILIP, Andrea Ellison (Leeds) and Julie Duffy (Portsmouth). To all three of you I say, it’s OK if you’re ever feeling down to go to wherever you keep the medal and handle it a bit while staring at it fondly. Works better than a stress ball.",
+    "html": "<p class=\"wp-block-paragraph\">Hmmm. It&#8217;s been an odd election. Themes which are extremely important to us all such as Brexit and the Environment have had barely a mention. A party to the right of the Conservatives is having the strongest showing of any such party I can remember in a national election. And the main argument appears to be all about taxation rather than the importance of what the taxes are for. </p> <p class=\"wp-block-paragraph\">The Conservatives commit to &#8220;continuing to support&#8221; libraries and, in the same Manifesto, promise to help volunteers who take them over, presumably if councils unaccountably find for some strange reason they don&#8217;t have enough funding for paid staffing any more. </p> <p class=\"wp-block-paragraph\">The Labour Manifesto, wait for it, <em>does not mention libraries at all</em>. And nor do the Liberal Democrats or Reform. The Greens say that they will keep libraries &#8220;open and thriving&#8221;, showing one can always count on the Greens to support libraries &#8211; after all, re-use is fundamental to what we do. Groovy news, too, with the Psychedelic Movement party who offer to protect libraries if they get in. Thank goodness for that.</p> <p class=\"wp-block-paragraph\">Congratulations to those on the Honours List connected to the public library world. Nick Poole, formally of CILIP, Andrea Ellison (Leeds) and Julie Duffy (Portsmouth). To all three of you I say, it&#8217;s OK if you&#8217;re ever feeling down to go to wherever you keep the medal and handle it a bit while staring at it fondly. Works better than a stress ball.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 37,
+  "story_ids": [
+    "pln-story-19589-changes-001",
+    "pln-story-19589-changes-002",
+    "pln-story-19589-local-001",
+    "pln-story-19589-local-002",
+    "pln-story-19589-local-003",
+    "pln-story-19589-local-004",
+    "pln-story-19589-local-005",
+    "pln-story-19589-local-006",
+    "pln-story-19589-local-007",
+    "pln-story-19589-local-008",
+    "pln-story-19589-local-009",
+    "pln-story-19589-local-010",
+    "pln-story-19589-local-011",
+    "pln-story-19589-local-012",
+    "pln-story-19589-local-013",
+    "pln-story-19589-local-014",
+    "pln-story-19589-local-015",
+    "pln-story-19589-local-016",
+    "pln-story-19589-local-017",
+    "pln-story-19589-local-018",
+    "pln-story-19589-local-019",
+    "pln-story-19589-local-020",
+    "pln-story-19589-local-021",
+    "pln-story-19589-local-022",
+    "pln-story-19589-local-023",
+    "pln-story-19589-local-024",
+    "pln-story-19589-local-025",
+    "pln-story-19589-local-026",
+    "pln-story-19589-local-027",
+    "pln-story-19589-intl-001",
+    "pln-story-19589-intl-002",
+    "pln-story-19589-intl-003",
+    "pln-story-19589-intl-004",
+    "pln-story-19589-intl-005",
+    "pln-story-19589-intl-006",
+    "pln-story-19589-natl-001",
+    "pln-story-19589-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 27,
+    "libraries_count": 10,
+    "countries_count": 10,
+    "top_categories": {
+      "events_and_activities": 5,
+      "refurbishment_and_new_builds": 3,
+      "staffing_and_unions": 3,
+      "closures_and_threats": 3,
+      "cuts_and_finance": 2,
+      "mobile_and_outreach": 1,
+      "opening_hours": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,69 @@
+{
+  "id": "pln-post-7510",
+  "source_id": 7510,
+  "url": "https://www.publiclibrariesnews.com/2014/05/last-library-service-standing.html",
+  "slug": "last-library-service-standing",
+  "title": "Last library service standing",
+  "date_published": "2014-05-18T20:03:50",
+  "date_modified": "2014-05-20T22:25:42",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "In the last editorial I wrote on the poor showing that Carillion appear to be giving for those who would argue for outsourcing library services. It is worth mentioning, as one commenter did to me, of course, that there are other options for outsourcing. There’s not too many others, admittedly, but they are there. There is in fact only one other, GLL, which are present in the UK market as a multi-council operation and, unlike Carillion, they are a social enterprise and so are not in it (strictly speaking) for the profit. LSSI are the other obvious contender but, as yet, despite running a fair few in the US, they do not currently have a single UK libraries contract. They’d also like to distance themselves from Carillion as shown by this tweet I received from one of their senior UK people: “if they’re going to be outsourced, the profession should seek out the ONLY professional libraries operator! #SayingItForYears“. There are also of course libraries run by non-profits in single councils: with York and Suffolk being the libraries-only concerns and the others being leisure services as well. So, outsourcing remains an option but, as in other things (not least individual traditional council-run libraries, some of which are excellent and some of which are dire) there is quite a variation. Working as we do in a time of tremendous stress, we will see over the next few years if this option is a successful and viable one … forced evolution will do its work and we will see which one these new options, and the old ones as well, are left standing.",
+    "html": "<p style=\"text-align: justify;\">In the last editorial I wrote on the poor showing that Carillion appear to be giving for those who would argue for outsourcing library services. It is worth mentioning, as one commenter did to me, of course, that there are other options for outsourcing. There&#8217;s not too many others, admittedly, but they are there. There is in fact only one other, GLL, which are present in the UK market as a multi-council operation and, unlike Carillion, they are a social enterprise and so are not in it (strictly speaking) for the profit. LSSI are the other obvious contender but, as yet, despite running a fair few in the US, they do not currently have a single UK libraries contract. They&#8217;d also like to distance themselves from Carillion as shown by this tweet I received from one of their senior UK people: &#8220;if they&#8217;re going to be outsourced, the profession should seek out the ONLY professional libraries operator! <a class=\"twitter-hashtag pretty-link js-nav\" dir=\"ltr\" href=\"https://twitter.com/search?q=%23SayingItForYears&amp;src=hash\" data-query-source=\"hashtag_click\"><s>#</s>SayingItForYears</a>&#8220;.</p> <p style=\"text-align: justify;\">There are also of course libraries run by non-profits in single councils: with York and Suffolk being the libraries-only concerns and the others being leisure services as well. So, outsourcing remains an option but, as in other things (not least individual traditional council-run libraries, some of which are excellent and some of which are dire) there is quite a variation. Working as we do in a time of tremendous stress, we will see over the next few years if this option is a successful and viable one &#8230; forced evolution will do its work and we will see which one these new options, and the old ones as well, are left standing.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 19,
+  "story_ids": [
+    "pln-story-7510-changes-001",
+    "pln-story-7510-changes-002",
+    "pln-story-7510-intl-001",
+    "pln-story-7510-intl-002",
+    "pln-story-7510-intl-003",
+    "pln-story-7510-intl-004",
+    "pln-story-7510-intl-005",
+    "pln-story-7510-intl-006",
+    "pln-story-7510-intl-007",
+    "pln-story-7510-intl-008",
+    "pln-story-7510-intl-009",
+    "pln-story-7510-intl-010",
+    "pln-story-7510-intl-011",
+    "pln-story-7510-intl-012",
+    "pln-story-7510-intl-013",
+    "pln-story-7510-intl-014",
+    "pln-story-7510-natl-001",
+    "pln-story-7510-natl-002",
+    "pln-story-7510-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 6,
+    "libraries_count": 8,
+    "countries_count": 6,
+    "top_categories": {
+      "staffing_and_unions": 6,
+      "digital_and_technology": 4,
+      "cuts_and_finance": 4,
+      "volunteers_and_community": 3,
+      "opening_hours": 3,
+      "refurbishment_and_new_builds": 2,
+      "campaigns_and_protests": 2,
+      "events_and_activities": 1,
+      "co_location": 1,
+      "mobile_and_outreach": 1,
+      "book_bans_and_challenges": 1,
+      "closures_and_threats": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

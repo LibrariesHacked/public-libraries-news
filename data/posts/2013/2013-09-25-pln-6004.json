@@ -1,0 +1,60 @@
+{
+  "id": "pln-post-6004",
+  "source_id": 6004,
+  "url": "https://www.publiclibrariesnews.com/2013/09/as-it-ends-in-sunderland-so-it-starts-in-derbyshire.html",
+  "slug": "as-it-ends-in-sunderland-so-it-starts-in-derbyshire",
+  "title": "As it ends in Sunderland, so it starts in Derbyshire?",
+  "date_published": "2013-09-25T21:38:31",
+  "date_modified": "2013-09-28T15:26:25",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Sunderland have confirmed nine out of their twenty libraries will close, much to the annoyance of those who hoped the future of the service would be voted on a full meeting of councillors. That’s perhaps one end of the process there, although some of those libraries may survive in a non-council. The other end appears to have started, with a fearful symmetry, in Derbyshire today, with the announcement that there will be major cuts to the library service there due to the whole council having to lose a third of its budget. It was pointed out that closing every single library in the county today would not touch this amount. Right, now some good news. It looks like from what I can tell that this has been a real bumper year for the summer reading challenge. Creepy House medals are in distinctly short supply. So, that means that a ton of children have been using libraries this Summer and that they would have brought in parents as well (five times, normally – once for joining, three times for stickers and once for the awards ceremony) and that’s great for those, like all of us, who believe that libraries have a future, no matter what is happening in Sunderland or Derbyshire. “I wish only to emphasise that the library function will continue to be professionally managed as part of the Kirklees Council Library Service. The Library Service will continue to supply one part time paid member of staff (as now) and that books, electronic resources, licences and equipment, hardware and software to enable access to the Library Service user database will be the responsibility of the library service.. Details of the project can be found here: http://denbydale.theoriginweb.co.uk” Biddy Fisher. See previous Public Libraries News post.",
+    "html": "<p style=\"text-align: justify;\"><a title=\"BBC\" href=\"http://www.bbc.co.uk/news/uk-england-tyne-24274982\">Sunderland have confirmed nine out of their twenty libraries will close</a>, much to <a title=\"Sunderland Echo\" href=\"http://www.sunderlandecho.com/news/local/all-news/protestors-slam-undemocratic-council-after-authority-says-sunderland-library-closures-are-a-done-deal-1-6080513\">the annoyance of those who hoped the future of the service would be voted on a full meeting of councillors</a>. That&#8217;s perhaps one end of the process there, although some of those libraries may survive in a non-council. The other end appears to have started, with a fearful symmetry,<a title=\"BBC\" href=\"http://www.thisisderbyshire.co.uk/Libraries-care-homes-1-600-council-jobs-facing/story-19842036-detail/story.html#axzz2fw1Oq6d0\"> in Derbyshire today, with the announcement that there will be major cuts to the library service there </a>due to the whole council having to lose a <em>third</em> of its budget. It was pointed out that closing every single library in the county today would not touch this amount.</p> <p style=\"text-align: justify;\">Right, now some good news. It looks like from what I can tell that this has been a real bumper year for the summer reading challenge. Creepy House medals are in distinctly short supply. So, that means that a ton of children have been using libraries this Summer and that they would have brought in parents as well (five times, normally &#8211; once for joining, three times for stickers and once for the awards ceremony) and that&#8217;s great for those, like all of us, who believe that libraries have a future, no matter what is happening in Sunderland or Derbyshire.</p> <p style=\"text-align: justify;\">&#8220;I wish only to emphasise that<b> </b>the library function will continue to be professionally managed as part of the Kirklees Council Library Service. The Library Service will continue to supply one part time paid member of staff (as now) and that<b> </b>books, electronic resources, licences and equipment, hardware and software to enable access to the Library Service user database will be the responsibility of the library service.. Details of the project can be found here: <a title=\"Denby Dale\" href=\"http://denbydale.theoriginweb.co.uk\">http://denbydale.theoriginweb.co.uk</a>&#8221; Biddy Fisher. <a title=\"PLN\" href=\"https://www.publiclibrariesnews.com/2013/09/past-president-of-cilip-helps-lead-plans-for-volunteer-library.html\">See previous Public Libraries News post.</a></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 16,
+  "story_ids": [
+    "pln-story-6004-changes-001",
+    "pln-story-6004-changes-002",
+    "pln-story-6004-changes-003",
+    "pln-story-6004-changes-004",
+    "pln-story-6004-changes-005",
+    "pln-story-6004-changes-006",
+    "pln-story-6004-changes-007",
+    "pln-story-6004-local-001",
+    "pln-story-6004-local-002",
+    "pln-story-6004-local-003",
+    "pln-story-6004-local-004",
+    "pln-story-6004-local-005",
+    "pln-story-6004-local-006",
+    "pln-story-6004-local-007",
+    "pln-story-6004-local-008",
+    "pln-story-6004-local-009"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 13,
+    "countries_count": 2,
+    "top_categories": {
+      "closures_and_threats": 6,
+      "cuts_and_finance": 5,
+      "staffing_and_unions": 5,
+      "opening_hours": 4,
+      "campaigns_and_protests": 3,
+      "refurbishment_and_new_builds": 2,
+      "digital_and_technology": 1,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

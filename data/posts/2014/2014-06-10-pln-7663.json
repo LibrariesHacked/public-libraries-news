@@ -1,0 +1,68 @@
+{
+  "id": "pln-post-7663",
+  "source_id": 7663,
+  "url": "https://www.publiclibrariesnews.com/2014/06/staffordshire-goes-volunteer-the-rhondda-revolts-and-reasons-to-be-welsh.html",
+  "slug": "staffordshire-goes-volunteer-the-rhondda-revolts-and-reasons-to-be-welsh",
+  "title": "Staffordshire goes volunteer, the Rhondda Revolts and Reasons to be Welsh",
+  "date_published": "2014-06-10T22:24:15",
+  "date_modified": "2014-06-11T21:45:40",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "More details of the consultation on library changes in Staffordshire have emerged, with 24 out of 43 branches being listed as possible for being run by volunteers. The county joins a list of others (Lincolnshire – 32 out of 45, Leicestershire – 36 out of 52) going down this route. It’ll be interesting if the changes go by without significant popular protest (as they have done apparently in Leicestershire) or reap the wrath of the whirlwind (as they’re currently doing in Lincolnshire). Why some areas protest and others do not is a bit of a mystery: as is so often the case in public libraries, the research simply has not been done. The people of Rhydyfelin in the Rhondda were definitely of the not taking it lying down category when the council decided at the last moment to close their library instead of another. They won the right to take the council to judicial review over the absence of a public consultation, at which point the council reversed its decision. You have to do those consultations, people. Finally Wales continues its national approach to public libraries by announcing that it is introducing automatic provision of public library cards to all primary school children. This follows on from their national reference and e-book websites and from their continued use of public library standards. Makes me proud to come from West of Chepstow.",
+    "html": "<p style=\"text-align: justify;\">More details of the consultation on library changes in Staffordshire have emerged, with 24 out of 43 branches being listed as possible for being run by volunteers. The county joins a list of others (Lincolnshire &#8211; 32 out of 45, Leicestershire &#8211; 36 out of 52) going down this route. It&#8217;ll be interesting if the changes go by without significant popular protest (as they have done apparently in Leicestershire) or reap the wrath of the whirlwind (as they&#8217;re currently doing in Lincolnshire). Why some areas protest and others do not is a bit of a mystery: as is so often the case in public libraries, the research simply has not been done.</p> <p style=\"text-align: justify;\">The people of Rhydyfelin in the Rhondda were definitely of the not taking it lying down category when the council decided at the last moment to close their library instead of another. They won the right to take the council to judicial review over the absence of a public consultation, at which point the council reversed its decision. You have to do those consultations, people.</p> <p style=\"text-align: justify;\">Finally Wales continues its national approach to public libraries by announcing that it is introducing automatic provision of public library cards to all primary school children. This follows on from their national reference and e-book websites and from their continued use of public library standards. Makes me proud to come from West of Chepstow.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 22,
+  "story_ids": [
+    "pln-story-7663-changes-001",
+    "pln-story-7663-changes-002",
+    "pln-story-7663-changes-003",
+    "pln-story-7663-intl-001",
+    "pln-story-7663-intl-002",
+    "pln-story-7663-intl-003",
+    "pln-story-7663-intl-004",
+    "pln-story-7663-intl-005",
+    "pln-story-7663-intl-006",
+    "pln-story-7663-intl-007",
+    "pln-story-7663-intl-008",
+    "pln-story-7663-intl-009",
+    "pln-story-7663-intl-010",
+    "pln-story-7663-natl-001",
+    "pln-story-7663-natl-002",
+    "pln-story-7663-natl-003",
+    "pln-story-7663-natl-004",
+    "pln-story-7663-natl-005",
+    "pln-story-7663-natl-006",
+    "pln-story-7663-natl-007",
+    "pln-story-7663-natl-008",
+    "pln-story-7663-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 5,
+    "libraries_count": 1,
+    "countries_count": 3,
+    "top_categories": {
+      "closures_and_threats": 4,
+      "book_bans_and_challenges": 2,
+      "campaigns_and_protests": 2,
+      "digital_and_technology": 2,
+      "events_and_activities": 2,
+      "volunteers_and_community": 1,
+      "cuts_and_finance": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

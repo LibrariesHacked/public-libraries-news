@@ -1,0 +1,79 @@
+{
+  "id": "pln-post-7332",
+  "source_id": 7332,
+  "url": "https://www.publiclibrariesnews.com/2014/04/stories-from-the-web.html",
+  "slug": "stories-from-the-web",
+  "title": "Stories from the Web",
+  "date_published": "2014-04-13T21:13:37",
+  "date_modified": "2014-04-14T21:17:14",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "My last item, probably, on children’s library webpages. John Dolan has kindly pointed out to me that Stories from the Web has been doing much of the work for those authorities who buy into it for years. I hadn’t really come across it before and there lies the problem – only 17 authorities in the UK buy into it. How many more will continue to do so as the cuts further bite can only be guessed at. It strikes me that this is something that could usefully be done nationally and avoid the vagaries of individual authorities. It would also mean that the website could forget about its cumbersome need at the moment for the prospective user to go to a physical library for a username and password. Like so many other things, this is something that Sieghart could perhaps be looking at in his review. There are other areas too – like the much discussed libraries development agency, marketing, etc – that could be better done nationally but are so often not at the moment which could usefully be the subject of some research. Here’s hoping.",
+    "html": "<p style=\"text-align: justify;\">My last item, probably, on children&#8217;s library webpages. John Dolan has kindly pointed out to me that<strong> <a title=\"Stories from the Web\" href=\"http://storiesfromtheweb.org/\">Stories from the Web</a></strong> has been doing much of the work for those authorities who buy into it for years. I hadn&#8217;t really come across it before and there lies the problem &#8211; only <a title=\"Stories from the Web\" href=\"http://www.storiesfromtheweb.org/libzone/newlibsinvolved.asp\">17 authorities in the UK buy into it</a>. How many more will continue to do so as the cuts further bite can only be guessed at. It strikes me that this is something that could usefully be done nationally and avoid the vagaries of individual authorities. It would also mean that the website could forget about its cumbersome need at the moment for the prospective user to go to a physical library for a username and password. Like so many other things, this is something that <a title=\"BookSeller\" href=\"http://www.thebookseller.com/news/sieghart-submissions-highlight-library-lottery.html\">Sieghart could perhaps be looking at in his review</a>. There are other areas too &#8211; like the much discussed libraries development agency, marketing, etc &#8211; that could be better done nationally but are so often not at the moment which could usefully be the subject of some research. Here&#8217;s hoping.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 30,
+  "story_ids": [
+    "pln-story-7332-changes-001",
+    "pln-story-7332-changes-002",
+    "pln-story-7332-changes-003",
+    "pln-story-7332-changes-004",
+    "pln-story-7332-changes-005",
+    "pln-story-7332-changes-006",
+    "pln-story-7332-changes-007",
+    "pln-story-7332-changes-008",
+    "pln-story-7332-changes-009",
+    "pln-story-7332-changes-010",
+    "pln-story-7332-changes-011",
+    "pln-story-7332-intl-001",
+    "pln-story-7332-intl-002",
+    "pln-story-7332-intl-003",
+    "pln-story-7332-intl-004",
+    "pln-story-7332-intl-005",
+    "pln-story-7332-intl-006",
+    "pln-story-7332-intl-007",
+    "pln-story-7332-intl-008",
+    "pln-story-7332-intl-009",
+    "pln-story-7332-intl-010",
+    "pln-story-7332-intl-011",
+    "pln-story-7332-intl-012",
+    "pln-story-7332-intl-013",
+    "pln-story-7332-intl-014",
+    "pln-story-7332-intl-015",
+    "pln-story-7332-intl-016",
+    "pln-story-7332-intl-017",
+    "pln-story-7332-intl-018",
+    "pln-story-7332-intl-019"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 13,
+    "countries_count": 4,
+    "top_categories": {
+      "cuts_and_finance": 14,
+      "staffing_and_unions": 8,
+      "digital_and_technology": 6,
+      "opening_hours": 5,
+      "closures_and_threats": 5,
+      "volunteers_and_community": 4,
+      "mobile_and_outreach": 4,
+      "refurbishment_and_new_builds": 2,
+      "events_and_activities": 2,
+      "book_bans_and_challenges": 2,
+      "co_location": 2,
+      "governance_and_trusts": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

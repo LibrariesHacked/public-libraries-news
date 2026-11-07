@@ -1,0 +1,79 @@
+{
+  "id": "pln-post-18806",
+  "source_id": 18806,
+  "url": "https://www.publiclibrariesnews.com/2022/10/hack-ney.html",
+  "slug": "hack-ney",
+  "title": "Hack-ney",
+  "date_published": "2022-10-30T16:18:31",
+  "date_modified": "2022-10-30T16:18:38",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A reasonably quiet week this week, with the only storm cloud being Hackney’s decision to cut £250k from its budget, resulting in protests.",
+    "html": "<p class=\"wp-block-paragraph\">A reasonably quiet week this week, with the only storm cloud being Hackney&#8217;s decision to cut £250k from its budget, resulting in protests.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 31,
+  "story_ids": [
+    "pln-story-18806-changes-001",
+    "pln-story-18806-local-001",
+    "pln-story-18806-local-002",
+    "pln-story-18806-local-003",
+    "pln-story-18806-local-004",
+    "pln-story-18806-local-005",
+    "pln-story-18806-local-006",
+    "pln-story-18806-local-007",
+    "pln-story-18806-local-008",
+    "pln-story-18806-local-009",
+    "pln-story-18806-local-010",
+    "pln-story-18806-local-011",
+    "pln-story-18806-local-012",
+    "pln-story-18806-local-013",
+    "pln-story-18806-local-014",
+    "pln-story-18806-local-015",
+    "pln-story-18806-local-016",
+    "pln-story-18806-local-017",
+    "pln-story-18806-local-018",
+    "pln-story-18806-local-019",
+    "pln-story-18806-intl-001",
+    "pln-story-18806-intl-002",
+    "pln-story-18806-intl-003",
+    "pln-story-18806-intl-004",
+    "pln-story-18806-intl-005",
+    "pln-story-18806-intl-006",
+    "pln-story-18806-intl-007",
+    "pln-story-18806-intl-008",
+    "pln-story-18806-intl-009",
+    "pln-story-18806-natl-001",
+    "pln-story-18806-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 21,
+    "libraries_count": 16,
+    "countries_count": 8,
+    "top_categories": {
+      "staffing_and_unions": 5,
+      "events_and_activities": 4,
+      "cuts_and_finance": 3,
+      "warm_spaces_and_wellbeing": 3,
+      "book_bans_and_challenges": 3,
+      "governance_and_trusts": 2,
+      "co_location": 2,
+      "campaigns_and_protests": 1,
+      "closures_and_threats": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

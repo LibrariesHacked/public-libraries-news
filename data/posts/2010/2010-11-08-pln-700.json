@@ -1,0 +1,32 @@
+{
+  "id": "pln-post-700",
+  "source_id": 700,
+  "url": "https://www.publiclibrariesnews.com/2010/11/monday-8th-november.html",
+  "slug": "monday-8th-november",
+  "title": "Monday 8th November",
+  "date_published": "2010-11-08T22:18:00",
+  "date_modified": "2010-11-08T22:18:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Warwick – Library closes two weeks for refurb and self-service introduction Surrey – “Library is my exciting castle” says girl fighting library move – Surrey Today Cornwall – Truro Library hosts acoustic gigs – BBC Leicestershire – CV writing/job hunting at all libraries – inloughborough.com Ebooks – trying to limit access is a “category mistake – Guardian USA “The resources in your local library have the power to change the world; but the doors must be kept open” – Washington Post Bangladesh – Dude, Where’s My Library? – e-bangladesh.org",
+    "html": "<p><a href=\"http://www.warwickshire.gov.uk/corporate/newsstor.nsf/publicbycategories/354F7F92E51CFEB4802577D50051BA0C\">Warwick &#8211; Library closes two weeks for refurb and self-service introduction</a><br /><a href=\"http://www.thisissurreytoday.co.uk/news/Library-exciting-castle-says-schoolgirl/article-2833093-detail/article.html\">Surrey &#8211; &#8220;Library is my exciting castle&#8221; says girl fighting library move</a> &#8211; Surrey Today<br /><a href=\"http://news.bbc.co.uk/local/cornwall/hi/things_to_do/newsid_9166000/9166966.stm\">Cornwall &#8211; Truro Library hosts acoustic gigs</a> &#8211; BBC<br /><a href=\"http://www.inloughborough.com/news/098983/New%20support%20to%20work%20initiative%20at%20Leicestershire%20library\">Leicestershire &#8211; CV writing/job hunting at all libraries</a> &#8211; inloughborough.com<br /><a href=\"http://www.guardian.co.uk/commentisfree/2010/nov/07/ebooks-library-borrowing\">Ebooks &#8211; trying to limit access is a &#8220;category mistake</a> &#8211; Guardian </p> <p><a href=\"http://www.washingtonpost.com/wp-dyn/content/article/2010/11/05/AR2010110507361.html\">USA &#8220;The resources in your local library have the power to change the world; but the doors must be kept open&#8221; </a>&#8211; Washington Post<br /><a href=\"http://www.e-bangladesh.org/2010/11/08/wheres-my-library/\">Bangladesh &#8211; Dude, Where&#8217;s My Library?</a> &#8211; e-bangladesh.org</p>"
+  },
+  "sections_found": [
+    "editorial"
+  ],
+  "stories_count": 0,
+  "story_ids": [],
+  "stats": {
+    "authorities_count": 0,
+    "libraries_count": 0,
+    "countries_count": 0,
+    "top_categories": {}
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,70 @@
+{
+  "id": "pln-post-8858",
+  "source_id": 8858,
+  "url": "https://www.publiclibrariesnews.com/2015/03/a-weekend-of-library-news.html",
+  "slug": "a-weekend-of-library-news",
+  "title": "A weekend of library news",
+  "date_published": "2015-03-01T21:27:12",
+  "date_modified": "2015-03-08T20:49:48",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The pre General Election frenzy is becoming apparent with more politicians than normal taking pot shots at eachother over libraries. Good to see Islington delaying cuts but sad to see that cuts, as yet unspecified, may affect Fife, home to the reportedly first ever Carnegie Library. In other news, it’s a shame to see the antisocial behaviour (familiar to many a library worker, me included) reported in Edinburgh but heartwarming to see the report from the decidedly pro-social child on Worcestershire’s The Hive.",
+    "html": "<p style=\"text-align: justify;\">The pre General Election frenzy is becoming apparent with more politicians than normal taking pot shots at eachother over libraries. Good to see Islington delaying cuts but sad to see that cuts, as yet unspecified, may affect Fife, home to the reportedly first ever Carnegie Library. In other news, it&#8217;s a shame to see the antisocial behaviour (familiar to many a library worker, me included) reported in Edinburgh but heartwarming to see the report from the decidedly pro-social child on Worcestershire&#8217;s The Hive.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 26,
+  "story_ids": [
+    "pln-story-8858-changes-001",
+    "pln-story-8858-changes-002",
+    "pln-story-8858-changes-003",
+    "pln-story-8858-changes-004",
+    "pln-story-8858-changes-005",
+    "pln-story-8858-intl-001",
+    "pln-story-8858-intl-002",
+    "pln-story-8858-intl-003",
+    "pln-story-8858-intl-004",
+    "pln-story-8858-intl-005",
+    "pln-story-8858-intl-006",
+    "pln-story-8858-intl-007",
+    "pln-story-8858-intl-008",
+    "pln-story-8858-intl-009",
+    "pln-story-8858-intl-010",
+    "pln-story-8858-intl-011",
+    "pln-story-8858-intl-012",
+    "pln-story-8858-intl-013",
+    "pln-story-8858-intl-014",
+    "pln-story-8858-intl-015",
+    "pln-story-8858-intl-016",
+    "pln-story-8858-intl-017",
+    "pln-story-8858-intl-018",
+    "pln-story-8858-intl-019",
+    "pln-story-8858-intl-020",
+    "pln-story-8858-intl-021"
+  ],
+  "stats": {
+    "authorities_count": 15,
+    "libraries_count": 8,
+    "countries_count": 4,
+    "top_categories": {
+      "cuts_and_finance": 11,
+      "staffing_and_unions": 9,
+      "closures_and_threats": 6,
+      "governance_and_trusts": 4,
+      "campaigns_and_protests": 3,
+      "events_and_activities": 1,
+      "mobile_and_outreach": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,82 @@
+{
+  "id": "pln-post-19556",
+  "source_id": 19556,
+  "url": "https://www.publiclibrariesnews.com/2024/05/welsh-libraries-are-aiming-to-have-real-presence.html",
+  "slug": "welsh-libraries-are-aiming-to-have-real-presence",
+  "title": "Welsh libraries are aiming to have real presence",
+  "date_published": "2024-05-19T15:09:15",
+  "date_modified": "2024-05-19T15:09:23",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The move by Wales towards the ambition of having one library card to be able to be used in all library services in the nation is highly laudable. Public libraries should be about reducing barriers to access and this is an obvious one – you’d need 22 library cards at the moment to get the full Welsh set. And some of these services would be big enough to justify a mere single library in a lot of England: Merthyr Tydfil has a population of 43,000, Caerphilly 41,000. But the nation as a whole has a bigger population than that of all of Greater Manchester. So it’s great to see the Welsh Government is providing £1m towards that goal. If scaled up to England’s population, this would be a very respectable £18m. Which would be six times more than the last three years of funding for the English Single Digital Presence, which has now lost its never-fully-believable ambition to be single and becoming “LibraryOn”. There are considerable challenges, as Orkney have found (currently actively asking people to stay away) or Bournemouth Christchurch Poole just this week. But it’s do-able. Various English library consortia of library services have shown this. But perhaps the biggest challenge is in terms of scale – it’s 18 times harder in England – which would need considerable funding in library terms. But this would bet tiny in national terms. The Rwanda scheme alone has cost £240m until the end of last year. Crucially, though, it would need a strong directing hand and interest. Which the current English situation is distinctly lacking.",
+    "html": "<p class=\"wp-block-paragraph\">The move by Wales towards the ambition of having one library card to be able to be used in all library services in the nation is highly laudable. Public libraries should be about reducing barriers to access and this is an obvious one &#8211; you&#8217;d need 22 library cards at the moment to get the full Welsh set. And some of these services would be big enough to justify a mere single library in a lot of England: Merthyr Tydfil has a population of 43,000, Caerphilly 41,000. But the nation as a whole has a bigger population than that of all of Greater Manchester. So it&#8217;s great to see the Welsh Government is providing £1m towards that goal. If scaled up to England&#8217;s population, this would be a very respectable £18m. Which would be six times more than the last three years of funding for the English Single Digital Presence, which has now lost its never-fully-believable ambition to be single and becoming &#8220;LibraryOn&#8221;.</p> <p class=\"wp-block-paragraph\">There are considerable challenges, as Orkney have found (currently actively asking people to stay away) or Bournemouth Christchurch Poole just this week. But it&#8217;s do-able. Various English library consortia of library services have shown this. But perhaps the biggest challenge is in terms of scale &#8211; it&#8217;s 18 times harder in England &#8211; which would need considerable funding in library terms. But this would bet tiny in national terms. The Rwanda scheme alone has cost £240m until the end of last year. Crucially, though, it would need a strong directing hand and interest. Which the current English situation is distinctly lacking.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 34,
+  "story_ids": [
+    "pln-story-19556-changes-001",
+    "pln-story-19556-changes-002",
+    "pln-story-19556-changes-003",
+    "pln-story-19556-local-001",
+    "pln-story-19556-local-002",
+    "pln-story-19556-local-003",
+    "pln-story-19556-local-004",
+    "pln-story-19556-local-005",
+    "pln-story-19556-local-006",
+    "pln-story-19556-local-007",
+    "pln-story-19556-local-008",
+    "pln-story-19556-local-009",
+    "pln-story-19556-local-010",
+    "pln-story-19556-local-011",
+    "pln-story-19556-local-012",
+    "pln-story-19556-local-013",
+    "pln-story-19556-local-014",
+    "pln-story-19556-local-015",
+    "pln-story-19556-local-016",
+    "pln-story-19556-local-017",
+    "pln-story-19556-local-018",
+    "pln-story-19556-local-019",
+    "pln-story-19556-local-020",
+    "pln-story-19556-local-021",
+    "pln-story-19556-local-022",
+    "pln-story-19556-local-023",
+    "pln-story-19556-local-024",
+    "pln-story-19556-intl-001",
+    "pln-story-19556-intl-002",
+    "pln-story-19556-intl-003",
+    "pln-story-19556-intl-004",
+    "pln-story-19556-intl-005",
+    "pln-story-19556-natl-001",
+    "pln-story-19556-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 23,
+    "libraries_count": 20,
+    "countries_count": 9,
+    "top_categories": {
+      "cuts_and_finance": 9,
+      "closures_and_threats": 7,
+      "opening_hours": 5,
+      "staffing_and_unions": 5,
+      "campaigns_and_protests": 4,
+      "events_and_activities": 3,
+      "book_bans_and_challenges": 3,
+      "volunteers_and_community": 2,
+      "digital_and_technology": 2,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

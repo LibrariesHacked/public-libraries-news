@@ -1,0 +1,70 @@
+{
+  "id": "pln-post-5848",
+  "source_id": 5848,
+  "url": "https://www.publiclibrariesnews.com/2013/09/malala-yousafzai-says-that-there-should-be-libraries-everywhere.html",
+  "slug": "malala-yousafzai-says-that-there-should-be-libraries-everywhere",
+  "title": "Malala Yousafzai says that there should be libraries everywhere",
+  "date_published": "2013-09-02T21:40:25",
+  "date_modified": "2013-09-03T21:50:50",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Sometimes a decision is made that is just so correct one can only just nod and agree. Well done to the Library of Birmingham for choosing Malala Yousafzai to do the official opening. For those who are unfamiliar with the name, this is the girl who was shot in the head by the Taliban for daring to suggest that girls have a right to education. This is her view on the opening: “It is my dream that one day, great buildings like this one will exist in every corner of the world so every child can grow up with the opportunity to succeed.” Malala Yousafzai before the opening of the Library of Birmingham The other thing that caught my eye today (other than a bitter Telegraph article decrying the Library of Birmingham as being an “advertisement” for the city: what’s wrong with that?) is the statement by the Carnegie UK Trust that it accepts closures of some Carnegie libraries are necessary. The non-profit organisation is aiming to encourage libraries under threat to diversify instead.",
+    "html": "<p style=\"text-align: justify;\"><strong></strong>Sometimes a decision is made that is just so correct one can only just nod and agree. <a title=\"Guardian\" href=\"http://www.theguardian.com/world/2013/sep/02/malala-yousafzai-birmingham-library\">Well done to the Library of Birmingham for choosing Malala Yousafzai to do the official opening</a>. For those who are unfamiliar with the name, this is the girl who was shot in the head by the Taliban for daring to suggest that girls have a right to education. This is her view on the opening:</p> <p style=\"text-align: justify;\">&#8220;It is my dream that one day, great buildings like this one will exist in every corner of the world so every child can grow up with the opportunity to succeed.&#8221; <strong>Malala Yousafzai</strong> before the opening of the Library of Birmingham</p> <p style=\"text-align: justify;\">The other thing that caught my eye today (<a title=\"Telegraph\" href=\"http://www.telegraph.co.uk/culture/art/architecture/10277629/Birmingham-library-isnt-a-building-its-an-advertisement.html\">other than a bitter Telegraph article decrying the Library of Birmingham as being an &#8220;advertisement&#8221; for the city</a>: what&#8217;s wrong with that?) is <a title=\"Big Issue\" href=\"http://www.bigissue.com/features/2945/andrew-carnegie-billionaire-benefactor-great-britain\">the statement by the Carnegie UK Trust that it accepts closures of some Carnegie libraries are necessary</a>. The non-profit organisation is aiming to encourage libraries under threat to diversify instead.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-5848-changes-001",
+    "pln-story-5848-changes-002",
+    "pln-story-5848-changes-003",
+    "pln-story-5848-changes-004",
+    "pln-story-5848-changes-005",
+    "pln-story-5848-changes-006",
+    "pln-story-5848-changes-007",
+    "pln-story-5848-changes-008",
+    "pln-story-5848-changes-009",
+    "pln-story-5848-local-001",
+    "pln-story-5848-local-002",
+    "pln-story-5848-local-003",
+    "pln-story-5848-local-004",
+    "pln-story-5848-local-005",
+    "pln-story-5848-local-006",
+    "pln-story-5848-local-007",
+    "pln-story-5848-local-008",
+    "pln-story-5848-local-009",
+    "pln-story-5848-local-010",
+    "pln-story-5848-local-011",
+    "pln-story-5848-local-012",
+    "pln-story-5848-local-013",
+    "pln-story-5848-local-014",
+    "pln-story-5848-local-015"
+  ],
+  "stats": {
+    "authorities_count": 10,
+    "libraries_count": 15,
+    "countries_count": 2,
+    "top_categories": {
+      "closures_and_threats": 9,
+      "cuts_and_finance": 8,
+      "opening_hours": 5,
+      "refurbishment_and_new_builds": 3,
+      "staffing_and_unions": 2,
+      "digital_and_technology": 1,
+      "governance_and_trusts": 1,
+      "co_location": 1,
+      "volunteers_and_community": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

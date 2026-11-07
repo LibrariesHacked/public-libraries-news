@@ -1,0 +1,44 @@
+{
+  "id": "pln-post-571",
+  "source_id": 571,
+  "url": "https://www.publiclibrariesnews.com/2011/04/london.html",
+  "slug": "london",
+  "title": "London",
+  "date_published": "2011-04-07T21:46:00",
+  "date_modified": "2011-04-07T21:46:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "It’s not been a day of library glory for three London councils. – Brent Council has said that library consultation respondents were likely (shock!) to be those who actually used libraries and thus were biased. Well, the 82% who said that closing half of its libraries and spending £3m on a big library in the Civic Centre were unreasonable anyway. Presumably those with no interest in libraries and so had no problem with closing them were far less biased. – In Lambeth, the new chief of libraries has resigned after only one day in the job. Family reasons were cited. It may also be possible that his decision was influenced by noticing that Lambeth has one of the worst records of library use in the country and want to further cut their budget by £750k. That every qualified librarian there is having their job deleted probably did not argue a longer stay either. – Finally, in Ealing, the council would much rather spend money on a £5m car park than on keeping the library open that had £610k spent on it four years ago and is right nextdoor to a new £2m children’s centre. Another library highlighted for closure had a £1m upgrade just a year ago.",
+    "html": "It&#8217;s not been a day of library glory for three London councils.<br />&#8211; Brent Council has said that library consultation respondents were likely (shock!) to be those who <i>actually used</i> libraries and thus were biased. Well, the 82% who said that closing half of its libraries and spending £3m on a big library in the Civic Centre were unreasonable anyway. Presumably those with no interest in libraries and so had no problem with closing them were far less biased. <br />&#8211; In Lambeth, the new chief of libraries has resigned after only one day in the job.<b> </b>Family reasons were cited. It may also be possible that his decision was influenced by noticing that Lambeth has one of the worst records of library use in the country and want to further cut their budget by £750k.<b> </b>That every qualified librarian there is having their job deleted probably did not argue a longer stay either.<br />&#8211; Finally, in Ealing, the council would much rather spend money on a £5m car park than on keeping the library open that had £610k spent on it four years ago and is right nextdoor to a new £2m children&#8217;s centre. Another library highlighted for closure had a £1m upgrade just a year ago.<b> </b></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial"
+  ],
+  "stories_count": 2,
+  "story_ids": [
+    "pln-story-571-changes-001",
+    "pln-story-571-changes-002"
+  ],
+  "stats": {
+    "authorities_count": 1,
+    "libraries_count": 1,
+    "countries_count": 1,
+    "top_categories": {
+      "closures_and_threats": 2,
+      "cuts_and_finance": 2,
+      "volunteers_and_community": 2,
+      "events_and_activities": 1,
+      "governance_and_trusts": 1,
+      "book_bans_and_challenges": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

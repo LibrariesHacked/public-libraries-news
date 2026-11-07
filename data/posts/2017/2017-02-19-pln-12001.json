@@ -1,0 +1,79 @@
+{
+  "id": "pln-post-12001",
+  "source_id": 12001,
+  "url": "https://www.publiclibrariesnews.com/2017/02/the-good-the-bad-and-the-good-or-bad-haringey-coventry-dudley-liverpool-and-wolverhampton.html",
+  "slug": "the-good-the-bad-and-the-good-or-bad-haringey-coventry-dudley-liverpool-and-wolverhampton",
+  "title": "The good, the bad and the good or bad: Haringey, Coventry, Dudley, Liverpool and Wolverhampton",
+  "date_published": "2017-02-19T19:29:07",
+  "date_modified": "2017-02-21T19:41:01",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A mixture of the good and bad. Haringey have overturned previously reported plans to cut library opening hours and are instead investing £2 million in them instead. That’s quite some U-turn. From the news report I read, it seems like they did an honest consultation (hi Livewire, see it can be done) and the result was taken on board. It’s also good to see Coventry also having a rethink and reducing the cuts there, although four libraries are still to become volunteer, which is hardly nothing. It’s interesting to see GLL taking over another library service (that’s four so far I think) in Dudley. The leisure trust has now completely overcome its London roots and must be seen as a force to be reckoned with nationally. Whether that’s good or bad, depends on how you feel about non-profit trusts. On the bad side, Liverpool are cutting the libraries budget by nearly £2 million and trying to pass on four libraries to others and Wolverhampton are going for full-on co-locations and volunteers. Expect a lot more from those two councils in PLN soon.",
+    "html": "<p style=\"text-align: justify;\">A mixture of the good and bad. Haringey have overturned previously reported plans to cut library opening hours and are instead investing £2 million in them instead. That&#8217;s quite some U-turn. From the news report I read, it seems like they did an honest consultation (hi Livewire, see it can be done) and the result was taken on board. It&#8217;s also good to see Coventry also having a rethink and reducing the cuts there, although four libraries are still to become volunteer, which is hardly nothing. It&#8217;s interesting to see GLL taking over another library service (that&#8217;s four so far I think) in Dudley. The leisure trust has now completely overcome its London roots and must be seen as a force to be reckoned with nationally. Whether that&#8217;s good or bad, depends on how you feel about non-profit trusts. On the bad side, Liverpool are cutting the libraries budget by nearly £2 million and trying to pass on four libraries to others and Wolverhampton are going for full-on co-locations and volunteers. Expect a lot more from those two councils in PLN soon.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 29,
+  "story_ids": [
+    "pln-story-12001-changes-001",
+    "pln-story-12001-changes-002",
+    "pln-story-12001-changes-003",
+    "pln-story-12001-changes-004",
+    "pln-story-12001-changes-005",
+    "pln-story-12001-local-001",
+    "pln-story-12001-local-002",
+    "pln-story-12001-local-003",
+    "pln-story-12001-local-004",
+    "pln-story-12001-local-005",
+    "pln-story-12001-local-006",
+    "pln-story-12001-local-007",
+    "pln-story-12001-local-008",
+    "pln-story-12001-local-009",
+    "pln-story-12001-local-010",
+    "pln-story-12001-local-011",
+    "pln-story-12001-local-012",
+    "pln-story-12001-local-013",
+    "pln-story-12001-local-014",
+    "pln-story-12001-local-015",
+    "pln-story-12001-local-016",
+    "pln-story-12001-intl-001",
+    "pln-story-12001-intl-002",
+    "pln-story-12001-intl-003",
+    "pln-story-12001-intl-004",
+    "pln-story-12001-natl-001",
+    "pln-story-12001-natl-002",
+    "pln-story-12001-natl-003",
+    "pln-story-12001-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 17,
+    "libraries_count": 23,
+    "countries_count": 4,
+    "top_categories": {
+      "staffing_and_unions": 11,
+      "cuts_and_finance": 9,
+      "closures_and_threats": 9,
+      "volunteers_and_community": 6,
+      "governance_and_trusts": 4,
+      "events_and_activities": 4,
+      "opening_hours": 2,
+      "co_location": 2,
+      "refurbishment_and_new_builds": 1,
+      "book_bans_and_challenges": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

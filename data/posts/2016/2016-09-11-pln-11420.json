@@ -1,0 +1,79 @@
+{
+  "id": "pln-post-11420",
+  "source_id": 11420,
+  "url": "https://www.publiclibrariesnews.com/2016/09/the-library-news-since-8th-september.html",
+  "slug": "the-library-news-since-8th-september",
+  "title": "The library news since 8th September",
+  "date_published": "2016-09-11T20:34:46",
+  "date_modified": "2016-09-13T20:28:29",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "It’s looking to be a good year for the Summer Reading Challenge from reports I hear: I’m aware of more than one authority which has had a record number of starters. I look forward to hearing the final numbers from the Reading Agency. In other, less upbeat news, the deep cuts to Lancashire libraries dominates the local news, with one (Conservative) MP even asking for the ending the (Labour) council.",
+    "html": "<p style=\"text-align: justify;\">It&#8217;s looking to be a good year for the Summer Reading Challenge from reports I hear: I&#8217;m aware of more than one authority which has had a record number of starters. I look forward to hearing the final numbers from the Reading Agency. In other, less upbeat news, the deep cuts to Lancashire libraries dominates the local news, with one (Conservative) MP even asking for the ending the (Labour) council.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 30,
+  "story_ids": [
+    "pln-story-11420-changes-001",
+    "pln-story-11420-changes-002",
+    "pln-story-11420-changes-003",
+    "pln-story-11420-changes-004",
+    "pln-story-11420-changes-005",
+    "pln-story-11420-local-001",
+    "pln-story-11420-local-002",
+    "pln-story-11420-local-003",
+    "pln-story-11420-local-004",
+    "pln-story-11420-local-005",
+    "pln-story-11420-local-006",
+    "pln-story-11420-local-007",
+    "pln-story-11420-local-008",
+    "pln-story-11420-local-009",
+    "pln-story-11420-local-010",
+    "pln-story-11420-local-011",
+    "pln-story-11420-local-012",
+    "pln-story-11420-local-013",
+    "pln-story-11420-local-014",
+    "pln-story-11420-local-015",
+    "pln-story-11420-local-016",
+    "pln-story-11420-local-017",
+    "pln-story-11420-local-018",
+    "pln-story-11420-intl-001",
+    "pln-story-11420-intl-002",
+    "pln-story-11420-intl-003",
+    "pln-story-11420-intl-004",
+    "pln-story-11420-natl-001",
+    "pln-story-11420-natl-002",
+    "pln-story-11420-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 11,
+    "libraries_count": 18,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 14,
+      "cuts_and_finance": 7,
+      "staffing_and_unions": 7,
+      "mobile_and_outreach": 3,
+      "refurbishment_and_new_builds": 2,
+      "volunteers_and_community": 2,
+      "campaigns_and_protests": 2,
+      "book_bans_and_challenges": 2,
+      "digital_and_technology": 1,
+      "events_and_activities": 1,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

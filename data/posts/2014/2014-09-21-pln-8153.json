@@ -1,0 +1,72 @@
+{
+  "id": "pln-post-8153",
+  "source_id": 8153,
+  "url": "https://www.publiclibrariesnews.com/2014/09/a-big-day.html",
+  "slug": "a-big-day",
+  "title": "A big day",
+  "date_published": "2014-09-21T21:03:23",
+  "date_modified": "2014-09-23T21:28:04",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Good to see the success of the CILIP AGM “Big Day” on this Saturday past. There was much positive stuff about Libraries Change Lives (well done to Northamptonshire) and Honorary Fellows (congrats to Janene Cox and Philip Wark). William Sieghart, at some point before January to publish his inquiry into English public libraries, spoke about the sector being at a “Beeching” (as in the savage cuts to the railways) moment but at how impressed he was about the work that was done. The CILIP President’s speech was an appeal to work together, look to the future and focus on the good that is done. In terms of votes, all motions were carried apart from the one that was causing all the rumpus because it would have reduced, in the eyes of many, the representative nature of the CILIP Council (now renamed “Board”). So, seen from afar, this looks like quite a good result for everyone: the organisation gets to boost its achievements and that of libraries and those worried about its direction of travel need not worry about a decline in democracy. It was indeed a Big Day.",
+    "html": "<p style=\"text-align: justify;\">Good to see the success of the CILIP AGM &#8220;Big Day&#8221; on this Saturday past. There was much positive stuff about Libraries Change Lives (well done to Northamptonshire) and Honorary Fellows (congrats to Janene Cox and Philip Wark). William Sieghart, at some point before January to publish his inquiry into English public libraries, spoke about the sector being at a &#8220;Beeching&#8221; (as in the savage cuts to the railways) moment but at how impressed he was about the work that was done. The CILIP President&#8217;s speech was an appeal to work together, look to the future and focus on the good that is done.</p> <p style=\"text-align: justify;\">In terms of votes, all motions were carried apart from the one that was causing all the rumpus because it would have reduced, in the eyes of many, the representative nature of the CILIP Council (now renamed &#8220;Board&#8221;). So, seen from afar, this looks like quite a good result for everyone: the organisation gets to boost its achievements and that of libraries and those worried about its direction of travel need not worry about a decline in democracy. It was indeed a Big Day.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-8153-changes-001",
+    "pln-story-8153-changes-002",
+    "pln-story-8153-changes-003",
+    "pln-story-8153-changes-004",
+    "pln-story-8153-changes-005",
+    "pln-story-8153-changes-006",
+    "pln-story-8153-changes-007",
+    "pln-story-8153-changes-008",
+    "pln-story-8153-changes-009",
+    "pln-story-8153-intl-001",
+    "pln-story-8153-intl-002",
+    "pln-story-8153-intl-003",
+    "pln-story-8153-intl-004",
+    "pln-story-8153-intl-005",
+    "pln-story-8153-intl-006",
+    "pln-story-8153-intl-007",
+    "pln-story-8153-intl-008",
+    "pln-story-8153-intl-009",
+    "pln-story-8153-intl-010",
+    "pln-story-8153-intl-011",
+    "pln-story-8153-intl-012",
+    "pln-story-8153-intl-013",
+    "pln-story-8153-natl-001",
+    "pln-story-8153-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 6,
+    "libraries_count": 10,
+    "countries_count": 4,
+    "top_categories": {
+      "cuts_and_finance": 8,
+      "closures_and_threats": 7,
+      "mobile_and_outreach": 6,
+      "volunteers_and_community": 4,
+      "digital_and_technology": 3,
+      "staffing_and_unions": 3,
+      "campaigns_and_protests": 2,
+      "book_bans_and_challenges": 1,
+      "events_and_activities": 1,
+      "opening_hours": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

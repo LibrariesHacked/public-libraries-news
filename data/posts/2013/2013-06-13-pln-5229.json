@@ -1,0 +1,70 @@
+{
+  "id": "pln-post-5229",
+  "source_id": 5229,
+  "url": "https://www.publiclibrariesnews.com/2013/06/new-library-in-southwark-nine-less-in-sunderland.html",
+  "slug": "new-library-in-southwark-nine-less-in-sunderland",
+  "title": "New library in Southwark, nine less in Sunderland",
+  "date_published": "2013-06-13T21:50:11",
+  "date_modified": "2013-06-16T20:53:53",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "local_news"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-5229-changes-001",
+    "pln-story-5229-changes-002",
+    "pln-story-5229-changes-003",
+    "pln-story-5229-changes-004",
+    "pln-story-5229-local-001",
+    "pln-story-5229-local-002",
+    "pln-story-5229-local-003",
+    "pln-story-5229-local-004",
+    "pln-story-5229-local-005",
+    "pln-story-5229-local-006",
+    "pln-story-5229-local-007",
+    "pln-story-5229-local-008",
+    "pln-story-5229-local-009",
+    "pln-story-5229-local-010",
+    "pln-story-5229-local-011",
+    "pln-story-5229-local-012",
+    "pln-story-5229-local-013",
+    "pln-story-5229-ideas-001",
+    "pln-story-5229-ideas-002",
+    "pln-story-5229-ideas-003",
+    "pln-story-5229-ideas-004",
+    "pln-story-5229-ideas-005",
+    "pln-story-5229-ideas-006",
+    "pln-story-5229-ideas-007"
+  ],
+  "stats": {
+    "authorities_count": 11,
+    "libraries_count": 18,
+    "countries_count": 2,
+    "top_categories": {
+      "cuts_and_finance": 7,
+      "closures_and_threats": 7,
+      "opening_hours": 4,
+      "staffing_and_unions": 4,
+      "digital_and_technology": 4,
+      "refurbishment_and_new_builds": 3,
+      "volunteers_and_community": 3,
+      "campaigns_and_protests": 2,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

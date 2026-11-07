@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-16943",
+  "source_id": 16943,
+  "url": "https://www.publiclibrariesnews.com/2020/08/and-then-there-was-one.html",
+  "slug": "and-then-there-was-one",
+  "title": "And then there was one",
+  "date_published": "2020-08-30T16:51:10",
+  "date_modified": "2020-08-30T16:51:37",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Recovery continues, although the latest Libraries Connected figures showing a far slower return to libraries than to shops. This is, however, honestly to be expected as still only a small fraction of branches are fully open, with most only offering partial services and many still closed, although Sandwell is now the only library service not to have any form of physical service at all. In other news – now there is other news – it’s been reassuring to see the huge fight put up in Glasgow over possible closures, resulting in the assurance this week that all branches are safe. Like most book readers, I do like a happy ending and the Scottish have apparently managed to get one there.",
+    "html": "<p class=\"wp-block-paragraph\">Recovery continues, although the latest Libraries Connected figures showing a far slower return to libraries than to shops. This is, however, honestly to be expected as still only a small fraction of branches are fully open, with most only offering partial services and many still closed, although Sandwell is now the only library service not to have any form of physical service at all. </p> <p class=\"wp-block-paragraph\">In other news &#8211; now there <em>is </em>other news &#8211; it&#8217;s been reassuring to see the huge fight put up in Glasgow over possible closures, resulting in the assurance this week that all branches are safe. Like most book readers, I do like a happy ending and the Scottish have apparently managed to get one there.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 33,
+  "story_ids": [
+    "pln-story-16943-changes-001",
+    "pln-story-16943-changes-002",
+    "pln-story-16943-local-001",
+    "pln-story-16943-local-002",
+    "pln-story-16943-local-003",
+    "pln-story-16943-local-004",
+    "pln-story-16943-local-005",
+    "pln-story-16943-local-006",
+    "pln-story-16943-local-007",
+    "pln-story-16943-local-008",
+    "pln-story-16943-local-009",
+    "pln-story-16943-local-010",
+    "pln-story-16943-local-011",
+    "pln-story-16943-local-012",
+    "pln-story-16943-local-013",
+    "pln-story-16943-local-014",
+    "pln-story-16943-local-015",
+    "pln-story-16943-local-016",
+    "pln-story-16943-local-017",
+    "pln-story-16943-local-018",
+    "pln-story-16943-local-019",
+    "pln-story-16943-local-020",
+    "pln-story-16943-local-021",
+    "pln-story-16943-local-022",
+    "pln-story-16943-local-023",
+    "pln-story-16943-local-024",
+    "pln-story-16943-local-025",
+    "pln-story-16943-intl-001",
+    "pln-story-16943-intl-002",
+    "pln-story-16943-intl-003",
+    "pln-story-16943-natl-001",
+    "pln-story-16943-natl-002",
+    "pln-story-16943-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 25,
+    "libraries_count": 37,
+    "countries_count": 5,
+    "top_categories": {
+      "refurbishment_and_new_builds": 12,
+      "closures_and_threats": 8,
+      "digital_and_technology": 4,
+      "campaigns_and_protests": 3,
+      "events_and_activities": 3,
+      "staffing_and_unions": 3,
+      "opening_hours": 2,
+      "governance_and_trusts": 1,
+      "volunteers_and_community": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

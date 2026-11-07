@@ -1,0 +1,81 @@
+{
+  "id": "pln-post-11886",
+  "source_id": 11886,
+  "url": "https://www.publiclibrariesnews.com/2017/01/the-minister-for-libraries-speaks.html",
+  "slug": "the-minister-for-libraries-speaks",
+  "title": "The Minister for Libraries speaks",
+  "date_published": "2017-01-24T21:11:17",
+  "date_modified": "2017-01-26T21:32:39",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I’ve heard rumours about the new libraries minister, Rob Wilson, for a while now. Some suggest his ardent pro-volunteer bodes ill for libraries and others earnestly hoped that he would be an interventionist. Rumours that reached my ears about his speeches at the Ambition sessions held by the Task Force included suggestions he wanted large-scale closures. It turns out he’s not as extreme as all this suggests: well, not for a Conservative minister anyway. Unlike his predecessor, the ever-optimistic (and sometimes possibly wilfully blind) Ed Vaizey, he’s openly acknowledging that there are problems. He repeats (like Ed Vaizey) that he will look into library closures but (unlike Ed, in office anyway) has actually taken an active interest in visiting an authority where deep closures are taking place. Don’t get too excited, though – Lancashire are still happily transferring libraries even after his visit so they must strongly suspect he’s not actually going to do anything. He’s also keen on initiatives and ways to lessen the impact of the cuts, even suggesting (as so many do) that somehow, given the right management and genius thinking, libraries will be fine. Someone should show him the deal in the Isle of Man where an online gambling company is financially supporting the mobile library service, taking over from another one. Taking advantage of low-taxed gambling companies to keep libraries open? Now that’s innovative. So, having seen the last few months and read the speech by Rob Wilson, my verdict he is not Satan but he’s no St George either. Libraries remain as wonderful and as under threat as ever and need to find our own solutions, without the strong shield of government. Well, no-one can say we’re not used to that.",
+    "html": "<p style=\"text-align: justify;\">I&#8217;ve heard rumours about the new libraries minister, Rob Wilson, for a while now. Some suggest his ardent pro-volunteer bodes ill for libraries and others earnestly hoped that he would be an interventionist. Rumours that reached my ears about his speeches at the <em>Ambition</em> sessions held by the Task Force included suggestions he wanted large-scale closures. It turns out he&#8217;s not as extreme as all this suggests: well, not for a Conservative minister anyway.</p> <p style=\"text-align: justify;\">Unlike his predecessor, the ever-optimistic (and sometimes possibly wilfully blind) Ed Vaizey, he&#8217;s openly acknowledging that there are problems. He repeats (like Ed Vaizey) that he will look into library closures but (unlike Ed, in office anyway) has actually taken an active interest in visiting an authority where deep closures are taking place. Don&#8217;t get too excited, though &#8211; Lancashire are still happily transferring libraries even after his visit so they must strongly suspect he&#8217;s not actually going to do anything.</p> <p style=\"text-align: justify;\">He&#8217;s also keen on initiatives and ways to lessen the impact of the cuts, even suggesting (as so many do) that somehow, given the right management and genius thinking, libraries will be fine. Someone should show him the deal in the Isle of Man where an online gambling company is financially supporting the mobile library service, taking over from another one. Taking advantage of low-taxed gambling companies to keep libraries open? Now that&#8217;s innovative. So, having seen the last few months and read the speech by Rob Wilson, my verdict he is not Satan but he&#8217;s no St George either. Libraries remain as wonderful and as under threat as ever and need to find our own solutions, without the strong shield of government. Well, no-one can say we&#8217;re not used to that.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 31,
+  "story_ids": [
+    "pln-story-11886-changes-001",
+    "pln-story-11886-changes-002",
+    "pln-story-11886-changes-003",
+    "pln-story-11886-local-001",
+    "pln-story-11886-local-002",
+    "pln-story-11886-local-003",
+    "pln-story-11886-local-004",
+    "pln-story-11886-local-005",
+    "pln-story-11886-local-006",
+    "pln-story-11886-local-007",
+    "pln-story-11886-local-008",
+    "pln-story-11886-local-009",
+    "pln-story-11886-local-010",
+    "pln-story-11886-local-011",
+    "pln-story-11886-local-012",
+    "pln-story-11886-local-013",
+    "pln-story-11886-local-014",
+    "pln-story-11886-intl-001",
+    "pln-story-11886-intl-002",
+    "pln-story-11886-intl-003",
+    "pln-story-11886-intl-004",
+    "pln-story-11886-natl-001",
+    "pln-story-11886-natl-002",
+    "pln-story-11886-natl-003",
+    "pln-story-11886-natl-004",
+    "pln-story-11886-natl-005",
+    "pln-story-11886-natl-006",
+    "pln-story-11886-natl-007",
+    "pln-story-11886-natl-008",
+    "pln-story-11886-natl-009",
+    "pln-story-11886-natl-010"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 10,
+    "countries_count": 7,
+    "top_categories": {
+      "staffing_and_unions": 7,
+      "volunteers_and_community": 6,
+      "cuts_and_finance": 6,
+      "closures_and_threats": 5,
+      "digital_and_technology": 4,
+      "mobile_and_outreach": 3,
+      "book_bans_and_challenges": 3,
+      "co_location": 2,
+      "campaigns_and_protests": 2,
+      "governance_and_trusts": 2,
+      "refurbishment_and_new_builds": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

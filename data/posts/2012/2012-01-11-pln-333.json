@@ -1,0 +1,70 @@
+{
+  "id": "pln-post-333",
+  "source_id": 333,
+  "url": "https://www.publiclibrariesnews.com/2012/01/private-eye-libraries-news-special.html",
+  "slug": "private-eye-libraries-news-special",
+  "title": "Private Eye Libraries News Special",
+  "date_published": "2012-01-11T17:27:00",
+  "date_modified": "2012-01-11T17:27:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "419 libraries (328 buildings and 91 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4612 in the UK, complete list below. Librarian professional body CILIP forecasts 600 libraries are under threat (inc. 20% of English libraries). The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day. Can you help? Submit evidence/views to Culture, Media and Sport Select Committee on Library Closures before Thursday 12th January. Book the singer of the “We Need Libraries” songs to promote the cause at a place near you. Freedom of information requests to the MLA – If you are wanting to know what information the MLA (the former quango with some responsibility for public libraries), put in FOI requests as soon as possible. The MLA still has a skeleton staff but this will be wound up shortly and it will be harder to gain the information when it is.",
+    "html": "</p> <b>419 libraries (328 buildings and 91 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.<a href=\"http://www.cilip.org.uk/get-involved/advocacy/public-libraries/Documents/Public_libraries_briefing_CILIP_March2011.pdf\">4612</a> in the UK, complete list below</b><b>. Librarian professional body CILIP forecasts 600 libraries are under threat (inc. 20% of English libraries). </b>The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day. <p><b>Can you help?</b></p> <li><a href=\"http://www.parliament.uk/business/committees/committees-a-z/commons-select/culture-media-and-sport-committee/inquiries/parliament-2010/library-closures/\">Submit evidence/views to Culture, Media and Sport Select Committee on Library Closures before Thursday 12th January</a>.</li> <li>Book <a href=\"http://www.facebook.com/events/171994056235998/\">the singer of the &#8220;We Need Libraries&#8221; songs to promote the cause</a> at a place near you.</li> <li>Freedom of information requests to the MLA &#8211; If you are wanting to know what information the MLA (the former quango with some responsibility for public libraries), put in FOI requests as soon as possible. The MLA still has a skeleton staff but this will be wound up shortly and it will be harder to gain the information when it is.</li>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-333-changes-001",
+    "pln-story-333-changes-002",
+    "pln-story-333-changes-003",
+    "pln-story-333-changes-004",
+    "pln-story-333-changes-005",
+    "pln-story-333-changes-006",
+    "pln-story-333-changes-007",
+    "pln-story-333-local-001",
+    "pln-story-333-local-002",
+    "pln-story-333-local-003",
+    "pln-story-333-local-004",
+    "pln-story-333-local-005",
+    "pln-story-333-local-006",
+    "pln-story-333-local-007",
+    "pln-story-333-local-008",
+    "pln-story-333-local-009",
+    "pln-story-333-local-010",
+    "pln-story-333-natl-001",
+    "pln-story-333-natl-002",
+    "pln-story-333-natl-003",
+    "pln-story-333-natl-004",
+    "pln-story-333-natl-005",
+    "pln-story-333-natl-006",
+    "pln-story-333-natl-007"
+  ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 19,
+    "countries_count": 1,
+    "top_categories": {
+      "cuts_and_finance": 10,
+      "closures_and_threats": 7,
+      "opening_hours": 6,
+      "staffing_and_unions": 5,
+      "volunteers_and_community": 4,
+      "digital_and_technology": 3,
+      "refurbishment_and_new_builds": 2,
+      "events_and_activities": 2,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

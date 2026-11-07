@@ -1,0 +1,66 @@
+{
+  "id": "pln-post-7388",
+  "source_id": 7388,
+  "url": "https://www.publiclibrariesnews.com/2014/04/regularly-using-a-library-is-equivalent-to-a-1359-pay-rise.html",
+  "slug": "regularly-using-a-library-is-equivalent-to-a-1359-pay-rise",
+  "title": "Regularly using a library is equivalent to a £1,359 pay rise",
+  "date_published": "2014-04-23T22:17:15",
+  "date_modified": "2014-04-24T21:27:04",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The DCMS have funded a report from the LSE which shows, through some very heavy statistical analysis that the benefit of libraries equivalent in benefit to the active user of a pay rise of £1359. Let’s do some fun analysis of this. The Cipfa survey suggests an active library user base at 15% (this sounds very low to me but let’s go with it as we know that we’re at least not exaggerating what comes next) and the population of the United Kingdom according to the latest official figures is 63 million. 15% of that is 9,450,000. Right, now times that very low figure by 1,359 which brings us the benefit just for active users of using a library of £12.8 billion. The cost of the entire UK public library service is around £1 billion. Little wonder that Lucy Mangan in the Guardian says that the research either means the DCMS has it wrong on libraries or that the report they commissioned is wrong. Either way, she points out, it’s not good news for them. But it’s good news for libraries and I think we can be grateful to the Government for commissioning research that adds to the pressure on local councils to keep them. Now if only the DCMS would add some more practical pressure as well …",
+    "html": "<p style=\"text-align: justify;\">The DCMS have funded a report from the LSE which shows, through some very heavy statistical analysis that the benefit of libraries equivalent in benefit to the active user of a pay rise of £1359. Let&#8217;s do some fun analysis of this. The Cipfa survey suggests an active library user base at 15% (this sounds very low to me but let&#8217;s go with it as we know that we&#8217;re at least not exaggerating what comes next) and the population of the United Kingdom according to the latest official figures is 63 million. 15% of that is 9,450,000. Right, now times that very low figure by 1,359 which brings us the benefit <em>just for active users </em>of using a library of £12.8 billion. The cost of the entire UK public library service is around £1 billion. Little wonder that Lucy Mangan in the Guardian says that the research either means the DCMS has it wrong on libraries or that the report they commissioned is wrong. Either way, she points out, it&#8217;s not good news for them. But it&#8217;s good news <em>for libraries</em> and I think we can be grateful to the Government for commissioning research that adds to the pressure on local councils to keep them. Now if only the DCMS would add some more practical pressure as well &#8230;</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 20,
+  "story_ids": [
+    "pln-story-7388-changes-001",
+    "pln-story-7388-changes-002",
+    "pln-story-7388-changes-003",
+    "pln-story-7388-changes-004",
+    "pln-story-7388-changes-005",
+    "pln-story-7388-intl-001",
+    "pln-story-7388-intl-002",
+    "pln-story-7388-intl-003",
+    "pln-story-7388-intl-004",
+    "pln-story-7388-intl-005",
+    "pln-story-7388-intl-006",
+    "pln-story-7388-intl-007",
+    "pln-story-7388-intl-008",
+    "pln-story-7388-intl-009",
+    "pln-story-7388-intl-010",
+    "pln-story-7388-intl-011",
+    "pln-story-7388-natl-001",
+    "pln-story-7388-natl-002",
+    "pln-story-7388-natl-003",
+    "pln-story-7388-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 4,
+    "libraries_count": 2,
+    "countries_count": 6,
+    "top_categories": {
+      "campaigns_and_protests": 4,
+      "digital_and_technology": 3,
+      "governance_and_trusts": 3,
+      "volunteers_and_community": 2,
+      "closures_and_threats": 2,
+      "book_bans_and_challenges": 2,
+      "warm_spaces_and_wellbeing": 1,
+      "cuts_and_finance": 1,
+      "staffing_and_unions": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

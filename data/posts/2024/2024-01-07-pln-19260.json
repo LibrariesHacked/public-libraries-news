@@ -1,0 +1,81 @@
+{
+  "id": "pln-post-19260",
+  "source_id": 19260,
+  "url": "https://www.publiclibrariesnews.com/2024/01/the-wrong-kind-of-hackathon.html",
+  "slug": "the-wrong-kind-of-hackathon",
+  "title": "The wrong kind of hackathon",
+  "date_published": "2024-01-07T09:49:11",
+  "date_modified": "2024-01-07T09:49:18",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The hack into the British Library is important. For such an important institution, and one that is when all is said and done, all about storing data, to be so vulnerable to attack, says a lot about the lack of proper cyber protection in British public organisations. And this does not just cause embarrassment to the institution and worries to staff (I am still a bit unsure as to why photos of staff passports were on the system). Due to the apparent interconnected nature of the system, the catalogue is still down so researchers’ work is blocked and authors will have Public Lending Right payments delayed. In addition, the hack looks also to have severely damaged the financial reserves of the British Library and so potentially causes a hazard long-term. Zooming out from the British Library, hacking is a very global, professional and profitable concern and it’s not only such comparatively big names as the British Library that get affected. Just in the past couple of months, a local council or two, plus at least one Canadian library service, have been as well. Heck, I have even seen this very website being the subject of hacks. And of course it’s a lucky one of us that has not personally been the subject of a phishing scam. However, this is not just a threat but an opportunity for public libraries. This sector can have a role in making life better. Cyber security and information literacy are closely connected and public libraries can help the public understand and mitigate the risks. I hope that we do so. But this is going to be challenging as the library service is so atomised and under financial pressure that a large-scale sufficiently-funded national plan for doing so appears unlikely. Have a look at the excellent Twitter (I still refuse to call it X, please can Elon Musk please go away?) thread from Nick Poole below on the subject and also how the delay in the Single Digital Presence is affecting things. But bear in mind that the scheme is actually on track now and so this complaint may hopefully be a historical one shortly. It’s been a long time coming but we should get it soon. After all, what else can cause a delay? Wait. Oh no. What do you mean it’s a British Library project?",
+    "html": "<p class=\"wp-block-paragraph\">The hack into the British Library is important. For such an important institution, and one that is when all is said and done, all about storing data, to be so vulnerable to attack, says a lot about the lack of proper cyber protection in British public organisations. And this does not just cause embarrassment to the institution and worries to staff (I am still a bit unsure as to why photos of staff passports were on the system). Due to the apparent interconnected nature of the system, the catalogue is still down so researchers&#8217; work is blocked and authors will have Public Lending Right payments delayed. In addition, the hack looks also to have severely damaged the financial reserves of the British Library and so potentially causes a hazard long-term.</p> <p class=\"wp-block-paragraph\">Zooming out from the British Library, hacking is a very global, professional and profitable concern and it&#8217;s not only such comparatively big names as the British Library that get affected. Just in the past couple of months, a local council or two, plus at least one Canadian library service, have been as well. Heck, I have even seen this very website being the subject of hacks. And of course it&#8217;s a lucky one of us that has not personally been the subject of a phishing scam. However, this is not just a threat but an opportunity for public libraries. This sector can have a role in making life better. Cyber security and information literacy are closely connected and public libraries can help the public understand and mitigate the risks. I hope that we do so.</p> <p class=\"wp-block-paragraph\">But this is going to be challenging as the library service is so atomised and under financial pressure that a large-scale sufficiently-funded national plan for doing so appears unlikely. Have a look at the excellent Twitter (I still refuse to call it X, please can Elon Musk please go away?) thread from Nick Poole below on the subject and also how the delay in the Single Digital Presence is affecting things. But bear in mind that the scheme is actually on track now and so this complaint may hopefully be a historical one shortly. It&#8217;s been a long time coming but we should get it soon. After all, what else can cause a delay? Wait. Oh no. What do you mean it&#8217;s a British Library project? </p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 32,
+  "story_ids": [
+    "pln-story-19260-changes-001",
+    "pln-story-19260-changes-002",
+    "pln-story-19260-changes-003",
+    "pln-story-19260-changes-004",
+    "pln-story-19260-changes-005",
+    "pln-story-19260-local-001",
+    "pln-story-19260-local-002",
+    "pln-story-19260-local-003",
+    "pln-story-19260-local-004",
+    "pln-story-19260-local-005",
+    "pln-story-19260-local-006",
+    "pln-story-19260-local-007",
+    "pln-story-19260-local-008",
+    "pln-story-19260-local-009",
+    "pln-story-19260-local-010",
+    "pln-story-19260-local-011",
+    "pln-story-19260-local-012",
+    "pln-story-19260-local-013",
+    "pln-story-19260-local-014",
+    "pln-story-19260-local-015",
+    "pln-story-19260-local-016",
+    "pln-story-19260-intl-001",
+    "pln-story-19260-intl-002",
+    "pln-story-19260-intl-003",
+    "pln-story-19260-intl-004",
+    "pln-story-19260-intl-005",
+    "pln-story-19260-intl-006",
+    "pln-story-19260-intl-007",
+    "pln-story-19260-intl-008",
+    "pln-story-19260-intl-009",
+    "pln-story-19260-natl-001",
+    "pln-story-19260-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 16,
+    "libraries_count": 16,
+    "countries_count": 11,
+    "top_categories": {
+      "cuts_and_finance": 13,
+      "closures_and_threats": 10,
+      "opening_hours": 4,
+      "staffing_and_unions": 3,
+      "volunteers_and_community": 3,
+      "book_bans_and_challenges": 3,
+      "co_location": 3,
+      "digital_and_technology": 2,
+      "mobile_and_outreach": 1,
+      "unstaffed_open_plus": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

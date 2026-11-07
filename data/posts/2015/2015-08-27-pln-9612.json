@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-9612",
+  "source_id": 9612,
+  "url": "https://www.publiclibrariesnews.com/2015/08/national-libraries-day-scots-kids-cards-and-batman.html",
+  "slug": "national-libraries-day-scots-kids-cards-and-batman",
+  "title": "National Libraries Day, Scots kid’s cards … and Batman",
+  "date_published": "2015-08-27T20:08:39",
+  "date_modified": "2015-08-30T18:55:02",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "What passes for a quiet time in libraries for the last few days. I’ve put National LIbraries Day first because it’s important and the next couple of months will be a good time to start preparing for it. The high point of this point, though, is undoubtedly Batman using a self-service machine. Why? Because it’s Batman, dudes.",
+    "html": "<p style=\"text-align: justify;\">What passes for a quiet time in libraries for the last few days. I&#8217;ve put National LIbraries Day first because <em>it&#8217;s important</em> and the next couple of months will be a good time to start preparing for it. The high point of this point, though, is undoubtedly Batman using a self-service machine. Why? Because it&#8217;s Batman, dudes.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 31,
+  "story_ids": [
+    "pln-story-9612-local-001",
+    "pln-story-9612-local-002",
+    "pln-story-9612-local-003",
+    "pln-story-9612-local-004",
+    "pln-story-9612-local-005",
+    "pln-story-9612-local-006",
+    "pln-story-9612-local-007",
+    "pln-story-9612-local-008",
+    "pln-story-9612-local-009",
+    "pln-story-9612-local-010",
+    "pln-story-9612-local-011",
+    "pln-story-9612-local-012",
+    "pln-story-9612-local-013",
+    "pln-story-9612-local-014",
+    "pln-story-9612-local-015",
+    "pln-story-9612-local-016",
+    "pln-story-9612-intl-001",
+    "pln-story-9612-intl-002",
+    "pln-story-9612-intl-003",
+    "pln-story-9612-intl-004",
+    "pln-story-9612-intl-005",
+    "pln-story-9612-intl-006",
+    "pln-story-9612-natl-001",
+    "pln-story-9612-natl-002",
+    "pln-story-9612-natl-003",
+    "pln-story-9612-natl-004",
+    "pln-story-9612-natl-005",
+    "pln-story-9612-natl-006",
+    "pln-story-9612-natl-007",
+    "pln-story-9612-natl-008",
+    "pln-story-9612-natl-009"
+  ],
+  "stats": {
+    "authorities_count": 14,
+    "libraries_count": 13,
+    "countries_count": 7,
+    "top_categories": {
+      "cuts_and_finance": 10,
+      "staffing_and_unions": 5,
+      "closures_and_threats": 5,
+      "campaigns_and_protests": 4,
+      "digital_and_technology": 4,
+      "opening_hours": 2,
+      "volunteers_and_community": 2,
+      "events_and_activities": 2,
+      "book_bans_and_challenges": 2,
+      "co_location": 1,
+      "refurbishment_and_new_builds": 1,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

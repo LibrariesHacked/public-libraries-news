@@ -1,0 +1,38 @@
+{
+  "id": "pln-post-588",
+  "source_id": 588,
+  "url": "https://www.publiclibrariesnews.com/2011/03/heathfield-closes-with-a-wake.html",
+  "slug": "heathfield-closes-with-a-wake",
+  "title": "Heathfield closes with a “wake”",
+  "date_published": "2011-03-17T22:24:00",
+  "date_modified": "2011-03-17T22:24:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Known changes to info on authorities/library funding/opening since last posting Camden – £1.6m (25%) budget cut, legal challenge being prepared. Doncaster – Second consultaton on closures recommended Northumberland – 5% budget cut, more “volunteer involvement”. Richmond – Heathfield Library closed, £400k made from its sale promised for new library which was never built. Library is in poorest area of borough. Suffolk – one more under threat (Sudbury), article suggests 29 (out of 44) already known to be under threat is just the first “phase”. West Sussex – big increase in library charges",
+    "html": "</p> <b>Known changes to info on authorities/library funding/opening since last posting</b> <a href=\"http://www.camdennewjournal.com/news/2011/mar/library-cuts-survey-could-be-challenged-high-court\">Camden</a> &#8211; £1.6m (25%) budget cut, legal challenge being prepared.<br /><a href=\"http://savedoncasterlibraries.wordpress.com/2011/03/17/consultation/\">Doncaster </a>&#8211; Second consultaton on closures recommended <br /><a href=\"http://www.ft.com/cms/s/0/89290f0e-5003-11e0-9ad1-00144feab49a.html#axzz1Gplhw200\">Northumberland </a>&#8211; 5% budget cut, more &#8220;volunteer involvement&#8221;.<br /><a href=\"http://www.yourlocalguardian.co.uk/news/local/richmondnews/8916754.Campaigners_hold_wake_to_mark_library_s_last_chapter/\">Richmond </a>&#8211; Heathfield Library closed, £400k made from its sale promised for new library which was never built. Library is in poorest area of borough.<br /><a href=\"http://www.oxfordmail.co.uk/news/8730300.Protesters_turn_up_the_volume_for_libraries/\">Suffolk</a> &#8211; one more under threat (Sudbury), article suggests 29 (out of 44) already known to be under threat is just the first &#8220;phase&#8221;.<br /><a href=\"http://www.thisissussex.co.uk/news/Library-charges-increase/article-3339118-detail/article.html\">West Sussex </a>&#8211; big increase in library charges</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 1,
+  "story_ids": [
+    "pln-story-588-local-001"
+  ],
+  "stats": {
+    "authorities_count": 0,
+    "libraries_count": 0,
+    "countries_count": 0,
+    "top_categories": {
+      "closures_and_threats": 1,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

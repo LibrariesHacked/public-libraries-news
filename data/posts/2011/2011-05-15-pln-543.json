@@ -1,0 +1,48 @@
+{
+  "id": "pln-post-543",
+  "source_id": 543,
+  "url": "https://www.publiclibrariesnews.com/2011/05/we-will-not-go-gentle-into-that-good-night.html",
+  "slug": "we-will-not-go-gentle-into-that-good-night",
+  "title": "“We will not go gentle into that good night”",
+  "date_published": "2011-05-15T20:23:00",
+  "date_modified": "2011-05-15T20:23:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "This quote is taken from Alan Gibbons’ “Campaign for the Book” Newsletter which details the many fights aganst library closures. Second favourite quote is from Anthony Suarez – “The Library gives people the tools they need to move off the bread line and onto a bank line”. 451 libraries (383 buildings and 68 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4517 in the UK – see tally by local authority link on right for the full picture.",
+    "html": "This quote is taken from Alan Gibbons&#8217; &#8220;Campaign for the Book&#8221; Newsletter which details the many fights aganst library closures. Second favourite quote is from Anthony Suarez &#8211; &#8220;The Library gives people the tools they need to move off the bread line and onto a bank line&#8221;.</p> <b>451 </b><b>libraries (383 buildings and 68 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4517 in the UK &#8211; see tally by local authority link on right for the full picture.</b>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial"
+  ],
+  "stories_count": 6,
+  "story_ids": [
+    "pln-story-543-changes-001",
+    "pln-story-543-changes-002",
+    "pln-story-543-changes-003",
+    "pln-story-543-changes-004",
+    "pln-story-543-changes-005",
+    "pln-story-543-changes-006"
+  ],
+  "stats": {
+    "authorities_count": 4,
+    "libraries_count": 3,
+    "countries_count": 1,
+    "top_categories": {
+      "closures_and_threats": 3,
+      "cuts_and_finance": 3,
+      "campaigns_and_protests": 2,
+      "co_location": 1,
+      "book_bans_and_challenges": 1,
+      "digital_and_technology": 1,
+      "volunteers_and_community": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

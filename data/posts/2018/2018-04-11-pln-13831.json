@@ -1,0 +1,72 @@
+{
+  "id": "pln-post-13831",
+  "source_id": 13831,
+  "url": "https://www.publiclibrariesnews.com/2018/04/northants-gets-taken-to-court-over-library-cuts-twice.html",
+  "slug": "northants-gets-taken-to-court-over-library-cuts-twice",
+  "title": "Northants gets taken to court over library cuts, twice",
+  "date_published": "2018-04-11T19:56:32",
+  "date_modified": "2018-04-16T19:20:19",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Northamptonshire Council, already becoming a by-word for mismanagement, with the Government expected to bring in Commissioners to run it, is now facing not one but two legal challenges against cuts to its library services. Such challenges can be very hit and miss but Northants has been such a good example of what not to do that I reckon there’s a good chance. Just to drive the point home, the council is now, apparently in all seriousness, aiming to use libraries as advertising spaces to bring in extra money. Whether there be any space left, what with the protest placards, though, is hard to say. As a counterweight to this desperation, it’s important to remember good things are happening elsewhere. For example, I’ve included a few Designing Libraries stories in this post, as I often do. These show refurbishments and new library buildings (although many are co-locations) and the pictures are often a joy to behold. I advise you to have a quick look at one to wash off the disgust if you read one of the Northants articles.",
+    "html": "<p style=\"text-align: justify;\">Northamptonshire Council, already becoming a by-word for mismanagement, with the Government expected to bring in Commissioners to run it, is now facing not one but two legal challenges against cuts to its library services. Such challenges can be very hit and miss but Northants has been such a good example of what <em>not</em> to do that I reckon there&#8217;s a good chance. Just to drive the point home, the council is now, apparently in all seriousness, aiming to use libraries as advertising spaces to bring in extra money. Whether there be any space left, what with the protest placards, though, is hard to say. As a counterweight to this desperation, it&#8217;s important to remember good things are happening elsewhere. For example, I&#8217;ve included a few Designing Libraries stories in this post, as I often do. These show refurbishments and new library buildings (although many are co-locations) and the pictures are often a joy to behold. I advise you to have a quick look at one to wash off the disgust if you read one of the Northants articles.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-13831-changes-001",
+    "pln-story-13831-changes-002",
+    "pln-story-13831-changes-003",
+    "pln-story-13831-changes-004",
+    "pln-story-13831-local-001",
+    "pln-story-13831-local-002",
+    "pln-story-13831-local-003",
+    "pln-story-13831-local-004",
+    "pln-story-13831-local-005",
+    "pln-story-13831-local-006",
+    "pln-story-13831-local-007",
+    "pln-story-13831-local-008",
+    "pln-story-13831-local-009",
+    "pln-story-13831-local-010",
+    "pln-story-13831-local-011",
+    "pln-story-13831-local-012",
+    "pln-story-13831-local-013",
+    "pln-story-13831-local-014",
+    "pln-story-13831-intl-001",
+    "pln-story-13831-intl-002",
+    "pln-story-13831-intl-003",
+    "pln-story-13831-natl-001",
+    "pln-story-13831-natl-002",
+    "pln-story-13831-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 14,
+    "libraries_count": 8,
+    "countries_count": 4,
+    "top_categories": {
+      "staffing_and_unions": 4,
+      "cuts_and_finance": 3,
+      "campaigns_and_protests": 2,
+      "closures_and_threats": 2,
+      "refurbishment_and_new_builds": 1,
+      "volunteers_and_community": 1,
+      "co_location": 1,
+      "book_bans_and_challenges": 1,
+      "digital_and_technology": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

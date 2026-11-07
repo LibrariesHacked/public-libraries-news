@@ -1,0 +1,78 @@
+{
+  "id": "pln-post-13558",
+  "source_id": 13558,
+  "url": "https://www.publiclibrariesnews.com/2018/01/amazon-show-a-future-but-its-probably-not-the-one-for-libraries.html",
+  "slug": "amazon-show-a-future-but-its-probably-not-the-one-for-libraries",
+  "title": "Amazon show a future, but it’s probably not the one for libraries",
+  "date_published": "2018-01-24T19:53:51",
+  "date_modified": "2018-02-04T19:55:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The history of public libraries over the last few decades has been one of automation. There was Browne Issue tickets (row after row of cards) being replaced by computers then the internet replacing much reference work followed closely by self-service machines and, now, in over one hundred buildings, card-and-pin entry so no staff need to be present at all. Amazon have just apparently gone one further even than this by not requiring a bank card (or in our case, library card) at all. I’ve often thought that the ultimate conclusion – as long we have buildings and stock that is – is the doors scan you as you leave, recognise the library card (or app) in your pocket and leave with books but with no swiping. Amazon have brought this day closer but there are major problems with their approach when it comes to libraries. First off, libraries need to recognise not just the type of good (e.g. the book) but the item (e.g. that particular copy of the book). Secondly, the system apparently requires little cameras everywhere – well, there goes privacy then but, then again, many libraries have CCTV all over. Finally, the system requires on everyone to have a mobile phone and an app. Well, that goes against a couple of key library things right there, not least of which is being open to all, regardless of ability to pay. So if such a system comes to public libraries it will be in radically different form, or it will be a radically different library.",
+    "html": "<p style=\"text-align: justify;\">The history of public libraries over the last few decades has been one of automation. There was <a href=\"https://en.wikipedia.org/wiki/Browne_Issue_System\">Browne Issue </a>tickets (row after row of cards) being replaced by computers then the internet replacing much reference work followed closely by self-service machines and, now, in over one hundred buildings, card-and-pin entry so no staff need to be present at all. Amazon have just apparently gone one further even than this by not requiring a bank card (or in our case, library card) at all. I&#8217;ve often thought that the ultimate conclusion &#8211; as long we have buildings and stock that is &#8211; is the doors scan you as you leave, recognise the library card (or app) in your pocket and leave with books but with no swiping. Amazon have brought this day closer but there are major problems with their approach when it comes to libraries. First off, libraries need to recognise not just the type of good (e.g. the book) but the item (e.g. that particular copy of the book). Secondly, the system apparently requires little cameras everywhere &#8211; well, there goes privacy then but, then again, many libraries have CCTV all over. Finally, the system requires on everyone to have a mobile phone and an app. Well, that goes against a couple of key library things right there, not least of which is being open to all, regardless of ability to pay. So if such a system comes to public libraries it will be in radically different form, or it will be a radically different library.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 28,
+  "story_ids": [
+    "pln-story-13558-changes-001",
+    "pln-story-13558-changes-002",
+    "pln-story-13558-local-001",
+    "pln-story-13558-local-002",
+    "pln-story-13558-local-003",
+    "pln-story-13558-local-004",
+    "pln-story-13558-local-005",
+    "pln-story-13558-local-006",
+    "pln-story-13558-local-007",
+    "pln-story-13558-local-008",
+    "pln-story-13558-local-009",
+    "pln-story-13558-local-010",
+    "pln-story-13558-local-011",
+    "pln-story-13558-local-012",
+    "pln-story-13558-local-013",
+    "pln-story-13558-local-014",
+    "pln-story-13558-local-015",
+    "pln-story-13558-local-016",
+    "pln-story-13558-local-017",
+    "pln-story-13558-local-018",
+    "pln-story-13558-local-019",
+    "pln-story-13558-local-020",
+    "pln-story-13558-intl-001",
+    "pln-story-13558-intl-002",
+    "pln-story-13558-intl-003",
+    "pln-story-13558-natl-001",
+    "pln-story-13558-natl-002",
+    "pln-story-13558-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 15,
+    "libraries_count": 10,
+    "countries_count": 4,
+    "top_categories": {
+      "staffing_and_unions": 7,
+      "cuts_and_finance": 5,
+      "closures_and_threats": 3,
+      "events_and_activities": 3,
+      "campaigns_and_protests": 3,
+      "refurbishment_and_new_builds": 3,
+      "volunteers_and_community": 3,
+      "mobile_and_outreach": 2,
+      "co_location": 2,
+      "governance_and_trusts": 1,
+      "digital_and_technology": 1,
+      "opening_hours": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

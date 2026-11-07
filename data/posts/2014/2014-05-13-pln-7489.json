@@ -1,0 +1,52 @@
+{
+  "id": "pln-post-7489",
+  "source_id": 7489,
+  "url": "https://www.publiclibrariesnews.com/2014/05/trying-to-make-people-reading-brilliant-books-smile.html",
+  "slug": "trying-to-make-people-reading-brilliant-books-smile",
+  "title": "“Trying to make people reading brilliant books smile”",
+  "date_published": "2014-05-13T21:53:22",
+  "date_modified": "2014-05-14T19:49:32",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Some mentions of libraries are starting to surface in councillors battling local elections. Not many though. Perhaps that can be changed with the Speak Up For Libraries manifesto. Or perhaps we just need more teenagers putting messages in books saying how great they are. It may not be very earnest, but I love it. See below.",
+    "html": "<p>Some mentions of libraries are starting to surface in councillors battling local elections. Not many though. Perhaps that can be changed with the Speak Up For Libraries manifesto. Or perhaps we just need more teenagers putting messages in books saying how great they are. It may not be very earnest, but I <em>love </em>it. See below.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "ideas",
+    "national_news"
+  ],
+  "stories_count": 7,
+  "story_ids": [
+    "pln-story-7489-natl-001",
+    "pln-story-7489-natl-002",
+    "pln-story-7489-natl-003",
+    "pln-story-7489-natl-004",
+    "pln-story-7489-natl-005",
+    "pln-story-7489-natl-006",
+    "pln-story-7489-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 2,
+    "libraries_count": 0,
+    "countries_count": 1,
+    "top_categories": {
+      "closures_and_threats": 3,
+      "staffing_and_unions": 2,
+      "volunteers_and_community": 2,
+      "events_and_activities": 1,
+      "co_location": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "cuts_and_finance": 1,
+      "book_bans_and_challenges": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

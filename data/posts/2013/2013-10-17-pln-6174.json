@@ -1,0 +1,64 @@
+{
+  "id": "pln-post-6174",
+  "source_id": 6174,
+  "url": "https://www.publiclibrariesnews.com/2013/10/what-you-still-here.html",
+  "slug": "what-you-still-here",
+  "title": "What, you still here?",
+  "date_published": "2013-10-17T22:01:02",
+  "date_modified": "2013-10-20T21:43:53",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "CILIP have called for ministers to clarify their position on volunteer libraries after the official government site gov.uk released seemingly glowing guidance on how to run one. Indeed, typing in “community library” into gov.uk is a sobering experience to anyone who believes that branch library work should be a proper paid job, with the top three hits being (1) how to create a volunteer library (2) Communities Minister Dan Foster giving his backing to volunteer libraries and (3) principles for volunteer libraries. As the cuts bite, there is an observable steady move in Government to be more and more in favour of the unpaid running libraries as an alternative to cash-strapped councils. There are also suggestions from various quarters (in the Daily Mail every day, the recent BBC opinion survey and in the Times for two) that the public are not noticing a decline in council services or, if they are, are not attaching it to cuts in funding but rather to council inefficiencies. This all strengthens the Government position, explicit or not, that councils are wasting large amounts of money and that cuts are forcing alternative or more efficient ways of delivering services. Volunteers, in this model, are not just a last resort .,. they’re efficient and cost-effective too.",
+    "html": "<p style=\"text-align: justify;\"><strong></strong><a title=\"CILIP\" href=\"http://www.cilip.org.uk/cilip/news/cilip-call-ministerial-clarification-over-community-managed-library-advice-govuk-0\">CILIP have called for ministers to clarify their position on volunteer libraries</a> after the official government site gov.uk released seemingly glowing guidance on how to run one. Indeed, typing in &#8220;community library&#8221; into gov.uk is a sobering experience to anyone who believes that branch library work should be a proper paid job, with the top three hits being (1) <a title=\"gov.uk\" href=\"https://www.gov.uk/government/get-involved/take-part/create-a-community-library\">how to create a volunteer library</a> (2) <a title=\"gov.uk\" href=\"https://www.gov.uk/government/news/community-libraries-continue-to-grow\">Communities Minister Dan Foster giving his backing to volunteer libraries</a> and (3) <a title=\"gov.uk\" href=\"https://www.gov.uk/government/news/community-libraries-for-the-21st-century\">principles for volunteer libraries</a>. As the cuts bite, there is an observable steady move in Government to be more and more in favour of the unpaid running libraries as an alternative to cash-strapped councils. There are also suggestions from various quarters (in the Daily Mail every day, the recent <a title=\"PLN\" href=\"https://www.publiclibrariesnews.com/2013/10/reasons-to-be-cheerful-or-well-part-of-one-the-bbc-public-opinion-survey.html\">BBC opinion survey</a> and in the Times for two) that the public are not noticing a decline in council services or, if they are, are not attaching it to cuts in funding but rather to council inefficiencies. This all strengthens the Government position, explicit or not, that councils are wasting large amounts of money and that cuts are forcing alternative or more efficient ways of delivering services. Volunteers, in this model, are not just a last resort .,. they&#8217;re efficient and cost-effective too<i>.</i></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 18,
+  "story_ids": [
+    "pln-story-6174-changes-001",
+    "pln-story-6174-changes-002",
+    "pln-story-6174-changes-003",
+    "pln-story-6174-changes-004",
+    "pln-story-6174-changes-005",
+    "pln-story-6174-changes-006",
+    "pln-story-6174-changes-007",
+    "pln-story-6174-changes-008",
+    "pln-story-6174-changes-009",
+    "pln-story-6174-changes-010",
+    "pln-story-6174-changes-011",
+    "pln-story-6174-changes-012",
+    "pln-story-6174-changes-013",
+    "pln-story-6174-changes-014",
+    "pln-story-6174-local-001",
+    "pln-story-6174-local-002",
+    "pln-story-6174-local-003",
+    "pln-story-6174-local-004"
+  ],
+  "stats": {
+    "authorities_count": 5,
+    "libraries_count": 4,
+    "countries_count": 3,
+    "top_categories": {
+      "closures_and_threats": 6,
+      "staffing_and_unions": 6,
+      "campaigns_and_protests": 4,
+      "opening_hours": 3,
+      "digital_and_technology": 3,
+      "volunteers_and_community": 3,
+      "cuts_and_finance": 2,
+      "events_and_activities": 1,
+      "refurbishment_and_new_builds": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

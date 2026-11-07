@@ -1,0 +1,82 @@
+{
+  "id": "pln-post-10728",
+  "source_id": 10728,
+  "url": "https://www.publiclibrariesnews.com/2016/03/taken-out-of-context-house-of-commons-library-and-the-dcms.html",
+  "slug": "taken-out-of-context-house-of-commons-library-and-the-dcms",
+  "title": "Taken out of context: House of Commons Library and the DCMS",
+  "date_published": "2016-03-01T21:57:09",
+  "date_modified": "2016-03-06T20:44:18",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "It looks like my last editorial pointing out the inadequacies in the House of Commons Library report on public libraries which somehow missed the existence of CIPFA and selectively quoted DCMS figures helped contribute to quite a stir. I had foolishly imagined that the HoC Library had actually asked the DCMS for the information but it turns out that the department knew nothing about the report until it was published. So much for joined up government. Many thanks, though, to the Head of Libraries at the DCMS (Simon Richardson) for basically answering my questions point for point in his post on the Taskforce blog. It looks like the devil is in the detail of definitions, meaning that while you, I, my dog currently asleep on the sofa opposite, etc know that many libraries have closed or at the very least left council funding, or been hollowed out almost to the state of oblivion, the official government figures for closures are very conservative (small c, obviously). This clearly needs sorting out and I’m glad to see the Taskforce is trying to do that, because otherwise our MPs and others are in danger of being misled about the impact of what is going on.",
+    "html": "<p style=\"text-align: justify;\">It looks like <a href=\"https://www.publiclibrariesnews.com/2016/02/being-economical-with-the-truth.html\">my last editorial </a>pointing out the inadequacies in the House of Commons Library report on public libraries which somehow missed the existence of CIPFA and selectively quoted DCMS figures helped contribute to quite a stir. I had foolishly imagined that<a href=\"http://www.bbc.co.uk/news/uk-politics-35688160\"> the HoC Library</a> had actually asked the DCMS for the information but it turns out that the department knew nothing about the report until it was published. So much for joined up government. Many thanks, though, to the Head of Libraries at the DCMS (<a href=\"https://librariestaskforce.blog.gov.uk/author/simon-richardson/\">Simon Richardson</a>) for basically <a href=\"https://librariestaskforce.blog.gov.uk/2016/03/01/parliamentary-report-on-libraries-a-response/\">answering my questions point for point in his post on the Taskforce blog</a>. It looks like the devil is in the detail of definitions, meaning that while you, I, my dog currently asleep on the sofa opposite, etc know that many libraries have closed or at the very least left council funding, or been hollowed out almost to the state of oblivion, the official government figures for closures are very conservative (small c, obviously). This clearly needs sorting out and I&#8217;m glad to see the Taskforce is trying to do that, because otherwise our MPs and others are in danger of being misled about the impact of what is going on.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 32,
+  "story_ids": [
+    "pln-story-10728-changes-001",
+    "pln-story-10728-local-001",
+    "pln-story-10728-local-002",
+    "pln-story-10728-local-003",
+    "pln-story-10728-local-004",
+    "pln-story-10728-local-005",
+    "pln-story-10728-local-006",
+    "pln-story-10728-local-007",
+    "pln-story-10728-local-008",
+    "pln-story-10728-local-009",
+    "pln-story-10728-local-010",
+    "pln-story-10728-local-011",
+    "pln-story-10728-local-012",
+    "pln-story-10728-local-013",
+    "pln-story-10728-local-014",
+    "pln-story-10728-local-015",
+    "pln-story-10728-intl-001",
+    "pln-story-10728-intl-002",
+    "pln-story-10728-intl-003",
+    "pln-story-10728-intl-004",
+    "pln-story-10728-natl-001",
+    "pln-story-10728-natl-002",
+    "pln-story-10728-natl-003",
+    "pln-story-10728-natl-004",
+    "pln-story-10728-natl-005",
+    "pln-story-10728-natl-006",
+    "pln-story-10728-natl-007",
+    "pln-story-10728-natl-008",
+    "pln-story-10728-natl-009",
+    "pln-story-10728-natl-010",
+    "pln-story-10728-ideas-001",
+    "pln-story-10728-ideas-002"
+  ],
+  "stats": {
+    "authorities_count": 16,
+    "libraries_count": 6,
+    "countries_count": 6,
+    "top_categories": {
+      "cuts_and_finance": 9,
+      "closures_and_threats": 7,
+      "events_and_activities": 6,
+      "staffing_and_unions": 5,
+      "volunteers_and_community": 5,
+      "campaigns_and_protests": 2,
+      "book_bans_and_challenges": 2,
+      "governance_and_trusts": 1,
+      "refurbishment_and_new_builds": 1,
+      "co_location": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

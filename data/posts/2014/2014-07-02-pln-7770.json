@@ -1,0 +1,55 @@
+{
+  "id": "pln-post-7770",
+  "source_id": 7770,
+  "url": "https://www.publiclibrariesnews.com/2014/07/east-renfrewshire-to-turn-to-trust-enfield-refurbishes-palmers-green.html",
+  "slug": "east-renfrewshire-to-turn-to-trust-enfield-refurbishes-palmers-green",
+  "title": "East Renfrewshire to turn to Trust, Enfield refurbishes Palmers Green",
+  "date_published": "2014-07-02T20:57:15",
+  "date_modified": "2014-07-06T18:00:43",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 10,
+  "story_ids": [
+    "pln-story-7770-changes-001",
+    "pln-story-7770-changes-002",
+    "pln-story-7770-intl-001",
+    "pln-story-7770-intl-002",
+    "pln-story-7770-intl-003",
+    "pln-story-7770-intl-004",
+    "pln-story-7770-intl-005",
+    "pln-story-7770-intl-006",
+    "pln-story-7770-natl-001",
+    "pln-story-7770-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 4,
+    "libraries_count": 1,
+    "countries_count": 3,
+    "top_categories": {
+      "governance_and_trusts": 3,
+      "refurbishment_and_new_builds": 2,
+      "closures_and_threats": 2,
+      "cuts_and_finance": 1,
+      "events_and_activities": 1,
+      "staffing_and_unions": 1,
+      "digital_and_technology": 1,
+      "volunteers_and_community": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

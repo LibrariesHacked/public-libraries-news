@@ -1,0 +1,78 @@
+{
+  "id": "pln-post-18723",
+  "source_id": 18723,
+  "url": "https://www.publiclibrariesnews.com/2022/08/warm-banks-and-drag-queens.html",
+  "slug": "warm-banks-and-drag-queens",
+  "title": "Warm banks and drag queens",
+  "date_published": "2022-08-29T14:56:44",
+  "date_modified": "2022-08-29T14:56:44",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Two main news subjects this week. The first is the suggestion of using libraries as “warm banks” for those who can’t afford to heat their homes. However, a couple of articles point out that libraries may hardly be in a position to provide such warmth if more funding does not become available. Indeed, it’s pointed out that libraries, with their big spaces and limited council budgets, face a heating crisis of their own this winter. The other story is, still, that of Drag Queen story-times. It looks like there have been small groups of protesters at basically every event this Summer that they new the time and location of, with other (normally larger) groups of counter-protesters turning up too. Regardless of how one feels about the issue, and there are librarians on both sides, any library service thinking of similar events next year will know to include how to deal with insults, protests and possible need for arrests when they do so.",
+    "html": "<p class=\"wp-block-paragraph\">Two main news subjects this week. The first is the suggestion of using libraries as &#8220;warm banks&#8221; for those who can&#8217;t afford to heat their homes. However, a couple of articles point out that libraries may hardly be in a position to provide such warmth if more funding does not become available. Indeed, it&#8217;s pointed out that libraries, with their big spaces and limited council budgets, face a heating crisis of their own this winter. </p> <p class=\"wp-block-paragraph\">The other story is, still, that of Drag Queen story-times. It looks like there have been small groups of protesters at basically every event this Summer that they new the time and location of, with other (normally larger) groups of counter-protesters turning up too. Regardless of how one feels about the issue, and there are librarians on both sides, any library service thinking of similar events next year will know to include how to deal with insults, protests and possible need for arrests when they do so. </p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 30,
+  "story_ids": [
+    "pln-story-18723-changes-001",
+    "pln-story-18723-local-001",
+    "pln-story-18723-local-002",
+    "pln-story-18723-local-003",
+    "pln-story-18723-local-004",
+    "pln-story-18723-local-005",
+    "pln-story-18723-local-006",
+    "pln-story-18723-local-007",
+    "pln-story-18723-local-008",
+    "pln-story-18723-local-009",
+    "pln-story-18723-local-010",
+    "pln-story-18723-local-011",
+    "pln-story-18723-local-012",
+    "pln-story-18723-local-013",
+    "pln-story-18723-local-014",
+    "pln-story-18723-local-015",
+    "pln-story-18723-local-016",
+    "pln-story-18723-local-017",
+    "pln-story-18723-local-018",
+    "pln-story-18723-local-019",
+    "pln-story-18723-local-020",
+    "pln-story-18723-local-021",
+    "pln-story-18723-local-022",
+    "pln-story-18723-local-023",
+    "pln-story-18723-local-024",
+    "pln-story-18723-local-025",
+    "pln-story-18723-local-026",
+    "pln-story-18723-intl-001",
+    "pln-story-18723-intl-002",
+    "pln-story-18723-natl-001"
+  ],
+  "stats": {
+    "authorities_count": 25,
+    "libraries_count": 17,
+    "countries_count": 6,
+    "top_categories": {
+      "campaigns_and_protests": 4,
+      "warm_spaces_and_wellbeing": 4,
+      "cuts_and_finance": 4,
+      "events_and_activities": 4,
+      "digital_and_technology": 3,
+      "closures_and_threats": 2,
+      "governance_and_trusts": 1,
+      "mobile_and_outreach": 1,
+      "refurbishment_and_new_builds": 1,
+      "staffing_and_unions": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

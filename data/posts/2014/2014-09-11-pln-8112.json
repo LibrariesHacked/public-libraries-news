@@ -1,0 +1,73 @@
+{
+  "id": "pln-post-8112",
+  "source_id": 8112,
+  "url": "https://www.publiclibrariesnews.com/2014/09/some-great-national-stuff-some-depressing-local-stuff.html",
+  "slug": "some-great-national-stuff-some-depressing-local-stuff",
+  "title": "Some great national stuff, some depressing local stuff",
+  "date_published": "2014-09-11T21:58:54",
+  "date_modified": "2014-09-14T20:06:08",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I, like staff in 200 other libraries in the UK will be giving out Diary of a Wimpy Kid books this Saturday. Of course, libraries loan these as a matter of course but it’s not often we give them away. Well done to a partnership including the Reading Agency, Puffin and ITV Good Morning Britain have made this possible, showing the strength of national promotion. Another couple of national things also caught my eye. I’ve not had much to do with Digital War Memorial but it looks good and let’s hope it fulfils the promise that the Society of Chief Librarians think it has. Also, Scotland are developing a national libraries strategy. It’s surprising they didn’t have one already, frankly, especially as there is a chance they’re going to be independent soon. It’s going to be odd reporting Scottish libraries in the International section if so. In terms of local changes, the main hot spots are continued moves by Liverpool to withdraw from, or close, the majority of its libraries; the determination of Lincolnshire to keep staffing levels low and abide by the letter of the judicial review against them and what may be even deeper cuts in Leicestershire than what has already been announced and, finally, cuts on the radar in Harrow. Whoopee doo. You know, public libraries news can be a little depressing at times but I was given real boost by visiting Manchester Central Library this week. That is a building that shows how great libraries can be (but, guys, please … bigger children’s libraries!) and I wholeheartedly recommend it to you. My review of the place is on a separate page here.",
+    "html": "<p style=\"text-align: justify;\"><a title=\"BookSeller\" href=\"http://www.thebookseller.com/news/itvs-good-morning-britain-puffin-and-ra-partnership.html\">I, like staff in 200 other libraries in the UK will be giving out Diary of a Wimpy Kid books this Saturday. </a> Of course, libraries loan these as a matter of course but it&#8217;s not often we give them away. Well done to a partnership including the Reading Agency, Puffin and ITV Good Morning Britain have made this possible, showing the strength of national promotion. Another couple of national things also caught my eye. I&#8217;ve not had much to do with Digital War Memorial but it looks good and let&#8217;s hope it fulfils the promise that the Society of Chief Librarians think it has. Also, Scotland are developing a national libraries strategy. It&#8217;s surprising they didn&#8217;t have one already, frankly, especially as there is a chance they&#8217;re going to be independent soon. It&#8217;s going to be odd reporting Scottish libraries in the <em>International </em>section if so.</p> <p style=\"text-align: justify;\">In terms of local changes, the main hot spots are continued moves by Liverpool to withdraw from, or close, the majority of its libraries; the determination of Lincolnshire to keep staffing levels low and abide by the letter of the judicial review against them and what may be even deeper cuts in Leicestershire than what has already been announced and, finally, cuts on the radar in Harrow. Whoopee doo. You know, public libraries news can be a little depressing at times but I was given real boost by visiting Manchester Central Library this week. That is a building that shows how great libraries can be (but, guys, please &#8230; bigger children&#8217;s libraries!) and I wholeheartedly recommend it to you. <a title=\"PLN\" href=\"https://www.publiclibrariesnews.com/practitioners/big-new-libraries-manchester\">My review of the place is on a separate page here. </a></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 27,
+  "story_ids": [
+    "pln-story-8112-changes-001",
+    "pln-story-8112-changes-002",
+    "pln-story-8112-intl-001",
+    "pln-story-8112-intl-002",
+    "pln-story-8112-intl-003",
+    "pln-story-8112-intl-004",
+    "pln-story-8112-intl-005",
+    "pln-story-8112-intl-006",
+    "pln-story-8112-intl-007",
+    "pln-story-8112-intl-008",
+    "pln-story-8112-intl-009",
+    "pln-story-8112-intl-010",
+    "pln-story-8112-intl-011",
+    "pln-story-8112-intl-012",
+    "pln-story-8112-intl-013",
+    "pln-story-8112-intl-014",
+    "pln-story-8112-intl-015",
+    "pln-story-8112-intl-016",
+    "pln-story-8112-intl-017",
+    "pln-story-8112-intl-018",
+    "pln-story-8112-natl-001",
+    "pln-story-8112-natl-002",
+    "pln-story-8112-natl-003",
+    "pln-story-8112-natl-004",
+    "pln-story-8112-natl-005",
+    "pln-story-8112-natl-006",
+    "pln-story-8112-natl-007"
+  ],
+  "stats": {
+    "authorities_count": 14,
+    "libraries_count": 12,
+    "countries_count": 5,
+    "top_categories": {
+      "closures_and_threats": 9,
+      "cuts_and_finance": 8,
+      "staffing_and_unions": 5,
+      "refurbishment_and_new_builds": 4,
+      "digital_and_technology": 4,
+      "campaigns_and_protests": 4,
+      "events_and_activities": 2,
+      "opening_hours": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

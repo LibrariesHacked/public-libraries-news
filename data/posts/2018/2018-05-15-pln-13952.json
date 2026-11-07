@@ -1,0 +1,63 @@
+{
+  "id": "pln-post-13952",
+  "source_id": 13952,
+  "url": "https://www.publiclibrariesnews.com/2018/05/an-ode-to-libraries-in-finland.html",
+  "slug": "an-ode-to-libraries-in-finland",
+  "title": "An Ode to Libraries in Finland",
+  "date_published": "2018-05-15T20:14:04",
+  "date_modified": "2018-05-20T17:59:01",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "That’s it, I want to work in Finland. OK, I don’t speak Finnish and can’t stand cold or dark nights but, darn it, just look at how they treat libraries over there. as important learning and education centres, with over three times more spent on libraries per head than in the UK. And that new library, the beautifully named “Ode”, looks rather nice too. OK, deep breath, back to the UK. Well, looking on the bright side, at least most of us don’t work in Northants. The council there is asking towns and parishes to not only take over running public libraries but to pay full whack for the privilege. This includes buying the building which, in one case, the parish council gave to Northants in the first place. Unsurprisingly, some councils are complaining about this treatment and refusing to take them over. Across the border in Wales, Cardiff are implementing cuts to their libraries by co-locating services. That doesn’t sound so bad but I’ve seen what has happened to Cardiff Central where a proud and well-equipped central library has been replaced with crammed in sections between various other council services, with the added presence of suspicious security guards. Let’s hope the city approaches the other libraries differently.",
+    "html": "<p style=\"text-align: justify;\">That&#8217;s it, I want to work in Finland. OK, I don&#8217;t speak Finnish and can&#8217;t stand cold or dark nights but, darn it, just look at how they treat libraries over there. as important learning and education centres, with over three times more spent on libraries per head than in the UK. And that new library, the beautifully named &#8220;Ode&#8221;, looks rather nice too.</p> <p style=\"text-align: justify;\">OK, deep breath, back to the UK. Well, looking on the bright side, at least most of us don&#8217;t work in Northants. The council there is asking towns and parishes to not only take over running public libraries but to pay full whack for the privilege. This includes buying the building which, in one case, the parish council gave to Northants in the first place. Unsurprisingly, some councils are complaining about this treatment and refusing to take them over. Across the border in Wales, Cardiff are implementing cuts to their libraries by co-locating services. That doesn&#8217;t sound so bad but I&#8217;ve seen what has happened to Cardiff Central where a proud and well-equipped central library has been replaced with crammed in sections between various other council services, with the added presence of suspicious security guards. Let&#8217;s hope the city approaches the other libraries differently.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 18,
+  "story_ids": [
+    "pln-story-13952-changes-001",
+    "pln-story-13952-changes-002",
+    "pln-story-13952-local-001",
+    "pln-story-13952-local-002",
+    "pln-story-13952-local-003",
+    "pln-story-13952-local-004",
+    "pln-story-13952-local-005",
+    "pln-story-13952-local-006",
+    "pln-story-13952-local-007",
+    "pln-story-13952-local-008",
+    "pln-story-13952-local-009",
+    "pln-story-13952-local-010",
+    "pln-story-13952-local-011",
+    "pln-story-13952-local-012",
+    "pln-story-13952-intl-001",
+    "pln-story-13952-intl-002",
+    "pln-story-13952-intl-003",
+    "pln-story-13952-natl-001"
+  ],
+  "stats": {
+    "authorities_count": 10,
+    "libraries_count": 5,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 5,
+      "cuts_and_finance": 4,
+      "staffing_and_unions": 4,
+      "co_location": 2,
+      "opening_hours": 2,
+      "book_bans_and_challenges": 2,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

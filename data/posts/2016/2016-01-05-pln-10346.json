@@ -1,0 +1,78 @@
+{
+  "id": "pln-post-10346",
+  "source_id": 10346,
+  "url": "https://www.publiclibrariesnews.com/2016/01/wrecking-libraries-in-telford-plus-a-thought-or-two-on-dodgy-library-censoring.html",
+  "slug": "wrecking-libraries-in-telford-plus-a-thought-or-two-on-dodgy-library-censoring",
+  "title": "Wrecking libraries in Telford … plus a thought or two on dodgy library censoring",
+  "date_published": "2016-01-05T22:02:58",
+  "date_modified": "2016-01-10T23:07:20",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Some major cuts announced in Telford & Wrekin as well as in Flintshire today. In other news, there’s a heap of blogs on the Libraries Task Force webpage, although they are of widely variable quality. The best is the one on Amazon lockers because, although it does not point out the obvious downside of advertising the ethically dubious and cut-throat competitor to libraries, it provided usable statistics and analysis. The danger with some of the others produced is that they read awfully like press releases (and in one case something like a holiday postcard) and, being they are on the gov.uk site, will be give more credence than if they were directly published by the councils themselves. Libraries don’t just need ideas and innovations, they need evidence to work out which options are best to go down … and that means statistics and analysis, not just blurb. One problem caused by library services not sure as to what to do is in internet filtering their public access machines. Recent research shows that such filtering not only can block useful search terms (including LGBT) but also cost a fortune as well. As librarians we should be able to work out what keywords make sense to block, if any, ourselves. It’s notable that some services don’t filter at all and yet have somehow managed to avoid imploding. Library services are often shamefully unsure about the IT side and, to be fair, sometimes these filters may be put on by corporate IT without even any consultation with librarians. However, spending a load of money on services that may block genuine searches is perhaps not the best thing to do, let alone what it may be say about our willingness to censor when we should all be about freedom of information.",
+    "html": "<p style=\"text-align: justify;\">Some major cuts announced in Telford &amp; Wrekin as well as in Flintshire today. In other news, there&#8217;s a heap of blogs on the Libraries Task Force webpage, although they are of widely variable quality. The best is the one on Amazon lockers because, although it does not point out the obvious downside of advertising the ethically dubious and cut-throat competitor to libraries, it provided usable statistics and analysis. The danger with some of the others produced is that they read awfully like press releases (and in one case something like a holiday postcard) and, being they are on the gov.uk site, will be give more credence than if they were directly published by the councils themselves. Libraries don&#8217;t just need ideas and innovations, they need evidence to work out which options are best to go down &#8230; and that means statistics and analysis, not just blurb.</p> <p style=\"text-align: justify;\">One problem caused by library services not sure as to what to do is in internet filtering their public access machines. <a href=\"https://figshare.com/articles/Content_filtering_in_UK_public_libraries/2059998\">Recent research shows that such filtering not only can block useful search terms </a>(including LGBT) but also cost a fortune as well. As librarians we should be able to work out what keywords make sense to block, if any, ourselves. It&#8217;s notable that some services don&#8217;t filter at all and yet have somehow managed to avoid imploding. Library services are often shamefully unsure about the IT side and, to be fair, sometimes these filters may be put on by corporate IT without even any consultation with librarians. However, spending a load of money on services that may block genuine searches is perhaps not the best thing to do, let alone what it may be say about our willingness to censor when we should all be about freedom of information.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 27,
+  "story_ids": [
+    "pln-story-10346-changes-001",
+    "pln-story-10346-changes-002",
+    "pln-story-10346-local-001",
+    "pln-story-10346-local-002",
+    "pln-story-10346-local-003",
+    "pln-story-10346-local-004",
+    "pln-story-10346-local-005",
+    "pln-story-10346-local-006",
+    "pln-story-10346-local-007",
+    "pln-story-10346-local-008",
+    "pln-story-10346-local-009",
+    "pln-story-10346-local-010",
+    "pln-story-10346-local-011",
+    "pln-story-10346-local-012",
+    "pln-story-10346-local-013",
+    "pln-story-10346-intl-001",
+    "pln-story-10346-intl-002",
+    "pln-story-10346-intl-003",
+    "pln-story-10346-natl-001",
+    "pln-story-10346-natl-002",
+    "pln-story-10346-natl-003",
+    "pln-story-10346-natl-004",
+    "pln-story-10346-natl-005",
+    "pln-story-10346-natl-006",
+    "pln-story-10346-natl-007",
+    "pln-story-10346-natl-008",
+    "pln-story-10346-natl-009"
+  ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 22,
+    "countries_count": 5,
+    "top_categories": {
+      "cuts_and_finance": 10,
+      "staffing_and_unions": 9,
+      "closures_and_threats": 6,
+      "volunteers_and_community": 3,
+      "opening_hours": 3,
+      "campaigns_and_protests": 3,
+      "governance_and_trusts": 3,
+      "events_and_activities": 3,
+      "digital_and_technology": 2,
+      "book_bans_and_challenges": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

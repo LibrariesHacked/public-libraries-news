@@ -2,214 +2,2061 @@
   "$schema": "https://json-schema.org/draft/2020-12/schema",
   "description": "Lookup table of UK library authorities, aliases, GSS codes, nations, and centroid coordinates.",
   "authorities": [
-    {"name": "Aberdeen City", "gss_code": "S12000033", "country": "Scotland", "aliases": ["Aberdeen"], "lat": 57.1497, "lng": -2.0943},
-    {"name": "Aberdeenshire", "gss_code": "S12000034", "country": "Scotland", "aliases": [], "lat": 57.2869, "lng": -2.3816},
-    {"name": "Angus", "gss_code": "S12000041", "country": "Scotland", "aliases": [], "lat": 56.6974, "lng": -2.8836},
-    {"name": "Argyll and Bute", "gss_code": "S12000035", "country": "Scotland", "aliases": ["Argyll & Bute", "Argyll"], "lat": 56.2494, "lng": -5.3216},
-    {"name": "Barnsley", "gss_code": "E08000016", "country": "England", "aliases": ["Barnsley Council", "Barnsley MBC"], "lat": 53.5526, "lng": -1.4797},
-    {"name": "Bath and North East Somerset", "gss_code": "E06000022", "country": "England", "aliases": ["Bath & North East Somerset", "BANES", "Bath"], "lat": 51.3811, "lng": -2.3590},
-    {"name": "Bedford", "gss_code": "E06000055", "country": "England", "aliases": ["Bedford Borough"], "lat": 52.1359, "lng": -0.4667},
-    {"name": "Barking and Dagenham", "gss_code": "E09000002", "country": "England", "aliases": ["Barking & Dagenham"], "lat": 51.5607, "lng": 0.1557},
-    {"name": "Barnet", "gss_code": "E09000003", "country": "England", "aliases": [], "lat": 51.6252, "lng": -0.1517},
-    {"name": "Bexley", "gss_code": "E09000004", "country": "England", "aliases": [], "lat": 51.4549, "lng": 0.1505},
-    {"name": "Brent", "gss_code": "E09000005", "country": "England", "aliases": [], "lat": 51.5588, "lng": -0.2817},
-    {"name": "Bromley", "gss_code": "E09000006", "country": "England", "aliases": [], "lat": 51.4039, "lng": 0.0198},
-    {"name": "Camden", "gss_code": "E09000007", "country": "England", "aliases": [], "lat": 51.5290, "lng": -0.1255},
-    {"name": "City of London", "gss_code": "E09000001", "country": "England", "aliases": ["London (City of)", "Square Mile"], "lat": 51.5155, "lng": -0.0922},
-    {"name": "Croydon", "gss_code": "E09000008", "country": "England", "aliases": [], "lat": 51.3714, "lng": -0.0977},
-    {"name": "Ealing", "gss_code": "E09000009", "country": "England", "aliases": [], "lat": 51.5130, "lng": -0.3089},
-    {"name": "Enfield", "gss_code": "E09000010", "country": "England", "aliases": [], "lat": 51.6538, "lng": -0.0799},
-    {"name": "Greenwich", "gss_code": "E09000011", "country": "England", "aliases": ["Royal Borough of Greenwich"], "lat": 51.4892, "lng": 0.0648},
-    {"name": "Hackney", "gss_code": "E09000012", "country": "England", "aliases": [], "lat": 51.5450, "lng": -0.0553},
-    {"name": "Hammersmith and Fulham", "gss_code": "E09000013", "country": "England", "aliases": ["Hammersmith & Fulham"], "lat": 51.4927, "lng": -0.2339},
-    {"name": "Haringey", "gss_code": "E09000014", "country": "England", "aliases": [], "lat": 51.6000, "lng": -0.1119},
-    {"name": "Harrow", "gss_code": "E09000015", "country": "England", "aliases": [], "lat": 51.5806, "lng": -0.3420},
-    {"name": "Havering", "gss_code": "E09000016", "country": "England", "aliases": [], "lat": 51.5812, "lng": 0.1837},
-    {"name": "Hillingdon", "gss_code": "E09000017", "country": "England", "aliases": [], "lat": 51.5441, "lng": -0.4760},
-    {"name": "Hounslow", "gss_code": "E09000018", "country": "England", "aliases": [], "lat": 51.4746, "lng": -0.3680},
-    {"name": "Islington", "gss_code": "E09000019", "country": "England", "aliases": [], "lat": 51.5416, "lng": -0.1022},
-    {"name": "Kensington and Chelsea", "gss_code": "E09000020", "country": "England", "aliases": ["Kensington & Chelsea", "RBKC"], "lat": 51.5020, "lng": -0.1947},
-    {"name": "Kingston upon Thames", "gss_code": "E09000021", "country": "England", "aliases": ["Kingston"], "lat": 51.4085, "lng": -0.3064},
-    {"name": "Lambeth", "gss_code": "E09000022", "country": "England", "aliases": ["Brixton"], "lat": 51.4607, "lng": -0.1163},
-    {"name": "Lewisham", "gss_code": "E09000023", "country": "England", "aliases": [], "lat": 51.4452, "lng": -0.0209},
-    {"name": "Merton", "gss_code": "E09000024", "country": "England", "aliases": [], "lat": 51.4014, "lng": -0.1958},
-    {"name": "Newham", "gss_code": "E09000025", "country": "England", "aliases": [], "lat": 51.5077, "lng": 0.0469},
-    {"name": "Redbridge", "gss_code": "E09000026", "country": "England", "aliases": [], "lat": 51.5590, "lng": 0.0741},
-    {"name": "Richmond upon Thames", "gss_code": "E09000027", "country": "England", "aliases": ["Richmond"], "lat": 51.4479, "lng": -0.3260},
-    {"name": "Southwark", "gss_code": "E09000028", "country": "England", "aliases": [], "lat": 51.5035, "lng": -0.0804},
-    {"name": "Sutton", "gss_code": "E09000029", "country": "England", "aliases": [], "lat": 51.3618, "lng": -0.1945},
-    {"name": "Tower Hamlets", "gss_code": "E09000030", "country": "England", "aliases": ["Idea Store", "Idea Stores"], "lat": 51.5099, "lng": -0.0059},
-    {"name": "Waltham Forest", "gss_code": "E09000031", "country": "England", "aliases": [], "lat": 51.5908, "lng": -0.0134},
-    {"name": "Wandsworth", "gss_code": "E09000032", "country": "England", "aliases": [], "lat": 51.4567, "lng": -0.1910},
-    {"name": "Westminster", "gss_code": "E09000033", "country": "England", "aliases": ["City of Westminster"], "lat": 51.4973, "lng": -0.1372},
-    {"name": "Birmingham", "gss_code": "E08000025", "country": "England", "aliases": ["Birmingham City Council", "Library of Birmingham"], "lat": 52.4862, "lng": -1.8904},
-    {"name": "Blackburn with Darwen", "gss_code": "E06000008", "country": "England", "aliases": ["Blackburn With Darwen", "Blackburn"], "lat": 53.7488, "lng": -2.4818},
-    {"name": "Blackpool", "gss_code": "E06000009", "country": "England", "aliases": [], "lat": 53.8175, "lng": -3.0357},
-    {"name": "Bolton", "gss_code": "E08000001", "country": "England", "aliases": [], "lat": 53.5769, "lng": -2.4282},
-    {"name": "Bournemouth, Christchurch and Poole", "gss_code": "E06000058", "country": "England", "aliases": ["BCP", "Bournemouth Christchurch and Poole", "Bournemouth", "Poole"], "lat": 50.7192, "lng": -1.8808},
-    {"name": "Bracknell Forest", "gss_code": "E06000036", "country": "England", "aliases": ["Bracknell"], "lat": 51.4160, "lng": -0.7539},
-    {"name": "Bradford", "gss_code": "E08000032", "country": "England", "aliases": [], "lat": 53.7960, "lng": -1.7594},
-    {"name": "Brighton and Hove", "gss_code": "E06000043", "country": "England", "aliases": ["Brighton & Hove", "Brighton"], "lat": 50.8225, "lng": -0.1372},
-    {"name": "Bristol", "gss_code": "E06000023", "country": "England", "aliases": ["Bristol City Council", "Bristol (City of)"], "lat": 51.4545, "lng": -2.5879},
-    {"name": "Buckinghamshire", "gss_code": "E06000060", "country": "England", "aliases": ["Bucks"], "lat": 51.8156, "lng": -0.8123},
-    {"name": "Bury", "gss_code": "E08000002", "country": "England", "aliases": [], "lat": 53.5933, "lng": -2.2966},
-    {"name": "Calderdale", "gss_code": "E08000033", "country": "England", "aliases": ["Halifax"], "lat": 53.7225, "lng": -1.8606},
-    {"name": "Cambridgeshire", "gss_code": "E10000003", "country": "England", "aliases": ["Cambridge"], "lat": 52.2053, "lng": 0.1218},
-    {"name": "Central Bedfordshire", "gss_code": "E06000056", "country": "England", "aliases": ["Central Beds"], "lat": 52.0298, "lng": -0.4735},
-    {"name": "Cheshire East", "gss_code": "E06000049", "country": "England", "aliases": [], "lat": 53.1554, "lng": -2.3387},
-    {"name": "Cheshire West and Chester", "gss_code": "E06000050", "country": "England", "aliases": ["Cheshire West & Chester", "Cheshire West", "Chester"], "lat": 53.1905, "lng": -2.8916},
-    {"name": "Cornwall", "gss_code": "E06000052", "country": "England", "aliases": [], "lat": 50.2660, "lng": -5.0527},
-    {"name": "Coventry", "gss_code": "E08000026", "country": "England", "aliases": [], "lat": 52.4068, "lng": -1.5197},
-    {"name": "Cumberland", "gss_code": "E06000061", "country": "England", "aliases": ["Carlisle", "Cumbria"], "lat": 54.8951, "lng": -2.9382},
-    {"name": "Darlington", "gss_code": "E06000005", "country": "England", "aliases": [], "lat": 54.5236, "lng": -1.5504},
-    {"name": "Derby", "gss_code": "E06000015", "country": "England", "aliases": ["Derby City"], "lat": 52.9225, "lng": -1.4746},
-    {"name": "Derbyshire", "gss_code": "E10000007", "country": "England", "aliases": [], "lat": 53.1367, "lng": -1.5574},
-    {"name": "Devon", "gss_code": "E10000008", "country": "England", "aliases": ["Libraries Unlimited"], "lat": 50.7156, "lng": -3.5309},
-    {"name": "Doncaster", "gss_code": "E08000017", "country": "England", "aliases": [], "lat": 53.5228, "lng": -1.1312},
-    {"name": "Dorset", "gss_code": "E06000059", "country": "England", "aliases": [], "lat": 50.7144, "lng": -2.4385},
-    {"name": "Dudley", "gss_code": "E08000027", "country": "England", "aliases": [], "lat": 52.5123, "lng": -2.0811},
-    {"name": "County Durham", "gss_code": "E06000047", "country": "England", "aliases": ["Durham"], "lat": 54.7761, "lng": -1.5733},
-    {"name": "East Riding of Yorkshire", "gss_code": "E06000011", "country": "England", "aliases": ["East Riding"], "lat": 53.8436, "lng": -0.4287},
-    {"name": "East Sussex", "gss_code": "E10000011", "country": "England", "aliases": [], "lat": 50.8732, "lng": 0.0125},
-    {"name": "Essex", "gss_code": "E10000012", "country": "England", "aliases": [], "lat": 51.7356, "lng": 0.4685},
-    {"name": "Gateshead", "gss_code": "E08000037", "country": "England", "aliases": [], "lat": 54.9624, "lng": -1.6033},
-    {"name": "Gloucestershire", "gss_code": "E10000013", "country": "England", "aliases": ["Gloucester"], "lat": 51.8642, "lng": -2.2380},
-    {"name": "Halton", "gss_code": "E06000006", "country": "England", "aliases": [], "lat": 53.3342, "lng": -2.7300},
-    {"name": "Hampshire", "gss_code": "E10000014", "country": "England", "aliases": [], "lat": 51.0598, "lng": -1.3101},
-    {"name": "Hartlepool", "gss_code": "E06000001", "country": "England", "aliases": [], "lat": 54.6862, "lng": -1.2129},
-    {"name": "Herefordshire", "gss_code": "E06000019", "country": "England", "aliases": [], "lat": 52.0565, "lng": -2.7160},
-    {"name": "Hertfordshire", "gss_code": "E10000015", "country": "England", "aliases": ["Herts"], "lat": 51.7520, "lng": -0.3397},
-    {"name": "Isle of Wight", "gss_code": "E06000046", "country": "England", "aliases": [], "lat": 50.6938, "lng": -1.3047},
-    {"name": "Kent", "gss_code": "E10000016", "country": "England", "aliases": [], "lat": 51.2787, "lng": 0.5217},
-    {"name": "Kingston upon Hull", "gss_code": "E06000010", "country": "England", "aliases": ["Hull"], "lat": 53.7457, "lng": -0.3367},
-    {"name": "Kirklees", "gss_code": "E08000034", "country": "England", "aliases": ["Huddersfield"], "lat": 53.6458, "lng": -1.7850},
-    {"name": "Knowsley", "gss_code": "E08000011", "country": "England", "aliases": [], "lat": 53.4475, "lng": -2.8596},
-    {"name": "Lancashire", "gss_code": "E10000017", "country": "England", "aliases": ["Lancs"], "lat": 53.7632, "lng": -2.7031},
-    {"name": "Leeds", "gss_code": "E08000035", "country": "England", "aliases": [], "lat": 53.8008, "lng": -1.5491},
-    {"name": "Leicester", "gss_code": "E06000016", "country": "England", "aliases": ["Leicester City"], "lat": 52.6369, "lng": -1.1398},
-    {"name": "Leicestershire", "gss_code": "E10000018", "country": "England", "aliases": [], "lat": 52.6369, "lng": -1.1398},
-    {"name": "Lincolnshire", "gss_code": "E10000019", "country": "England", "aliases": ["Lincs", "GLL Lincolnshire"], "lat": 53.2344, "lng": -0.5386},
-    {"name": "Liverpool", "gss_code": "E08000012", "country": "England", "aliases": [], "lat": 53.4084, "lng": -2.9916},
-    {"name": "Luton", "gss_code": "E06000057", "country": "England", "aliases": [], "lat": 51.8787, "lng": -0.4200},
-    {"name": "Manchester", "gss_code": "E08000003", "country": "England", "aliases": ["Manchester City Council", "Manchester Central Library"], "lat": 53.4808, "lng": -2.2426},
-    {"name": "Medway", "gss_code": "E06000035", "country": "England", "aliases": [], "lat": 51.3899, "lng": 0.5422},
-    {"name": "Middlesbrough", "gss_code": "E06000002", "country": "England", "aliases": [], "lat": 54.5742, "lng": -1.2350},
-    {"name": "Milton Keynes", "gss_code": "E06000042", "country": "England", "aliases": ["MK"], "lat": 52.0406, "lng": -0.7594},
-    {"name": "Newcastle upon Tyne", "gss_code": "E08000021", "country": "England", "aliases": ["Newcastle"], "lat": 54.9783, "lng": -1.6178},
-    {"name": "Norfolk", "gss_code": "E10000020", "country": "England", "aliases": ["Norwich"], "lat": 52.6309, "lng": 1.2974},
-    {"name": "North East Lincolnshire", "gss_code": "E06000012", "country": "England", "aliases": ["Grimsby"], "lat": 53.5675, "lng": -0.0739},
-    {"name": "North Lincolnshire", "gss_code": "E06000013", "country": "England", "aliases": ["Scunthorpe"], "lat": 53.5889, "lng": -0.6542},
-    {"name": "North Northamptonshire", "gss_code": "E06000062", "country": "England", "aliases": ["North Northants", "Kettering", "Corby", "Wellingborough"], "lat": 52.3980, "lng": -0.7259},
-    {"name": "North Somerset", "gss_code": "E06000024", "country": "England", "aliases": ["Weston-super-Mare"], "lat": 51.3460, "lng": -2.9770},
-    {"name": "North Tyneside", "gss_code": "E08000022", "country": "England", "aliases": [], "lat": 55.0089, "lng": -1.4883},
-    {"name": "North Yorkshire", "gss_code": "E06000065", "country": "England", "aliases": [], "lat": 54.2323, "lng": -1.4332},
-    {"name": "Northumberland", "gss_code": "E06000057", "country": "England", "aliases": [], "lat": 55.1979, "lng": -1.6800},
-    {"name": "Nottingham", "gss_code": "E06000018", "country": "England", "aliases": ["Nottingham City"], "lat": 52.9548, "lng": -1.1581},
-    {"name": "Nottinghamshire", "gss_code": "E10000024", "country": "England", "aliases": ["Notts", "Inspire: Culture, Learning and Libraries"], "lat": 53.1417, "lng": -1.0253},
-    {"name": "Oldham", "gss_code": "E08000004", "country": "England", "aliases": [], "lat": 53.5409, "lng": -2.1114},
-    {"name": "Oxfordshire", "gss_code": "E10000025", "country": "England", "aliases": ["Oxford"], "lat": 51.7520, "lng": -1.2577},
-    {"name": "Peterborough", "gss_code": "E06000031", "country": "England", "aliases": [], "lat": 52.5695, "lng": -0.2405},
-    {"name": "Plymouth", "gss_code": "E06000026", "country": "England", "aliases": [], "lat": 50.3755, "lng": -4.1427},
-    {"name": "Portsmouth", "gss_code": "E06000044", "country": "England", "aliases": [], "lat": 50.8198, "lng": -1.0880},
-    {"name": "Reading", "gss_code": "E06000038", "country": "England", "aliases": [], "lat": 51.4543, "lng": -0.9781},
-    {"name": "Redcar and Cleveland", "gss_code": "E06000003", "country": "England", "aliases": ["Redcar & Cleveland"], "lat": 54.5828, "lng": -1.0664},
-    {"name": "Rochdale", "gss_code": "E08000005", "country": "England", "aliases": [], "lat": 53.6097, "lng": -2.1557},
-    {"name": "Rotherham", "gss_code": "E08000018", "country": "England", "aliases": [], "lat": 53.4300, "lng": -1.3570},
-    {"name": "Rutland", "gss_code": "E06000027", "country": "England", "aliases": [], "lat": 52.6599, "lng": -0.6384},
-    {"name": "Salford", "gss_code": "E08000006", "country": "England", "aliases": [], "lat": 53.4875, "lng": -2.2901},
-    {"name": "Sandwell", "gss_code": "E08000028", "country": "England", "aliases": [], "lat": 52.5344, "lng": -2.0163},
-    {"name": "Sefton", "gss_code": "E08000014", "country": "England", "aliases": ["Southport"], "lat": 53.5000, "lng": -2.9833},
-    {"name": "Sheffield", "gss_code": "E08000019", "country": "England", "aliases": [], "lat": 53.3811, "lng": -1.4701},
-    {"name": "Shropshire", "gss_code": "E06000051", "country": "England", "aliases": ["Shrewsbury"], "lat": 52.7073, "lng": -2.7553},
-    {"name": "Slough", "gss_code": "E06000039", "country": "England", "aliases": [], "lat": 51.5105, "lng": -0.5950},
-    {"name": "Solihull", "gss_code": "E08000029", "country": "England", "aliases": [], "lat": 52.4128, "lng": -1.7782},
-    {"name": "Somerset", "gss_code": "E06000066", "country": "England", "aliases": [], "lat": 51.0154, "lng": -3.1042},
-    {"name": "South Gloucestershire", "gss_code": "E06000025", "country": "England", "aliases": ["South Glos"], "lat": 51.5422, "lng": -2.5361},
-    {"name": "South Tyneside", "gss_code": "E08000023", "country": "England", "aliases": ["South Shields", "The Word"], "lat": 54.9833, "lng": -1.4333},
-    {"name": "Southampton", "gss_code": "E06000045", "country": "England", "aliases": [], "lat": 50.9097, "lng": -1.4044},
-    {"name": "Southend-on-Sea", "gss_code": "E06000033", "country": "England", "aliases": ["Southend"], "lat": 51.5459, "lng": 0.7077},
-    {"name": "St Helens", "gss_code": "E08000013", "country": "England", "aliases": ["St. Helens", "St Helens Council"], "lat": 53.4542, "lng": -2.7381},
-    {"name": "Staffordshire", "gss_code": "E10000028", "country": "England", "aliases": ["Staffs"], "lat": 52.8067, "lng": -2.1167},
-    {"name": "Stockport", "gss_code": "E08000007", "country": "England", "aliases": [], "lat": 53.4106, "lng": -2.1575},
-    {"name": "Stockton-on-Tees", "gss_code": "E06000004", "country": "England", "aliases": ["Stockton"], "lat": 54.5667, "lng": -1.3167},
-    {"name": "Stoke-on-Trent", "gss_code": "E06000021", "country": "England", "aliases": ["Stoke"], "lat": 53.0027, "lng": -2.1794},
-    {"name": "Suffolk", "gss_code": "E10000029", "country": "England", "aliases": ["Suffolk Libraries", "Ipswich"], "lat": 52.2415, "lng": 0.9034},
-    {"name": "Sunderland", "gss_code": "E08000024", "country": "England", "aliases": [], "lat": 54.9069, "lng": -1.3838},
-    {"name": "Surrey", "gss_code": "E10000030", "country": "England", "aliases": [], "lat": 51.3148, "lng": -0.5600},
-    {"name": "Swindon", "gss_code": "E06000030", "country": "England", "aliases": [], "lat": 51.5558, "lng": -1.7797},
-    {"name": "Tameside", "gss_code": "E08000008", "country": "England", "aliases": ["Ashton-under-Lyne"], "lat": 53.4883, "lng": -2.0911},
-    {"name": "Telford and Wrekin", "gss_code": "E06000020", "country": "England", "aliases": ["Telford & Wrekin", "Telford"], "lat": 52.6784, "lng": -2.4452},
-    {"name": "Thurrock", "gss_code": "E06000034", "country": "England", "aliases": [], "lat": 51.4889, "lng": 0.3582},
-    {"name": "Torbay", "gss_code": "E06000028", "country": "England", "aliases": ["Torquay", "Paignton"], "lat": 50.4638, "lng": -3.5350},
-    {"name": "Trafford", "gss_code": "E08000009", "country": "England", "aliases": ["Altrincham", "Sale"], "lat": 53.4286, "lng": -2.3333},
-    {"name": "Wakefield", "gss_code": "E08000036", "country": "England", "aliases": [], "lat": 53.6833, "lng": -1.4964},
-    {"name": "Walsall", "gss_code": "E08000030", "country": "England", "aliases": [], "lat": 52.5855, "lng": -1.9830},
-    {"name": "Warrington", "gss_code": "E06000007", "country": "England", "aliases": ["LiveWire Warrington"], "lat": 53.3917, "lng": -2.5972},
-    {"name": "Warwickshire", "gss_code": "E10000031", "country": "England", "aliases": ["Warwick"], "lat": 52.2833, "lng": -1.5833},
-    {"name": "West Berkshire", "gss_code": "E06000037", "country": "England", "aliases": ["Newbury"], "lat": 51.4000, "lng": -1.3200},
-    {"name": "West Northamptonshire", "gss_code": "E06000063", "country": "England", "aliases": ["West Northants", "Northampton", "Daventry"], "lat": 52.2405, "lng": -0.9027},
-    {"name": "West Sussex", "gss_code": "E10000032", "country": "England", "aliases": ["Chichester"], "lat": 50.8365, "lng": -0.7792},
-    {"name": "Westmorland and Furness", "gss_code": "E06000064", "country": "England", "aliases": ["Westmorland & Furness", "Barrow", "Kendal"], "lat": 54.3262, "lng": -2.7450},
-    {"name": "Wigan", "gss_code": "E08000010", "country": "England", "aliases": [], "lat": 53.5450, "lng": -2.6325},
-    {"name": "Wiltshire", "gss_code": "E06000054", "country": "England", "aliases": ["Trowbridge", "Salisbury"], "lat": 51.3490, "lng": -1.9920},
-    {"name": "Windsor and Maidenhead", "gss_code": "E06000040", "country": "England", "aliases": ["Windsor & Maidenhead", "Maidenhead", "Windsor"], "lat": 51.5225, "lng": -0.7183},
-    {"name": "Wirral", "gss_code": "E08000015", "country": "England", "aliases": ["Birkenhead"], "lat": 53.3667, "lng": -3.0500},
-    {"name": "Wokingham", "gss_code": "E06000041", "country": "England", "aliases": [], "lat": 51.4100, "lng": -0.8350},
-    {"name": "Wolverhampton", "gss_code": "E08000031", "country": "England", "aliases": [], "lat": 52.5870, "lng": -2.1288},
-    {"name": "Worcestershire", "gss_code": "E10000034", "country": "England", "aliases": ["Worcester", "The Hive"], "lat": 52.1920, "lng": -2.2200},
-    {"name": "York", "gss_code": "E06000014", "country": "England", "aliases": ["City of York", "Explore York"], "lat": 53.9599, "lng": -1.0873},
-    {"name": "City of Edinburgh", "gss_code": "S12000036", "country": "Scotland", "aliases": ["Edinburgh"], "lat": 55.9533, "lng": -3.1883},
-    {"name": "Glasgow City", "gss_code": "S12000049", "country": "Scotland", "aliases": ["Glasgow", "Glasgow Life", "Mitchell Library"], "lat": 55.8642, "lng": -4.2518},
-    {"name": "Dundee City", "gss_code": "S12000042", "country": "Scotland", "aliases": ["Dundee"], "lat": 56.4620, "lng": -2.9707},
-    {"name": "Fife", "gss_code": "S12000047", "country": "Scotland", "aliases": ["OnFife"], "lat": 56.2082, "lng": -3.1559},
-    {"name": "Highland", "gss_code": "S12000017", "country": "Scotland", "aliases": ["Highlands", "High Life Highland", "Inverness"], "lat": 57.4778, "lng": -4.2247},
-    {"name": "Inverclyde", "gss_code": "S12000018", "country": "Scotland", "aliases": ["Greenock"], "lat": 55.9392, "lng": -4.7578},
-    {"name": "Midlothian", "gss_code": "S12000019", "country": "Scotland", "aliases": ["Dalkeith"], "lat": 55.8500, "lng": -3.1000},
-    {"name": "Moray", "gss_code": "S12000020", "country": "Scotland", "aliases": ["Elgin"], "lat": 57.6497, "lng": -3.3182},
-    {"name": "North Ayrshire", "gss_code": "S12000021", "country": "Scotland", "aliases": ["Irvine"], "lat": 55.6167, "lng": -4.6667},
-    {"name": "North Lanarkshire", "gss_code": "S12000050", "country": "Scotland", "aliases": ["Motherwell"], "lat": 55.7944, "lng": -3.9844},
-    {"name": "Perth and Kinross", "gss_code": "S12000024", "country": "Scotland", "aliases": ["Perth & Kinross", "Perth"], "lat": 56.3958, "lng": -3.4308},
-    {"name": "Renfrewshire", "gss_code": "S12000026", "country": "Scotland", "aliases": ["Paisley"], "lat": 55.8456, "lng": -4.4239},
-    {"name": "Scottish Borders", "gss_code": "S12000026", "country": "Scotland", "aliases": ["Borders", "Live Borders"], "lat": 55.5486, "lng": -2.7861},
-    {"name": "South Ayrshire", "gss_code": "S12000028", "country": "Scotland", "aliases": ["Ayr"], "lat": 55.4586, "lng": -4.6292},
-    {"name": "South Lanarkshire", "gss_code": "S12000029", "country": "Scotland", "aliases": ["Hamilton"], "lat": 55.6736, "lng": -3.7842},
-    {"name": "Stirling", "gss_code": "S12000030", "country": "Scotland", "aliases": [], "lat": 56.1165, "lng": -3.9369},
-    {"name": "West Dunbartonshire", "gss_code": "S12000039", "country": "Scotland", "aliases": ["Dumbarton"], "lat": 55.9442, "lng": -4.5686},
-    {"name": "West Lothian", "gss_code": "S12000040", "country": "Scotland", "aliases": ["Livingston"], "lat": 55.9000, "lng": -3.5000},
-    {"name": "Falkirk", "gss_code": "S12000046", "country": "Scotland", "aliases": [], "lat": 56.0019, "lng": -3.7839},
-    {"name": "Dumfries and Galloway", "gss_code": "S12000045", "country": "Scotland", "aliases": ["Dumfries & Galloway", "Dumfries"], "lat": 55.0700, "lng": -3.6000},
-    {"name": "East Dunbartonshire", "gss_code": "S12000044", "country": "Scotland", "aliases": ["Kirkintilloch", "Bearsden"], "lat": 55.9333, "lng": -4.2000},
-    {"name": "East Ayrshire", "gss_code": "S12000043", "country": "Scotland", "aliases": ["Kilmarnock"], "lat": 55.4500, "lng": -4.2500},
-    {"name": "East Lothian", "gss_code": "S12000047", "country": "Scotland", "aliases": ["Haddington"], "lat": 55.9500, "lng": -2.7833},
-    {"name": "East Renfrewshire", "gss_code": "S12000048", "country": "Scotland", "aliases": ["Giffnock"], "lat": 55.7833, "lng": -4.3333},
-    {"name": "Clackmannanshire", "gss_code": "S12000040", "country": "Scotland", "aliases": ["Alloa"], "lat": 56.1167, "lng": -3.7500},
-    {"name": "Orkney Islands", "gss_code": "S12000023", "country": "Scotland", "aliases": ["Orkney", "Kirkwall"], "lat": 58.9809, "lng": -2.9605},
-    {"name": "Shetland Islands", "gss_code": "S12000027", "country": "Scotland", "aliases": ["Shetland", "Lerwick"], "lat": 60.1530, "lng": -1.1493},
-    {"name": "Na h-Eileanan Siar", "gss_code": "S12000013", "country": "Scotland", "aliases": ["Western Isles", "Western Islands", "Eilean Siar", "Stornoway"], "lat": 58.2094, "lng": -6.3849},
-    {"name": "Jersey", "gss_code": null, "country": "Channel Islands", "aliases": ["Bailiwick of Jersey", "States of Jersey"], "lat": 49.2144, "lng": -2.1312},
-    {"name": "Guernsey", "gss_code": null, "country": "Channel Islands", "aliases": ["Bailiwick of Guernsey", "States of Guernsey"], "lat": 49.4482, "lng": -2.5895},
-    {"name": "Isle of Man", "gss_code": null, "country": "Isle of Man", "aliases": ["Mann", "Douglas"], "lat": 54.2361, "lng": -4.5481},
-    {"name": "Cardiff", "gss_code": "W06000015", "country": "Wales", "aliases": ["Caerdydd", "Cardiff Council"], "lat": 51.4816, "lng": -3.1791},
-    {"name": "Swansea", "gss_code": "W06000011", "country": "Wales", "aliases": ["Abertawe"], "lat": 51.6214, "lng": -3.9436},
-    {"name": "Newport", "gss_code": "W06000022", "country": "Wales", "aliases": ["Casnewydd"], "lat": 51.5842, "lng": -2.9977},
-    {"name": "Wrexham", "gss_code": "W06000006", "country": "Wales", "aliases": ["Wrecsam"], "lat": 53.0458, "lng": -2.9931},
-    {"name": "Rhondda Cynon Taf", "gss_code": "W06000016", "country": "Wales", "aliases": ["RCT", "Rhondda Cynon Taff"], "lat": 51.6500, "lng": -3.4333},
-    {"name": "Bridgend", "gss_code": "W06000013", "country": "Wales", "aliases": ["Pen-y-bont ar Ogwr", "Awen Cultural Trust"], "lat": 51.5072, "lng": -3.5784},
-    {"name": "Caerphilly", "gss_code": "W06000014", "country": "Wales", "aliases": ["Caerffili"], "lat": 51.5714, "lng": -3.2206},
-    {"name": "Carmarthenshire", "gss_code": "W06000010", "country": "Wales", "aliases": ["Sir Gaerfyrddin", "Carmarthen"], "lat": 51.8576, "lng": -4.3121},
-    {"name": "Ceredigion", "gss_code": "W06000008", "country": "Wales", "aliases": ["Aberystwyth"], "lat": 52.4153, "lng": -4.0829},
-    {"name": "Conwy", "gss_code": "W06000003", "country": "Wales", "aliases": [], "lat": 53.2800, "lng": -3.8300},
-    {"name": "Denbighshire", "gss_code": "W06000004", "country": "Wales", "aliases": ["Sir Ddinbych", "Rhyl"], "lat": 53.1833, "lng": -3.4167},
-    {"name": "Flintshire", "gss_code": "W06000005", "country": "Wales", "aliases": ["Sir y Fflint", "Aura Leisure and Libraries"], "lat": 53.2436, "lng": -3.1414},
-    {"name": "Gwynedd", "gss_code": "W06000002", "country": "Wales", "aliases": ["Bangor", "Caernarfon"], "lat": 52.8833, "lng": -3.8833},
-    {"name": "Isle of Anglesey", "gss_code": "W06000001", "country": "Wales", "aliases": ["Anglesey", "Ynys Môn"], "lat": 53.2500, "lng": -4.3333},
-    {"name": "Merthyr Tydfil", "gss_code": "W06000024", "country": "Wales", "aliases": ["Merthyr"], "lat": 51.7486, "lng": -3.3800},
-    {"name": "Monmouthshire", "gss_code": "W06000021", "country": "Wales", "aliases": ["Sir Fynwy"], "lat": 51.8100, "lng": -2.8500},
-    {"name": "Neath Port Talbot", "gss_code": "W06000012", "country": "Wales", "aliases": ["Castell-nedd Port Talbot", "Neath", "Port Talbot"], "lat": 51.6500, "lng": -3.8000},
-    {"name": "Pembrokeshire", "gss_code": "W06000009", "country": "Wales", "aliases": ["Sir Benfro", "Haverfordwest"], "lat": 51.8000, "lng": -4.9667},
-    {"name": "Powys", "gss_code": "W06000007", "country": "Wales", "aliases": ["Llandrindod Wells"], "lat": 52.3000, "lng": -3.4000},
-    {"name": "Torfaen", "gss_code": "W06000020", "country": "Wales", "aliases": ["Cwmbran", "Pontypool"], "lat": 51.6500, "lng": -3.0500},
-    {"name": "Vale of Glamorgan", "gss_code": "W06000017", "country": "Wales", "aliases": ["Bro Morgannwg", "Barry"], "lat": 51.4000, "lng": -3.3500},
-    {"name": "Libraries NI", "gss_code": "N92000002", "country": "Northern Ireland", "aliases": ["Northern Ireland", "Libraries Northern Ireland", "Belfast", "Derry", "Lisburn"], "lat": 54.5973, "lng": -5.9301}
+    {
+      "name": "Aberdeen City",
+      "gss_code": "S12000033",
+      "country": "Scotland",
+      "aliases": [
+        "Aberdeen"
+      ],
+      "lat": 57.1497,
+      "lng": -2.0943
+    },
+    {
+      "name": "Aberdeenshire",
+      "gss_code": "S12000034",
+      "country": "Scotland",
+      "aliases": [],
+      "lat": 57.2869,
+      "lng": -2.3816
+    },
+    {
+      "name": "Angus",
+      "gss_code": "S12000041",
+      "country": "Scotland",
+      "aliases": [],
+      "lat": 56.6974,
+      "lng": -2.8836
+    },
+    {
+      "name": "Argyll and Bute",
+      "gss_code": "S12000035",
+      "country": "Scotland",
+      "aliases": [
+        "Argyll & Bute",
+        "Argyll"
+      ],
+      "lat": 56.2494,
+      "lng": -5.3216
+    },
+    {
+      "name": "Barking and Dagenham",
+      "gss_code": "E09000002",
+      "country": "England",
+      "aliases": [
+        "Barking & Dagenham"
+      ],
+      "lat": 51.5607,
+      "lng": 0.1557
+    },
+    {
+      "name": "Barnet",
+      "gss_code": "E09000003",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.6252,
+      "lng": -0.1517
+    },
+    {
+      "name": "Barnsley",
+      "gss_code": "E08000016",
+      "country": "England",
+      "aliases": [
+        "Barnsley Council",
+        "Barnsley MBC"
+      ],
+      "lat": 53.5526,
+      "lng": -1.4797
+    },
+    {
+      "name": "Bath and North East Somerset",
+      "gss_code": "E06000022",
+      "country": "England",
+      "aliases": [
+        "Bath & North East Somerset",
+        "BANES",
+        "Bath"
+      ],
+      "lat": 51.3811,
+      "lng": -2.359
+    },
+    {
+      "name": "Bedford",
+      "gss_code": "E06000055",
+      "country": "England",
+      "aliases": [
+        "Bedford Borough"
+      ],
+      "lat": 52.1359,
+      "lng": -0.4667
+    },
+    {
+      "name": "Bexley",
+      "gss_code": "E09000004",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.4549,
+      "lng": 0.1505
+    },
+    {
+      "name": "Birmingham",
+      "gss_code": "E08000025",
+      "country": "England",
+      "aliases": [
+        "Birmingham City Council",
+        "Library of Birmingham"
+      ],
+      "lat": 52.4862,
+      "lng": -1.8904
+    },
+    {
+      "name": "Blackburn with Darwen",
+      "gss_code": "E06000008",
+      "country": "England",
+      "aliases": [
+        "Blackburn With Darwen",
+        "Blackburn"
+      ],
+      "lat": 53.7488,
+      "lng": -2.4818
+    },
+    {
+      "name": "Blackpool",
+      "gss_code": "E06000009",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.8175,
+      "lng": -3.0357
+    },
+    {
+      "name": "Blaenau Gwent",
+      "gss_code": "W06000019",
+      "country": "Wales",
+      "aliases": [
+        "Blaenau Gwent CBC",
+        "Aneurin Leisure",
+        "Aneurin Leisure Trust"
+      ],
+      "lat": 51.7766,
+      "lng": -3.1997
+    },
+    {
+      "name": "Bolton",
+      "gss_code": "E08000001",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.5769,
+      "lng": -2.4282
+    },
+    {
+      "name": "Bournemouth",
+      "gss_code": "E06000028",
+      "country": "England",
+      "aliases": [
+        "Bournemouth Libraries"
+      ],
+      "lat": 50.7192,
+      "lng": -1.8808
+    },
+    {
+      "name": "Bournemouth, Christchurch and Poole",
+      "gss_code": "E06000058",
+      "country": "England",
+      "aliases": [
+        "BCP",
+        "Bournemouth Christchurch and Poole",
+        "Bournemouth",
+        "Poole"
+      ],
+      "lat": 50.7192,
+      "lng": -1.8808
+    },
+    {
+      "name": "Bracknell Forest",
+      "gss_code": "E06000036",
+      "country": "England",
+      "aliases": [
+        "Bracknell"
+      ],
+      "lat": 51.416,
+      "lng": -0.7539
+    },
+    {
+      "name": "Bradford",
+      "gss_code": "E08000032",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.796,
+      "lng": -1.7594
+    },
+    {
+      "name": "Brent",
+      "gss_code": "E09000005",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.5588,
+      "lng": -0.2817
+    },
+    {
+      "name": "Bridgend",
+      "gss_code": "W06000013",
+      "country": "Wales",
+      "aliases": [
+        "Pen-y-bont ar Ogwr",
+        "Awen Cultural Trust"
+      ],
+      "lat": 51.5072,
+      "lng": -3.5784
+    },
+    {
+      "name": "Brighton and Hove",
+      "gss_code": "E06000043",
+      "country": "England",
+      "aliases": [
+        "Brighton & Hove",
+        "Brighton"
+      ],
+      "lat": 50.8225,
+      "lng": -0.1372
+    },
+    {
+      "name": "Bristol",
+      "gss_code": "E06000023",
+      "country": "England",
+      "aliases": [
+        "Bristol City Council",
+        "Bristol (City of)"
+      ],
+      "lat": 51.4545,
+      "lng": -2.5879
+    },
+    {
+      "name": "Bromley",
+      "gss_code": "E09000006",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.4039,
+      "lng": 0.0198
+    },
+    {
+      "name": "Buckinghamshire",
+      "gss_code": "E06000060",
+      "country": "England",
+      "aliases": [
+        "Bucks"
+      ],
+      "lat": 51.8156,
+      "lng": -0.8123
+    },
+    {
+      "name": "Bury",
+      "gss_code": "E08000002",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.5933,
+      "lng": -2.2966
+    },
+    {
+      "name": "Caerphilly",
+      "gss_code": "W06000014",
+      "country": "Wales",
+      "aliases": [
+        "Caerffili"
+      ],
+      "lat": 51.5714,
+      "lng": -3.2206
+    },
+    {
+      "name": "Calderdale",
+      "gss_code": "E08000033",
+      "country": "England",
+      "aliases": [
+        "Halifax"
+      ],
+      "lat": 53.7225,
+      "lng": -1.8606
+    },
+    {
+      "name": "Cambridgeshire",
+      "gss_code": "E10000003",
+      "country": "England",
+      "aliases": [
+        "Cambridge"
+      ],
+      "lat": 52.2053,
+      "lng": 0.1218
+    },
+    {
+      "name": "Camden",
+      "gss_code": "E09000007",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.529,
+      "lng": -0.1255
+    },
+    {
+      "name": "Cardiff",
+      "gss_code": "W06000015",
+      "country": "Wales",
+      "aliases": [
+        "Caerdydd",
+        "Cardiff Council"
+      ],
+      "lat": 51.4816,
+      "lng": -3.1791
+    },
+    {
+      "name": "Carmarthenshire",
+      "gss_code": "W06000010",
+      "country": "Wales",
+      "aliases": [
+        "Sir Gaerfyrddin",
+        "Carmarthen"
+      ],
+      "lat": 51.8576,
+      "lng": -4.3121
+    },
+    {
+      "name": "Central Bedfordshire",
+      "gss_code": "E06000056",
+      "country": "England",
+      "aliases": [
+        "Central Beds"
+      ],
+      "lat": 52.0298,
+      "lng": -0.4735
+    },
+    {
+      "name": "Ceredigion",
+      "gss_code": "W06000008",
+      "country": "Wales",
+      "aliases": [
+        "Aberystwyth"
+      ],
+      "lat": 52.4153,
+      "lng": -4.0829
+    },
+    {
+      "name": "Cheshire East",
+      "gss_code": "E06000049",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.1554,
+      "lng": -2.3387
+    },
+    {
+      "name": "Cheshire West and Chester",
+      "gss_code": "E06000050",
+      "country": "England",
+      "aliases": [
+        "Cheshire West & Chester",
+        "Cheshire West",
+        "Chester"
+      ],
+      "lat": 53.1905,
+      "lng": -2.8916
+    },
+    {
+      "name": "City of Edinburgh",
+      "gss_code": "S12000036",
+      "country": "Scotland",
+      "aliases": [
+        "Edinburgh"
+      ],
+      "lat": 55.9533,
+      "lng": -3.1883
+    },
+    {
+      "name": "City of London",
+      "gss_code": "E09000001",
+      "country": "England",
+      "aliases": [
+        "London (City of)",
+        "Square Mile"
+      ],
+      "lat": 51.5155,
+      "lng": -0.0922
+    },
+    {
+      "name": "Clackmannanshire",
+      "gss_code": "S12000040",
+      "country": "Scotland",
+      "aliases": [
+        "Alloa"
+      ],
+      "lat": 56.1167,
+      "lng": -3.75
+    },
+    {
+      "name": "Conwy",
+      "gss_code": "W06000003",
+      "country": "Wales",
+      "aliases": [],
+      "lat": 53.28,
+      "lng": -3.83
+    },
+    {
+      "name": "Cornwall",
+      "gss_code": "E06000052",
+      "country": "England",
+      "aliases": [],
+      "lat": 50.266,
+      "lng": -5.0527
+    },
+    {
+      "name": "County Durham",
+      "gss_code": "E06000047",
+      "country": "England",
+      "aliases": [
+        "Durham"
+      ],
+      "lat": 54.7761,
+      "lng": -1.5733
+    },
+    {
+      "name": "Coventry",
+      "gss_code": "E08000026",
+      "country": "England",
+      "aliases": [],
+      "lat": 52.4068,
+      "lng": -1.5197
+    },
+    {
+      "name": "Croydon",
+      "gss_code": "E09000008",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.3714,
+      "lng": -0.0977
+    },
+    {
+      "name": "Cumberland",
+      "gss_code": "E06000061",
+      "country": "England",
+      "aliases": [
+        "Carlisle",
+        "Cumbria"
+      ],
+      "lat": 54.8951,
+      "lng": -2.9382
+    },
+    {
+      "name": "Cumbria",
+      "gss_code": "E10000006",
+      "country": "England",
+      "aliases": [
+        "Cumbria County Council",
+        "Cumbria Libraries",
+        "Cumbra"
+      ],
+      "lat": 54.5772,
+      "lng": -2.7975
+    },
+    {
+      "name": "Darlington",
+      "gss_code": "E06000005",
+      "country": "England",
+      "aliases": [],
+      "lat": 54.5236,
+      "lng": -1.5504
+    },
+    {
+      "name": "Denbighshire",
+      "gss_code": "W06000004",
+      "country": "Wales",
+      "aliases": [
+        "Sir Ddinbych",
+        "Rhyl"
+      ],
+      "lat": 53.1833,
+      "lng": -3.4167
+    },
+    {
+      "name": "Derby",
+      "gss_code": "E06000015",
+      "country": "England",
+      "aliases": [
+        "Derby City"
+      ],
+      "lat": 52.9225,
+      "lng": -1.4746
+    },
+    {
+      "name": "Derbyshire",
+      "gss_code": "E10000007",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.1367,
+      "lng": -1.5574
+    },
+    {
+      "name": "Devon",
+      "gss_code": "E10000008",
+      "country": "England",
+      "aliases": [
+        "Libraries Unlimited"
+      ],
+      "lat": 50.7156,
+      "lng": -3.5309
+    },
+    {
+      "name": "Doncaster",
+      "gss_code": "E08000017",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.5228,
+      "lng": -1.1312
+    },
+    {
+      "name": "Dorset",
+      "gss_code": "E06000059",
+      "country": "England",
+      "aliases": [],
+      "lat": 50.7144,
+      "lng": -2.4385
+    },
+    {
+      "name": "Dudley",
+      "gss_code": "E08000027",
+      "country": "England",
+      "aliases": [],
+      "lat": 52.5123,
+      "lng": -2.0811
+    },
+    {
+      "name": "Dumfries and Galloway",
+      "gss_code": "S12000045",
+      "country": "Scotland",
+      "aliases": [
+        "Dumfries & Galloway",
+        "Dumfries"
+      ],
+      "lat": 55.07,
+      "lng": -3.6
+    },
+    {
+      "name": "Dundee City",
+      "gss_code": "S12000042",
+      "country": "Scotland",
+      "aliases": [
+        "Dundee"
+      ],
+      "lat": 56.462,
+      "lng": -2.9707
+    },
+    {
+      "name": "Ealing",
+      "gss_code": "E09000009",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.513,
+      "lng": -0.3089
+    },
+    {
+      "name": "East Ayrshire",
+      "gss_code": "S12000043",
+      "country": "Scotland",
+      "aliases": [
+        "Kilmarnock"
+      ],
+      "lat": 55.45,
+      "lng": -4.25
+    },
+    {
+      "name": "East Dunbartonshire",
+      "gss_code": "S12000044",
+      "country": "Scotland",
+      "aliases": [
+        "Kirkintilloch",
+        "Bearsden"
+      ],
+      "lat": 55.9333,
+      "lng": -4.2
+    },
+    {
+      "name": "East Lothian",
+      "gss_code": "S12000047",
+      "country": "Scotland",
+      "aliases": [
+        "Haddington"
+      ],
+      "lat": 55.95,
+      "lng": -2.7833
+    },
+    {
+      "name": "East Renfrewshire",
+      "gss_code": "S12000048",
+      "country": "Scotland",
+      "aliases": [
+        "Giffnock"
+      ],
+      "lat": 55.7833,
+      "lng": -4.3333
+    },
+    {
+      "name": "East Riding of Yorkshire",
+      "gss_code": "E06000011",
+      "country": "England",
+      "aliases": [
+        "East Riding"
+      ],
+      "lat": 53.8436,
+      "lng": -0.4287
+    },
+    {
+      "name": "East Sussex",
+      "gss_code": "E10000011",
+      "country": "England",
+      "aliases": [],
+      "lat": 50.8732,
+      "lng": 0.0125
+    },
+    {
+      "name": "Enfield",
+      "gss_code": "E09000010",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.6538,
+      "lng": -0.0799
+    },
+    {
+      "name": "Essex",
+      "gss_code": "E10000012",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.7356,
+      "lng": 0.4685
+    },
+    {
+      "name": "Falkirk",
+      "gss_code": "S12000046",
+      "country": "Scotland",
+      "aliases": [],
+      "lat": 56.0019,
+      "lng": -3.7839
+    },
+    {
+      "name": "Fife",
+      "gss_code": "S12000047",
+      "country": "Scotland",
+      "aliases": [
+        "OnFife"
+      ],
+      "lat": 56.2082,
+      "lng": -3.1559
+    },
+    {
+      "name": "Flintshire",
+      "gss_code": "W06000005",
+      "country": "Wales",
+      "aliases": [
+        "Sir y Fflint",
+        "Aura Leisure and Libraries"
+      ],
+      "lat": 53.2436,
+      "lng": -3.1414
+    },
+    {
+      "name": "Gateshead",
+      "gss_code": "E08000037",
+      "country": "England",
+      "aliases": [],
+      "lat": 54.9624,
+      "lng": -1.6033
+    },
+    {
+      "name": "Glasgow City",
+      "gss_code": "S12000049",
+      "country": "Scotland",
+      "aliases": [
+        "Glasgow",
+        "Glasgow Life",
+        "Mitchell Library"
+      ],
+      "lat": 55.8642,
+      "lng": -4.2518
+    },
+    {
+      "name": "Gloucestershire",
+      "gss_code": "E10000013",
+      "country": "England",
+      "aliases": [
+        "Gloucester"
+      ],
+      "lat": 51.8642,
+      "lng": -2.238
+    },
+    {
+      "name": "Greenwich",
+      "gss_code": "E09000011",
+      "country": "England",
+      "aliases": [
+        "Royal Borough of Greenwich"
+      ],
+      "lat": 51.4892,
+      "lng": 0.0648
+    },
+    {
+      "name": "Guernsey",
+      "gss_code": null,
+      "country": "Channel Islands",
+      "aliases": [
+        "Bailiwick of Guernsey",
+        "States of Guernsey"
+      ],
+      "lat": 49.4482,
+      "lng": -2.5895
+    },
+    {
+      "name": "Gwynedd",
+      "gss_code": "W06000002",
+      "country": "Wales",
+      "aliases": [
+        "Bangor",
+        "Caernarfon"
+      ],
+      "lat": 52.8833,
+      "lng": -3.8833
+    },
+    {
+      "name": "Hackney",
+      "gss_code": "E09000012",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.545,
+      "lng": -0.0553
+    },
+    {
+      "name": "Halton",
+      "gss_code": "E06000006",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.3342,
+      "lng": -2.73
+    },
+    {
+      "name": "Hammersmith and Fulham",
+      "gss_code": "E09000013",
+      "country": "England",
+      "aliases": [
+        "Hammersmith & Fulham"
+      ],
+      "lat": 51.4927,
+      "lng": -0.2339
+    },
+    {
+      "name": "Hampshire",
+      "gss_code": "E10000014",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.0598,
+      "lng": -1.3101
+    },
+    {
+      "name": "Haringey",
+      "gss_code": "E09000014",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.6,
+      "lng": -0.1119
+    },
+    {
+      "name": "Harrow",
+      "gss_code": "E09000015",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.5806,
+      "lng": -0.342
+    },
+    {
+      "name": "Hartlepool",
+      "gss_code": "E06000001",
+      "country": "England",
+      "aliases": [],
+      "lat": 54.6862,
+      "lng": -1.2129
+    },
+    {
+      "name": "Havering",
+      "gss_code": "E09000016",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.5812,
+      "lng": 0.1837
+    },
+    {
+      "name": "Herefordshire",
+      "gss_code": "E06000019",
+      "country": "England",
+      "aliases": [],
+      "lat": 52.0565,
+      "lng": -2.716
+    },
+    {
+      "name": "Hertfordshire",
+      "gss_code": "E10000015",
+      "country": "England",
+      "aliases": [
+        "Herts"
+      ],
+      "lat": 51.752,
+      "lng": -0.3397
+    },
+    {
+      "name": "Highland",
+      "gss_code": "S12000017",
+      "country": "Scotland",
+      "aliases": [
+        "Highlands",
+        "High Life Highland",
+        "Inverness"
+      ],
+      "lat": 57.4778,
+      "lng": -4.2247
+    },
+    {
+      "name": "Hillingdon",
+      "gss_code": "E09000017",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.5441,
+      "lng": -0.476
+    },
+    {
+      "name": "Hounslow",
+      "gss_code": "E09000018",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.4746,
+      "lng": -0.368
+    },
+    {
+      "name": "Inverclyde",
+      "gss_code": "S12000018",
+      "country": "Scotland",
+      "aliases": [
+        "Greenock"
+      ],
+      "lat": 55.9392,
+      "lng": -4.7578
+    },
+    {
+      "name": "Isle of Anglesey",
+      "gss_code": "W06000001",
+      "country": "Wales",
+      "aliases": [
+        "Anglesey",
+        "Ynys Môn"
+      ],
+      "lat": 53.25,
+      "lng": -4.3333
+    },
+    {
+      "name": "Isle of Man",
+      "gss_code": null,
+      "country": "Isle of Man",
+      "aliases": [
+        "Mann",
+        "Douglas"
+      ],
+      "lat": 54.2361,
+      "lng": -4.5481
+    },
+    {
+      "name": "Isle of Wight",
+      "gss_code": "E06000046",
+      "country": "England",
+      "aliases": [],
+      "lat": 50.6938,
+      "lng": -1.3047
+    },
+    {
+      "name": "Islington",
+      "gss_code": "E09000019",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.5416,
+      "lng": -0.1022
+    },
+    {
+      "name": "Jersey",
+      "gss_code": null,
+      "country": "Channel Islands",
+      "aliases": [
+        "Bailiwick of Jersey",
+        "States of Jersey"
+      ],
+      "lat": 49.2144,
+      "lng": -2.1312
+    },
+    {
+      "name": "Kensington and Chelsea",
+      "gss_code": "E09000020",
+      "country": "England",
+      "aliases": [
+        "Kensington & Chelsea",
+        "RBKC"
+      ],
+      "lat": 51.502,
+      "lng": -0.1947
+    },
+    {
+      "name": "Kent",
+      "gss_code": "E10000016",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.2787,
+      "lng": 0.5217
+    },
+    {
+      "name": "Kingston upon Hull",
+      "gss_code": "E06000010",
+      "country": "England",
+      "aliases": [
+        "Hull"
+      ],
+      "lat": 53.7457,
+      "lng": -0.3367
+    },
+    {
+      "name": "Kingston upon Thames",
+      "gss_code": "E09000021",
+      "country": "England",
+      "aliases": [
+        "Kingston"
+      ],
+      "lat": 51.4085,
+      "lng": -0.3064
+    },
+    {
+      "name": "Kirklees",
+      "gss_code": "E08000034",
+      "country": "England",
+      "aliases": [
+        "Huddersfield"
+      ],
+      "lat": 53.6458,
+      "lng": -1.785
+    },
+    {
+      "name": "Knowsley",
+      "gss_code": "E08000011",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.4475,
+      "lng": -2.8596
+    },
+    {
+      "name": "Lambeth",
+      "gss_code": "E09000022",
+      "country": "England",
+      "aliases": [
+        "Brixton"
+      ],
+      "lat": 51.4607,
+      "lng": -0.1163
+    },
+    {
+      "name": "Lancashire",
+      "gss_code": "E10000017",
+      "country": "England",
+      "aliases": [
+        "Lancs"
+      ],
+      "lat": 53.7632,
+      "lng": -2.7031
+    },
+    {
+      "name": "Leeds",
+      "gss_code": "E08000035",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.8008,
+      "lng": -1.5491
+    },
+    {
+      "name": "Leicester",
+      "gss_code": "E06000016",
+      "country": "England",
+      "aliases": [
+        "Leicester City"
+      ],
+      "lat": 52.6369,
+      "lng": -1.1398
+    },
+    {
+      "name": "Leicestershire",
+      "gss_code": "E10000018",
+      "country": "England",
+      "aliases": [],
+      "lat": 52.6369,
+      "lng": -1.1398
+    },
+    {
+      "name": "Lewisham",
+      "gss_code": "E09000023",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.4452,
+      "lng": -0.0209
+    },
+    {
+      "name": "Libraries NI",
+      "gss_code": "N92000002",
+      "country": "Northern Ireland",
+      "aliases": [
+        "Northern Ireland",
+        "Libraries Northern Ireland",
+        "Belfast",
+        "Derry",
+        "Lisburn"
+      ],
+      "lat": 54.5973,
+      "lng": -5.9301
+    },
+    {
+      "name": "Lincolnshire",
+      "gss_code": "E10000019",
+      "country": "England",
+      "aliases": [
+        "Lincs",
+        "GLL Lincolnshire"
+      ],
+      "lat": 53.2344,
+      "lng": -0.5386
+    },
+    {
+      "name": "Liverpool",
+      "gss_code": "E08000012",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.4084,
+      "lng": -2.9916
+    },
+    {
+      "name": "Luton",
+      "gss_code": "E06000057",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.8787,
+      "lng": -0.42
+    },
+    {
+      "name": "Manchester",
+      "gss_code": "E08000003",
+      "country": "England",
+      "aliases": [
+        "Manchester City Council",
+        "Manchester Central Library"
+      ],
+      "lat": 53.4808,
+      "lng": -2.2426
+    },
+    {
+      "name": "Medway",
+      "gss_code": "E06000035",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.3899,
+      "lng": 0.5422
+    },
+    {
+      "name": "Merthyr Tydfil",
+      "gss_code": "W06000024",
+      "country": "Wales",
+      "aliases": [
+        "Merthyr"
+      ],
+      "lat": 51.7486,
+      "lng": -3.38
+    },
+    {
+      "name": "Merton",
+      "gss_code": "E09000024",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.4014,
+      "lng": -0.1958
+    },
+    {
+      "name": "Middlesbrough",
+      "gss_code": "E06000002",
+      "country": "England",
+      "aliases": [
+        "Middlesborough"
+      ],
+      "lat": 54.5742,
+      "lng": -1.235
+    },
+    {
+      "name": "Midlothian",
+      "gss_code": "S12000019",
+      "country": "Scotland",
+      "aliases": [
+        "Dalkeith"
+      ],
+      "lat": 55.85,
+      "lng": -3.1
+    },
+    {
+      "name": "Milton Keynes",
+      "gss_code": "E06000042",
+      "country": "England",
+      "aliases": [
+        "MK"
+      ],
+      "lat": 52.0406,
+      "lng": -0.7594
+    },
+    {
+      "name": "Monmouthshire",
+      "gss_code": "W06000021",
+      "country": "Wales",
+      "aliases": [
+        "Sir Fynwy"
+      ],
+      "lat": 51.81,
+      "lng": -2.85
+    },
+    {
+      "name": "Moray",
+      "gss_code": "S12000020",
+      "country": "Scotland",
+      "aliases": [
+        "Elgin"
+      ],
+      "lat": 57.6497,
+      "lng": -3.3182
+    },
+    {
+      "name": "Na h-Eileanan Siar",
+      "gss_code": "S12000013",
+      "country": "Scotland",
+      "aliases": [
+        "Western Isles",
+        "Western Islands",
+        "Eilean Siar",
+        "Stornoway"
+      ],
+      "lat": 58.2094,
+      "lng": -6.3849
+    },
+    {
+      "name": "Neath Port Talbot",
+      "gss_code": "W06000012",
+      "country": "Wales",
+      "aliases": [
+        "Castell-nedd Port Talbot",
+        "Neath",
+        "Port Talbot"
+      ],
+      "lat": 51.65,
+      "lng": -3.8
+    },
+    {
+      "name": "Newcastle upon Tyne",
+      "gss_code": "E08000021",
+      "country": "England",
+      "aliases": [
+        "Newcastle"
+      ],
+      "lat": 54.9783,
+      "lng": -1.6178
+    },
+    {
+      "name": "Newham",
+      "gss_code": "E09000025",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.5077,
+      "lng": 0.0469
+    },
+    {
+      "name": "Newport",
+      "gss_code": "W06000022",
+      "country": "Wales",
+      "aliases": [
+        "Casnewydd"
+      ],
+      "lat": 51.5842,
+      "lng": -2.9977
+    },
+    {
+      "name": "Norfolk",
+      "gss_code": "E10000020",
+      "country": "England",
+      "aliases": [
+        "Norwich"
+      ],
+      "lat": 52.6309,
+      "lng": 1.2974
+    },
+    {
+      "name": "North Ayrshire",
+      "gss_code": "S12000021",
+      "country": "Scotland",
+      "aliases": [
+        "Irvine"
+      ],
+      "lat": 55.6167,
+      "lng": -4.6667
+    },
+    {
+      "name": "North East Lincolnshire",
+      "gss_code": "E06000012",
+      "country": "England",
+      "aliases": [
+        "Grimsby"
+      ],
+      "lat": 53.5675,
+      "lng": -0.0739
+    },
+    {
+      "name": "North Lanarkshire",
+      "gss_code": "S12000050",
+      "country": "Scotland",
+      "aliases": [
+        "Motherwell"
+      ],
+      "lat": 55.7944,
+      "lng": -3.9844
+    },
+    {
+      "name": "North Lincolnshire",
+      "gss_code": "E06000013",
+      "country": "England",
+      "aliases": [
+        "Scunthorpe"
+      ],
+      "lat": 53.5889,
+      "lng": -0.6542
+    },
+    {
+      "name": "North Northamptonshire",
+      "gss_code": "E06000062",
+      "country": "England",
+      "aliases": [
+        "North Northants",
+        "Kettering",
+        "Corby",
+        "Wellingborough"
+      ],
+      "lat": 52.398,
+      "lng": -0.7259
+    },
+    {
+      "name": "North Somerset",
+      "gss_code": "E06000024",
+      "country": "England",
+      "aliases": [
+        "Weston-super-Mare"
+      ],
+      "lat": 51.346,
+      "lng": -2.977
+    },
+    {
+      "name": "North Tyneside",
+      "gss_code": "E08000022",
+      "country": "England",
+      "aliases": [],
+      "lat": 55.0089,
+      "lng": -1.4883
+    },
+    {
+      "name": "North Yorkshire",
+      "gss_code": "E06000065",
+      "country": "England",
+      "aliases": [],
+      "lat": 54.2323,
+      "lng": -1.4332
+    },
+    {
+      "name": "Northamptonshire",
+      "gss_code": "E10000021",
+      "country": "England",
+      "aliases": [
+        "Northants",
+        "Northamptonshire County Council",
+        "Northamptonshire Libraries"
+      ],
+      "lat": 52.2711,
+      "lng": -0.8732
+    },
+    {
+      "name": "Northumberland",
+      "gss_code": "E06000057",
+      "country": "England",
+      "aliases": [],
+      "lat": 55.1979,
+      "lng": -1.68
+    },
+    {
+      "name": "Nottingham",
+      "gss_code": "E06000018",
+      "country": "England",
+      "aliases": [
+        "Nottingham City"
+      ],
+      "lat": 52.9548,
+      "lng": -1.1581
+    },
+    {
+      "name": "Nottinghamshire",
+      "gss_code": "E10000024",
+      "country": "England",
+      "aliases": [
+        "Notts",
+        "Inspire: Culture, Learning and Libraries"
+      ],
+      "lat": 53.1417,
+      "lng": -1.0253
+    },
+    {
+      "name": "Oldham",
+      "gss_code": "E08000004",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.5409,
+      "lng": -2.1114
+    },
+    {
+      "name": "Orkney Islands",
+      "gss_code": "S12000023",
+      "country": "Scotland",
+      "aliases": [
+        "Orkney",
+        "Kirkwall"
+      ],
+      "lat": 58.9809,
+      "lng": -2.9605
+    },
+    {
+      "name": "Oxfordshire",
+      "gss_code": "E10000025",
+      "country": "England",
+      "aliases": [
+        "Oxford"
+      ],
+      "lat": 51.752,
+      "lng": -1.2577
+    },
+    {
+      "name": "Pembrokeshire",
+      "gss_code": "W06000009",
+      "country": "Wales",
+      "aliases": [
+        "Sir Benfro",
+        "Haverfordwest"
+      ],
+      "lat": 51.8,
+      "lng": -4.9667
+    },
+    {
+      "name": "Perth and Kinross",
+      "gss_code": "S12000024",
+      "country": "Scotland",
+      "aliases": [
+        "Perth & Kinross",
+        "Perth"
+      ],
+      "lat": 56.3958,
+      "lng": -3.4308
+    },
+    {
+      "name": "Peterborough",
+      "gss_code": "E06000031",
+      "country": "England",
+      "aliases": [],
+      "lat": 52.5695,
+      "lng": -0.2405
+    },
+    {
+      "name": "Plymouth",
+      "gss_code": "E06000026",
+      "country": "England",
+      "aliases": [],
+      "lat": 50.3755,
+      "lng": -4.1427
+    },
+    {
+      "name": "Poole",
+      "gss_code": "E06000029",
+      "country": "England",
+      "aliases": [
+        "Borough of Poole",
+        "Poole Libraries"
+      ],
+      "lat": 50.7151,
+      "lng": -1.9873
+    },
+    {
+      "name": "Portsmouth",
+      "gss_code": "E06000044",
+      "country": "England",
+      "aliases": [],
+      "lat": 50.8198,
+      "lng": -1.088
+    },
+    {
+      "name": "Powys",
+      "gss_code": "W06000007",
+      "country": "Wales",
+      "aliases": [
+        "Llandrindod Wells"
+      ],
+      "lat": 52.3,
+      "lng": -3.4
+    },
+    {
+      "name": "Reading",
+      "gss_code": "E06000038",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.4543,
+      "lng": -0.9781
+    },
+    {
+      "name": "Redbridge",
+      "gss_code": "E09000026",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.559,
+      "lng": 0.0741
+    },
+    {
+      "name": "Redcar and Cleveland",
+      "gss_code": "E06000003",
+      "country": "England",
+      "aliases": [
+        "Redcar & Cleveland"
+      ],
+      "lat": 54.5828,
+      "lng": -1.0664
+    },
+    {
+      "name": "Renfrewshire",
+      "gss_code": "S12000026",
+      "country": "Scotland",
+      "aliases": [
+        "Paisley"
+      ],
+      "lat": 55.8456,
+      "lng": -4.4239
+    },
+    {
+      "name": "Rhondda Cynon Taf",
+      "gss_code": "W06000016",
+      "country": "Wales",
+      "aliases": [
+        "RCT",
+        "Rhondda Cynon Taff"
+      ],
+      "lat": 51.65,
+      "lng": -3.4333
+    },
+    {
+      "name": "Richmond upon Thames",
+      "gss_code": "E09000027",
+      "country": "England",
+      "aliases": [
+        "Richmond"
+      ],
+      "lat": 51.4479,
+      "lng": -0.326
+    },
+    {
+      "name": "Rochdale",
+      "gss_code": "E08000005",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.6097,
+      "lng": -2.1557
+    },
+    {
+      "name": "Rotherham",
+      "gss_code": "E08000018",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.43,
+      "lng": -1.357
+    },
+    {
+      "name": "Rutland",
+      "gss_code": "E06000027",
+      "country": "England",
+      "aliases": [],
+      "lat": 52.6599,
+      "lng": -0.6384
+    },
+    {
+      "name": "Salford",
+      "gss_code": "E08000006",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.4875,
+      "lng": -2.2901
+    },
+    {
+      "name": "Sandwell",
+      "gss_code": "E08000028",
+      "country": "England",
+      "aliases": [],
+      "lat": 52.5344,
+      "lng": -2.0163
+    },
+    {
+      "name": "Scottish Borders",
+      "gss_code": "S12000026",
+      "country": "Scotland",
+      "aliases": [
+        "Borders",
+        "Live Borders"
+      ],
+      "lat": 55.5486,
+      "lng": -2.7861
+    },
+    {
+      "name": "Sefton",
+      "gss_code": "E08000014",
+      "country": "England",
+      "aliases": [
+        "Southport"
+      ],
+      "lat": 53.5,
+      "lng": -2.9833
+    },
+    {
+      "name": "Sheffield",
+      "gss_code": "E08000019",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.3811,
+      "lng": -1.4701
+    },
+    {
+      "name": "Shetland Islands",
+      "gss_code": "S12000027",
+      "country": "Scotland",
+      "aliases": [
+        "Shetland",
+        "Lerwick"
+      ],
+      "lat": 60.153,
+      "lng": -1.1493
+    },
+    {
+      "name": "Shropshire",
+      "gss_code": "E06000051",
+      "country": "England",
+      "aliases": [
+        "Shrewsbury"
+      ],
+      "lat": 52.7073,
+      "lng": -2.7553
+    },
+    {
+      "name": "Slough",
+      "gss_code": "E06000039",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.5105,
+      "lng": -0.595
+    },
+    {
+      "name": "Solihull",
+      "gss_code": "E08000029",
+      "country": "England",
+      "aliases": [],
+      "lat": 52.4128,
+      "lng": -1.7782
+    },
+    {
+      "name": "Somerset",
+      "gss_code": "E06000066",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.0154,
+      "lng": -3.1042
+    },
+    {
+      "name": "South Ayrshire",
+      "gss_code": "S12000028",
+      "country": "Scotland",
+      "aliases": [
+        "Ayr"
+      ],
+      "lat": 55.4586,
+      "lng": -4.6292
+    },
+    {
+      "name": "South Gloucestershire",
+      "gss_code": "E06000025",
+      "country": "England",
+      "aliases": [
+        "South Glos"
+      ],
+      "lat": 51.5422,
+      "lng": -2.5361
+    },
+    {
+      "name": "South Lanarkshire",
+      "gss_code": "S12000029",
+      "country": "Scotland",
+      "aliases": [
+        "Hamilton"
+      ],
+      "lat": 55.6736,
+      "lng": -3.7842
+    },
+    {
+      "name": "South Tyneside",
+      "gss_code": "E08000023",
+      "country": "England",
+      "aliases": [
+        "South Shields",
+        "The Word"
+      ],
+      "lat": 54.9833,
+      "lng": -1.4333
+    },
+    {
+      "name": "Southampton",
+      "gss_code": "E06000045",
+      "country": "England",
+      "aliases": [],
+      "lat": 50.9097,
+      "lng": -1.4044
+    },
+    {
+      "name": "Southend-on-Sea",
+      "gss_code": "E06000033",
+      "country": "England",
+      "aliases": [
+        "Southend"
+      ],
+      "lat": 51.5459,
+      "lng": 0.7077
+    },
+    {
+      "name": "Southwark",
+      "gss_code": "E09000028",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.5035,
+      "lng": -0.0804
+    },
+    {
+      "name": "St Helens",
+      "gss_code": "E08000013",
+      "country": "England",
+      "aliases": [
+        "St. Helens",
+        "St Helens Council"
+      ],
+      "lat": 53.4542,
+      "lng": -2.7381
+    },
+    {
+      "name": "Staffordshire",
+      "gss_code": "E10000028",
+      "country": "England",
+      "aliases": [
+        "Staffs"
+      ],
+      "lat": 52.8067,
+      "lng": -2.1167
+    },
+    {
+      "name": "Stirling",
+      "gss_code": "S12000030",
+      "country": "Scotland",
+      "aliases": [],
+      "lat": 56.1165,
+      "lng": -3.9369
+    },
+    {
+      "name": "Stockport",
+      "gss_code": "E08000007",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.4106,
+      "lng": -2.1575
+    },
+    {
+      "name": "Stockton-on-Tees",
+      "gss_code": "E06000004",
+      "country": "England",
+      "aliases": [
+        "Stockton"
+      ],
+      "lat": 54.5667,
+      "lng": -1.3167
+    },
+    {
+      "name": "Stoke-on-Trent",
+      "gss_code": "E06000021",
+      "country": "England",
+      "aliases": [
+        "Stoke"
+      ],
+      "lat": 53.0027,
+      "lng": -2.1794
+    },
+    {
+      "name": "Suffolk",
+      "gss_code": "E10000029",
+      "country": "England",
+      "aliases": [
+        "Suffolk Libraries",
+        "Ipswich"
+      ],
+      "lat": 52.2415,
+      "lng": 0.9034
+    },
+    {
+      "name": "Sunderland",
+      "gss_code": "E08000024",
+      "country": "England",
+      "aliases": [],
+      "lat": 54.9069,
+      "lng": -1.3838
+    },
+    {
+      "name": "Surrey",
+      "gss_code": "E10000030",
+      "country": "England",
+      "aliases": [
+        "Woking",
+        "Guildford",
+        "Surrey County Council"
+      ],
+      "lat": 51.3148,
+      "lng": -0.56
+    },
+    {
+      "name": "Sutton",
+      "gss_code": "E09000029",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.3618,
+      "lng": -0.1945
+    },
+    {
+      "name": "Swansea",
+      "gss_code": "W06000011",
+      "country": "Wales",
+      "aliases": [
+        "Abertawe"
+      ],
+      "lat": 51.6214,
+      "lng": -3.9436
+    },
+    {
+      "name": "Swindon",
+      "gss_code": "E06000030",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.5558,
+      "lng": -1.7797
+    },
+    {
+      "name": "Tameside",
+      "gss_code": "E08000008",
+      "country": "England",
+      "aliases": [
+        "Ashton-under-Lyne"
+      ],
+      "lat": 53.4883,
+      "lng": -2.0911
+    },
+    {
+      "name": "Telford and Wrekin",
+      "gss_code": "E06000020",
+      "country": "England",
+      "aliases": [
+        "Telford & Wrekin",
+        "Telford"
+      ],
+      "lat": 52.6784,
+      "lng": -2.4452
+    },
+    {
+      "name": "Thurrock",
+      "gss_code": "E06000034",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.4889,
+      "lng": 0.3582
+    },
+    {
+      "name": "Torbay",
+      "gss_code": "E06000028",
+      "country": "England",
+      "aliases": [
+        "Torquay",
+        "Paignton"
+      ],
+      "lat": 50.4638,
+      "lng": -3.535
+    },
+    {
+      "name": "Torfaen",
+      "gss_code": "W06000020",
+      "country": "Wales",
+      "aliases": [
+        "Cwmbran",
+        "Pontypool"
+      ],
+      "lat": 51.65,
+      "lng": -3.05
+    },
+    {
+      "name": "Tower Hamlets",
+      "gss_code": "E09000030",
+      "country": "England",
+      "aliases": [
+        "Idea Store",
+        "Idea Stores"
+      ],
+      "lat": 51.5099,
+      "lng": -0.0059
+    },
+    {
+      "name": "Trafford",
+      "gss_code": "E08000009",
+      "country": "England",
+      "aliases": [
+        "Altrincham",
+        "Sale"
+      ],
+      "lat": 53.4286,
+      "lng": -2.3333
+    },
+    {
+      "name": "Vale of Glamorgan",
+      "gss_code": "W06000017",
+      "country": "Wales",
+      "aliases": [
+        "Bro Morgannwg",
+        "Barry"
+      ],
+      "lat": 51.4,
+      "lng": -3.35
+    },
+    {
+      "name": "Wakefield",
+      "gss_code": "E08000036",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.6833,
+      "lng": -1.4964
+    },
+    {
+      "name": "Walsall",
+      "gss_code": "E08000030",
+      "country": "England",
+      "aliases": [],
+      "lat": 52.5855,
+      "lng": -1.983
+    },
+    {
+      "name": "Waltham Forest",
+      "gss_code": "E09000031",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.5908,
+      "lng": -0.0134
+    },
+    {
+      "name": "Wandsworth",
+      "gss_code": "E09000032",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.4567,
+      "lng": -0.191
+    },
+    {
+      "name": "Warrington",
+      "gss_code": "E06000007",
+      "country": "England",
+      "aliases": [
+        "LiveWire Warrington"
+      ],
+      "lat": 53.3917,
+      "lng": -2.5972
+    },
+    {
+      "name": "Warwickshire",
+      "gss_code": "E10000031",
+      "country": "England",
+      "aliases": [
+        "Warwick"
+      ],
+      "lat": 52.2833,
+      "lng": -1.5833
+    },
+    {
+      "name": "West Berkshire",
+      "gss_code": "E06000037",
+      "country": "England",
+      "aliases": [
+        "Newbury"
+      ],
+      "lat": 51.4,
+      "lng": -1.32
+    },
+    {
+      "name": "West Dunbartonshire",
+      "gss_code": "S12000039",
+      "country": "Scotland",
+      "aliases": [
+        "Dumbarton"
+      ],
+      "lat": 55.9442,
+      "lng": -4.5686
+    },
+    {
+      "name": "West Lothian",
+      "gss_code": "S12000040",
+      "country": "Scotland",
+      "aliases": [
+        "Livingston"
+      ],
+      "lat": 55.9,
+      "lng": -3.5
+    },
+    {
+      "name": "West Northamptonshire",
+      "gss_code": "E06000063",
+      "country": "England",
+      "aliases": [
+        "West Northants",
+        "Northampton",
+        "Daventry"
+      ],
+      "lat": 52.2405,
+      "lng": -0.9027
+    },
+    {
+      "name": "West Sussex",
+      "gss_code": "E10000032",
+      "country": "England",
+      "aliases": [
+        "Chichester"
+      ],
+      "lat": 50.8365,
+      "lng": -0.7792
+    },
+    {
+      "name": "Westminster",
+      "gss_code": "E09000033",
+      "country": "England",
+      "aliases": [
+        "City of Westminster"
+      ],
+      "lat": 51.4973,
+      "lng": -0.1372
+    },
+    {
+      "name": "Westmorland and Furness",
+      "gss_code": "E06000064",
+      "country": "England",
+      "aliases": [
+        "Westmorland & Furness",
+        "Barrow",
+        "Kendal"
+      ],
+      "lat": 54.3262,
+      "lng": -2.745
+    },
+    {
+      "name": "Wigan",
+      "gss_code": "E08000010",
+      "country": "England",
+      "aliases": [],
+      "lat": 53.545,
+      "lng": -2.6325
+    },
+    {
+      "name": "Wiltshire",
+      "gss_code": "E06000054",
+      "country": "England",
+      "aliases": [
+        "Trowbridge",
+        "Salisbury"
+      ],
+      "lat": 51.349,
+      "lng": -1.992
+    },
+    {
+      "name": "Windsor and Maidenhead",
+      "gss_code": "E06000040",
+      "country": "England",
+      "aliases": [
+        "Windsor & Maidenhead",
+        "Maidenhead",
+        "Windsor"
+      ],
+      "lat": 51.5225,
+      "lng": -0.7183
+    },
+    {
+      "name": "Wirral",
+      "gss_code": "E08000015",
+      "country": "England",
+      "aliases": [
+        "Birkenhead"
+      ],
+      "lat": 53.3667,
+      "lng": -3.05
+    },
+    {
+      "name": "Wokingham",
+      "gss_code": "E06000041",
+      "country": "England",
+      "aliases": [],
+      "lat": 51.41,
+      "lng": -0.835
+    },
+    {
+      "name": "Wolverhampton",
+      "gss_code": "E08000031",
+      "country": "England",
+      "aliases": [],
+      "lat": 52.587,
+      "lng": -2.1288
+    },
+    {
+      "name": "Worcestershire",
+      "gss_code": "E10000034",
+      "country": "England",
+      "aliases": [
+        "Worcester",
+        "The Hive"
+      ],
+      "lat": 52.192,
+      "lng": -2.22
+    },
+    {
+      "name": "Wrexham",
+      "gss_code": "W06000006",
+      "country": "Wales",
+      "aliases": [
+        "Wrecsam"
+      ],
+      "lat": 53.0458,
+      "lng": -2.9931
+    },
+    {
+      "name": "York",
+      "gss_code": "E06000014",
+      "country": "England",
+      "aliases": [
+        "City of York",
+        "Explore York"
+      ],
+      "lat": 53.9599,
+      "lng": -1.0873
+    }
   ]
 }

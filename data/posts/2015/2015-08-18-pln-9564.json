@@ -1,0 +1,77 @@
+{
+  "id": "pln-post-9564",
+  "source_id": 9564,
+  "url": "https://www.publiclibrariesnews.com/2015/08/is-it-fine-to-fine.html",
+  "slug": "is-it-fine-to-fine",
+  "title": "Is it fine to fine?",
+  "date_published": "2015-08-18T20:30:34",
+  "date_modified": "2015-08-27T20:10:29",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The proposal by Angus Libraries to remove overdue book fees appears to run counter to the straitened times in which we live but it has certainly caused some conversations. The theory is that removing fines will remove the fear borrowers have if they have late books and thus they will return long-lost books. It will also remove a fear of those wavering about joining because of fear about being looked at sternly over the counter. There is also of course the important point that the removal of fines will allow greater access by disadvantaged social groups. Truly free book lending has been a part of the landscape in some authorities for years for children (with a move towards withdrawing fines in, for example, West Dunbartonshire a decade ago apparently doing well) but rarely for adults so this is an interesting move. If it garners new members, a (however counter-intuitive) increase in stock and good press then all to the good. More cash-strapped authorities, facing big cuts in funding. may look at Angus with incredulity at the move (especially if they live in Canada). We’ll see if it’s a success and whether, in a few years time, we all get on the bandwagon. Related to this is the thorny issue of lost books and fines recovery – it you’re interested in these (as well as a brief treatment on removing fines) then see the PLN page here. For those interested in the ethics and reasoning behind fines (or no fines), David McEnemy has very kindly made his essay on the subject available here. And you may also want to see the (a bit dated now) Guardian article on the subject here.",
+    "html": "<p style=\"text-align: justify;\">The proposal by Angus Libraries to remove overdue book fees appears to run counter to the straitened times in which we live but it has certainly caused some conversations. The theory is that removing fines will remove the fear borrowers have if they have late books and thus they will return long-lost books. It will also remove a fear of those wavering about joining because of fear about being looked at sternly over the counter. There is also of course the important point that the removal of fines will allow greater access by disadvantaged social groups. Truly free book lending has been a part of the landscape in some authorities for years for children (with a move towards withdrawing fines in, for example, West Dunbartonshire a decade ago apparently doing well) but rarely for adults so this is an interesting move. If it garners new members, a (however counter-intuitive) increase in stock and good press then all to the good. More cash-strapped authorities, facing big cuts in funding. may look at Angus with incredulity at the move (<a href=\"http://blogs.windsorstar.com/news/no-fine-experiment-at-windsor-public-library-has-been-a-failure-report-suggests\">especially if they live in Canada</a>). We&#8217;ll see if it&#8217;s a success and whether, in a few years time, we all get on the bandwagon.</p> <p style=\"text-align: justify;\">Related to this is the thorny issue of lost books and fines recovery &#8211; it you&#8217;re interested in these (as well as a brief treatment on removing fines) then <a href=\"https://www.publiclibrariesnews.com/campaigning/increasing-income/fines-recovery\">see the PLN page here</a>. For those interested in the ethics and reasoning behind fines (or no fines),<a href=\"http://www.researchgate.net/publication/249361334_On_library_fines__Ensuring_civic_responsibility_or_an_easy_income_stream\"> David McEnemy has very kindly made his essay on the subject available here</a>. And you may also want to see the (a bit dated now) <a href=\"http://www.theguardian.com/books/booksblog/2008/aug/18/forandagainstlibraryfines\">Guardian article on the subject here</a>.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 27,
+  "story_ids": [
+    "pln-story-9564-changes-001",
+    "pln-story-9564-changes-002",
+    "pln-story-9564-changes-003",
+    "pln-story-9564-local-001",
+    "pln-story-9564-local-002",
+    "pln-story-9564-local-003",
+    "pln-story-9564-local-004",
+    "pln-story-9564-local-005",
+    "pln-story-9564-local-006",
+    "pln-story-9564-local-007",
+    "pln-story-9564-local-008",
+    "pln-story-9564-local-009",
+    "pln-story-9564-local-010",
+    "pln-story-9564-local-011",
+    "pln-story-9564-local-012",
+    "pln-story-9564-local-013",
+    "pln-story-9564-intl-001",
+    "pln-story-9564-intl-002",
+    "pln-story-9564-intl-003",
+    "pln-story-9564-intl-004",
+    "pln-story-9564-natl-001",
+    "pln-story-9564-natl-002",
+    "pln-story-9564-natl-003",
+    "pln-story-9564-natl-004",
+    "pln-story-9564-ideas-001",
+    "pln-story-9564-ideas-002",
+    "pln-story-9564-ideas-003"
+  ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 15,
+    "countries_count": 4,
+    "top_categories": {
+      "cuts_and_finance": 8,
+      "closures_and_threats": 8,
+      "staffing_and_unions": 4,
+      "opening_hours": 4,
+      "volunteers_and_community": 4,
+      "events_and_activities": 4,
+      "co_location": 3,
+      "refurbishment_and_new_builds": 2,
+      "campaigns_and_protests": 2,
+      "book_bans_and_challenges": 2,
+      "digital_and_technology": 2
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "pln-post-8848",
+  "source_id": 8848,
+  "url": "https://www.publiclibrariesnews.com/2015/02/cuts-ideas-and-appeals.html",
+  "slug": "cuts-ideas-and-appeals",
+  "title": "Cuts, ideas and appeals",
+  "date_published": "2015-02-26T22:17:23",
+  "date_modified": "2015-03-01T21:27:47",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Protests about cuts in Thurrock may have assisted in reducing the impacts of the cuts there, although the small print may mean the improvements are more apparent than real. Anouncements of cuts have come out in Hartlepool and more details on deep cuts have come out about Lambeth. Moving away from the general depression, there’s some interesting initiatives like Raspberry Pi workshops (not a new thing but one I have not highlighted on these pages before) and also, would you believe, literary anarchists. Finally, for something completely different, there’s an appeal to help out recording a play based in a library and for your local library card to be sent for a collection forming in Australia.",
+    "html": "<p style=\"text-align: justify;\">Protests about cuts in Thurrock may have assisted in reducing the impacts of the cuts there, although the small print may mean the improvements are more apparent than real. Anouncements of cuts have come out in Hartlepool and more details on deep cuts have come out about Lambeth.</p> <p style=\"text-align: justify;\">Moving away from the general depression, there&#8217;s some interesting initiatives like Raspberry Pi workshops (not a new thing but one I have not highlighted on these pages before) and also, would you believe, literary anarchists. Finally, for something completely different, there&#8217;s an appeal to help out recording a play based in a library and for your local library card to be sent for a collection forming in Australia.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news"
+  ],
+  "stories_count": 31,
+  "story_ids": [
+    "pln-story-8848-changes-001",
+    "pln-story-8848-changes-002",
+    "pln-story-8848-intl-001",
+    "pln-story-8848-intl-002",
+    "pln-story-8848-intl-003",
+    "pln-story-8848-intl-004",
+    "pln-story-8848-intl-005",
+    "pln-story-8848-intl-006",
+    "pln-story-8848-intl-007",
+    "pln-story-8848-intl-008",
+    "pln-story-8848-intl-009",
+    "pln-story-8848-intl-010",
+    "pln-story-8848-intl-011",
+    "pln-story-8848-intl-012",
+    "pln-story-8848-intl-013",
+    "pln-story-8848-intl-014",
+    "pln-story-8848-intl-015",
+    "pln-story-8848-intl-016",
+    "pln-story-8848-intl-017",
+    "pln-story-8848-intl-018",
+    "pln-story-8848-intl-019",
+    "pln-story-8848-intl-020",
+    "pln-story-8848-intl-021",
+    "pln-story-8848-ideas-001",
+    "pln-story-8848-ideas-002",
+    "pln-story-8848-ideas-003",
+    "pln-story-8848-ideas-004",
+    "pln-story-8848-ideas-005",
+    "pln-story-8848-ideas-006",
+    "pln-story-8848-ideas-007",
+    "pln-story-8848-ideas-008"
+  ],
+  "stats": {
+    "authorities_count": 16,
+    "libraries_count": 14,
+    "countries_count": 3,
+    "top_categories": {
+      "closures_and_threats": 10,
+      "cuts_and_finance": 9,
+      "campaigns_and_protests": 4,
+      "staffing_and_unions": 4,
+      "volunteers_and_community": 3,
+      "events_and_activities": 3,
+      "digital_and_technology": 3,
+      "refurbishment_and_new_builds": 2,
+      "governance_and_trusts": 2,
+      "mobile_and_outreach": 1,
+      "co_location": 1,
+      "opening_hours": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "pln-post-200",
+  "source_id": 200,
+  "url": "https://www.publiclibrariesnews.com/2012/07/4000-petition-names-not-enough-local-democracy-in-action.html",
+  "slug": "4000-petition-names-not-enough-local-democracy-in-action",
+  "title": "4000 petition names not enough? Local democracy in action",
+  "date_published": "2012-07-09T19:20:00",
+  "date_modified": "2012-07-29T12:01:28",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "News “@ggnewed @GoodLibraries There’s no truth in these rumours. DCMS recently passed 20 successful yrs & its responsibilities continue to expand.” DCMS official Twitter account on rumours of decision to close the department. Connecting spaces and places: the public library in the 21st Century, by John Blewitt – Envisioning the Library of the Future. “these new libraries do not have to be iconic projects garnering front page coverage in journals and magazines. They just need to be attuned to their neighbourhoods and localities. The Shard in Birmingham and Canada Water Library in Southwark (like Peckham Library before it) are local libraries whose success will depend on their ability draw energy from and in turn to energise their local communities.” Southampton University library: the resource revolution will be digitised – Guardian. “Our virtual reading room is now home to some of the library’s most important collections. The viewing figures for the digitised content give testament to the reach of the web: in the academic year between August 2010 and July 2011, the electronic collection of nineteenth century pamphlets was viewed over 85,380 times, with around 51,800 PDF downloads and over 4,380 citation captures. These numbers far outstrip reader requests to view the original paper versions held by seven university libraries.”",
+    "html": "<strong>News</strong></p> <blockquote> <blockquote> <p><a href=\"https://twitter.com/ggnewed\"><s>&#8220;</s><strong>@ggnewed</strong></a> <a href=\"https://twitter.com/GoodLibraries\">@<strong>GoodLibraries</strong></a> There&#8217;s no truth in these rumours. DCMS recently passed 20 successful yrs &amp; its responsibilities continue to expand.&#8221;<strong> <a href=\"https://twitter.com/DCMS/status/222322871031177216\">DCMS official Twitter account</a></strong> on rumours of decision to close the department.<!--more--></p> <li><a href=\"http://librariesconversation.wordpress.com/2012/07/09/guest-post-15-connecting-spaces-and-places-the-public-library-in-the-21st-century-by-john-blewitt/\"><strong>Connecting spaces and places: the public library in the 21st Century, by John Blewitt </strong></a>&#8211; Envisioning the Library of the Future. <strong> &#8220;</strong>these new libraries do not have to be iconic projects garnering front page coverage in journals and magazines. They just need to be attuned to their neighbourhoods and localities. The Shard in Birmingham and Canada Water Library in Southwark (like Peckham Library before it) are local libraries whose success will depend on their ability draw energy from and in turn to energise their local communities.&#8221;</li> <li><a href=\"http://www.guardian.co.uk/higher-education-network/blog/2012/jul/09/university-of-southampton-library-digitising-resources?newsfeed=true\"><strong>Southampton University library: the resource revolution will be digitised </strong>&#8211; </a>Guardian. <strong> </strong>&#8220;Our <a href=\"http://viewer.soton.ac.uk/viewer/\">virtual reading room</a> is now home to some of the library&#8217;s most important collections. The viewing figures for the digitised content give testament to the reach of the web: in the academic year between August 2010 and July 2011, the electronic collection of nineteenth century pamphlets was viewed over 85,380 times, with around 51,800 PDF downloads and over 4,380 citation captures. These numbers far outstrip reader requests to view the original paper versions held by seven university libraries.&#8221;</li>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 9,
+  "story_ids": [
+    "pln-story-200-changes-001",
+    "pln-story-200-local-001",
+    "pln-story-200-local-002",
+    "pln-story-200-local-003",
+    "pln-story-200-local-004",
+    "pln-story-200-local-005",
+    "pln-story-200-local-006",
+    "pln-story-200-local-007",
+    "pln-story-200-local-008"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 4,
+    "countries_count": 1,
+    "top_categories": {
+      "campaigns_and_protests": 3,
+      "staffing_and_unions": 2,
+      "volunteers_and_community": 2,
+      "events_and_activities": 1,
+      "book_bans_and_challenges": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-12861",
+  "source_id": 12861,
+  "url": "https://www.publiclibrariesnews.com/2017/07/500.html",
+  "slug": "500",
+  "title": "500",
+  "date_published": "2017-07-18T20:50:36",
+  "date_modified": "2017-07-30T19:07:42",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I’ve been adding up the figures month by month as news comes in and today’s the day. I count 500 libraries in the UK that are now staffed, if not entirely run, by volunteers. Of that number, the great majority are branches which have lost paid staff and the library users have been presented with the choice of volunteering or seeing their library close. Some are entirely new additional libraries. Each one is different, with some largely funded and stocked by councils apart from the staff and others entirely self-sufficient. What all but a handful have in common is that they have come on the scene since 2010. They’re a new phenomenon in many ways and, all the pros and cons aside, show how much people care for their local library service.",
+    "html": "<p style=\"text-align: justify;\"><a href=\"https://www.publiclibrariesnews.com/about-public-libraries-news/list-of-uk-volunteer-run-libraries\">I&#8217;ve been adding up the figures month by month as news comes in and today&#8217;s the day. I count 500 libraries in the UK that are now staffed, if not entirely run, by volunteers</a>. Of that number, the great majority are branches which have lost paid staff and the library users have been presented with the choice of volunteering or seeing their library close. Some are entirely new additional libraries. Each one is different, with some largely funded and stocked by councils apart from the staff and others entirely self-sufficient. What all but a handful have in common is that they have come on the scene since 2010. They&#8217;re a new phenomenon in many ways and, all the<a href=\"https://www.publiclibrariesnews.com/campaigning/volunteer-run-libraries/pros\"> pros </a>and <a href=\"https://www.publiclibrariesnews.com/campaigning/volunteer-run-libraries/cons\">cons</a> aside, show how much people care for their local library service.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 29,
+  "story_ids": [
+    "pln-story-12861-changes-001",
+    "pln-story-12861-changes-002",
+    "pln-story-12861-changes-003",
+    "pln-story-12861-local-001",
+    "pln-story-12861-local-002",
+    "pln-story-12861-local-003",
+    "pln-story-12861-local-004",
+    "pln-story-12861-local-005",
+    "pln-story-12861-local-006",
+    "pln-story-12861-local-007",
+    "pln-story-12861-local-008",
+    "pln-story-12861-local-009",
+    "pln-story-12861-local-010",
+    "pln-story-12861-local-011",
+    "pln-story-12861-local-012",
+    "pln-story-12861-local-013",
+    "pln-story-12861-local-014",
+    "pln-story-12861-local-015",
+    "pln-story-12861-local-016",
+    "pln-story-12861-local-017",
+    "pln-story-12861-local-018",
+    "pln-story-12861-local-019",
+    "pln-story-12861-local-020",
+    "pln-story-12861-local-021",
+    "pln-story-12861-natl-001",
+    "pln-story-12861-natl-002",
+    "pln-story-12861-natl-003",
+    "pln-story-12861-natl-004",
+    "pln-story-12861-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 16,
+    "libraries_count": 12,
+    "countries_count": 2,
+    "top_categories": {
+      "refurbishment_and_new_builds": 9,
+      "events_and_activities": 7,
+      "closures_and_threats": 6,
+      "staffing_and_unions": 6,
+      "volunteers_and_community": 5,
+      "book_bans_and_challenges": 3,
+      "cuts_and_finance": 2,
+      "opening_hours": 2,
+      "campaigns_and_protests": 2,
+      "co_location": 2,
+      "unstaffed_open_plus": 1,
+      "governance_and_trusts": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pln-post-259",
+  "source_id": 259,
+  "url": "https://www.publiclibrariesnews.com/2012/04/how-innovative-is-your-library.html",
+  "slug": "how-innovative-is-your-library",
+  "title": "How innovative is your library?",
+  "date_published": "2012-04-09T20:43:00",
+  "date_modified": "2012-04-09T20:43:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "News Action continues as people fight for libraries – False Economy. Summary of the Speak Up for Libraries day and library lobbying activities. “The print edition of The Bookseller has a News Report by Benedicte Page reporting that the SCL is to have meetings with individual publishers over e-book lending, with licensing business models amongst proposals for discussion. Leasing e-books for a set time period, or a limited number of loans – the proposal favoured by Harper Collins a year ago, and at the time widely criticised – are among the options being put forward. Mark Taylor, chair of the SCL digital group is quoted as saying … that in the absence of Public Lending Right payments for e-books, a proposal for alternative remuneration for authors was “in the mix”. In the report Nicola Solomon, general secretary of the Society of Authors, questioned whether e-lending was a core service for libraries. “My personal view is that libraries are important as community spaces, and (that they) are maybe undermining their own value if they are e-book lending instead of physical lending.” Desmonde Clarke (by email) Canadian libraries: a tale of two authorities – Word With Jam. Looks at two different Canadian library authorities: an expanding one in a prosperous suburb and the cuts-hit Toronto system. “After ten days, the union concluded a deal with the Library Board that involved some compromise on both sides. But Toronto’s libraries reopened on 30th March with their workers in a better position than those in unions who had to deal directly with the City Council. Toronto still loves its libraries, even if the ‘Twin Fordmayors’ still don’t get it. ” Ebook prices should be halved – Telegraph. Tim Coates: “Bilbary would also partner with libraries, allowing customers to buy books with the money going to their local library. The site has been working with library services in the US but Mr Coates said it was much harder to do the same thing in Britain. “It isn’t funding that’s the problem with the English public library system,” he said, “they’re so badly run.” Tim Coates on e-books: “e-books are not for public libraries” – CoatesWatch. Quotes several older articles by Mr Coates.",
+    "html": "<b>News</b></p> <ul style=\"text-align: justify;\"> <li><a href=\"http://falseeconomy.org.uk/blog/action-continues-as-people-fight-for-libraries\"><b>Action continues as people fight for libraries </b></a>&#8211; False Economy. Summary of the Speak Up for Libraries day and library lobbying activities. <blockquote><p>&#8220;The print edition of <a href=\"http://www.thebookseller.com/\">The Bookseller</a> has a News Report by Benedicte Page reporting that the SCL is to have meetings with individual publishers over e-book lending, with licensing business models amongst proposals for discussion. Leasing e-books for a set time period, or a limited number of loans – the proposal favoured by Harper Collins a year ago, and at the time widely criticised – are among the options being put forward. Mark Taylor, chair of the SCL digital group is quoted as saying &#8230; that in the absence of Public Lending Right payments for e-books, a proposal for alternative remuneration for authors was “in the mix”. In the report Nicola Solomon, general secretary of the Society of Authors, questioned whether e-lending was a core service for libraries. “My personal view is that libraries are important as community spaces, and (that they) are maybe undermining their own value if they are e-book lending instead of physical lending.” Desmonde Clarke (by email)</p> <li><b><a href=\"http://www.blog.wordswithjam.co.uk/\">Canadian libraries: a tale of two authorities</a> </b>&#8211; Word With Jam. Looks at two different Canadian library authorities: an expanding one in a prosperous suburb and the cuts-hit Toronto system. &#8220;After ten days, the union concluded a deal with the Library Board that involved some compromise on both sides. But Toronto’s libraries reopened on 30th March with their workers in a better position than those in unions who had to deal directly with the City Council. Toronto still loves its libraries, even if the ‘Twin Fordmayors’ still don’t get it. &#8221; <b> </b></li> <li><b><a href=\"http://www.telegraph.co.uk/technology/news/9189035/Ebooks-prices-should-be-halved.html\">Ebook prices should be halved</a> </b>&#8211; Telegraph. Tim Coates: &#8220;Bilbary would also partner with libraries, allowing customers to buy books with the money going to their local library. The site has been working with library services in the US but Mr Coates said it was much harder to do the same thing in Britain. &#8220;It isn&#8217;t funding that&#8217;s the problem with the English public library system,&#8221; he said, &#8220;they&#8217;re so badly run.&#8221; </li> <li><b><a href=\"http://coateswatch.blogspot.co.uk/2012/04/tim-coates-on-e-books-books-are-not-for.html\">Tim Coates on e-books: &#8220;e-books are not for public libraries&#8221;</a> </b>&#8211; CoatesWatch. Quotes several older articles by Mr Coates.</li>"
+  },
+  "sections_found": [
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 15,
+  "story_ids": [
+    "pln-story-259-local-001",
+    "pln-story-259-local-002",
+    "pln-story-259-local-003",
+    "pln-story-259-local-004",
+    "pln-story-259-local-005",
+    "pln-story-259-local-006",
+    "pln-story-259-local-007",
+    "pln-story-259-local-008",
+    "pln-story-259-local-009",
+    "pln-story-259-natl-001",
+    "pln-story-259-natl-002",
+    "pln-story-259-natl-003",
+    "pln-story-259-natl-004",
+    "pln-story-259-natl-005",
+    "pln-story-259-natl-006"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 11,
+    "countries_count": 1,
+    "top_categories": {
+      "closures_and_threats": 7,
+      "cuts_and_finance": 5,
+      "volunteers_and_community": 3,
+      "staffing_and_unions": 3,
+      "events_and_activities": 2,
+      "mobile_and_outreach": 2,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

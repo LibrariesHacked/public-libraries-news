@@ -1,0 +1,70 @@
+{
+  "id": "pln-post-6763",
+  "source_id": 6763,
+  "url": "https://www.publiclibrariesnews.com/2014/01/bonkers.html",
+  "slug": "bonkers",
+  "title": "Bonkers",
+  "date_published": "2014-01-20T23:14:57",
+  "date_modified": "2014-01-21T22:39:35",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I didn’t mention it in my look at the DCMS report on public libraries yesterday because it’s been done before but there is a dispute about the number of libraries closed in the last couple of years. The report said that, as far as they could tell, it was around 90. This incensed others who called the figure “bonkers” and point out that Cipfa count about three times that many and Public Libraries News a fair few more. The reasons for this disparity is all down to interpretation of the statistics. The DCMS count (for some reason, can’t quite put my finger on it, someone help me out here) the very minimum ignoring volunteer and mobile libraries, Cipfa count those councils tell it about and this blog counts absolutely everything, including those that are just under threat and not closed yet. However, the scary thing is that “as far as they could tell” bit. Because the DCMS, the Central Government for goodness sake, has no access to reliable facts. Cipfa includes a general up or down figure on the number of service points and relies on councils telling it the honest truth to consistent rules … which is a big ask. When it comes down to it, that means that there’s really no independent checking, which makes it a bit of a joke if you’re actually wanting something as ambitious as truly comparative data between authorities and between years. No-one else official counts up the figures at all so it’s left to guesswork. Which is probably how the minister wants it. Which is the true madness here.",
+    "html": "<p style=\"text-align: justify;\"><a title=\"PLN\" href=\"https://www.publiclibrariesnews.com/2014/01/dcms-presents-the-best-picture-doncaster-the-worst.html\">I didn&#8217;t mention it in my look at the DCMS report on public libraries</a> yesterday <a title=\"Full Fact\" href=\"http://fullfact.org/factchecks/how_many_public_libraries_have_closed_since_cuts_coalition-27697\">because it&#8217;s been done before</a> but there is a dispute about the number of libraries closed in the last couple of years. The report said that, as far as they could tell, it was around 90. This incensed others <a title=\"BookSeller\" href=\"http://www.thebookseller.com/news/campaigners-brand-dcms-library-stats-bonkers.html\">who called the figure &#8220;bonkers&#8221;</a> and point out that Cipfa count about three times that many and <em>Public Libraries News </em>a fair few more. The reasons for this disparity is all down to interpretation of the statistics. The DCMS count (for some reason, can&#8217;t quite put my finger on it, someone help me out here) the very minimum ignoring volunteer and mobile libraries, Cipfa count those councils tell it about and this blog counts absolutely everything, including those that are just under threat and not closed yet.</p> <p style=\"text-align: justify;\">However, the scary thing is that &#8220;as far as they could tell&#8221; bit. Because the DCMS, the <em>Central Government </em>for goodness sake, has no access to reliable facts. Cipfa includes a general up or down figure on the number of service points and relies on councils telling it the honest truth to consistent rules &#8230; which is a big ask. When it comes down to it, that means that there&#8217;s really no independent checking, which makes it a bit of a joke if you&#8217;re actually wanting something as ambitious as truly comparative data between authorities and between years. No-one else official counts up the figures at all so it&#8217;s left to guesswork. Which is probably how the minister wants it. Which is the true madness here.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 22,
+  "story_ids": [
+    "pln-story-6763-changes-001",
+    "pln-story-6763-changes-002",
+    "pln-story-6763-changes-003",
+    "pln-story-6763-changes-004",
+    "pln-story-6763-changes-005",
+    "pln-story-6763-changes-006",
+    "pln-story-6763-changes-007",
+    "pln-story-6763-changes-008",
+    "pln-story-6763-changes-009",
+    "pln-story-6763-intl-001",
+    "pln-story-6763-intl-002",
+    "pln-story-6763-intl-003",
+    "pln-story-6763-intl-004",
+    "pln-story-6763-intl-005",
+    "pln-story-6763-intl-006",
+    "pln-story-6763-intl-007",
+    "pln-story-6763-intl-008",
+    "pln-story-6763-intl-009",
+    "pln-story-6763-intl-010",
+    "pln-story-6763-intl-011",
+    "pln-story-6763-intl-012",
+    "pln-story-6763-intl-013"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 7,
+    "countries_count": 5,
+    "top_categories": {
+      "cuts_and_finance": 7,
+      "closures_and_threats": 5,
+      "volunteers_and_community": 4,
+      "campaigns_and_protests": 3,
+      "digital_and_technology": 3,
+      "events_and_activities": 3,
+      "staffing_and_unions": 2,
+      "mobile_and_outreach": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "opening_hours": 1,
+      "governance_and_trusts": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

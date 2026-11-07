@@ -1,0 +1,69 @@
+{
+  "id": "pln-post-6044",
+  "source_id": 6044,
+  "url": "https://www.publiclibrariesnews.com/2013/09/the-forum-and-lincolnshire.html",
+  "slug": "the-forum-and-lincolnshire",
+  "title": "The Forum and Lincolnshire",
+  "date_published": "2013-09-30T21:53:30",
+  "date_modified": "2013-10-02T20:56:10",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The imminent opening of the Forum represents a triumph of partnership between different organisations. The library is a joint one between a local authority, a further education college and a university. At £27m it represents a serious commitment to libraries from those organisations and firmly places it in the tradition of big new libraries that have served as a counterpoint to the darker news that everyone knows about. It also continues the tradition (as already seen in Liverpool and Birmingham) of investment in the centre and reduced investment in the branches. The campaigners in Lincolnshire have had a notably vocal and well-publicised campaign against those in their county. The council there has been more obvious than most in using its consultation as a way of gaining volunteers to run libraries and also one of the more vocal in saying libraries are less important than once they were. The widespread opposition to volunteers running them and the demonstrably huge reaction to the cuts does not, so far, seem to have changed their tune.",
+    "html": "<p style=\"text-align: justify;\"><strong></strong><a title=\"Echo\" href=\"http://www.echo-news.co.uk/news/10705760._/\">The imminent opening of the Forum represents a triumph of partnership between different organisations</a>. The library is a joint one between a local authority, a further education college and a university. At £27m it represents a serious commitment to libraries from those organisations and firmly places it in the tradition of big new libraries that have served as a counterpoint to the darker news that everyone knows about. It also continues the tradition (as already seen in Liverpool and Birmingham) of investment in the centre and <a title=\"Heart\" href=\"http://www.heart.co.uk/essex/news/local/southend-consultation-future-libraries/\">reduced investment in the branches</a>.</p> <p style=\"text-align: justify;\">The campaigners in Lincolnshire have had a notably vocal and well-publicised campaign against those in their county. <a title=\"BBC\" href=\"http://www.bbc.co.uk/news/uk-england-lincolnshire-24339756\">The council there has been more obvious than most in using its consultation as a way of gaining volunteers to run libraries and also one of the more vocal in saying libraries are less important than once they were</a>. The widespread opposition to volunteers running them and the demonstrably huge reaction to the cuts does not, so far, seem to have changed their tune.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 23,
+  "story_ids": [
+    "pln-story-6044-changes-001",
+    "pln-story-6044-changes-002",
+    "pln-story-6044-changes-003",
+    "pln-story-6044-changes-004",
+    "pln-story-6044-changes-005",
+    "pln-story-6044-changes-006",
+    "pln-story-6044-local-001",
+    "pln-story-6044-local-002",
+    "pln-story-6044-local-003",
+    "pln-story-6044-local-004",
+    "pln-story-6044-local-005",
+    "pln-story-6044-local-006",
+    "pln-story-6044-local-007",
+    "pln-story-6044-local-008",
+    "pln-story-6044-local-009",
+    "pln-story-6044-local-010",
+    "pln-story-6044-local-011",
+    "pln-story-6044-local-012",
+    "pln-story-6044-local-013",
+    "pln-story-6044-local-014",
+    "pln-story-6044-local-015",
+    "pln-story-6044-local-016",
+    "pln-story-6044-local-017"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 4,
+    "countries_count": 2,
+    "top_categories": {
+      "staffing_and_unions": 6,
+      "campaigns_and_protests": 6,
+      "closures_and_threats": 5,
+      "cuts_and_finance": 5,
+      "events_and_activities": 3,
+      "volunteers_and_community": 2,
+      "co_location": 2,
+      "digital_and_technology": 1,
+      "opening_hours": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

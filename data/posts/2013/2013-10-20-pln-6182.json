@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-6182",
+  "source_id": 6182,
+  "url": "https://www.publiclibrariesnews.com/2013/10/libraries-let-kids-read-wildly-so-that-they-read-widely-as-adults.html",
+  "slug": "libraries-let-kids-read-wildly-so-that-they-read-widely-as-adults",
+  "title": "Libraries let kids read wildly so that they read widely as adults",
+  "date_published": "2013-10-20T21:42:30",
+  "date_modified": "2013-10-21T22:09:29",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 33,
+  "story_ids": [
+    "pln-story-6182-changes-001",
+    "pln-story-6182-changes-002",
+    "pln-story-6182-changes-003",
+    "pln-story-6182-changes-004",
+    "pln-story-6182-changes-005",
+    "pln-story-6182-changes-006",
+    "pln-story-6182-changes-007",
+    "pln-story-6182-changes-008",
+    "pln-story-6182-changes-009",
+    "pln-story-6182-changes-010",
+    "pln-story-6182-changes-011",
+    "pln-story-6182-intl-001",
+    "pln-story-6182-intl-002",
+    "pln-story-6182-intl-003",
+    "pln-story-6182-intl-004",
+    "pln-story-6182-intl-005",
+    "pln-story-6182-intl-006",
+    "pln-story-6182-intl-007",
+    "pln-story-6182-intl-008",
+    "pln-story-6182-intl-009",
+    "pln-story-6182-intl-010",
+    "pln-story-6182-intl-011",
+    "pln-story-6182-intl-012",
+    "pln-story-6182-intl-013",
+    "pln-story-6182-intl-014",
+    "pln-story-6182-intl-015",
+    "pln-story-6182-intl-016",
+    "pln-story-6182-intl-017",
+    "pln-story-6182-intl-018",
+    "pln-story-6182-intl-019",
+    "pln-story-6182-intl-020",
+    "pln-story-6182-intl-021",
+    "pln-story-6182-intl-022"
+  ],
+  "stats": {
+    "authorities_count": 16,
+    "libraries_count": 22,
+    "countries_count": 6,
+    "top_categories": {
+      "cuts_and_finance": 6,
+      "staffing_and_unions": 6,
+      "volunteers_and_community": 5,
+      "closures_and_threats": 4,
+      "digital_and_technology": 3,
+      "campaigns_and_protests": 3,
+      "events_and_activities": 2,
+      "governance_and_trusts": 1,
+      "book_bans_and_challenges": 1,
+      "refurbishment_and_new_builds": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

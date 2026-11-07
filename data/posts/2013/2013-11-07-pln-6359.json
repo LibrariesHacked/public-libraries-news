@@ -1,0 +1,70 @@
+{
+  "id": "pln-post-6359",
+  "source_id": 6359,
+  "url": "https://www.publiclibrariesnews.com/2013/11/the-internet-is-a-privilege-libraries-are-a-right-outsourced-or-not.html",
+  "slug": "the-internet-is-a-privilege-libraries-are-a-right-outsourced-or-not",
+  "title": "“The internet is a privilege, libraries are a right”: outsourced or not",
+  "date_published": "2013-11-07T23:17:38",
+  "date_modified": "2013-11-10T22:22:01",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "There is an opportunity in every crisis for someone and that opportunity in Lincolnshire has been seized by the non-profit trust GLL and the private company Biblioteca. Both are offering to take over some or all of the troubled libraries there. The move is highly significant for both entities – it would be the first library authority taken over by GLL outside of London and the first library authority taken over by Biblioteca in the UK. Doubtless Carillion would also have expressed an interest but it is itself busy having just bought out Laing’s library concerns in four London boroughs. The oddity is where LSSI is in all this: the US company has been a particular bete noire for campaigners but has failed to achieve a toe hold in the UK market. The fact that it is not mentioned in the article suggests that it may not do so for a while yet.",
+    "html": "<p style=\"text-align: justify;\">T<a title=\"Market Rasen Mail\" href=\"http://www.marketrasenmail.co.uk/news/local/could-london-council-be-answer-to-lincs-libraries-1-5652699\">here is an opportunity in every crisis for someone and that opportunity in Lincolnshire has been seized by the non-profit trust GLL and the private company Biblioteca. Both are offering to take over some or all of the troubled libraries there. </a>The move is highly significant for both entities &#8211; it would be the first library authority taken over by GLL outside of London and the first library authority taken over by Biblioteca in the UK. <a title=\"Croydon Advertiser\" href=\"http://www.croydonadvertiser.co.uk/Croydon-libraries-new-management/story-19969652-detail/story.html\">Doubtless Carillion would also have expressed an interest but it is itself busy having just bought out Laing&#8217;s library concerns in four London boroughs</a>. The oddity is where LSSI is in all this: the US company has been a particular <em>bete noire</em> for campaigners but has failed to achieve a toe hold in the UK market. The fact that it is not mentioned in the article suggests that it may not do so for a while yet.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 22,
+  "story_ids": [
+    "pln-story-6359-changes-001",
+    "pln-story-6359-changes-002",
+    "pln-story-6359-changes-003",
+    "pln-story-6359-changes-004",
+    "pln-story-6359-changes-005",
+    "pln-story-6359-changes-006",
+    "pln-story-6359-changes-007",
+    "pln-story-6359-changes-008",
+    "pln-story-6359-intl-001",
+    "pln-story-6359-intl-002",
+    "pln-story-6359-intl-003",
+    "pln-story-6359-intl-004",
+    "pln-story-6359-intl-005",
+    "pln-story-6359-intl-006",
+    "pln-story-6359-intl-007",
+    "pln-story-6359-intl-008",
+    "pln-story-6359-intl-009",
+    "pln-story-6359-intl-010",
+    "pln-story-6359-intl-011",
+    "pln-story-6359-intl-012",
+    "pln-story-6359-intl-013",
+    "pln-story-6359-intl-014"
+  ],
+  "stats": {
+    "authorities_count": 10,
+    "libraries_count": 5,
+    "countries_count": 6,
+    "top_categories": {
+      "cuts_and_finance": 9,
+      "closures_and_threats": 7,
+      "governance_and_trusts": 4,
+      "staffing_and_unions": 4,
+      "opening_hours": 4,
+      "volunteers_and_community": 2,
+      "digital_and_technology": 2,
+      "events_and_activities": 2,
+      "co_location": 1,
+      "mobile_and_outreach": 1,
+      "campaigns_and_protests": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "pln-post-10107",
+  "source_id": 10107,
+  "url": "https://www.publiclibrariesnews.com/2015/11/lancashire-go-for-the-record-40-branches-may-be-lost.html",
+  "slug": "lancashire-go-for-the-record-40-branches-may-be-lost",
+  "title": "Lancashire go for the record: 40 branches may be lost",
+  "date_published": "2015-11-17T21:35:42",
+  "date_modified": "2015-12-03T19:48:35",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Good news and some quite stupendous bad news today. The good news comes in the form of two initiatives, both with the Reading Agency and SCL support: the BBC is launching a big reading promotion next year and also money has been obtained to see about extending the reading challenge idea to older people. The bad news is, well, pretty bad and I had to check my figures to see if it was right: Lancashire are threatening to close (or more likely pass to volunteers, parish councils or anyone else who would be interested) no less than forty branches. I’ve looked at the lists and I think that’s the biggest number ever put in threat at any single time, although North Yorkshire has over the course of the last few years, probably divested itself of more, especially if one includes mobiles.",
+    "html": "<p style=\"text-align: justify;\">Good news and some quite stupendous bad news today. The good news comes in the form of two initiatives, both with the Reading Agency and SCL support: the BBC is launching a big reading promotion next year and also money has been obtained to see about extending the reading challenge idea to older people. The bad news is, well, pretty bad and I had to check my figures to see if it was right: Lancashire are threatening to close (or more likely pass to volunteers, parish councils or anyone else who would be interested) no less than forty branches. I&#8217;ve looked at the lists and I think that&#8217;s the biggest number ever put in threat at any single time, although North Yorkshire has over the course of the last few years, probably divested itself of more, especially if one includes mobiles.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-10107-changes-001",
+    "pln-story-10107-changes-002",
+    "pln-story-10107-changes-003",
+    "pln-story-10107-changes-004",
+    "pln-story-10107-local-001",
+    "pln-story-10107-local-002",
+    "pln-story-10107-local-003",
+    "pln-story-10107-local-004",
+    "pln-story-10107-local-005",
+    "pln-story-10107-local-006",
+    "pln-story-10107-local-007",
+    "pln-story-10107-local-008",
+    "pln-story-10107-local-009",
+    "pln-story-10107-local-010",
+    "pln-story-10107-local-011",
+    "pln-story-10107-local-012",
+    "pln-story-10107-intl-001",
+    "pln-story-10107-intl-002",
+    "pln-story-10107-intl-003",
+    "pln-story-10107-natl-001",
+    "pln-story-10107-natl-002",
+    "pln-story-10107-natl-003",
+    "pln-story-10107-natl-004",
+    "pln-story-10107-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 9,
+    "countries_count": 3,
+    "top_categories": {
+      "staffing_and_unions": 11,
+      "cuts_and_finance": 9,
+      "closures_and_threats": 6,
+      "campaigns_and_protests": 6,
+      "governance_and_trusts": 4,
+      "digital_and_technology": 4,
+      "book_bans_and_challenges": 3,
+      "mobile_and_outreach": 2,
+      "opening_hours": 2,
+      "co_location": 1,
+      "volunteers_and_community": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

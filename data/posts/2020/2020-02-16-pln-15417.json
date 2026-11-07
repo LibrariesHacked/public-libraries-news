@@ -1,0 +1,77 @@
+{
+  "id": "pln-post-15417",
+  "source_id": 15417,
+  "url": "https://www.publiclibrariesnews.com/2020/02/co-locations.html",
+  "slug": "co-locations",
+  "title": "Co-locations",
+  "date_published": "2020-02-16T21:24:22",
+  "date_modified": "2020-02-16T21:24:51",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Another week of, on aggregate, good news for libraries. The biggest of these is Bradford, that has gone from wanting to, basically, strip its library service to, rather, keep it all open but with more co-locations and other services coming in. The last decade has been very much a period of co-locationing libraries with other services in order to both cut costs and maximise footfall, although this has been hidden by the darker news of other more serious cuts. Done right, these locations can be joyous things, with all partners benefitting and places abuzz. Done wrong and it’s hard to find the library in amongst the other services, with the core purpose (free, neutral, access to information, books, study space) being overwhelmed by partner services, some disturbingly commercial in nature.",
+    "html": "<p class=\"wp-block-paragraph\">Another week of, on aggregate, good news for libraries. The biggest of these is Bradford, that has gone from wanting to, basically, strip its library service to, rather, keep it all open but with more co-locations and other services coming in. </p> <p class=\"wp-block-paragraph\">The last decade has been very much a period of co-locationing libraries with other services in order to both cut costs and maximise footfall, although this has been hidden by the darker news of other more serious cuts. Done right, these locations can be joyous things, with all partners benefitting and places abuzz. Done wrong and it&#8217;s hard to find the library in amongst the other services, with the core purpose (free, neutral, access to information, books, study space) being overwhelmed by partner services, some disturbingly commercial in nature.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 29,
+  "story_ids": [
+    "pln-story-15417-changes-001",
+    "pln-story-15417-changes-002",
+    "pln-story-15417-changes-003",
+    "pln-story-15417-changes-004",
+    "pln-story-15417-changes-005",
+    "pln-story-15417-local-001",
+    "pln-story-15417-local-002",
+    "pln-story-15417-local-003",
+    "pln-story-15417-local-004",
+    "pln-story-15417-local-005",
+    "pln-story-15417-local-006",
+    "pln-story-15417-local-007",
+    "pln-story-15417-local-008",
+    "pln-story-15417-local-009",
+    "pln-story-15417-local-010",
+    "pln-story-15417-local-011",
+    "pln-story-15417-local-012",
+    "pln-story-15417-local-013",
+    "pln-story-15417-local-014",
+    "pln-story-15417-local-015",
+    "pln-story-15417-local-016",
+    "pln-story-15417-local-017",
+    "pln-story-15417-local-018",
+    "pln-story-15417-intl-001",
+    "pln-story-15417-intl-002",
+    "pln-story-15417-intl-003",
+    "pln-story-15417-intl-004",
+    "pln-story-15417-natl-001",
+    "pln-story-15417-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 16,
+    "libraries_count": 17,
+    "countries_count": 6,
+    "top_categories": {
+      "closures_and_threats": 7,
+      "co_location": 5,
+      "cuts_and_finance": 4,
+      "events_and_activities": 4,
+      "staffing_and_unions": 3,
+      "governance_and_trusts": 3,
+      "refurbishment_and_new_builds": 3,
+      "volunteers_and_community": 2,
+      "opening_hours": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,1804 @@
+[
+  {
+    "id": "pln-story-658-changes-004",
+    "post_id": "pln-post-658",
+    "post_date": "2010-12-21",
+    "section": "changes",
+    "entity_raw": "Hillingdon Moray",
+    "text": "(may move to being in a Trust) Staffordshire Wirral",
+    "text_html": "<p><b></b><br /><a href=\"http://www.hillingdontimes.co.uk/news/8685684.Record_visitor_numbers_at_Hillingdon_s_libraries/\">Hillingdon</a><b> </b><br /><a href=\"http://www.pressandjournal.co.uk/Article.aspx/2061501?UserKey=\">Moray</a> &#8211; (may move to being in a Trust)<b> </b><br /><a href=\"http://www.staffordshire.gov.uk/news/librarymodernise.htm\">Staffordshire</a><br /><a href=\"http://www.wirralglobe.co.uk/yoursay/wirralletters/8682603.Wirral_libraries__position__would_strenghten_/\">Wirral </a></p>",
+    "links": [
+      {
+        "url": "http://www.hillingdontimes.co.uk/news/8685684.Record_visitor_numbers_at_Hillingdon_s_libraries/",
+        "text": "Hillingdon",
+        "domain": "hillingdontimes.co.uk"
+      },
+      {
+        "url": "http://www.pressandjournal.co.uk/Article.aspx/2061501?UserKey=",
+        "text": "Moray",
+        "domain": "pressandjournal.co.uk"
+      },
+      {
+        "url": "http://www.staffordshire.gov.uk/news/librarymodernise.htm",
+        "text": "Staffordshire",
+        "domain": "staffordshire.gov.uk"
+      },
+      {
+        "url": "http://www.wirralglobe.co.uk/yoursay/wirralletters/8682603.Wirral_libraries__position__would_strenghten_/",
+        "text": "Wirral",
+        "domain": "wirralglobe.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Hillingdon",
+        "gss_code": "E09000017",
+        "confidence": "fuzzy"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 51.5441,
+        "longitude": -0.476
+      }
+    },
+    "classification": {
+      "categories": [
+        "governance_and_trusts"
+      ],
+      "primary_category": "governance_and_trusts",
+      "change_type": "other",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "governance_and_trusts"
+    ]
+  },
+  {
+    "id": "pln-story-658-changes-003",
+    "post_id": "pln-post-658",
+    "post_date": "2010-12-21",
+    "section": "changes",
+    "entity_raw": "Authorities which have announced no library closures",
+    "text": "Brighton Devon (may have reduced opening hours, less mobile stops, no new Exeter Library)",
+    "text_html": "<br />Brighton<br /><a href=\"http://www.bbc.co.uk/news/uk-england-devon-11997631\">Devon</a> (may have reduced opening hours, less mobile stops, no new Exeter Library) </p>",
+    "links": [
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-devon-11997631",
+        "text": "Devon",
+        "domain": "bbc.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Brighton and Hove",
+        "gss_code": "E06000043",
+        "confidence": "fuzzy"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 50.8225,
+        "longitude": -0.1372
+      }
+    },
+    "classification": {
+      "categories": [
+        "closures_and_threats",
+        "opening_hours"
+      ],
+      "primary_category": "closures_and_threats",
+      "change_type": "closure",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "closures_and_threats",
+      "opening_hours"
+    ]
+  },
+  {
+    "id": "pln-story-658-changes-002",
+    "post_id": "pln-post-658",
+    "post_date": "2010-12-21",
+    "section": "changes",
+    "entity_raw": "Aberdeenshire",
+    "text": "some Angus – 4 libraries closed this year (April) to be possibly replaced by a mobile Argyll and Bute – 3 libraries and mobile library. Barking and Dagenham – 5 Barnet – some – public consultation here Barnsley – up to 8 Bedfordshire – 1 mobile to go Birmingham – 39 (three libraries lose hours so Tower Hill can remain open) Bolton – Up to 8 Brent – 6 (out of 12) Bristol – some may be staffed by volunteers Buckinghamshire – up to 14 to close or be staffed by volunteers Bury – 1 (1 other reduced hours) – Manchester Evening News Cambridgeshire – some Camden – several plus one mobile library (£2 million cut) Central Bedfordshire – one mobile library to go Conwy – 7 (out of 12) Cornwall – up to 23 Croydon – 6 plus 1 local studies Devon – (mobile stops cut) Doncaster – 13, (may also be taken out of council control) Dorset – up to 20 (out of 34) to close or be given to community groups (£143k off bookfund). Dorset is the sole council to receive an actual increase in funding for 2010/11. Dumfries – 7 Durham – some Flintshire – 5 and at least one mobile Gateshead – some (school library service, music library, AIRS talking newspaper under threat) Gloucestershire – Up to 25 and 6 mobiles – 11 to close or go to volunteers. 7 to close if they don’t find a partner. A further 11 reduced to 3.5 hours a week (this is just a small figure I include them under “closed”), 6 mobile libraries to go. Hampshire – (58 FTE jobs to go) (and mobile library review)(libraries merged with IT/property etc) Harrow – (34 FTE to go) Hartlepool – 1 confirmed to close (another to merge with community centre, all library’s hours cut) Hertfordshire – (opening hours to be cut by one third – from 2236 hours down to 1575) – At least one library (Borehamwood) faces a 40% cut Highland – (Wick Library to close and merge with school library) Hounslow – some (£869k p.a cut – reduction in hours,12 FTE to go, 1 IT skills suite closed) Isle of Wight – 9 (out of 11) Kirklees – at least 1 Leeds – Up to 20 (out of 52) Leicestershire – all libraries could be privatised, put to trust or shared (merge of lending/reference- 14 FTE jobs lost) Lewisham – 5 Liverpool – some Merton – (2 libraries will have reduced hours) Milton Keynes – 2 Newport – 7 Northern Ireland – 9 Northamptonshire – 8 out of 38 may close, 2 mobile libraries to end. Cuts to management and support also. Northumberland – some North Lanarkshire – 1 (closed March 2010) North Norfolk – some (c. £1m reduction) North Somerset – 1 closed, 2 proposed. Weston Mercury update North Yorkshire – 24 to close or be staffed by volunteers, 9 mobiles to go off road. Nottingham – (80 FTE jobs to go, 75% off bookfund, 30 libraries have less opening hours) Oldham – (increase in volunteers, merging, cuts) Oxfordshire – 20 – list of those under threat here, Oxford Central hours extended to 7 days per week Redbridge – 5 out of 12 may close, another may relocate. Renfrewshire – (2 libraries to move into smaller sites in community centres) Richmond – 1 (£351k cut) Rochdale – (some library managers to to go in first phase of cuts) Sefton – 3 Sheffield – (30% cut expected) Shropshire – 1 (reference library to merge with central library) Somerset – 20 (out of 34) will be offered to community groups. 4 (out of 6) mobile libraries will also go. Ten other libraries will have a 10% reduction in hours. List of closures here .Consultation period ends on 14th Jan. Stoke – 2 and 1 mobile library, (ends RNIB service) Suffolk – up to 2 Swansea – some Thanet – some Tower Hamlets – (staff made to reapply for their own jobs -23 library staff replaced) Wakefield – at least 2 Walsall – at least 8 (30 FTE). More details here Walthamstow – some Wandsworth – 1 (mention in Guardian here) plus reduction in hours in others. Warrington – 2 and 1 mobile library West Sussex – Some (5 FTE lost, some librarians pay reduced to library assistant) Wigan – Up to 15 out of 17 (£1.1m cut off £4m budget) Wiltshire – (26 FTE posts to go inc. 9 out of 13 community librarians) Worcestershire – some",
+    "text_html": "<p><a href=\"http://news.scotsman.com/news/Council-funding-deal-starts-to.6631760.jp\">Aberdeenshire</a> &#8211; some<br /><a href=\"http://www.pressandjournal.co.uk/Article.aspx/1979554?UserKey=\">Angus </a>&#8211; 4 libraries closed this year (April) to be possibly replaced by a mobile<br /><a href=\"http://www.pressandjournal.co.uk/Article.aspx/2031646?UserKey&#038;UserKey=\">Argyll and Bute</a> &#8211; 3 libraries and mobile library.<br /><a href=\"http://www.bdpost.co.uk/news/borough_libraries_set_to_close_under_new_council_proposals_1_729263?action=login&#038;forgotpassword\">Barking and Dagenham</a> &#8211; 5<br /><a href=\"http://www.guardian.co.uk/politics/2010/sep/23/barnet-easycouncil-costcutting-plan-criticised\">Barnet</a> &#8211; some &#8211; <a href=\"http://www.barnet.gov.uk/index/council-democracy/consultations/libraries-survey.htm\">public consultation here</a><br /><a href=\"http://www.bbc.co.uk/news/uk-england-south-yorkshire-11769324\">Barnsley</a> &#8211; up to 8<br /><a href=\"http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-11686138\">Bedfordshire</a> &#8211; 1 mobile to go <br /><a href=\"http://www.thebookseller.com/news/127525-up-to-40-libraries-affected-in-birmingham-review.html\">Birmingham</a> &#8211; 39 (three libraries lose hours so Tower Hill can remain open)<br /><a href=\"http://www.theboltonnews.co.uk/news/8288837.Libraries_face_axe_as_council_plans_big_cuts/\">Bolton</a> &#8211; Up to 8 <br /><a href=\"http://www.harrowobserver.co.uk/west-london-news/local-harrow-news/2010/11/17/plan-to-close-half-of-libraries-in-borough-116451-27671113/\">Brent </a>&#8211; 6 (out of 12)<br /><a href=\"http://www.thisisbristol.co.uk/news/COUNCIL-S-CUTS-TURN-LIGHTS/article-2936832-detail/article.html\">Bristol</a> &#8211; some may be staffed by volunteers<br /><a href=\"http://www.buckinghamshireadvertiser.co.uk/south-buckinghamshire-news/local-buckinghamshire-advertiser-news/2010/11/17/libraries-cannot-continue-as-we-are-82398-27671144/\">Buckinghamshire</a> &#8211; up to 14 to close or be staffed by volunteers<br /><a href=\"http://menmedia.co.uk/manchestereveningnews/news/s/1396703_bury_in_gloom_as_cutbacks_hits_famous_floral_displays\">Bury &#8211; 1 (1 other reduced hours)</a> &#8211; Manchester Evening News<br /><a href=\"http://www.cambridge-news.co.uk/Home/450-jobs-to-go-in-161-million-public-sector-cuts.htm\">Cambridgeshire</a> &#8211; some <br /><a href=\"http://www.camden.gov.uk/ccm/content/council-and-democracy/publications-and-finances/twocolumn/culture-and-environment.en?page=4\">Camden </a>&#8211; several plus one mobile library <a href=\"http://www.hamhigh.co.uk/news/camden_library_budget_to_be_slashed_by_2million_1_733131\">(£2 million cut)</a><br /><a href=\"http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-11686138\">Central Bedfordshire</a> &#8211; one mobile library to go<br /><a href=\"http://www.bbc.co.uk/news/uk-wales-north-west-wales-11982660\">Conwy</a> &#8211; 7 (out of 12)<br /><a href=\"http://www.thisiscornwall.co.uk/news/Library-face-chop-big-cuts-plan/article-2952589-detail/article.html\">Cornwall</a> &#8211; up to 23<br /><a href=\"http://www.croydonguardian.co.uk/news/8732306.Six_libraries_could_close_in_Croydon/#commentsList\">Croydon</a> &#8211; 6 plus 1 <a href=\"http://www.croydonguardian.co.uk/news/8670763.Historians__horror_at_proposals_to_close_our_library/\">local studies</a><br /><a href=\"http://www.thisisexeter.co.uk/letters/County-treating-city-contempt/article-2974625-detail/article.html\">Devon </a>&#8211; (mobile stops cut) <br /><a href=\"http://www.guardian.co.uk/commentisfree/2010/aug/18/doncasters-library-closures-catastrophe\">Doncaster</a> &#8211; 13, <a href=\"http://savedoncasterlibraries.wordpress.com/2010/12/09/disconcerting-news-from-caroline-flint/\">(may also be taken out of council control</a>)<br /><a href=\"http://www.bridportnews.co.uk/news/8738857.West_Dorset__Volunteers_fear_libraries_will_close_under_council_cuts/\">Dorset</a><a href=\"http://www.bbc.co.uk/news/uk-england-dorset-11953297\"> </a>&#8211; up to 20 (out of 34) to close or be given to community groups (£143k off bookfund). Dorset is the sole council to receive an actual increase in funding for 2010/11.<br /><a href=\"http://www.bbc.co.uk/news/uk-scotland-south-scotland-11733265\">Dumfries</a> &#8211; 7<br /><a href=\"http://www.durhamtimes.co.uk/news/8744552.Jobs_shock_at_county_council/\">Durham</a> &#8211; some <br /><a href=\"http://www.leaderlive.co.uk/news/96415/libraries-and-free-transport-for-oaps-to-be-axed-to-save-cash.aspx\">Flintshire</a> &#8211; 5 <a href=\"http://www.flintshirechronicle.co.uk/flintshire-news/featured-stories/2010/12/09/flintshire-faces-library-closures-parking-charges-and-extra-transport-costs-as-cuts-start-to-hit-hard-51352-27791997/\">and at least one mobile</a><br /><a href=\"http://www.gateshead.gov.uk/DocumentLibrary/council/strategy/DraftSpendingPlans2011-12.pdf\">Gateshead </a>&#8211; some (school library service, music library, AIRS talking newspaper under threat)<br /><a href=\"http://www.gloucestershire.gov.uk/index.cfm?articleid=101356\">Gloucestershire </a>&#8211; Up to 25 and 6 mobiles &#8211; 11 to close or go to volunteers. 7 to close if they don&#8217;t find a partner. A further 11 reduced to 3.5 hours a week (this is just a small figure I include them under &#8220;closed&#8221;), 6 mobile libraries to go. <br /><a href=\"http://www.thebookseller.com/news/132894-jobs-go-at-hampshire-and-harrow-libraries.html\">Hampshire</a> &#8211; (58 FTE jobs to go) (and <a href=\"http://www.salisburyjournal.co.uk/news/8718981.Let_Hampshire_County_Council_know_what_you_think_of_its_mobile_libraries/\">mobile library review</a>)(<a href=\"http://www.thebookseller.com/news/137427-hampshire-library-chief-to-retire.html.rss?utm_source=twitterfeed&#038;utm_medium=twitter\">libraries merged with IT/property etc</a>)<br /><a href=\"http://www.harrowobserver.co.uk/west-london-news/local-harrow-news/2010/10/29/modernisation-of-harrow-libraries-will-cost-34-workers-their-jobs-116451-27566885/\">Harrow</a> &#8211; (34 FTE to go) <br /><a href=\"http://www.blogger.com/goog_1863366919\">Hartlepool</a><a href=\"http://www.hartlepoolmail.co.uk/news/Library-axed-in-moneysaving-bid.6652385.jp\"> </a>&#8211; 1 confirmed to close (another to merge with community centre, all library&#8217;s hours cut)<br /><a href=\"http://www.hertsdirect.org/libsleisure/libraries/hvyrsay\">Hertfordshire</a> &#8211; (opening hours to be cut by one third &#8211; from 2236 hours down to 1575) &#8211; At least one library (Borehamwood) faces a <a href=\"http://www.borehamwoodtimes.co.uk/news/8716723.Petitioners_plea_for_public_help_to_save_library/\">40% cut</a><br /><a href=\"http://www.johnogroat-journal.co.uk/news/fullstory.php/aid/8996/Closing_Wick_library_would_be__91eroding_our_community_92.html\">Highland</a> &#8211; (Wick Library to close and merge with school library) <br /><a href=\"http://www.hounslowchronicle.co.uk/west-london-news/local-hounslow-news/2010/11/09/hounslow-libraries-take-jobs-hit-109642-27626386/\">Hounslow</a> &#8211;<a href=\"http://www.hounslowchronicle.co.uk/west-london-news/local-hounslow-news/2010/12/16/youth-centres-and-libraries-face-closure-as-part-of-18m-saving-plans-109642-27839250/\"> some</a> (£869k p.a cut &#8211; reduction in hours,12 FTE to go, 1 IT skills suite closed)<br /><a href=\"http://www.iwcp.co.uk/news/news/massive-libraries-cuts-proposed-36392.aspx\">Isle of Wight</a> &#8211; 9 (out of 11)<br /><a href=\"http://www.mirfieldreporter.co.uk/news/local/support_our_library_before_it_s_too_late_1_2829561\">Kirklees </a>&#8211; at least 1 <br /><a href=\"http://www.guardian.co.uk/leeds/2010/dec/08/leeds-library-plans-set-to-be-debated\">Leeds</a> &#8211; Up to 20 (out of 52)<br /><a href=\"http://www.harboroughmail.co.uk/news/features/diy-petition/libraries_and_museums_facing_privatisation_1_1807362\">Leicestershire</a> &#8211; all libraries could be privatised, put to trust or shared (<a href=\"http://www.thisisleicestershire.co.uk/news/New-look-unveiled-merged-city-libraries/article-2798317-detail/article.html\">merge of lending/reference- 14 FTE jobs lost</a>) <br /><a href=\"http://sydenhamradio.co.uk/news/library-closure-wait/\">Lewisham</a> &#8211; 5<br /><a href=\"http://www.liverpoolconfidential.co.uk/News-and-Comment/General/Larry-Neild-on-death-by-100m-cuts_16375.asp\">Liverpool</a> &#8211; some<br /><a href=\"http://www.thisislocallondon.co.uk/news/8742223.Cuts_announced_for_libraries_in_Raynes_Park_and_Colliers_Wood/\">Merton</a> &#8211; (2 libraries will have reduced hours)<br /><a href=\"http://alangibbons.net/?p=2441\">Milton Keynes</a> &#8211; 2<br /><a href=\"http://www.southwalesargus.co.uk/news/8668381.Newport_set_for_library_shake_up/\">Newport </a>&#8211; 7<br /><a href=\"http://www.portadowntimes.co.uk/news/Concern-as-Richhill-library-faces.6666317.jp\">Northern Ireland</a> &#8211; 9<br /><a href=\"http://www.aboutmyarea.co.uk/Northamptonshire/Northampton/NN4/News/Local-News/183108-Roade-amongst-proposed-library-closures\">Northamptonshire</a> &#8211; 8 out of 38 may close, 2 mobile libraries to end. Cuts to management and support also.<br /><a href=\"http://www.journallive.co.uk/northumberland-sites/northumberland-news/2010/12/08/northumberland-library-strategy-to-be-examined-61634-27788908/\">Northumberland</a> &#8211; some <br /><a href=\"http://www.acadvertiser.co.uk/lanarkshire-news/local-news/monklands-news/2010/03/24/coatbridge-mum-fights-to-save-whifflet-library-from-closure-65864-26093620/\">North Lanarkshire </a>&#8211; 1 (closed March 2010)<br /><a href=\"http://www.edp24.co.uk/news/education/fears_for_future_of_cromer_library_1_746079\">North Norfolk</a> &#8211; some (c. £1m reduction)<br /><a href=\"http://www.thewestonmercury.co.uk/news/libraries_are_reprieved_1_730157\">North Somerset</a> &#8211; 1 closed, 2 proposed. <a href=\"http://www.thewestonmercury.co.uk/news/council_cuts_inevitable_but_redesign_hopeful_1_737838\">Weston Mercury update</a><br /><a href=\"http://www.maltonmercury.co.uk/news/local/libraries_to_face_the_axe_1_2787462\">North Yorkshire</a> &#8211; 24 to close or be staffed by volunteers, 9 mobiles to go off road.<br /><a href=\"http://www.independent.co.uk/arts-entertainment/books/features/boyd-tonkin-a-county-fights-the-cuts-in-true-robin-hood-spirit-2112953.html\">Nottingham</a> &#8211; (80 FTE jobs to go, 75% off bookfund, <a href=\"http://www.thisisretford.co.uk/news/Help-reduce-library-pressure/article-2935074-detail/article.html\">30 libraries have less opening hours)</a> <br /><a href=\"http://www.oldham-chronicle.co.uk/news-features/8/news-headlines/48605/new-look-for-libraries-facing-25pc-funding-cut\">Oldham</a> &#8211; (increase in volunteers, merging, cuts)<br /><a href=\"http://www.bbc.co.uk/news/uk-england-oxfordshire-11845014\">Oxfordshire</a> &#8211; 20 &#8211; list of those under threat <a href=\"http://www.oxfordmail.co.uk/news/8730300.Protesters_turn_up_the_volume_for_libraries/\">here</a>, <a href=\"http://www.oxfordmail.co.uk/news/8740142.Library_is_a_lifeline__say_protesters/\">Oxford Central hours extended</a> to 7 days per week <br /><a href=\"http://www.guardian-series.co.uk/news/rbnews/8722098.REDBRIDGE__Six_libraries_could_face_the_axe/\">Redbridge </a>&#8211; 5 out of 12 may close, another may relocate.<br /><a href=\"http://www.eveningtimes.co.uk/news/editor-s-picks/fury-over-move-to-downsize-libraries-1.1072295\">Renfrewshire </a>&#8211; (2 libraries to move into smaller sites in community centres)<br /><a href=\"http://www.richmondandtwickenhamtimes.co.uk/news/8493124.Tories__broke_promise__to_consult_on_library_closure/\">Richmond</a> &#8211; 1 (<a href=\"http://www.richmondandtwickenhamtimes.co.uk/news/8745831.Services_cut_despite__generous__grant/\">£351k cut</a>)<br /><a href=\"http://www.rochdaletowncentre.co.uk/news/town-centre-news/213/council-agrees-first-phase-of-saving-plans\">Rochdale</a> &#8211; (some library managers to to go in first phase of cuts)<br /><a href=\"http://www.formbytimes.co.uk/news/formby-news/2010/11/10/sefton-council-has-until-the-next-financial-year-to-pinpoint-cuts-totalling-38m-66401-27628015/\">Sefton</a> &#8211; 3<br /><a href=\"http://www.sheffieldtelegraph.co.uk/news/local/campaign_group_to_speak_up_for_libraries_1_2818949\">Sheffield</a> &#8211; (30% cut expected)<br /><a href=\"http://www.shropshirestar.com/news/2010/12/06/shropshires-reference-library-now-at-axe-risk/\">Shropshire &#8211; 1</a> (reference library to merge with central library)<br /><a href=\"http://www.blogger.com/goog_1072329809\">Somerset</a><a href=\"http://www.somerset.gov.uk/irj/public/news/directory/articles?rid=/guid/8047d0fa-95ea-2d10-1caf-994d99dab81d\"> </a>&#8211; 20 (out of 34) will be offered to community groups. 4 (out of 6) mobile libraries will also go. Ten other libraries will have a 10% reduction in hours. List of closures <a href=\"http://alangibbons.net/?p=2973\">here</a> .Consultation period ends on 14th Jan.<br /><a href=\"http://news.bbc.co.uk/local/stoke/hi/people_and_places/newsid_9146000/9146770.stm\">Stoke</a> &#8211; 2 and 1 mobile library, (<a href=\"http://news.bbc.co.uk/local/stoke/hi/people_and_places/newsid_9210000/9210712.stm\">ends RNIB service</a>)<br /><a href=\"http://www.bbc.co.uk/news/uk-england-suffolk-11941207\">Suffolk</a> &#8211; up to 2 <br /><a href=\"http://www.thisissouthwales.co.uk/news/cuts-come/article-3016480-detail/article.html\">Swansea </a>&#8211; some<br /><a href=\"http://www.thisiskent.co.uk/news/Isle-12-hardest-hit-cuts/article-3011776-detail/article.html\">Thanet</a> &#8211; some<br /><a href=\"http://www.eastlondonadvertiser.co.uk/news/tower_hamlets_library_staff_made_to_reapply_for_own_jobs_1_729538\">Tower Hamlets</a> &#8211; (staff made to reapply for their own jobs -23 library staff replaced)<br /><a href=\"http://www.yorkshirepost.co.uk/localnews/Library-service-may-go-private.6622243.jp\">Wakefield</a> &#8211; <a href=\"http://www.hemsworthandsouthelmsallexpress.co.uk/news/local/town_council_to_fight_for_libraries_1_2867097\">at least 2 </a><br /><a href=\"http://thebookwormturns.posterous.com/year-zero-in-walsall-libraries\">Walsall</a> &#8211; at least 8 (30 FTE). <a href=\"http://www.expressandstar.com/news/2010/11/18/axe-falls-in-walsall-council-cuts/\">More details here </a><br /><a href=\"http://www.thisislocallondon.co.uk/news/8746957.WALTHAM_FOREST____20k__wasted_on_library_survey_/\">Walthamstow</a> &#8211; some<br /><a href=\"http://www.wandsworth.gov.uk/info/200062/libraries/1060/library_review_consultation\">Wandsworth</a> &#8211; 1 (mention in Guardian <a href=\"http://www.guardian.co.uk/commentisfree/2010/dec/13/ed-miliband-labour-honest-politician?INTCMP=SRCH\">here</a>) plus reduction in hours in others.<br /><a href=\"http://www.warringtonguardian.co.uk/news/whereilive/8619795.Library_review__a_smokescreen_/\">Warrington</a> &#8211; 2 and 1 mobile library<br /><a href=\"http://www.theargus.co.uk/news/8461522.Sussex_library_staff_face_axe/\">West Sussex </a>&#8211; <a href=\"http://www.chichester.co.uk/news/local/west_sussex_county_council_spending_cuts_announced_1_1808599\">Some</a> (5 FTE lost, some librarians pay reduced to library assistant) <br /><a href=\"http://www.wlct.org/libraries/consultation.htm\">Wigan</a><a href=\"http://www.wigantoday.net/community/help_us_save_library_for_community_1_2829924\"> </a>&#8211; Up to 15 out of 17 (<a href=\"http://www.wigantoday.net/community/help_us_save_library_for_community_1_2829924\">£1.1m cut off £4m budget</a>)<br /><a href=\"http://aldbourne.net/news/wiltshires-budget-bombshell\">Wiltshire</a> &#8211; (26 FTE posts to go inc. 9 out of 13 community librarians)<br /><a href=\"http://www.bbc.co.uk/news/uk-england-hereford-worcester-12016096\">Worcestershire</a> &#8211; some</p>",
+    "links": [
+      {
+        "url": "http://news.scotsman.com/news/Council-funding-deal-starts-to.6631760.jp",
+        "text": "Aberdeenshire",
+        "domain": "news.scotsman.com"
+      },
+      {
+        "url": "http://www.pressandjournal.co.uk/Article.aspx/1979554?UserKey=",
+        "text": "Angus",
+        "domain": "pressandjournal.co.uk"
+      },
+      {
+        "url": "http://www.pressandjournal.co.uk/Article.aspx/2031646?UserKey&UserKey=",
+        "text": "Argyll and Bute",
+        "domain": "pressandjournal.co.uk"
+      },
+      {
+        "url": "http://www.bdpost.co.uk/news/borough_libraries_set_to_close_under_new_council_proposals_1_729263?action=login&forgotpassword",
+        "text": "Barking and Dagenham",
+        "domain": "bdpost.co.uk"
+      },
+      {
+        "url": "http://www.guardian.co.uk/politics/2010/sep/23/barnet-easycouncil-costcutting-plan-criticised",
+        "text": "Barnet",
+        "domain": "guardian.co.uk"
+      },
+      {
+        "url": "http://www.barnet.gov.uk/index/council-democracy/consultations/libraries-survey.htm",
+        "text": "public consultation here",
+        "domain": "barnet.gov.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-south-yorkshire-11769324",
+        "text": "Barnsley",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-11686138",
+        "text": "Bedfordshire",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.thebookseller.com/news/127525-up-to-40-libraries-affected-in-birmingham-review.html",
+        "text": "Birmingham",
+        "domain": "thebookseller.com"
+      },
+      {
+        "url": "http://www.theboltonnews.co.uk/news/8288837.Libraries_face_axe_as_council_plans_big_cuts/",
+        "text": "Bolton",
+        "domain": "theboltonnews.co.uk"
+      },
+      {
+        "url": "http://www.harrowobserver.co.uk/west-london-news/local-harrow-news/2010/11/17/plan-to-close-half-of-libraries-in-borough-116451-27671113/",
+        "text": "Brent",
+        "domain": "harrowobserver.co.uk"
+      },
+      {
+        "url": "http://www.thisisbristol.co.uk/news/COUNCIL-S-CUTS-TURN-LIGHTS/article-2936832-detail/article.html",
+        "text": "Bristol",
+        "domain": "thisisbristol.co.uk"
+      },
+      {
+        "url": "http://www.buckinghamshireadvertiser.co.uk/south-buckinghamshire-news/local-buckinghamshire-advertiser-news/2010/11/17/libraries-cannot-continue-as-we-are-82398-27671144/",
+        "text": "Buckinghamshire",
+        "domain": "buckinghamshireadvertiser.co.uk"
+      },
+      {
+        "url": "http://menmedia.co.uk/manchestereveningnews/news/s/1396703_bury_in_gloom_as_cutbacks_hits_famous_floral_displays",
+        "text": "Bury – 1 (1 other reduced hours)",
+        "domain": "menmedia.co.uk"
+      },
+      {
+        "url": "http://www.cambridge-news.co.uk/Home/450-jobs-to-go-in-161-million-public-sector-cuts.htm",
+        "text": "Cambridgeshire",
+        "domain": "cambridge-news.co.uk"
+      },
+      {
+        "url": "http://www.camden.gov.uk/ccm/content/council-and-democracy/publications-and-finances/twocolumn/culture-and-environment.en?page=4",
+        "text": "Camden",
+        "domain": "camden.gov.uk"
+      },
+      {
+        "url": "http://www.hamhigh.co.uk/news/camden_library_budget_to_be_slashed_by_2million_1_733131",
+        "text": "(£2 million cut)",
+        "domain": "hamhigh.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-11686138",
+        "text": "Central Bedfordshire",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-wales-north-west-wales-11982660",
+        "text": "Conwy",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.thisiscornwall.co.uk/news/Library-face-chop-big-cuts-plan/article-2952589-detail/article.html",
+        "text": "Cornwall",
+        "domain": "thisiscornwall.co.uk"
+      },
+      {
+        "url": "http://www.croydonguardian.co.uk/news/8732306.Six_libraries_could_close_in_Croydon/#commentsList",
+        "text": "Croydon",
+        "domain": "croydonguardian.co.uk"
+      },
+      {
+        "url": "http://www.croydonguardian.co.uk/news/8670763.Historians__horror_at_proposals_to_close_our_library/",
+        "text": "local studies",
+        "domain": "croydonguardian.co.uk"
+      },
+      {
+        "url": "http://www.thisisexeter.co.uk/letters/County-treating-city-contempt/article-2974625-detail/article.html",
+        "text": "Devon",
+        "domain": "thisisexeter.co.uk"
+      },
+      {
+        "url": "http://www.guardian.co.uk/commentisfree/2010/aug/18/doncasters-library-closures-catastrophe",
+        "text": "Doncaster",
+        "domain": "guardian.co.uk"
+      },
+      {
+        "url": "http://savedoncasterlibraries.wordpress.com/2010/12/09/disconcerting-news-from-caroline-flint/",
+        "text": "(may also be taken out of council control",
+        "domain": "savedoncasterlibraries.wordpress.com"
+      },
+      {
+        "url": "http://www.bridportnews.co.uk/news/8738857.West_Dorset__Volunteers_fear_libraries_will_close_under_council_cuts/",
+        "text": "Dorset",
+        "domain": "bridportnews.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-scotland-south-scotland-11733265",
+        "text": "Dumfries",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.durhamtimes.co.uk/news/8744552.Jobs_shock_at_county_council/",
+        "text": "Durham",
+        "domain": "durhamtimes.co.uk"
+      },
+      {
+        "url": "http://www.leaderlive.co.uk/news/96415/libraries-and-free-transport-for-oaps-to-be-axed-to-save-cash.aspx",
+        "text": "Flintshire",
+        "domain": "leaderlive.co.uk"
+      },
+      {
+        "url": "http://www.flintshirechronicle.co.uk/flintshire-news/featured-stories/2010/12/09/flintshire-faces-library-closures-parking-charges-and-extra-transport-costs-as-cuts-start-to-hit-hard-51352-27791997/",
+        "text": "and at least one mobile",
+        "domain": "flintshirechronicle.co.uk"
+      },
+      {
+        "url": "http://www.gateshead.gov.uk/DocumentLibrary/council/strategy/DraftSpendingPlans2011-12.pdf",
+        "text": "Gateshead",
+        "domain": "gateshead.gov.uk"
+      },
+      {
+        "url": "http://www.gloucestershire.gov.uk/index.cfm?articleid=101356",
+        "text": "Gloucestershire",
+        "domain": "gloucestershire.gov.uk"
+      },
+      {
+        "url": "http://www.thebookseller.com/news/132894-jobs-go-at-hampshire-and-harrow-libraries.html",
+        "text": "Hampshire",
+        "domain": "thebookseller.com"
+      },
+      {
+        "url": "http://www.salisburyjournal.co.uk/news/8718981.Let_Hampshire_County_Council_know_what_you_think_of_its_mobile_libraries/",
+        "text": "mobile library review",
+        "domain": "salisburyjournal.co.uk"
+      },
+      {
+        "url": "http://www.thebookseller.com/news/137427-hampshire-library-chief-to-retire.html.rss?utm_source=twitterfeed&utm_medium=twitter",
+        "text": "libraries merged with IT/property etc",
+        "domain": "thebookseller.com"
+      },
+      {
+        "url": "http://www.harrowobserver.co.uk/west-london-news/local-harrow-news/2010/10/29/modernisation-of-harrow-libraries-will-cost-34-workers-their-jobs-116451-27566885/",
+        "text": "Harrow",
+        "domain": "harrowobserver.co.uk"
+      },
+      {
+        "url": "http://www.blogger.com/goog_1863366919",
+        "text": "Hartlepool",
+        "domain": "blogger.com"
+      },
+      {
+        "url": "http://www.hertsdirect.org/libsleisure/libraries/hvyrsay",
+        "text": "Hertfordshire",
+        "domain": "hertsdirect.org"
+      },
+      {
+        "url": "http://www.borehamwoodtimes.co.uk/news/8716723.Petitioners_plea_for_public_help_to_save_library/",
+        "text": "40% cut",
+        "domain": "borehamwoodtimes.co.uk"
+      },
+      {
+        "url": "http://www.johnogroat-journal.co.uk/news/fullstory.php/aid/8996/Closing_Wick_library_would_be__91eroding_our_community_92.html",
+        "text": "Highland",
+        "domain": "johnogroat-journal.co.uk"
+      },
+      {
+        "url": "http://www.hounslowchronicle.co.uk/west-london-news/local-hounslow-news/2010/11/09/hounslow-libraries-take-jobs-hit-109642-27626386/",
+        "text": "Hounslow",
+        "domain": "hounslowchronicle.co.uk"
+      },
+      {
+        "url": "http://www.hounslowchronicle.co.uk/west-london-news/local-hounslow-news/2010/12/16/youth-centres-and-libraries-face-closure-as-part-of-18m-saving-plans-109642-27839250/",
+        "text": "some",
+        "domain": "hounslowchronicle.co.uk"
+      },
+      {
+        "url": "http://www.iwcp.co.uk/news/news/massive-libraries-cuts-proposed-36392.aspx",
+        "text": "Isle of Wight",
+        "domain": "iwcp.co.uk"
+      },
+      {
+        "url": "http://www.mirfieldreporter.co.uk/news/local/support_our_library_before_it_s_too_late_1_2829561",
+        "text": "Kirklees",
+        "domain": "mirfieldreporter.co.uk"
+      },
+      {
+        "url": "http://www.guardian.co.uk/leeds/2010/dec/08/leeds-library-plans-set-to-be-debated",
+        "text": "Leeds",
+        "domain": "guardian.co.uk"
+      },
+      {
+        "url": "http://www.harboroughmail.co.uk/news/features/diy-petition/libraries_and_museums_facing_privatisation_1_1807362",
+        "text": "Leicestershire",
+        "domain": "harboroughmail.co.uk"
+      },
+      {
+        "url": "http://www.thisisleicestershire.co.uk/news/New-look-unveiled-merged-city-libraries/article-2798317-detail/article.html",
+        "text": "merge of lending/reference- 14 FTE jobs lost",
+        "domain": "thisisleicestershire.co.uk"
+      },
+      {
+        "url": "http://sydenhamradio.co.uk/news/library-closure-wait/",
+        "text": "Lewisham",
+        "domain": "sydenhamradio.co.uk"
+      },
+      {
+        "url": "http://www.liverpoolconfidential.co.uk/News-and-Comment/General/Larry-Neild-on-death-by-100m-cuts_16375.asp",
+        "text": "Liverpool",
+        "domain": "liverpoolconfidential.co.uk"
+      },
+      {
+        "url": "http://www.thisislocallondon.co.uk/news/8742223.Cuts_announced_for_libraries_in_Raynes_Park_and_Colliers_Wood/",
+        "text": "Merton",
+        "domain": "thisislocallondon.co.uk"
+      },
+      {
+        "url": "http://alangibbons.net/?p=2441",
+        "text": "Milton Keynes",
+        "domain": "alangibbons.net"
+      },
+      {
+        "url": "http://www.southwalesargus.co.uk/news/8668381.Newport_set_for_library_shake_up/",
+        "text": "Newport",
+        "domain": "southwalesargus.co.uk"
+      },
+      {
+        "url": "http://www.portadowntimes.co.uk/news/Concern-as-Richhill-library-faces.6666317.jp",
+        "text": "Northern Ireland",
+        "domain": "portadowntimes.co.uk"
+      },
+      {
+        "url": "http://www.aboutmyarea.co.uk/Northamptonshire/Northampton/NN4/News/Local-News/183108-Roade-amongst-proposed-library-closures",
+        "text": "Northamptonshire",
+        "domain": "aboutmyarea.co.uk"
+      },
+      {
+        "url": "http://www.journallive.co.uk/northumberland-sites/northumberland-news/2010/12/08/northumberland-library-strategy-to-be-examined-61634-27788908/",
+        "text": "Northumberland",
+        "domain": "journallive.co.uk"
+      },
+      {
+        "url": "http://www.acadvertiser.co.uk/lanarkshire-news/local-news/monklands-news/2010/03/24/coatbridge-mum-fights-to-save-whifflet-library-from-closure-65864-26093620/",
+        "text": "North Lanarkshire",
+        "domain": "acadvertiser.co.uk"
+      },
+      {
+        "url": "http://www.edp24.co.uk/news/education/fears_for_future_of_cromer_library_1_746079",
+        "text": "North Norfolk",
+        "domain": "edp24.co.uk"
+      },
+      {
+        "url": "http://www.thewestonmercury.co.uk/news/libraries_are_reprieved_1_730157",
+        "text": "North Somerset",
+        "domain": "thewestonmercury.co.uk"
+      },
+      {
+        "url": "http://www.thewestonmercury.co.uk/news/council_cuts_inevitable_but_redesign_hopeful_1_737838",
+        "text": "Weston Mercury update",
+        "domain": "thewestonmercury.co.uk"
+      },
+      {
+        "url": "http://www.maltonmercury.co.uk/news/local/libraries_to_face_the_axe_1_2787462",
+        "text": "North Yorkshire",
+        "domain": "maltonmercury.co.uk"
+      },
+      {
+        "url": "http://www.independent.co.uk/arts-entertainment/books/features/boyd-tonkin-a-county-fights-the-cuts-in-true-robin-hood-spirit-2112953.html",
+        "text": "Nottingham",
+        "domain": "independent.co.uk"
+      },
+      {
+        "url": "http://www.thisisretford.co.uk/news/Help-reduce-library-pressure/article-2935074-detail/article.html",
+        "text": "30 libraries have less opening hours)",
+        "domain": "thisisretford.co.uk"
+      },
+      {
+        "url": "http://www.oldham-chronicle.co.uk/news-features/8/news-headlines/48605/new-look-for-libraries-facing-25pc-funding-cut",
+        "text": "Oldham",
+        "domain": "oldham-chronicle.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-oxfordshire-11845014",
+        "text": "Oxfordshire",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.oxfordmail.co.uk/news/8730300.Protesters_turn_up_the_volume_for_libraries/",
+        "text": "here",
+        "domain": "oxfordmail.co.uk"
+      },
+      {
+        "url": "http://www.oxfordmail.co.uk/news/8740142.Library_is_a_lifeline__say_protesters/",
+        "text": "Oxford Central hours extended",
+        "domain": "oxfordmail.co.uk"
+      },
+      {
+        "url": "http://www.guardian-series.co.uk/news/rbnews/8722098.REDBRIDGE__Six_libraries_could_face_the_axe/",
+        "text": "Redbridge",
+        "domain": "guardian-series.co.uk"
+      },
+      {
+        "url": "http://www.eveningtimes.co.uk/news/editor-s-picks/fury-over-move-to-downsize-libraries-1.1072295",
+        "text": "Renfrewshire",
+        "domain": "eveningtimes.co.uk"
+      },
+      {
+        "url": "http://www.richmondandtwickenhamtimes.co.uk/news/8493124.Tories__broke_promise__to_consult_on_library_closure/",
+        "text": "Richmond",
+        "domain": "richmondandtwickenhamtimes.co.uk"
+      },
+      {
+        "url": "http://www.richmondandtwickenhamtimes.co.uk/news/8745831.Services_cut_despite__generous__grant/",
+        "text": "£351k cut",
+        "domain": "richmondandtwickenhamtimes.co.uk"
+      },
+      {
+        "url": "http://www.rochdaletowncentre.co.uk/news/town-centre-news/213/council-agrees-first-phase-of-saving-plans",
+        "text": "Rochdale",
+        "domain": "rochdaletowncentre.co.uk"
+      },
+      {
+        "url": "http://www.formbytimes.co.uk/news/formby-news/2010/11/10/sefton-council-has-until-the-next-financial-year-to-pinpoint-cuts-totalling-38m-66401-27628015/",
+        "text": "Sefton",
+        "domain": "formbytimes.co.uk"
+      },
+      {
+        "url": "http://www.sheffieldtelegraph.co.uk/news/local/campaign_group_to_speak_up_for_libraries_1_2818949",
+        "text": "Sheffield",
+        "domain": "sheffieldtelegraph.co.uk"
+      },
+      {
+        "url": "http://www.shropshirestar.com/news/2010/12/06/shropshires-reference-library-now-at-axe-risk/",
+        "text": "Shropshire – 1",
+        "domain": "shropshirestar.com"
+      },
+      {
+        "url": "http://www.blogger.com/goog_1072329809",
+        "text": "Somerset",
+        "domain": "blogger.com"
+      },
+      {
+        "url": "http://alangibbons.net/?p=2973",
+        "text": "here",
+        "domain": "alangibbons.net"
+      },
+      {
+        "url": "http://news.bbc.co.uk/local/stoke/hi/people_and_places/newsid_9146000/9146770.stm",
+        "text": "Stoke",
+        "domain": "news.bbc.co.uk"
+      },
+      {
+        "url": "http://news.bbc.co.uk/local/stoke/hi/people_and_places/newsid_9210000/9210712.stm",
+        "text": "ends RNIB service",
+        "domain": "news.bbc.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-suffolk-11941207",
+        "text": "Suffolk",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.thisissouthwales.co.uk/news/cuts-come/article-3016480-detail/article.html",
+        "text": "Swansea",
+        "domain": "thisissouthwales.co.uk"
+      },
+      {
+        "url": "http://www.thisiskent.co.uk/news/Isle-12-hardest-hit-cuts/article-3011776-detail/article.html",
+        "text": "Thanet",
+        "domain": "thisiskent.co.uk"
+      },
+      {
+        "url": "http://www.eastlondonadvertiser.co.uk/news/tower_hamlets_library_staff_made_to_reapply_for_own_jobs_1_729538",
+        "text": "Tower Hamlets",
+        "domain": "eastlondonadvertiser.co.uk"
+      },
+      {
+        "url": "http://www.yorkshirepost.co.uk/localnews/Library-service-may-go-private.6622243.jp",
+        "text": "Wakefield",
+        "domain": "yorkshirepost.co.uk"
+      },
+      {
+        "url": "http://www.hemsworthandsouthelmsallexpress.co.uk/news/local/town_council_to_fight_for_libraries_1_2867097",
+        "text": "at least 2",
+        "domain": "hemsworthandsouthelmsallexpress.co.uk"
+      },
+      {
+        "url": "http://thebookwormturns.posterous.com/year-zero-in-walsall-libraries",
+        "text": "Walsall",
+        "domain": "thebookwormturns.posterous.com"
+      },
+      {
+        "url": "http://www.expressandstar.com/news/2010/11/18/axe-falls-in-walsall-council-cuts/",
+        "text": "More details here",
+        "domain": "expressandstar.com"
+      },
+      {
+        "url": "http://www.thisislocallondon.co.uk/news/8746957.WALTHAM_FOREST____20k__wasted_on_library_survey_/",
+        "text": "Walthamstow",
+        "domain": "thisislocallondon.co.uk"
+      },
+      {
+        "url": "http://www.wandsworth.gov.uk/info/200062/libraries/1060/library_review_consultation",
+        "text": "Wandsworth",
+        "domain": "wandsworth.gov.uk"
+      },
+      {
+        "url": "http://www.guardian.co.uk/commentisfree/2010/dec/13/ed-miliband-labour-honest-politician?INTCMP=SRCH",
+        "text": "here",
+        "domain": "guardian.co.uk"
+      },
+      {
+        "url": "http://www.warringtonguardian.co.uk/news/whereilive/8619795.Library_review__a_smokescreen_/",
+        "text": "Warrington",
+        "domain": "warringtonguardian.co.uk"
+      },
+      {
+        "url": "http://www.theargus.co.uk/news/8461522.Sussex_library_staff_face_axe/",
+        "text": "West Sussex",
+        "domain": "theargus.co.uk"
+      },
+      {
+        "url": "http://www.chichester.co.uk/news/local/west_sussex_county_council_spending_cuts_announced_1_1808599",
+        "text": "Some",
+        "domain": "chichester.co.uk"
+      },
+      {
+        "url": "http://www.wlct.org/libraries/consultation.htm",
+        "text": "Wigan",
+        "domain": "wlct.org"
+      },
+      {
+        "url": "http://www.wigantoday.net/community/help_us_save_library_for_community_1_2829924",
+        "text": "£1.1m cut off £4m budget",
+        "domain": "wigantoday.net"
+      },
+      {
+        "url": "http://aldbourne.net/news/wiltshires-budget-bombshell",
+        "text": "Wiltshire",
+        "domain": "aldbourne.net"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-hereford-worcester-12016096",
+        "text": "Worcestershire",
+        "domain": "bbc.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "Scotland",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Aberdeenshire",
+        "gss_code": "S12000034",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 57.2869,
+        "longitude": -2.3816
+      }
+    },
+    "classification": {
+      "categories": [
+        "closures_and_threats",
+        "cuts_and_finance",
+        "staffing_and_unions",
+        "volunteers_and_community",
+        "opening_hours",
+        "mobile_and_outreach",
+        "governance_and_trusts"
+      ],
+      "primary_category": "closures_and_threats",
+      "change_type": "closure",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": [
+        "£2m",
+        "£143k",
+        "£869k",
+        "£1m",
+        "£351k",
+        "£1.1m",
+        "£4m"
+      ]
+    },
+    "tags": [
+      "closures_and_threats",
+      "cuts_and_finance",
+      "staffing_and_unions",
+      "volunteers_and_community",
+      "opening_hours",
+      "mobile_and_outreach",
+      "governance_and_trusts"
+    ]
+  },
+  {
+    "id": "pln-story-658-changes-001",
+    "post_id": "pln-post-658",
+    "post_date": "2010-12-21",
+    "section": "changes",
+    "entity_raw": "News",
+    "text": "Gloucestershire – consultation and campaign – This is Gloucestershire Moray – libraries are safe – Press and Journal Northamptonshire – fears expressed over cuts – Evening Telegraph",
+    "text_html": "<br /><a href=\"http://www.thisisgloucestershire.co.uk/news/Library-users-gather-cuts-concerns/article-3025261-detail/article.html\">Gloucestershire &#8211; consultation and campaign </a>&#8211; This is Gloucestershire<b> </b><br /><a href=\"http://www.pressandjournal.co.uk/Article.aspx/2061501?UserKey=\">Moray &#8211; libraries are safe &#8211; Press and Journal </a><b></b><br /><a href=\"http://www.northantset.co.uk/news/Fears-expressed-over-council39s-68m.6667240.jp\">Northamptonshire &#8211; fears expressed over cuts</a> &#8211; Evening Telegraph</p>",
+    "links": [
+      {
+        "url": "http://www.thisisgloucestershire.co.uk/news/Library-users-gather-cuts-concerns/article-3025261-detail/article.html",
+        "text": "Gloucestershire – consultation and campaign",
+        "domain": "thisisgloucestershire.co.uk"
+      },
+      {
+        "url": "http://www.pressandjournal.co.uk/Article.aspx/2061501?UserKey=",
+        "text": "Moray – libraries are safe – Press and Journal",
+        "domain": "pressandjournal.co.uk"
+      },
+      {
+        "url": "http://www.northantset.co.uk/news/Fears-expressed-over-council39s-68m.6667240.jp",
+        "text": "Northamptonshire – fears expressed over cuts",
+        "domain": "northantset.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Gloucestershire",
+        "gss_code": "E10000013",
+        "confidence": "fuzzy"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 51.8642,
+        "longitude": -2.238
+      }
+    },
+    "classification": {
+      "categories": [
+        "cuts_and_finance",
+        "campaigns_and_protests"
+      ],
+      "primary_category": "cuts_and_finance",
+      "change_type": "reduction_or_cut",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "cuts_and_finance",
+      "campaigns_and_protests"
+    ]
+  },
+  {
+    "id": "pln-story-660-changes-003",
+    "post_id": "pln-post-660",
+    "post_date": "2010-12-20",
+    "section": "changes",
+    "entity_raw": "Aberdeenshire",
+    "text": "some Angus – 4 libraries closed this year (April) to be possibly replaced by a mobile Argyll and Bute – 3 libraries and mobile library. Barking and Dagenham – 5 Barnet – some – public consultation here Barnsley – up to 8 Bedfordshire – 1 mobile to go Birmingham – 39 (three libraries lose hours so Tower Hill can remain open) Bolton – Up to 8 Brent – 6 (out of 12) Bristol – some may be staffed by volunteers Buckinghamshire – up to 14 to close or be staffed by volunteers Bury – 1 (1 other reduced hours) – Manchester Evening News Cambridgeshire – some Camden – several plus one mobile library (£2 million cut) Central Bedfordshire – one mobile library to go Conwy – 7 (out of 12) Cornwall – up to 23 Croydon – 6 plus 1 local studies Devon – (mobile stops cut) Doncaster – 13, (may also be taken out of council control) Dorset – up to 20 (out of 34) to close or be given to community groups (£143k off bookfund). Dorset is the sole council to receive an actual increase in funding for 2010/11. Dumfries – 7 Durham – some Flintshire – 5 and at least one mobile Gateshead – some (school library service, music library, AIRS talking newspaper under threat) Gloucestershire – Up to 25 and 6 mobiles – 11 to close or go to volunteers. 7 to close if they don’t find a partner. A further 11 reduced to 3.5 hours a week (this is just a small figure I include them under “closed”), 6 mobile libraries to go. Hampshire – (58 FTE jobs to go) (and mobile library review)(libraries merged with IT/property etc) Harrow – (34 FTE to go) Hartlepool – 1 confirmed to close (another to merge with community centre, all library’s hours cut) Hertfordshire – (opening hours to be cut by one third – from 2236 hours down to 1575) – At least one library (Borehamwood) faces a 40% cut Highland – (Wick Library to close and merge with school library) Hounslow – some (£869k p.a cut – reduction in hours,12 FTE to go, 1 IT skills suite closed) Isle of Wight – 9 (out of 11) Kirklees – at least 1 Leeds – Up to 20 (out of 52) Leicestershire – all libraries could be privatised, put to trust or shared (merge of lending/reference- 14 FTE jobs lost) Lewisham – 5 Liverpool – some Merton – (2 libraries will have reduced hours) Milton Keynes – 2 Newport – 7 Northern Ireland – 9 Northamptonshire – 8 out of 38 may close, 2 mobile libraries to end. Cuts to management and support also. Northumberland – some North Lanarkshire – 1 (closed March 2010) North Norfolk – some (c. £1m reduction) North Somerset – 1 closed, 2 proposed. Weston Mercury update North Yorkshire – 24 to close or be staffed by volunteers, 9 mobiles to go off road. Nottingham – (80 FTE jobs to go, 75% off bookfund, 30 libraries have less opening hours) Oldham – (increase in volunteers, merging, cuts) Oxfordshire – 20 – list of those under threat here, Oxford Central hours extended to 7 days per week Redbridge – 5 out of 12 may close, another may relocate. Renfrewshire – (2 libraries to move into smaller sites in community centres) Richmond – 1 (£351k cut) Rochdale – (some library managers to to go in first phase of cuts) Sefton – 3 Sheffield – (30% cut expected) Shropshire – 1 (reference library to merge with central library) Somerset – 20 (out of 34) will be offered to community groups. 4 (out of 6) mobile libraries will also go. Ten other libraries will have a 10% reduction in hours. List of closures here .Consultation period ends on 14th Jan. Stoke – 2 and 1 mobile library, (ends RNIB service) Suffolk – up to 2 Swansea – some Thanet – some Tower Hamlets – (staff made to reapply for their own jobs -23 library staff replaced) Wakefield – at least 2 Walsall – at least 8 (30 FTE). More details here Walthamstow – some Wandsworth – 1 (mention in Guardian here) plus reduction in hours in others. Warrington – 2 and 1 mobile library West Sussex – Some (5 FTE lost, some librarians pay reduced to library assistant) Wigan – Up to 15 out of 17 (£1.1m cut off £4m budget) Wiltshire – (26 FTE posts to go inc. 9 out of 13 community librarians) Worcestershire – some",
+    "text_html": "<p><a href=\"http://news.scotsman.com/news/Council-funding-deal-starts-to.6631760.jp\">Aberdeenshire</a> &#8211; some<br /><a href=\"http://www.pressandjournal.co.uk/Article.aspx/1979554?UserKey=\">Angus </a>&#8211; 4 libraries closed this year (April) to be possibly replaced by a mobile<br /><a href=\"http://www.pressandjournal.co.uk/Article.aspx/2031646?UserKey&#038;UserKey=\">Argyll and Bute</a> &#8211; 3 libraries and mobile library.<br /><a href=\"http://www.bdpost.co.uk/news/borough_libraries_set_to_close_under_new_council_proposals_1_729263?action=login&#038;forgotpassword\">Barking and Dagenham</a> &#8211; 5<br /><a href=\"http://www.guardian.co.uk/politics/2010/sep/23/barnet-easycouncil-costcutting-plan-criticised\">Barnet</a> &#8211; some &#8211; <a href=\"http://www.barnet.gov.uk/index/council-democracy/consultations/libraries-survey.htm\">public consultation here</a><br /><a href=\"http://www.bbc.co.uk/news/uk-england-south-yorkshire-11769324\">Barnsley</a> &#8211; up to 8<br /><a href=\"http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-11686138\">Bedfordshire</a> &#8211; 1 mobile to go <br /><a href=\"http://www.thebookseller.com/news/127525-up-to-40-libraries-affected-in-birmingham-review.html\">Birmingham</a> &#8211; 39 (three libraries lose hours so Tower Hill can remain open)<br /><a href=\"http://www.theboltonnews.co.uk/news/8288837.Libraries_face_axe_as_council_plans_big_cuts/\">Bolton</a> &#8211; Up to 8 <br /><a href=\"http://www.harrowobserver.co.uk/west-london-news/local-harrow-news/2010/11/17/plan-to-close-half-of-libraries-in-borough-116451-27671113/\">Brent </a>&#8211; 6 (out of 12)<br /><a href=\"http://www.thisisbristol.co.uk/news/COUNCIL-S-CUTS-TURN-LIGHTS/article-2936832-detail/article.html\">Bristol</a> &#8211; some may be staffed by volunteers<br /><a href=\"http://www.buckinghamshireadvertiser.co.uk/south-buckinghamshire-news/local-buckinghamshire-advertiser-news/2010/11/17/libraries-cannot-continue-as-we-are-82398-27671144/\">Buckinghamshire</a> &#8211; up to 14 to close or be staffed by volunteers<br /><a href=\"http://menmedia.co.uk/manchestereveningnews/news/s/1396703_bury_in_gloom_as_cutbacks_hits_famous_floral_displays\">Bury &#8211; 1 (1 other reduced hours)</a> &#8211; Manchester Evening News<br /><a href=\"http://www.cambridge-news.co.uk/Home/450-jobs-to-go-in-161-million-public-sector-cuts.htm\">Cambridgeshire</a> &#8211; some <br /><a href=\"http://www.camden.gov.uk/ccm/content/council-and-democracy/publications-and-finances/twocolumn/culture-and-environment.en?page=4\">Camden </a>&#8211; several plus one mobile library <a href=\"http://www.hamhigh.co.uk/news/camden_library_budget_to_be_slashed_by_2million_1_733131\">(£2 million cut)</a><br /><a href=\"http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-11686138\">Central Bedfordshire</a> &#8211; one mobile library to go<br /><a href=\"http://www.bbc.co.uk/news/uk-wales-north-west-wales-11982660\">Conwy</a> &#8211; 7 (out of 12)<br /><a href=\"http://www.thisiscornwall.co.uk/news/Library-face-chop-big-cuts-plan/article-2952589-detail/article.html\">Cornwall</a> &#8211; up to 23<br /><a href=\"http://www.croydonguardian.co.uk/news/8732306.Six_libraries_could_close_in_Croydon/#commentsList\">Croydon</a> &#8211; 6 plus 1 <a href=\"http://www.croydonguardian.co.uk/news/8670763.Historians__horror_at_proposals_to_close_our_library/\">local studies</a><br /><a href=\"http://www.thisisexeter.co.uk/letters/County-treating-city-contempt/article-2974625-detail/article.html\">Devon </a>&#8211; (mobile stops cut) <br /><a href=\"http://www.guardian.co.uk/commentisfree/2010/aug/18/doncasters-library-closures-catastrophe\">Doncaster</a> &#8211; 13, <a href=\"http://savedoncasterlibraries.wordpress.com/2010/12/09/disconcerting-news-from-caroline-flint/\">(may also be taken out of council control</a>)<br /><a href=\"http://www.bridportnews.co.uk/news/8738857.West_Dorset__Volunteers_fear_libraries_will_close_under_council_cuts/\">Dorset</a><a href=\"http://www.bbc.co.uk/news/uk-england-dorset-11953297\"> </a>&#8211; up to 20 (out of 34) to close or be given to community groups (£143k off bookfund). Dorset is the sole council to receive an actual increase in funding for 2010/11.<br /><a href=\"http://www.bbc.co.uk/news/uk-scotland-south-scotland-11733265\">Dumfries</a> &#8211; 7<br /><a href=\"http://www.durhamtimes.co.uk/news/8744552.Jobs_shock_at_county_council/\">Durham</a> &#8211; some <br /><a href=\"http://www.leaderlive.co.uk/news/96415/libraries-and-free-transport-for-oaps-to-be-axed-to-save-cash.aspx\">Flintshire</a> &#8211; 5 <a href=\"http://www.flintshirechronicle.co.uk/flintshire-news/featured-stories/2010/12/09/flintshire-faces-library-closures-parking-charges-and-extra-transport-costs-as-cuts-start-to-hit-hard-51352-27791997/\">and at least one mobile</a><br /><a href=\"http://www.gateshead.gov.uk/DocumentLibrary/council/strategy/DraftSpendingPlans2011-12.pdf\">Gateshead </a>&#8211; some (school library service, music library, AIRS talking newspaper under threat)<br /><a href=\"http://www.gloucestershire.gov.uk/index.cfm?articleid=101356\">Gloucestershire </a>&#8211; Up to 25 and 6 mobiles &#8211; 11 to close or go to volunteers. 7 to close if they don&#8217;t find a partner. A further 11 reduced to 3.5 hours a week (this is just a small figure I include them under &#8220;closed&#8221;), 6 mobile libraries to go. <br /><a href=\"http://www.thebookseller.com/news/132894-jobs-go-at-hampshire-and-harrow-libraries.html\">Hampshire</a> &#8211; (58 FTE jobs to go) (and <a href=\"http://www.salisburyjournal.co.uk/news/8718981.Let_Hampshire_County_Council_know_what_you_think_of_its_mobile_libraries/\">mobile library review</a>)(<a href=\"http://www.thebookseller.com/news/137427-hampshire-library-chief-to-retire.html.rss?utm_source=twitterfeed&#038;utm_medium=twitter\">libraries merged with IT/property etc</a>)<br /><a href=\"http://www.harrowobserver.co.uk/west-london-news/local-harrow-news/2010/10/29/modernisation-of-harrow-libraries-will-cost-34-workers-their-jobs-116451-27566885/\">Harrow</a> &#8211; (34 FTE to go) <br /><a href=\"http://www.blogger.com/goog_1863366919\">Hartlepool</a><a href=\"http://www.hartlepoolmail.co.uk/news/Library-axed-in-moneysaving-bid.6652385.jp\"> </a>&#8211; 1 confirmed to close (another to merge with community centre, all library&#8217;s hours cut)<br /><a href=\"http://www.hertsdirect.org/libsleisure/libraries/hvyrsay\">Hertfordshire</a> &#8211; (opening hours to be cut by one third &#8211; from 2236 hours down to 1575) &#8211; At least one library (Borehamwood) faces a <a href=\"http://www.borehamwoodtimes.co.uk/news/8716723.Petitioners_plea_for_public_help_to_save_library/\">40% cut</a><br /><a href=\"http://www.johnogroat-journal.co.uk/news/fullstory.php/aid/8996/Closing_Wick_library_would_be__91eroding_our_community_92.html\">Highland</a> &#8211; (Wick Library to close and merge with school library) <br /><a href=\"http://www.hounslowchronicle.co.uk/west-london-news/local-hounslow-news/2010/11/09/hounslow-libraries-take-jobs-hit-109642-27626386/\">Hounslow</a> &#8211;<a href=\"http://www.hounslowchronicle.co.uk/west-london-news/local-hounslow-news/2010/12/16/youth-centres-and-libraries-face-closure-as-part-of-18m-saving-plans-109642-27839250/\"> some</a> (£869k p.a cut &#8211; reduction in hours,12 FTE to go, 1 IT skills suite closed)<br /><a href=\"http://www.iwcp.co.uk/news/news/massive-libraries-cuts-proposed-36392.aspx\">Isle of Wight</a> &#8211; 9 (out of 11)<br /><a href=\"http://www.mirfieldreporter.co.uk/news/local/support_our_library_before_it_s_too_late_1_2829561\">Kirklees </a>&#8211; at least 1 <br /><a href=\"http://www.guardian.co.uk/leeds/2010/dec/08/leeds-library-plans-set-to-be-debated\">Leeds</a> &#8211; Up to 20 (out of 52)<br /><a href=\"http://www.harboroughmail.co.uk/news/features/diy-petition/libraries_and_museums_facing_privatisation_1_1807362\">Leicestershire</a> &#8211; all libraries could be privatised, put to trust or shared (<a href=\"http://www.thisisleicestershire.co.uk/news/New-look-unveiled-merged-city-libraries/article-2798317-detail/article.html\">merge of lending/reference- 14 FTE jobs lost</a>) <br /><a href=\"http://sydenhamradio.co.uk/news/library-closure-wait/\">Lewisham</a> &#8211; 5<br /><a href=\"http://www.liverpoolconfidential.co.uk/News-and-Comment/General/Larry-Neild-on-death-by-100m-cuts_16375.asp\">Liverpool</a> &#8211; some<br /><a href=\"http://www.thisislocallondon.co.uk/news/8742223.Cuts_announced_for_libraries_in_Raynes_Park_and_Colliers_Wood/\">Merton</a> &#8211; (2 libraries will have reduced hours)<br /><a href=\"http://alangibbons.net/?p=2441\">Milton Keynes</a> &#8211; 2<br /><a href=\"http://www.southwalesargus.co.uk/news/8668381.Newport_set_for_library_shake_up/\">Newport </a>&#8211; 7<br /><a href=\"http://www.portadowntimes.co.uk/news/Concern-as-Richhill-library-faces.6666317.jp\">Northern Ireland</a> &#8211; 9<br /><a href=\"http://www.aboutmyarea.co.uk/Northamptonshire/Northampton/NN4/News/Local-News/183108-Roade-amongst-proposed-library-closures\">Northamptonshire</a> &#8211; 8 out of 38 may close, 2 mobile libraries to end. Cuts to management and support also.<br /><a href=\"http://www.journallive.co.uk/northumberland-sites/northumberland-news/2010/12/08/northumberland-library-strategy-to-be-examined-61634-27788908/\">Northumberland</a> &#8211; some <br /><a href=\"http://www.acadvertiser.co.uk/lanarkshire-news/local-news/monklands-news/2010/03/24/coatbridge-mum-fights-to-save-whifflet-library-from-closure-65864-26093620/\">North Lanarkshire </a>&#8211; 1 (closed March 2010)<br /><a href=\"http://www.edp24.co.uk/news/education/fears_for_future_of_cromer_library_1_746079\">North Norfolk</a> &#8211; some (c. £1m reduction)<br /><a href=\"http://www.thewestonmercury.co.uk/news/libraries_are_reprieved_1_730157\">North Somerset</a> &#8211; 1 closed, 2 proposed. <a href=\"http://www.thewestonmercury.co.uk/news/council_cuts_inevitable_but_redesign_hopeful_1_737838\">Weston Mercury update</a><br /><a href=\"http://www.maltonmercury.co.uk/news/local/libraries_to_face_the_axe_1_2787462\">North Yorkshire</a> &#8211; 24 to close or be staffed by volunteers, 9 mobiles to go off road.<br /><a href=\"http://www.independent.co.uk/arts-entertainment/books/features/boyd-tonkin-a-county-fights-the-cuts-in-true-robin-hood-spirit-2112953.html\">Nottingham</a> &#8211; (80 FTE jobs to go, 75% off bookfund, <a href=\"http://www.thisisretford.co.uk/news/Help-reduce-library-pressure/article-2935074-detail/article.html\">30 libraries have less opening hours)</a> <br /><a href=\"http://www.oldham-chronicle.co.uk/news-features/8/news-headlines/48605/new-look-for-libraries-facing-25pc-funding-cut\">Oldham</a> &#8211; (increase in volunteers, merging, cuts)<br /><a href=\"http://www.bbc.co.uk/news/uk-england-oxfordshire-11845014\">Oxfordshire</a> &#8211; 20 &#8211; list of those under threat <a href=\"http://www.oxfordmail.co.uk/news/8730300.Protesters_turn_up_the_volume_for_libraries/\">here</a>, <a href=\"http://www.oxfordmail.co.uk/news/8740142.Library_is_a_lifeline__say_protesters/\">Oxford Central hours extended</a> to 7 days per week <br /><a href=\"http://www.guardian-series.co.uk/news/rbnews/8722098.REDBRIDGE__Six_libraries_could_face_the_axe/\">Redbridge </a>&#8211; 5 out of 12 may close, another may relocate.<br /><a href=\"http://www.eveningtimes.co.uk/news/editor-s-picks/fury-over-move-to-downsize-libraries-1.1072295\">Renfrewshire </a>&#8211; (2 libraries to move into smaller sites in community centres)<br /><a href=\"http://www.richmondandtwickenhamtimes.co.uk/news/8493124.Tories__broke_promise__to_consult_on_library_closure/\">Richmond</a> &#8211; 1 (<a href=\"http://www.richmondandtwickenhamtimes.co.uk/news/8745831.Services_cut_despite__generous__grant/\">£351k cut</a>)<br /><a href=\"http://www.rochdaletowncentre.co.uk/news/town-centre-news/213/council-agrees-first-phase-of-saving-plans\">Rochdale</a> &#8211; (some library managers to to go in first phase of cuts)<br /><a href=\"http://www.formbytimes.co.uk/news/formby-news/2010/11/10/sefton-council-has-until-the-next-financial-year-to-pinpoint-cuts-totalling-38m-66401-27628015/\">Sefton</a> &#8211; 3<br /><a href=\"http://www.sheffieldtelegraph.co.uk/news/local/campaign_group_to_speak_up_for_libraries_1_2818949\">Sheffield</a> &#8211; (30% cut expected)<br /><a href=\"http://www.shropshirestar.com/news/2010/12/06/shropshires-reference-library-now-at-axe-risk/\">Shropshire &#8211; 1</a> (reference library to merge with central library)<br /><a href=\"http://www.blogger.com/goog_1072329809\">Somerset</a><a href=\"http://www.somerset.gov.uk/irj/public/news/directory/articles?rid=/guid/8047d0fa-95ea-2d10-1caf-994d99dab81d\"> </a>&#8211; 20 (out of 34) will be offered to community groups. 4 (out of 6) mobile libraries will also go. Ten other libraries will have a 10% reduction in hours. List of closures <a href=\"http://alangibbons.net/?p=2973\">here</a> .Consultation period ends on 14th Jan.<br /><a href=\"http://news.bbc.co.uk/local/stoke/hi/people_and_places/newsid_9146000/9146770.stm\">Stoke</a> &#8211; 2 and 1 mobile library, (<a href=\"http://news.bbc.co.uk/local/stoke/hi/people_and_places/newsid_9210000/9210712.stm\">ends RNIB service</a>)<br /><a href=\"http://www.bbc.co.uk/news/uk-england-suffolk-11941207\">Suffolk</a> &#8211; up to 2 <br /><a href=\"http://www.thisissouthwales.co.uk/news/cuts-come/article-3016480-detail/article.html\">Swansea </a>&#8211; some<br /><a href=\"http://www.thisiskent.co.uk/news/Isle-12-hardest-hit-cuts/article-3011776-detail/article.html\">Thanet</a> &#8211; some<br /><a href=\"http://www.eastlondonadvertiser.co.uk/news/tower_hamlets_library_staff_made_to_reapply_for_own_jobs_1_729538\">Tower Hamlets</a> &#8211; (staff made to reapply for their own jobs -23 library staff replaced)<br /><a href=\"http://www.yorkshirepost.co.uk/localnews/Library-service-may-go-private.6622243.jp\">Wakefield</a> &#8211; <a href=\"http://www.hemsworthandsouthelmsallexpress.co.uk/news/local/town_council_to_fight_for_libraries_1_2867097\">at least 2 </a><br /><a href=\"http://thebookwormturns.posterous.com/year-zero-in-walsall-libraries\">Walsall</a> &#8211; at least 8 (30 FTE). <a href=\"http://www.expressandstar.com/news/2010/11/18/axe-falls-in-walsall-council-cuts/\">More details here </a><br /><a href=\"http://www.thisislocallondon.co.uk/news/8746957.WALTHAM_FOREST____20k__wasted_on_library_survey_/\">Walthamstow</a> &#8211; some<br /><a href=\"http://www.wandsworth.gov.uk/info/200062/libraries/1060/library_review_consultation\">Wandsworth</a> &#8211; 1 (mention in Guardian <a href=\"http://www.guardian.co.uk/commentisfree/2010/dec/13/ed-miliband-labour-honest-politician?INTCMP=SRCH\">here</a>) plus reduction in hours in others.<br /><a href=\"http://www.warringtonguardian.co.uk/news/whereilive/8619795.Library_review__a_smokescreen_/\">Warrington</a> &#8211; 2 and 1 mobile library<br /><a href=\"http://www.theargus.co.uk/news/8461522.Sussex_library_staff_face_axe/\">West Sussex </a>&#8211; <a href=\"http://www.chichester.co.uk/news/local/west_sussex_county_council_spending_cuts_announced_1_1808599\">Some</a> (5 FTE lost, some librarians pay reduced to library assistant) <br /><a href=\"http://www.wlct.org/libraries/consultation.htm\">Wigan</a><a href=\"http://www.wigantoday.net/community/help_us_save_library_for_community_1_2829924\"> </a>&#8211; Up to 15 out of 17 (<a href=\"http://www.wigantoday.net/community/help_us_save_library_for_community_1_2829924\">£1.1m cut off £4m budget</a>)<br /><a href=\"http://aldbourne.net/news/wiltshires-budget-bombshell\">Wiltshire</a> &#8211; (26 FTE posts to go inc. 9 out of 13 community librarians)<br /><a href=\"http://www.bbc.co.uk/news/uk-england-hereford-worcester-12016096\">Worcestershire</a> &#8211; some</p>",
+    "links": [
+      {
+        "url": "http://news.scotsman.com/news/Council-funding-deal-starts-to.6631760.jp",
+        "text": "Aberdeenshire",
+        "domain": "news.scotsman.com"
+      },
+      {
+        "url": "http://www.pressandjournal.co.uk/Article.aspx/1979554?UserKey=",
+        "text": "Angus",
+        "domain": "pressandjournal.co.uk"
+      },
+      {
+        "url": "http://www.pressandjournal.co.uk/Article.aspx/2031646?UserKey&UserKey=",
+        "text": "Argyll and Bute",
+        "domain": "pressandjournal.co.uk"
+      },
+      {
+        "url": "http://www.bdpost.co.uk/news/borough_libraries_set_to_close_under_new_council_proposals_1_729263?action=login&forgotpassword",
+        "text": "Barking and Dagenham",
+        "domain": "bdpost.co.uk"
+      },
+      {
+        "url": "http://www.guardian.co.uk/politics/2010/sep/23/barnet-easycouncil-costcutting-plan-criticised",
+        "text": "Barnet",
+        "domain": "guardian.co.uk"
+      },
+      {
+        "url": "http://www.barnet.gov.uk/index/council-democracy/consultations/libraries-survey.htm",
+        "text": "public consultation here",
+        "domain": "barnet.gov.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-south-yorkshire-11769324",
+        "text": "Barnsley",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-11686138",
+        "text": "Bedfordshire",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.thebookseller.com/news/127525-up-to-40-libraries-affected-in-birmingham-review.html",
+        "text": "Birmingham",
+        "domain": "thebookseller.com"
+      },
+      {
+        "url": "http://www.theboltonnews.co.uk/news/8288837.Libraries_face_axe_as_council_plans_big_cuts/",
+        "text": "Bolton",
+        "domain": "theboltonnews.co.uk"
+      },
+      {
+        "url": "http://www.harrowobserver.co.uk/west-london-news/local-harrow-news/2010/11/17/plan-to-close-half-of-libraries-in-borough-116451-27671113/",
+        "text": "Brent",
+        "domain": "harrowobserver.co.uk"
+      },
+      {
+        "url": "http://www.thisisbristol.co.uk/news/COUNCIL-S-CUTS-TURN-LIGHTS/article-2936832-detail/article.html",
+        "text": "Bristol",
+        "domain": "thisisbristol.co.uk"
+      },
+      {
+        "url": "http://www.buckinghamshireadvertiser.co.uk/south-buckinghamshire-news/local-buckinghamshire-advertiser-news/2010/11/17/libraries-cannot-continue-as-we-are-82398-27671144/",
+        "text": "Buckinghamshire",
+        "domain": "buckinghamshireadvertiser.co.uk"
+      },
+      {
+        "url": "http://menmedia.co.uk/manchestereveningnews/news/s/1396703_bury_in_gloom_as_cutbacks_hits_famous_floral_displays",
+        "text": "Bury – 1 (1 other reduced hours)",
+        "domain": "menmedia.co.uk"
+      },
+      {
+        "url": "http://www.cambridge-news.co.uk/Home/450-jobs-to-go-in-161-million-public-sector-cuts.htm",
+        "text": "Cambridgeshire",
+        "domain": "cambridge-news.co.uk"
+      },
+      {
+        "url": "http://www.camden.gov.uk/ccm/content/council-and-democracy/publications-and-finances/twocolumn/culture-and-environment.en?page=4",
+        "text": "Camden",
+        "domain": "camden.gov.uk"
+      },
+      {
+        "url": "http://www.hamhigh.co.uk/news/camden_library_budget_to_be_slashed_by_2million_1_733131",
+        "text": "(£2 million cut)",
+        "domain": "hamhigh.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-beds-bucks-herts-11686138",
+        "text": "Central Bedfordshire",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-wales-north-west-wales-11982660",
+        "text": "Conwy",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.thisiscornwall.co.uk/news/Library-face-chop-big-cuts-plan/article-2952589-detail/article.html",
+        "text": "Cornwall",
+        "domain": "thisiscornwall.co.uk"
+      },
+      {
+        "url": "http://www.croydonguardian.co.uk/news/8732306.Six_libraries_could_close_in_Croydon/#commentsList",
+        "text": "Croydon",
+        "domain": "croydonguardian.co.uk"
+      },
+      {
+        "url": "http://www.croydonguardian.co.uk/news/8670763.Historians__horror_at_proposals_to_close_our_library/",
+        "text": "local studies",
+        "domain": "croydonguardian.co.uk"
+      },
+      {
+        "url": "http://www.thisisexeter.co.uk/letters/County-treating-city-contempt/article-2974625-detail/article.html",
+        "text": "Devon",
+        "domain": "thisisexeter.co.uk"
+      },
+      {
+        "url": "http://www.guardian.co.uk/commentisfree/2010/aug/18/doncasters-library-closures-catastrophe",
+        "text": "Doncaster",
+        "domain": "guardian.co.uk"
+      },
+      {
+        "url": "http://savedoncasterlibraries.wordpress.com/2010/12/09/disconcerting-news-from-caroline-flint/",
+        "text": "(may also be taken out of council control",
+        "domain": "savedoncasterlibraries.wordpress.com"
+      },
+      {
+        "url": "http://www.bridportnews.co.uk/news/8738857.West_Dorset__Volunteers_fear_libraries_will_close_under_council_cuts/",
+        "text": "Dorset",
+        "domain": "bridportnews.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-scotland-south-scotland-11733265",
+        "text": "Dumfries",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.durhamtimes.co.uk/news/8744552.Jobs_shock_at_county_council/",
+        "text": "Durham",
+        "domain": "durhamtimes.co.uk"
+      },
+      {
+        "url": "http://www.leaderlive.co.uk/news/96415/libraries-and-free-transport-for-oaps-to-be-axed-to-save-cash.aspx",
+        "text": "Flintshire",
+        "domain": "leaderlive.co.uk"
+      },
+      {
+        "url": "http://www.flintshirechronicle.co.uk/flintshire-news/featured-stories/2010/12/09/flintshire-faces-library-closures-parking-charges-and-extra-transport-costs-as-cuts-start-to-hit-hard-51352-27791997/",
+        "text": "and at least one mobile",
+        "domain": "flintshirechronicle.co.uk"
+      },
+      {
+        "url": "http://www.gateshead.gov.uk/DocumentLibrary/council/strategy/DraftSpendingPlans2011-12.pdf",
+        "text": "Gateshead",
+        "domain": "gateshead.gov.uk"
+      },
+      {
+        "url": "http://www.gloucestershire.gov.uk/index.cfm?articleid=101356",
+        "text": "Gloucestershire",
+        "domain": "gloucestershire.gov.uk"
+      },
+      {
+        "url": "http://www.thebookseller.com/news/132894-jobs-go-at-hampshire-and-harrow-libraries.html",
+        "text": "Hampshire",
+        "domain": "thebookseller.com"
+      },
+      {
+        "url": "http://www.salisburyjournal.co.uk/news/8718981.Let_Hampshire_County_Council_know_what_you_think_of_its_mobile_libraries/",
+        "text": "mobile library review",
+        "domain": "salisburyjournal.co.uk"
+      },
+      {
+        "url": "http://www.thebookseller.com/news/137427-hampshire-library-chief-to-retire.html.rss?utm_source=twitterfeed&utm_medium=twitter",
+        "text": "libraries merged with IT/property etc",
+        "domain": "thebookseller.com"
+      },
+      {
+        "url": "http://www.harrowobserver.co.uk/west-london-news/local-harrow-news/2010/10/29/modernisation-of-harrow-libraries-will-cost-34-workers-their-jobs-116451-27566885/",
+        "text": "Harrow",
+        "domain": "harrowobserver.co.uk"
+      },
+      {
+        "url": "http://www.blogger.com/goog_1863366919",
+        "text": "Hartlepool",
+        "domain": "blogger.com"
+      },
+      {
+        "url": "http://www.hertsdirect.org/libsleisure/libraries/hvyrsay",
+        "text": "Hertfordshire",
+        "domain": "hertsdirect.org"
+      },
+      {
+        "url": "http://www.borehamwoodtimes.co.uk/news/8716723.Petitioners_plea_for_public_help_to_save_library/",
+        "text": "40% cut",
+        "domain": "borehamwoodtimes.co.uk"
+      },
+      {
+        "url": "http://www.johnogroat-journal.co.uk/news/fullstory.php/aid/8996/Closing_Wick_library_would_be__91eroding_our_community_92.html",
+        "text": "Highland",
+        "domain": "johnogroat-journal.co.uk"
+      },
+      {
+        "url": "http://www.hounslowchronicle.co.uk/west-london-news/local-hounslow-news/2010/11/09/hounslow-libraries-take-jobs-hit-109642-27626386/",
+        "text": "Hounslow",
+        "domain": "hounslowchronicle.co.uk"
+      },
+      {
+        "url": "http://www.hounslowchronicle.co.uk/west-london-news/local-hounslow-news/2010/12/16/youth-centres-and-libraries-face-closure-as-part-of-18m-saving-plans-109642-27839250/",
+        "text": "some",
+        "domain": "hounslowchronicle.co.uk"
+      },
+      {
+        "url": "http://www.iwcp.co.uk/news/news/massive-libraries-cuts-proposed-36392.aspx",
+        "text": "Isle of Wight",
+        "domain": "iwcp.co.uk"
+      },
+      {
+        "url": "http://www.mirfieldreporter.co.uk/news/local/support_our_library_before_it_s_too_late_1_2829561",
+        "text": "Kirklees",
+        "domain": "mirfieldreporter.co.uk"
+      },
+      {
+        "url": "http://www.guardian.co.uk/leeds/2010/dec/08/leeds-library-plans-set-to-be-debated",
+        "text": "Leeds",
+        "domain": "guardian.co.uk"
+      },
+      {
+        "url": "http://www.harboroughmail.co.uk/news/features/diy-petition/libraries_and_museums_facing_privatisation_1_1807362",
+        "text": "Leicestershire",
+        "domain": "harboroughmail.co.uk"
+      },
+      {
+        "url": "http://www.thisisleicestershire.co.uk/news/New-look-unveiled-merged-city-libraries/article-2798317-detail/article.html",
+        "text": "merge of lending/reference- 14 FTE jobs lost",
+        "domain": "thisisleicestershire.co.uk"
+      },
+      {
+        "url": "http://sydenhamradio.co.uk/news/library-closure-wait/",
+        "text": "Lewisham",
+        "domain": "sydenhamradio.co.uk"
+      },
+      {
+        "url": "http://www.liverpoolconfidential.co.uk/News-and-Comment/General/Larry-Neild-on-death-by-100m-cuts_16375.asp",
+        "text": "Liverpool",
+        "domain": "liverpoolconfidential.co.uk"
+      },
+      {
+        "url": "http://www.thisislocallondon.co.uk/news/8742223.Cuts_announced_for_libraries_in_Raynes_Park_and_Colliers_Wood/",
+        "text": "Merton",
+        "domain": "thisislocallondon.co.uk"
+      },
+      {
+        "url": "http://alangibbons.net/?p=2441",
+        "text": "Milton Keynes",
+        "domain": "alangibbons.net"
+      },
+      {
+        "url": "http://www.southwalesargus.co.uk/news/8668381.Newport_set_for_library_shake_up/",
+        "text": "Newport",
+        "domain": "southwalesargus.co.uk"
+      },
+      {
+        "url": "http://www.portadowntimes.co.uk/news/Concern-as-Richhill-library-faces.6666317.jp",
+        "text": "Northern Ireland",
+        "domain": "portadowntimes.co.uk"
+      },
+      {
+        "url": "http://www.aboutmyarea.co.uk/Northamptonshire/Northampton/NN4/News/Local-News/183108-Roade-amongst-proposed-library-closures",
+        "text": "Northamptonshire",
+        "domain": "aboutmyarea.co.uk"
+      },
+      {
+        "url": "http://www.journallive.co.uk/northumberland-sites/northumberland-news/2010/12/08/northumberland-library-strategy-to-be-examined-61634-27788908/",
+        "text": "Northumberland",
+        "domain": "journallive.co.uk"
+      },
+      {
+        "url": "http://www.acadvertiser.co.uk/lanarkshire-news/local-news/monklands-news/2010/03/24/coatbridge-mum-fights-to-save-whifflet-library-from-closure-65864-26093620/",
+        "text": "North Lanarkshire",
+        "domain": "acadvertiser.co.uk"
+      },
+      {
+        "url": "http://www.edp24.co.uk/news/education/fears_for_future_of_cromer_library_1_746079",
+        "text": "North Norfolk",
+        "domain": "edp24.co.uk"
+      },
+      {
+        "url": "http://www.thewestonmercury.co.uk/news/libraries_are_reprieved_1_730157",
+        "text": "North Somerset",
+        "domain": "thewestonmercury.co.uk"
+      },
+      {
+        "url": "http://www.thewestonmercury.co.uk/news/council_cuts_inevitable_but_redesign_hopeful_1_737838",
+        "text": "Weston Mercury update",
+        "domain": "thewestonmercury.co.uk"
+      },
+      {
+        "url": "http://www.maltonmercury.co.uk/news/local/libraries_to_face_the_axe_1_2787462",
+        "text": "North Yorkshire",
+        "domain": "maltonmercury.co.uk"
+      },
+      {
+        "url": "http://www.independent.co.uk/arts-entertainment/books/features/boyd-tonkin-a-county-fights-the-cuts-in-true-robin-hood-spirit-2112953.html",
+        "text": "Nottingham",
+        "domain": "independent.co.uk"
+      },
+      {
+        "url": "http://www.thisisretford.co.uk/news/Help-reduce-library-pressure/article-2935074-detail/article.html",
+        "text": "30 libraries have less opening hours)",
+        "domain": "thisisretford.co.uk"
+      },
+      {
+        "url": "http://www.oldham-chronicle.co.uk/news-features/8/news-headlines/48605/new-look-for-libraries-facing-25pc-funding-cut",
+        "text": "Oldham",
+        "domain": "oldham-chronicle.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-oxfordshire-11845014",
+        "text": "Oxfordshire",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.oxfordmail.co.uk/news/8730300.Protesters_turn_up_the_volume_for_libraries/",
+        "text": "here",
+        "domain": "oxfordmail.co.uk"
+      },
+      {
+        "url": "http://www.oxfordmail.co.uk/news/8740142.Library_is_a_lifeline__say_protesters/",
+        "text": "Oxford Central hours extended",
+        "domain": "oxfordmail.co.uk"
+      },
+      {
+        "url": "http://www.guardian-series.co.uk/news/rbnews/8722098.REDBRIDGE__Six_libraries_could_face_the_axe/",
+        "text": "Redbridge",
+        "domain": "guardian-series.co.uk"
+      },
+      {
+        "url": "http://www.eveningtimes.co.uk/news/editor-s-picks/fury-over-move-to-downsize-libraries-1.1072295",
+        "text": "Renfrewshire",
+        "domain": "eveningtimes.co.uk"
+      },
+      {
+        "url": "http://www.richmondandtwickenhamtimes.co.uk/news/8493124.Tories__broke_promise__to_consult_on_library_closure/",
+        "text": "Richmond",
+        "domain": "richmondandtwickenhamtimes.co.uk"
+      },
+      {
+        "url": "http://www.richmondandtwickenhamtimes.co.uk/news/8745831.Services_cut_despite__generous__grant/",
+        "text": "£351k cut",
+        "domain": "richmondandtwickenhamtimes.co.uk"
+      },
+      {
+        "url": "http://www.rochdaletowncentre.co.uk/news/town-centre-news/213/council-agrees-first-phase-of-saving-plans",
+        "text": "Rochdale",
+        "domain": "rochdaletowncentre.co.uk"
+      },
+      {
+        "url": "http://www.formbytimes.co.uk/news/formby-news/2010/11/10/sefton-council-has-until-the-next-financial-year-to-pinpoint-cuts-totalling-38m-66401-27628015/",
+        "text": "Sefton",
+        "domain": "formbytimes.co.uk"
+      },
+      {
+        "url": "http://www.sheffieldtelegraph.co.uk/news/local/campaign_group_to_speak_up_for_libraries_1_2818949",
+        "text": "Sheffield",
+        "domain": "sheffieldtelegraph.co.uk"
+      },
+      {
+        "url": "http://www.shropshirestar.com/news/2010/12/06/shropshires-reference-library-now-at-axe-risk/",
+        "text": "Shropshire – 1",
+        "domain": "shropshirestar.com"
+      },
+      {
+        "url": "http://www.blogger.com/goog_1072329809",
+        "text": "Somerset",
+        "domain": "blogger.com"
+      },
+      {
+        "url": "http://alangibbons.net/?p=2973",
+        "text": "here",
+        "domain": "alangibbons.net"
+      },
+      {
+        "url": "http://news.bbc.co.uk/local/stoke/hi/people_and_places/newsid_9146000/9146770.stm",
+        "text": "Stoke",
+        "domain": "news.bbc.co.uk"
+      },
+      {
+        "url": "http://news.bbc.co.uk/local/stoke/hi/people_and_places/newsid_9210000/9210712.stm",
+        "text": "ends RNIB service",
+        "domain": "news.bbc.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-suffolk-11941207",
+        "text": "Suffolk",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.thisissouthwales.co.uk/news/cuts-come/article-3016480-detail/article.html",
+        "text": "Swansea",
+        "domain": "thisissouthwales.co.uk"
+      },
+      {
+        "url": "http://www.thisiskent.co.uk/news/Isle-12-hardest-hit-cuts/article-3011776-detail/article.html",
+        "text": "Thanet",
+        "domain": "thisiskent.co.uk"
+      },
+      {
+        "url": "http://www.eastlondonadvertiser.co.uk/news/tower_hamlets_library_staff_made_to_reapply_for_own_jobs_1_729538",
+        "text": "Tower Hamlets",
+        "domain": "eastlondonadvertiser.co.uk"
+      },
+      {
+        "url": "http://www.yorkshirepost.co.uk/localnews/Library-service-may-go-private.6622243.jp",
+        "text": "Wakefield",
+        "domain": "yorkshirepost.co.uk"
+      },
+      {
+        "url": "http://www.hemsworthandsouthelmsallexpress.co.uk/news/local/town_council_to_fight_for_libraries_1_2867097",
+        "text": "at least 2",
+        "domain": "hemsworthandsouthelmsallexpress.co.uk"
+      },
+      {
+        "url": "http://thebookwormturns.posterous.com/year-zero-in-walsall-libraries",
+        "text": "Walsall",
+        "domain": "thebookwormturns.posterous.com"
+      },
+      {
+        "url": "http://www.expressandstar.com/news/2010/11/18/axe-falls-in-walsall-council-cuts/",
+        "text": "More details here",
+        "domain": "expressandstar.com"
+      },
+      {
+        "url": "http://www.thisislocallondon.co.uk/news/8746957.WALTHAM_FOREST____20k__wasted_on_library_survey_/",
+        "text": "Walthamstow",
+        "domain": "thisislocallondon.co.uk"
+      },
+      {
+        "url": "http://www.wandsworth.gov.uk/info/200062/libraries/1060/library_review_consultation",
+        "text": "Wandsworth",
+        "domain": "wandsworth.gov.uk"
+      },
+      {
+        "url": "http://www.guardian.co.uk/commentisfree/2010/dec/13/ed-miliband-labour-honest-politician?INTCMP=SRCH",
+        "text": "here",
+        "domain": "guardian.co.uk"
+      },
+      {
+        "url": "http://www.warringtonguardian.co.uk/news/whereilive/8619795.Library_review__a_smokescreen_/",
+        "text": "Warrington",
+        "domain": "warringtonguardian.co.uk"
+      },
+      {
+        "url": "http://www.theargus.co.uk/news/8461522.Sussex_library_staff_face_axe/",
+        "text": "West Sussex",
+        "domain": "theargus.co.uk"
+      },
+      {
+        "url": "http://www.chichester.co.uk/news/local/west_sussex_county_council_spending_cuts_announced_1_1808599",
+        "text": "Some",
+        "domain": "chichester.co.uk"
+      },
+      {
+        "url": "http://www.wlct.org/libraries/consultation.htm",
+        "text": "Wigan",
+        "domain": "wlct.org"
+      },
+      {
+        "url": "http://www.wigantoday.net/community/help_us_save_library_for_community_1_2829924",
+        "text": "£1.1m cut off £4m budget",
+        "domain": "wigantoday.net"
+      },
+      {
+        "url": "http://aldbourne.net/news/wiltshires-budget-bombshell",
+        "text": "Wiltshire",
+        "domain": "aldbourne.net"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-hereford-worcester-12016096",
+        "text": "Worcestershire",
+        "domain": "bbc.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "Scotland",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Aberdeenshire",
+        "gss_code": "S12000034",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 57.2869,
+        "longitude": -2.3816
+      }
+    },
+    "classification": {
+      "categories": [
+        "closures_and_threats",
+        "cuts_and_finance",
+        "staffing_and_unions",
+        "volunteers_and_community",
+        "opening_hours",
+        "mobile_and_outreach",
+        "governance_and_trusts"
+      ],
+      "primary_category": "closures_and_threats",
+      "change_type": "closure",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": [
+        "£2m",
+        "£143k",
+        "£869k",
+        "£1m",
+        "£351k",
+        "£1.1m",
+        "£4m"
+      ]
+    },
+    "tags": [
+      "closures_and_threats",
+      "cuts_and_finance",
+      "staffing_and_unions",
+      "volunteers_and_community",
+      "opening_hours",
+      "mobile_and_outreach",
+      "governance_and_trusts"
+    ]
+  },
+  {
+    "id": "pln-story-660-changes-002",
+    "post_id": "pln-post-660",
+    "post_date": "2010-12-20",
+    "section": "changes",
+    "entity_raw": "News",
+    "text": "Doncaster – Council not talking to CILIP despite claims – Save Doncaster Libraries (blog) North Yorkshire – Momentum gained in libraries campaign – Scarborough Evening News Northamptonshire – save Irchester Library campaign – Evening Telegraph Northern Ireland – Concerns at Richhill as nine libraries under threat – Portadown Times Richmond – Cuts still going ahead despite better than expected funding – Richmond and Twickenham Times Somerset – Friends of Glastonbury Library try to save it– Facebook Somerset – New campaign group formed and release a video – Save Somerset Libraries (blog) Somerset – Wiveliscombe fears – This is the West Country Walthamstow – UNISON fears survey will be biased towards closing libraries – This is Local London Worcestershire – Smaller libraries may be under threat – Worcester Standard",
+    "text_html": "<br /><a href=\"http://savedoncasterlibraries.wordpress.com/2010/12/20/new-from-cilip-misinformation-from-doncaster-council/\">Doncaster &#8211; Council not talking to CILIP despite claims</a> &#8211; Save Doncaster Libraries (blog)<b><br /></b><br /><a href=\"http://www.scarborougheveningnews.co.uk/news/local/new_moves_in_libraries_fight_1_2870882\">North Yorkshire &#8211; Momentum gained in libraries campaign</a> &#8211; Scarborough Evening News<br /><a href=\"http://www.northantset.co.uk/news/Irchester-library39s-fight-to-survive.6666246.jp\">Northamptonshire &#8211; save Irchester Library campaign</a> &#8211; Evening Telegraph<br /><a href=\"http://www.portadowntimes.co.uk/news/Concern-as-Richhill-library-faces.6666317.jp\">Northern Ireland &#8211; Concerns at Richhill as nine libraries under threat</a> &#8211; Portadown Times<br /><a href=\"http://www.richmondandtwickenhamtimes.co.uk/news/8745831.Services_cut_despite__generous__grant/\">Richmond &#8211; Cuts still going ahead despite better than expected funding</a> &#8211; Richmond and Twickenham Times<br /><a href=\"http://www.facebook.com/pages/Friends-of-Glastonbury-Library/161821913862882?v=wall#%21/pages/Friends-of-Glastonbury-Library/161821913862882?v=wall\">Somerset &#8211; Friends of Glastonbury Library try to save it</a>&#8211; Facebook<br /><a href=\"http://savesomersetslibraries.blogspot.com/\">Somerset &#8211; New campaign group formed and release a video</a> &#8211; Save Somerset Libraries (blog)<br /><a href=\"http://www.thisisthewestcountry.co.uk/news/8745663.Fears_mount_for_Wiveliscombe_s_new_library/\">Somerset &#8211; Wiveliscombe fears</a> &#8211; This is the West Country <br /><a href=\"http://www.thisislocallondon.co.uk/news/8746957.WALTHAM_FOREST____20k__wasted_on_library_survey_/\">Walthamstow &#8211; UNISON fears survey will be biased towards closing libraries</a> &#8211; This is Local London <br /><a href=\"http://www.worcesterstandard.co.uk/story-Fears-for-services-after-cuts-worsen-31482.html\">Worcestershire &#8211; Smaller libraries may be under threat</a> &#8211; Worcester Standard</p>",
+    "links": [
+      {
+        "url": "http://savedoncasterlibraries.wordpress.com/2010/12/20/new-from-cilip-misinformation-from-doncaster-council/",
+        "text": "Doncaster – Council not talking to CILIP despite claims",
+        "domain": "savedoncasterlibraries.wordpress.com"
+      },
+      {
+        "url": "http://www.scarborougheveningnews.co.uk/news/local/new_moves_in_libraries_fight_1_2870882",
+        "text": "North Yorkshire – Momentum gained in libraries campaign",
+        "domain": "scarborougheveningnews.co.uk"
+      },
+      {
+        "url": "http://www.northantset.co.uk/news/Irchester-library39s-fight-to-survive.6666246.jp",
+        "text": "Northamptonshire – save Irchester Library campaign",
+        "domain": "northantset.co.uk"
+      },
+      {
+        "url": "http://www.portadowntimes.co.uk/news/Concern-as-Richhill-library-faces.6666317.jp",
+        "text": "Northern Ireland – Concerns at Richhill as nine libraries under threat",
+        "domain": "portadowntimes.co.uk"
+      },
+      {
+        "url": "http://www.richmondandtwickenhamtimes.co.uk/news/8745831.Services_cut_despite__generous__grant/",
+        "text": "Richmond – Cuts still going ahead despite better than expected funding",
+        "domain": "richmondandtwickenhamtimes.co.uk"
+      },
+      {
+        "url": "http://www.facebook.com/pages/Friends-of-Glastonbury-Library/161821913862882?v=wall#%21/pages/Friends-of-Glastonbury-Library/161821913862882?v=wall",
+        "text": "Somerset – Friends of Glastonbury Library try to save it",
+        "domain": "facebook.com"
+      },
+      {
+        "url": "http://savesomersetslibraries.blogspot.com/",
+        "text": "Somerset – New campaign group formed and release a video",
+        "domain": "savesomersetslibraries.blogspot.com"
+      },
+      {
+        "url": "http://www.thisisthewestcountry.co.uk/news/8745663.Fears_mount_for_Wiveliscombe_s_new_library/",
+        "text": "Somerset – Wiveliscombe fears",
+        "domain": "thisisthewestcountry.co.uk"
+      },
+      {
+        "url": "http://www.thisislocallondon.co.uk/news/8746957.WALTHAM_FOREST____20k__wasted_on_library_survey_/",
+        "text": "Walthamstow – UNISON fears survey will be biased towards closing libraries",
+        "domain": "thisislocallondon.co.uk"
+      },
+      {
+        "url": "http://www.worcesterstandard.co.uk/story-Fears-for-services-after-cuts-worsen-31482.html",
+        "text": "Worcestershire – Smaller libraries may be under threat",
+        "domain": "worcesterstandard.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Doncaster",
+        "gss_code": "E08000017",
+        "confidence": "fuzzy"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 53.5228,
+        "longitude": -1.1312
+      }
+    },
+    "classification": {
+      "categories": [
+        "closures_and_threats",
+        "cuts_and_finance",
+        "staffing_and_unions",
+        "campaigns_and_protests"
+      ],
+      "primary_category": "closures_and_threats",
+      "change_type": "closure",
+      "sector_bodies_mentioned": [
+        "CILIP",
+        "UNISON"
+      ],
+      "financial_mentions": []
+    },
+    "tags": [
+      "closures_and_threats",
+      "cuts_and_finance",
+      "staffing_and_unions",
+      "campaigns_and_protests"
+    ]
+  },
+  {
+    "id": "pln-story-660-changes-001",
+    "post_id": "pln-post-660",
+    "post_date": "2010-12-20",
+    "section": "changes",
+    "entity_raw": "",
+    "text": "plus 9 (out of 77) – Northern Ireland",
+    "text_html": "<p>&#8211; plus 9 (out of 77) &#8211; Northern Ireland </p>",
+    "links": [],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "Northern Ireland",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Libraries NI",
+        "gss_code": "N92000002",
+        "confidence": "fuzzy"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 54.5973,
+        "longitude": -5.9301
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": "other",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-659-changes-002",
+    "post_id": "pln-post-659",
+    "post_date": "2010-12-20",
+    "section": "changes",
+    "entity_raw": "News",
+    "text": "Northern Ireland becomes the last part of the United Kingdom, from the very north of Scotland to Cornwall to South Wales, to announce library closures. There have been several authorities trying to avoid closing libraries by proposing transferring them to trusts. While this is certainly better than closing them, the experience of trusts has not been an altogether happy one for library users. Alan Gibbons, spurred on by the historic nature of the cuts is trying to organise a national campaign to save them. Angus – Alan Gibbons and Kate Mosse give support to Edzell Library – The Courier Doncaster – Council not talking to CILIP despite claims – Save Doncaster Libraries Greenwich – libraries to transfer to a trust? – News Shopper Moray – libraries to transfer to trust? – BBC North Yorkshire – Momentum gained in libraries campaign – Scarborough Evening News Northamptonshire – save Irchester Library campaign – Evening Telegraph Northern Ireland – Concerns at Richhill as nine libraries under threat – Portadown Times Richmond – Cuts still going ahead despite better than expected funding – Richmond and Twickenham Times Somerset – Friends of Glastonbury Library try to save it– Facebook Somerset – New campaign group formed and release a video – Save Somerset Libraries Somerset – Wiveliscombe fears – This is the West Country Walthamstow – UNISON fears survey will be biased towards closing libraries – This is Local London Worcestershire – Smaller libraries may be under threat – Worcester Standard",
+    "text_html": "<br />Northern Ireland becomes the last part of the United Kingdom, from the very north of Scotland to Cornwall to South Wales, to announce library closures. There have been several authorities trying to avoid closing libraries by proposing transferring them to trusts. While this is certainly better than closing them, the experience of trusts has not been an altogether happy one for library users. Alan Gibbons, spurred on by the historic nature of the cuts is trying to organise a national campaign to save them. <br /><b> </b><br /><a href=\"http://www.thecourier.co.uk/News/Angus/article/8850/authors-kate-mosse-and-alan-gibbons-join-fight-for-edzell-library.html\">Angus &#8211; Alan Gibbons and Kate Mosse give support to Edzell Library</a> &#8211; The Courier<br /><a href=\"http://savedoncasterlibraries.wordpress.com/2010/12/20/new-from-cilip-misinformation-from-doncaster-council/\">Doncaster &#8211; Council not talking to CILIP despite claims</a> &#8211; Save Doncaster Libraries<br /><a href=\"http://www.newsshopper.co.uk/news/8748345.GREENWICH__Libraries_would_be_handed_over_to_trust_under_Greenwich_Council_cuts_plans/\">Greenwich &#8211; libraries to transfer to a trust?</a> &#8211; News Shopper<br /><a href=\"http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-12041780\">Moray &#8211; libraries to transfer to trust?</a> &#8211; BBC<b></b><br /><a href=\"http://www.scarborougheveningnews.co.uk/news/local/new_moves_in_libraries_fight_1_2870882\">North Yorkshire &#8211; Momentum gained in libraries campaign</a> &#8211; Scarborough Evening News<br /><a href=\"http://www.northantset.co.uk/news/Irchester-library39s-fight-to-survive.6666246.jp\">Northamptonshire &#8211; save Irchester Library campaign</a> &#8211; Evening Telegraph<br /><a href=\"http://www.portadowntimes.co.uk/news/Concern-as-Richhill-library-faces.6666317.jp\">Northern Ireland &#8211; Concerns at Richhill as nine libraries under threat</a> &#8211; Portadown Times<br /><a href=\"http://www.richmondandtwickenhamtimes.co.uk/news/8745831.Services_cut_despite__generous__grant/\">Richmond &#8211; Cuts still going ahead despite better than expected funding</a> &#8211; Richmond and Twickenham Times<br /><a href=\"http://www.facebook.com/pages/Friends-of-Glastonbury-Library/161821913862882?v=wall#%21/pages/Friends-of-Glastonbury-Library/161821913862882?v=wall\">Somerset &#8211; Friends of Glastonbury Library try to save it</a>&#8211; Facebook<br /><a href=\"http://savesomersetslibraries.blogspot.com/\">Somerset &#8211; New campaign group formed and release a video</a> &#8211; Save Somerset Libraries<br /><a href=\"http://www.thisisthewestcountry.co.uk/news/8745663.Fears_mount_for_Wiveliscombe_s_new_library/\">Somerset &#8211; Wiveliscombe fears</a> &#8211; This is the West Country <br /><a href=\"http://www.thisislocallondon.co.uk/news/8746957.WALTHAM_FOREST____20k__wasted_on_library_survey_/\">Walthamstow &#8211; UNISON fears survey will be biased towards closing libraries</a> &#8211; This is Local London <br /><a href=\"http://www.worcesterstandard.co.uk/story-Fears-for-services-after-cuts-worsen-31482.html\">Worcestershire &#8211; Smaller libraries may be under threat</a> &#8211; Worcester Standard</p>",
+    "links": [
+      {
+        "url": "http://www.thecourier.co.uk/News/Angus/article/8850/authors-kate-mosse-and-alan-gibbons-join-fight-for-edzell-library.html",
+        "text": "Angus – Alan Gibbons and Kate Mosse give support to Edzell Library",
+        "domain": "thecourier.co.uk"
+      },
+      {
+        "url": "http://savedoncasterlibraries.wordpress.com/2010/12/20/new-from-cilip-misinformation-from-doncaster-council/",
+        "text": "Doncaster – Council not talking to CILIP despite claims",
+        "domain": "savedoncasterlibraries.wordpress.com"
+      },
+      {
+        "url": "http://www.newsshopper.co.uk/news/8748345.GREENWICH__Libraries_would_be_handed_over_to_trust_under_Greenwich_Council_cuts_plans/",
+        "text": "Greenwich – libraries to transfer to a trust?",
+        "domain": "newsshopper.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-scotland-north-east-orkney-shetland-12041780",
+        "text": "Moray – libraries to transfer to trust?",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.scarborougheveningnews.co.uk/news/local/new_moves_in_libraries_fight_1_2870882",
+        "text": "North Yorkshire – Momentum gained in libraries campaign",
+        "domain": "scarborougheveningnews.co.uk"
+      },
+      {
+        "url": "http://www.northantset.co.uk/news/Irchester-library39s-fight-to-survive.6666246.jp",
+        "text": "Northamptonshire – save Irchester Library campaign",
+        "domain": "northantset.co.uk"
+      },
+      {
+        "url": "http://www.portadowntimes.co.uk/news/Concern-as-Richhill-library-faces.6666317.jp",
+        "text": "Northern Ireland – Concerns at Richhill as nine libraries under threat",
+        "domain": "portadowntimes.co.uk"
+      },
+      {
+        "url": "http://www.richmondandtwickenhamtimes.co.uk/news/8745831.Services_cut_despite__generous__grant/",
+        "text": "Richmond – Cuts still going ahead despite better than expected funding",
+        "domain": "richmondandtwickenhamtimes.co.uk"
+      },
+      {
+        "url": "http://www.facebook.com/pages/Friends-of-Glastonbury-Library/161821913862882?v=wall#%21/pages/Friends-of-Glastonbury-Library/161821913862882?v=wall",
+        "text": "Somerset – Friends of Glastonbury Library try to save it",
+        "domain": "facebook.com"
+      },
+      {
+        "url": "http://savesomersetslibraries.blogspot.com/",
+        "text": "Somerset – New campaign group formed and release a video",
+        "domain": "savesomersetslibraries.blogspot.com"
+      },
+      {
+        "url": "http://www.thisisthewestcountry.co.uk/news/8745663.Fears_mount_for_Wiveliscombe_s_new_library/",
+        "text": "Somerset – Wiveliscombe fears",
+        "domain": "thisisthewestcountry.co.uk"
+      },
+      {
+        "url": "http://www.thisislocallondon.co.uk/news/8746957.WALTHAM_FOREST____20k__wasted_on_library_survey_/",
+        "text": "Walthamstow – UNISON fears survey will be biased towards closing libraries",
+        "domain": "thisislocallondon.co.uk"
+      },
+      {
+        "url": "http://www.worcesterstandard.co.uk/story-Fears-for-services-after-cuts-worsen-31482.html",
+        "text": "Worcestershire – Smaller libraries may be under threat",
+        "domain": "worcesterstandard.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Cornwall",
+        "gss_code": "E06000052",
+        "confidence": "fuzzy"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 50.266,
+        "longitude": -5.0527
+      }
+    },
+    "classification": {
+      "categories": [
+        "closures_and_threats",
+        "cuts_and_finance",
+        "staffing_and_unions",
+        "campaigns_and_protests",
+        "governance_and_trusts"
+      ],
+      "primary_category": "closures_and_threats",
+      "change_type": "closure",
+      "sector_bodies_mentioned": [
+        "CILIP",
+        "UNISON"
+      ],
+      "financial_mentions": []
+    },
+    "tags": [
+      "closures_and_threats",
+      "cuts_and_finance",
+      "staffing_and_unions",
+      "campaigns_and_protests",
+      "governance_and_trusts"
+    ]
+  },
+  {
+    "id": "pln-story-659-changes-001",
+    "post_id": "pln-post-659",
+    "post_date": "2010-12-20",
+    "section": "changes",
+    "entity_raw": "",
+    "text": "plus 9 (out of 77) – Northern Ireland",
+    "text_html": "<p>&#8211; plus 9 (out of 77) &#8211; Northern Ireland </p>",
+    "links": [],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "Northern Ireland",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Libraries NI",
+        "gss_code": "N92000002",
+        "confidence": "fuzzy"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 54.5973,
+        "longitude": -5.9301
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": "other",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-661-changes-001",
+    "post_id": "pln-post-661",
+    "post_date": "2010-12-18",
+    "section": "changes",
+    "entity_raw": "Bury",
+    "text": "Unsworth Library to be sold, reduced hours in Prestwich in first wave of cuts – Manchester Evening N Durham – closures imminent – Durham Times Gloucestershire – Prestwich “double standards” – This is Gloucestershire Gloucestershire – council “meeting the challenge” facebook group about library cuts – Facebook Manchester – Rochdale MP angry at Eric Pickles for cuts, including libraries – Manchester Evening News Northampton – local radio covers library closures – BBC Oxfordshire – Headington protests against closure, despite snow – Demotix Plymouth – new library to be built at Plympton, two years after last one burnt down – This is Plymouth Somerset – Cheddar and Highbridge could close – Weston Mercury Somerset – 20 libraries offered to groups – This is Somerset Wakefield – libraries to be offered to community groups in biggest cuts since WW2 – Wakefield Express Wakefield – fight for Hemsworth and Kinsley libraries – Hemsworth and South Elmsall Express Worcestershire – libraries amongst first in line for cuts – Redditch Standard",
+    "text_html": "<p><a href=\"http://menmedia.co.uk/manchestereveningnews/news/s/1396703_bury_in_gloom_as_cutbacks_hits_famous_floral_displays\">Bury &#8211; Unsworth Library to be sold, reduced hours in Prestwich in first wave of cuts</a> &#8211; Manchester Evening N<br /><a href=\"http://www.durhamtimes.co.uk/news/8744552.Jobs_shock_at_county_council/\">Durham &#8211; closures imminent</a> &#8211; Durham Times <br /><a href=\"http://www.thisisgloucestershire.co.uk/news/Sparks-fly-Prestbury-residents-confront-library-bosses/article-3019572-detail/article.html\">Gloucestershire &#8211; Prestwich &#8220;double standards&#8221;</a> &#8211; This is Gloucestershire <br /><a href=\"http://www.facebook.com/meetingthechallenge#%21/topic.php?uid=145079598866844&#038;topic=274\">Gloucestershire &#8211; council &#8220;meeting the challenge&#8221; facebook group about library cuts</a> &#8211; Facebook<br /><a href=\"http://menmedia.co.uk/manchestereveningnews/news/s/1396417_mp_lashes_out_at_brutal_government_funding_cuts\">Manchester &#8211; Rochdale MP angry at Eric Pickles for cuts, including libraries</a> &#8211; Manchester Evening News<br /><a href=\"http://www.bbc.co.uk/iplayer/episode/p00clq9k/Stuart_Linnell_Library_closures._Door_to_door_service/\">Northampton &#8211; local radio covers library closures</a> &#8211; BBC <br /><a href=\"http://www.demotix.com/news/540185/headington-residents-protest-against-library-closure#comment-27554\">Oxfordshire &#8211; Headington protests against closure, despite snow</a> &#8211; Demotix<br /><a href=\"http://www.thisisplymouth.co.uk/news/Library-plan-approved/article-3020205-detail/article.html\">Plymouth &#8211; new library to be built at Plympton, two years after last one burnt down </a>&#8211; This is Plymouth <br /><a href=\"http://www.thewestonmercury.co.uk/news/libraries_could_close_as_council_cuts_back_1_756067\">Somerset &#8211; Cheddar and Highbridge could close</a> &#8211; Weston Mercury<br /><a href=\"http://www.thisissomerset.co.uk/news/Residents-run-library-services/article-3021670-detail/article.html\">Somerset &#8211; 20 libraries offered to groups</a> &#8211; This is Somerset<br /><a href=\"http://www.blogger.com/goog_503395467\">Wakefield &#8211; libraries to be offered to community groups</a><a href=\"http://www.wakefieldexpress.co.uk/news/local/damaging_cuts_worse_than_feared_1_2867009\"> in biggest cuts since WW2</a> &#8211; Wakefield Express<br /><a href=\"http://www.hemsworthandsouthelmsallexpress.co.uk/news/local/town_council_to_fight_for_libraries_1_2867097\">Wakefield &#8211; fight for Hemsworth and Kinsley libraries </a>&#8211; Hemsworth and South Elmsall Express<br /><a href=\"http://www.redditchstandard.co.uk/story-Fears-for-services-after-cuts-worsen-31351.html\">Worcestershire &#8211; libraries amongst first in line for cuts </a>&#8211; Redditch Standard</p>",
+    "links": [
+      {
+        "url": "http://menmedia.co.uk/manchestereveningnews/news/s/1396703_bury_in_gloom_as_cutbacks_hits_famous_floral_displays",
+        "text": "Bury – Unsworth Library to be sold, reduced hours in Prestwich in first wave of cuts",
+        "domain": "menmedia.co.uk"
+      },
+      {
+        "url": "http://www.durhamtimes.co.uk/news/8744552.Jobs_shock_at_county_council/",
+        "text": "Durham – closures imminent",
+        "domain": "durhamtimes.co.uk"
+      },
+      {
+        "url": "http://www.thisisgloucestershire.co.uk/news/Sparks-fly-Prestbury-residents-confront-library-bosses/article-3019572-detail/article.html",
+        "text": "Gloucestershire – Prestwich “double standards”",
+        "domain": "thisisgloucestershire.co.uk"
+      },
+      {
+        "url": "http://www.facebook.com/meetingthechallenge#%21/topic.php?uid=145079598866844&topic=274",
+        "text": "Gloucestershire – council “meeting the challenge” facebook group about library cuts",
+        "domain": "facebook.com"
+      },
+      {
+        "url": "http://menmedia.co.uk/manchestereveningnews/news/s/1396417_mp_lashes_out_at_brutal_government_funding_cuts",
+        "text": "Manchester – Rochdale MP angry at Eric Pickles for cuts, including libraries",
+        "domain": "menmedia.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/iplayer/episode/p00clq9k/Stuart_Linnell_Library_closures._Door_to_door_service/",
+        "text": "Northampton – local radio covers library closures",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.demotix.com/news/540185/headington-residents-protest-against-library-closure#comment-27554",
+        "text": "Oxfordshire – Headington protests against closure, despite snow",
+        "domain": "demotix.com"
+      },
+      {
+        "url": "http://www.thisisplymouth.co.uk/news/Library-plan-approved/article-3020205-detail/article.html",
+        "text": "Plymouth – new library to be built at Plympton, two years after last one burnt down",
+        "domain": "thisisplymouth.co.uk"
+      },
+      {
+        "url": "http://www.thewestonmercury.co.uk/news/libraries_could_close_as_council_cuts_back_1_756067",
+        "text": "Somerset – Cheddar and Highbridge could close",
+        "domain": "thewestonmercury.co.uk"
+      },
+      {
+        "url": "http://www.thisissomerset.co.uk/news/Residents-run-library-services/article-3021670-detail/article.html",
+        "text": "Somerset – 20 libraries offered to groups",
+        "domain": "thisissomerset.co.uk"
+      },
+      {
+        "url": "http://www.blogger.com/goog_503395467",
+        "text": "Wakefield – libraries to be offered to community groups",
+        "domain": "blogger.com"
+      },
+      {
+        "url": "http://www.wakefieldexpress.co.uk/news/local/damaging_cuts_worse_than_feared_1_2867009",
+        "text": "in biggest cuts since WW2",
+        "domain": "wakefieldexpress.co.uk"
+      },
+      {
+        "url": "http://www.hemsworthandsouthelmsallexpress.co.uk/news/local/town_council_to_fight_for_libraries_1_2867097",
+        "text": "Wakefield – fight for Hemsworth and Kinsley libraries",
+        "domain": "hemsworthandsouthelmsallexpress.co.uk"
+      },
+      {
+        "url": "http://www.redditchstandard.co.uk/story-Fears-for-services-after-cuts-worsen-31351.html",
+        "text": "Worcestershire – libraries amongst first in line for cuts",
+        "domain": "redditchstandard.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Bury",
+        "gss_code": "E08000002",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "historical_34b2e388be8ac2b1",
+          "name": "Unsworth Library",
+          "postcode": "BL9 8ED",
+          "lat": null,
+          "lng": null,
+          "status": "Closed (permanent)",
+          "slug": "unsworth-library-closed-2017-bl98ed"
+        }
+      ],
+      "coordinates": {
+        "latitude": 53.5933,
+        "longitude": -2.2966
+      }
+    },
+    "classification": {
+      "categories": [
+        "closures_and_threats",
+        "cuts_and_finance",
+        "opening_hours",
+        "refurbishment_and_new_builds",
+        "book_bans_and_challenges",
+        "campaigns_and_protests"
+      ],
+      "primary_category": "closures_and_threats",
+      "change_type": "closure",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "closures_and_threats",
+      "cuts_and_finance",
+      "opening_hours",
+      "refurbishment_and_new_builds",
+      "book_bans_and_challenges",
+      "campaigns_and_protests"
+    ]
+  },
+  {
+    "id": "pln-story-662-changes-001",
+    "post_id": "pln-post-662",
+    "post_date": "2010-12-17",
+    "section": "changes",
+    "entity_raw": "Birmingham",
+    "text": "Tower Hill stays open as other libraries lose hours to compensate – This is Walsall Brent – “The council has a fight on its hands” – Willesden and Brent Times Dorset – closing up to 20 despite increase in funding – View Online Gateshead – some under threat, end of AIRS talking newspapers/school library/music library, more lone working, – Gateshead Council Gloucestershire – community group may take over Tuffley – FoGL Gloucestershire – community group may take over Lechlade – FoGL Gloucestershire – Countywide petition now online – FoGL Gloucestershire – children’s author joins campaign – Stroud News Gloucestershire – council will fund community groups taking over libraries – FoGL Isle of Wight – Nine out of Eleven libraries to close – BBC. Also Isle of Wight County Press Northamptonshire – 8 threatened – BBC Northern Ireland – new department oversees 9% cut – BBC Swansea – libraries under threat – This is South Wales Thanet – libraries under threat – This is Kent Wiltshire – new Pewsey library open – BBC Worcestershire – libraries are “lowest priorities” and so there will be closures – BBC Ebooks – Futurebook Survey I Love Libraries – Vintage Locket Library Christmas Carol – thewikiman Public Libraries News is one of three Christmas presents (albeit an unwelcome one) and includes a training course on how to connect with library campaigners – Sintoblog",
+    "text_html": "<p><a href=\"http://www.thisiswalsallonline.co.uk/news/Threatened-library-remain-open-time-negotiations/article-3014860-detail/article.html\">Birmingham &#8211; Tower Hill stays open as other libraries lose hours to compensate</a> &#8211; This is Walsall<br /><a href=\"http://www.wbtimes.co.uk/news/schools/fight_to_save_library_opened_by_mark_twain_1_755539\">Brent &#8211; &#8220;The council has a fight on its hands&#8221;</a> &#8211; Willesden and Brent Times<br /><a href=\"http://www.viewfrompublishing.co.uk/news_view/8007/15/1/dorchester-funding-increase-won’t-stop-cuts\">Dorset &#8211; closing up to 20 despite increase in funding</a> &#8211; View Online <br /><a href=\"http://www.gateshead.gov.uk/DocumentLibrary/council/strategy/DraftSpendingPlans2011-12.pdf\">Gateshead</a> &#8211; some under threat, end of AIRS talking newspapers/school library/music library, more lone working, &#8211; Gateshead Council<br /><a href=\"http://www.thisisgloucestershire.co.uk/news/Fresh-bid-save-Tuffley-Library/article-3015082-detail/article.html\">Gloucestershire &#8211; community group may take over Tuffley</a> &#8211; FoGL<br /><a href=\"http://www.wiltsglosstandard.co.uk/news/8744721.Locals_battle_Lechlade_library_closure/\">Gloucestershire &#8211; community group may take over Lechlade </a>&#8211; FoGL <br /><a href=\"http://foclibrary.wordpress.com/2010/12/17/county-wide-petition-now-online/\">Gloucestershire &#8211; Countywide petition now online </a>&#8211; FoGL<br /><a href=\"http://www.stroudnewsandjournal.co.uk/news/8745441.Children_s_author_signs_up_to_libraries_protest/\">Gloucestershire &#8211; children&#8217;s author joins campaign</a> &#8211; Stroud News<br /><a href=\"http://foclibrary.wordpress.com/2010/12/17/a-small-victory-but-the-fight-continues/\">Gloucestershire &#8211; council will fund community groups taking over libraries</a> &#8211; FoGL <br /><a href=\"http://www.bbc.co.uk/news/uk-england-hampshire-12022634\">Isle of Wight &#8211; Nine out of Eleven libraries to close</a> &#8211; BBC. Also <a href=\"http://www.iwcp.co.uk/news/news/massive-libraries-cuts-proposed-36392.aspx\">Isle of Wight County Press</a><br /><a href=\"http://news.bbc.co.uk/local/northampton/hi/people_and_places/newsid_9290000/9290575.stm\">Northamptonshire &#8211; 8 threatened</a> &#8211; BBC<br /><a href=\"mailto:http%3A//www.bbc.co.uk/news/uk-northern-ireland-12008495\">Northern Ireland &#8211; new department oversees 9% cut</a> &#8211; BBC<br /><a href=\"http://www.thisissouthwales.co.uk/news/cuts-come/article-3016480-detail/article.html\">Swansea &#8211; libraries under threat </a>&#8211; This is South Wales <br /><a href=\"http://www.thisiskent.co.uk/news/Isle-12-hardest-hit-cuts/article-3011776-detail/article.html\">Thanet &#8211; libraries under threat </a>&#8211; This is Kent<br /><a href=\"http://www.bbc.co.uk/news/uk-england-wiltshire-12017142\">Wiltshire &#8211; new Pewsey library open</a> &#8211; BBC<br /><a href=\"http://www.bbc.co.uk/news/uk-england-hereford-worcester-12016096\">Worcestershire &#8211; libraries are &#8220;lowest priorities&#8221; and so there will be closures</a> &#8211; BBC<br /> <br /><a href=\"http://www.blogger.com/post-create.g?blogID=4018469601482369709\">Ebooks</a> &#8211; Futurebook Survey<br /><a href=\"http://britbi.tumblr.com/post/2334490210/i-love-libraries\">I Love Libraries</a> &#8211; Vintage Locket <br /><a href=\"http://thewikiman.org/blog/?p=1211\">Library Christmas Carol </a>&#8211; thewikiman<br /><a href=\"http://sintoblog.blogspot.com/2010/12/merry-xmas-and-happy-new-year.html\">Public Libraries News is one of three Christmas presents (albeit an unwelcome one) and includes a training course on how to connect with library campaigners</a> &#8211; Sintoblog</p>",
+    "links": [
+      {
+        "url": "http://www.thisiswalsallonline.co.uk/news/Threatened-library-remain-open-time-negotiations/article-3014860-detail/article.html",
+        "text": "Birmingham – Tower Hill stays open as other libraries lose hours to compensate",
+        "domain": "thisiswalsallonline.co.uk"
+      },
+      {
+        "url": "http://www.wbtimes.co.uk/news/schools/fight_to_save_library_opened_by_mark_twain_1_755539",
+        "text": "Brent – “The council has a fight on its hands”",
+        "domain": "wbtimes.co.uk"
+      },
+      {
+        "url": "http://www.viewfrompublishing.co.uk/news_view/8007/15/1/dorchester-funding-increase-won’t-stop-cuts",
+        "text": "Dorset – closing up to 20 despite increase in funding",
+        "domain": "viewfrompublishing.co.uk"
+      },
+      {
+        "url": "http://www.gateshead.gov.uk/DocumentLibrary/council/strategy/DraftSpendingPlans2011-12.pdf",
+        "text": "Gateshead",
+        "domain": "gateshead.gov.uk"
+      },
+      {
+        "url": "http://www.thisisgloucestershire.co.uk/news/Fresh-bid-save-Tuffley-Library/article-3015082-detail/article.html",
+        "text": "Gloucestershire – community group may take over Tuffley",
+        "domain": "thisisgloucestershire.co.uk"
+      },
+      {
+        "url": "http://www.wiltsglosstandard.co.uk/news/8744721.Locals_battle_Lechlade_library_closure/",
+        "text": "Gloucestershire – community group may take over Lechlade",
+        "domain": "wiltsglosstandard.co.uk"
+      },
+      {
+        "url": "http://foclibrary.wordpress.com/2010/12/17/county-wide-petition-now-online/",
+        "text": "Gloucestershire – Countywide petition now online",
+        "domain": "foclibrary.wordpress.com"
+      },
+      {
+        "url": "http://www.stroudnewsandjournal.co.uk/news/8745441.Children_s_author_signs_up_to_libraries_protest/",
+        "text": "Gloucestershire – children’s author joins campaign",
+        "domain": "stroudnewsandjournal.co.uk"
+      },
+      {
+        "url": "http://foclibrary.wordpress.com/2010/12/17/a-small-victory-but-the-fight-continues/",
+        "text": "Gloucestershire – council will fund community groups taking over libraries",
+        "domain": "foclibrary.wordpress.com"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-hampshire-12022634",
+        "text": "Isle of Wight – Nine out of Eleven libraries to close",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.iwcp.co.uk/news/news/massive-libraries-cuts-proposed-36392.aspx",
+        "text": "Isle of Wight County Press",
+        "domain": "iwcp.co.uk"
+      },
+      {
+        "url": "http://news.bbc.co.uk/local/northampton/hi/people_and_places/newsid_9290000/9290575.stm",
+        "text": "Northamptonshire – 8 threatened",
+        "domain": "news.bbc.co.uk"
+      },
+      {
+        "url": "mailto:http%3A//www.bbc.co.uk/news/uk-northern-ireland-12008495",
+        "text": "Northern Ireland – new department oversees 9% cut",
+        "domain": ""
+      },
+      {
+        "url": "http://www.thisissouthwales.co.uk/news/cuts-come/article-3016480-detail/article.html",
+        "text": "Swansea – libraries under threat",
+        "domain": "thisissouthwales.co.uk"
+      },
+      {
+        "url": "http://www.thisiskent.co.uk/news/Isle-12-hardest-hit-cuts/article-3011776-detail/article.html",
+        "text": "Thanet – libraries under threat",
+        "domain": "thisiskent.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-wiltshire-12017142",
+        "text": "Wiltshire – new Pewsey library open",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.bbc.co.uk/news/uk-england-hereford-worcester-12016096",
+        "text": "Worcestershire – libraries are “lowest priorities” and so there will be closures",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "http://www.blogger.com/post-create.g?blogID=4018469601482369709",
+        "text": "Ebooks",
+        "domain": "blogger.com"
+      },
+      {
+        "url": "http://britbi.tumblr.com/post/2334490210/i-love-libraries",
+        "text": "I Love Libraries",
+        "domain": "britbi.tumblr.com"
+      },
+      {
+        "url": "http://thewikiman.org/blog/?p=1211",
+        "text": "Library Christmas Carol",
+        "domain": "thewikiman.org"
+      },
+      {
+        "url": "http://sintoblog.blogspot.com/2010/12/merry-xmas-and-happy-new-year.html",
+        "text": "Public Libraries News is one of three Christmas presents (albeit an unwelcome one) and includes a training course on how to connect with library campaigners",
+        "domain": "sintoblog.blogspot.com"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Birmingham",
+        "gss_code": "E08000025",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_1ae4e6af-28ac-46bf-91cc-53236fc083e7",
+          "name": "Tower Hill Library",
+          "postcode": "B42 1LG",
+          "lat": 52.53427,
+          "lng": -1.91975,
+          "status": "Open",
+          "slug": "tower-hill-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.4862,
+        "longitude": -1.8904
+      }
+    },
+    "classification": {
+      "categories": [
+        "closures_and_threats",
+        "cuts_and_finance",
+        "opening_hours",
+        "campaigns_and_protests",
+        "events_and_activities",
+        "digital_and_technology"
+      ],
+      "primary_category": "closures_and_threats",
+      "change_type": "closure",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "closures_and_threats",
+      "cuts_and_finance",
+      "opening_hours",
+      "campaigns_and_protests",
+      "events_and_activities",
+      "digital_and_technology"
+    ]
+  }
+]

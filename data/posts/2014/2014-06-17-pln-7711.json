@@ -1,0 +1,64 @@
+{
+  "id": "pln-post-7711",
+  "source_id": 7711,
+  "url": "https://www.publiclibrariesnews.com/2014/06/wirral-ii-this-time-ed-its-personal.html",
+  "slug": "wirral-ii-this-time-ed-its-personal",
+  "title": "Wirral II: this time, Ed, it’s personal",
+  "date_published": "2014-06-17T22:37:31",
+  "date_modified": "2014-06-22T21:25:09",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The Wirral has a special place in the hearts of the many who care about public libraries. It was there in 2009 that council plans to close 11 libraries led to the (semi) intervention of the then Labour Culture Secretary and the saving of the service. At the time, the opposition libraries minister Ed Vaizey made great demands on the government about intervening, saving libraries and keeping library jobs. Now, five years later, the Wirral has announced it is looking at not 11 but 15 libraries either closing or being run by volunteers. The then shadow minister is now in Government with responsibility for libraries and no one is betting on him doing anything about the Wirral. This is not likely to go un-noticed.",
+    "html": "<p style=\"text-align: justify;\">The Wirral has a special place in the hearts of the many who care about public libraries. It was there in 2009 that council plans to close 11 libraries led to the (semi) intervention of the then Labour Culture Secretary and the saving of the service. <a title=\"PLN\" href=\"https://www.publiclibrariesnews.com/useful/ed-vaizeys-statements-on-public-libraries\">At the time, the opposition libraries minister Ed Vaizey made great demands on the government about intervening, saving libraries and keeping library jobs</a>. Now, five years later, the Wirral has announced it is looking at not 11 but 15 libraries either closing or being run by volunteers. The then shadow minister is now in Government with responsibility for libraries and no one is betting on him doing anything about the Wirral. This is not likely to go un-noticed.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "national_news"
+  ],
+  "stories_count": 17,
+  "story_ids": [
+    "pln-story-7711-changes-001",
+    "pln-story-7711-natl-001",
+    "pln-story-7711-natl-002",
+    "pln-story-7711-natl-003",
+    "pln-story-7711-natl-004",
+    "pln-story-7711-natl-005",
+    "pln-story-7711-natl-006",
+    "pln-story-7711-natl-007",
+    "pln-story-7711-natl-008",
+    "pln-story-7711-natl-009",
+    "pln-story-7711-natl-010",
+    "pln-story-7711-natl-011",
+    "pln-story-7711-natl-012",
+    "pln-story-7711-natl-013",
+    "pln-story-7711-natl-014",
+    "pln-story-7711-natl-015",
+    "pln-story-7711-natl-016"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 2,
+    "countries_count": 2,
+    "top_categories": {
+      "closures_and_threats": 7,
+      "volunteers_and_community": 7,
+      "staffing_and_unions": 7,
+      "cuts_and_finance": 6,
+      "mobile_and_outreach": 2,
+      "digital_and_technology": 2,
+      "campaigns_and_protests": 2,
+      "opening_hours": 1,
+      "governance_and_trusts": 1,
+      "events_and_activities": 1,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

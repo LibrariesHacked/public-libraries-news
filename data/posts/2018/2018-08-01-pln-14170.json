@@ -1,0 +1,76 @@
+{
+  "id": "pln-post-14170",
+  "source_id": 14170,
+  "url": "https://www.publiclibrariesnews.com/2018/08/libraries-have-innovation-all-sewn-up.html",
+  "slug": "libraries-have-innovation-all-sewn-up",
+  "title": "Libraries have innovation all sewn up",
+  "date_published": "2018-08-01T18:55:52",
+  "date_modified": "2018-08-05T18:23:04",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Innovation is not a problem in libraryland. Have a read of the new ACE report “Libraries welcome everyone” to see this in action and then read the article by Carnegie on the Taskforce website. You can then have a wistful browse of an article about French beach libraries (come on Llandudno!) and then read about toy sleepovers. Then, perhaps have a giggle at the silliness of the reactionaries who worry about Drag Queen Storytimes. Moving on to tech, it’s good to see Somerset having 360 degree pictures of all their branches on their webpages (a boon for those with autism) and browse their open date on library usage. I remember when “knit an natter” and “adult colouring” classes were new ideas and now they’re basically everywhere. No, innovation is not a problem. And successful ideas spread – I’m seeing toy sleepovers happening in many places and more and more DQSTs happening in the UK. Both started out in the USA (I think) and have spread. This innovation is to be encouraged. And is encouraging.",
+    "html": "<p style=\"text-align: justify;\">Innovation is not a problem in libraryland. Have a read of the new ACE report &#8220;Libraries welcome everyone&#8221; to see this in action and then read the article by Carnegie on the Taskforce website. You can then have a wistful browse of an article about French beach libraries (come on Llandudno!) and then read about toy sleepovers. Then, perhaps have a giggle at the silliness of the reactionaries who worry about Drag Queen Storytimes. Moving on to tech, it&#8217;s good to see Somerset having 360 degree pictures of all their branches on their webpages (a boon for those with autism) and browse their open date on library usage. I remember when &#8220;knit an natter&#8221; and &#8220;adult colouring&#8221; classes were new ideas and now they&#8217;re basically everywhere. No, innovation is not a problem. And successful ideas spread &#8211; I&#8217;m seeing toy sleepovers happening in many places and more and more DQSTs happening in the UK. Both started out in the USA (I think) and have spread. This innovation is to be encouraged. And is encouraging.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 26,
+  "story_ids": [
+    "pln-story-14170-changes-001",
+    "pln-story-14170-changes-002",
+    "pln-story-14170-changes-003",
+    "pln-story-14170-local-001",
+    "pln-story-14170-local-002",
+    "pln-story-14170-local-003",
+    "pln-story-14170-local-004",
+    "pln-story-14170-local-005",
+    "pln-story-14170-local-006",
+    "pln-story-14170-local-007",
+    "pln-story-14170-local-008",
+    "pln-story-14170-local-009",
+    "pln-story-14170-local-010",
+    "pln-story-14170-intl-001",
+    "pln-story-14170-intl-002",
+    "pln-story-14170-intl-003",
+    "pln-story-14170-intl-004",
+    "pln-story-14170-intl-005",
+    "pln-story-14170-intl-006",
+    "pln-story-14170-intl-007",
+    "pln-story-14170-natl-001",
+    "pln-story-14170-natl-002",
+    "pln-story-14170-natl-003",
+    "pln-story-14170-natl-004",
+    "pln-story-14170-natl-005",
+    "pln-story-14170-natl-006"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 9,
+    "countries_count": 7,
+    "top_categories": {
+      "cuts_and_finance": 5,
+      "closures_and_threats": 5,
+      "staffing_and_unions": 3,
+      "volunteers_and_community": 2,
+      "refurbishment_and_new_builds": 2,
+      "campaigns_and_protests": 2,
+      "events_and_activities": 2,
+      "book_bans_and_challenges": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "co_location": 1,
+      "mobile_and_outreach": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-5867",
+  "source_id": 5867,
+  "url": "https://www.publiclibrariesnews.com/2013/09/social-unity-local-variety.html",
+  "slug": "social-unity-local-variety",
+  "title": "Social unity, local variety",
+  "date_published": "2013-09-05T22:08:39",
+  "date_modified": "2013-09-08T21:42:03",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "local_news"
+  ],
+  "stories_count": 33,
+  "story_ids": [
+    "pln-story-5867-changes-001",
+    "pln-story-5867-changes-002",
+    "pln-story-5867-changes-003",
+    "pln-story-5867-changes-004",
+    "pln-story-5867-local-001",
+    "pln-story-5867-local-002",
+    "pln-story-5867-local-003",
+    "pln-story-5867-local-004",
+    "pln-story-5867-local-005",
+    "pln-story-5867-local-006",
+    "pln-story-5867-local-007",
+    "pln-story-5867-local-008",
+    "pln-story-5867-local-009",
+    "pln-story-5867-local-010",
+    "pln-story-5867-local-011",
+    "pln-story-5867-local-012",
+    "pln-story-5867-local-013",
+    "pln-story-5867-local-014",
+    "pln-story-5867-local-015",
+    "pln-story-5867-local-016",
+    "pln-story-5867-local-017",
+    "pln-story-5867-ideas-001",
+    "pln-story-5867-ideas-002",
+    "pln-story-5867-ideas-003",
+    "pln-story-5867-ideas-004",
+    "pln-story-5867-ideas-005",
+    "pln-story-5867-ideas-006",
+    "pln-story-5867-ideas-007",
+    "pln-story-5867-ideas-008",
+    "pln-story-5867-ideas-009",
+    "pln-story-5867-ideas-010",
+    "pln-story-5867-ideas-011",
+    "pln-story-5867-ideas-012"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 20,
+    "countries_count": 3,
+    "top_categories": {
+      "closures_and_threats": 7,
+      "volunteers_and_community": 6,
+      "staffing_and_unions": 4,
+      "cuts_and_finance": 3,
+      "refurbishment_and_new_builds": 3,
+      "campaigns_and_protests": 1,
+      "events_and_activities": 1,
+      "book_bans_and_challenges": 1,
+      "co_location": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

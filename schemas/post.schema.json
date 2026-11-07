@@ -60,6 +60,24 @@
       "type": "array",
       "items": { "type": "string" }
     },
+    "stats": {
+      "type": "object",
+      "properties": {
+        "authorities_count": { "type": "integer" },
+        "libraries_count": { "type": "integer" },
+        "countries_count": { "type": "integer" },
+        "top_categories": {
+          "type": "object",
+          "additionalProperties": { "type": "integer" }
+        }
+      },
+      "required": [
+        "authorities_count",
+        "libraries_count",
+        "countries_count",
+        "top_categories"
+      ]
+    },
     "attribution": {
       "type": "object",
       "properties": {
@@ -83,6 +101,7 @@
     "sections_found",
     "stories_count",
     "story_ids",
+    "stats",
     "attribution"
   ]
 }

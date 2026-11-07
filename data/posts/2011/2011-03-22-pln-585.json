@@ -1,0 +1,46 @@
+{
+  "id": "pln-post-585",
+  "source_id": 585,
+  "url": "https://www.publiclibrariesnews.com/2011/03/michael-goves-50-books-challenge-easy-if-you-have-money-or-a-library.html",
+  "slug": "michael-goves-50-books-challenge-easy-if-you-have-money-or-a-library",
+  "title": "Michael Gove’s 50 Books Challenge – Easy if you have money, or a library…",
+  "date_published": "2011-03-22T22:28:00",
+  "date_modified": "2011-03-22T22:28:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "523 libraries (461 buildings and 62 mobiles) currently under threat or recently closed/left council control out of 4517 in the UK (See “Cuts” link on right for full list by authority)",
+    "html": "<b>523 </b><b>libraries (461 buildings and 62 mobiles) currently under threat or recently closed/left council control out of 4517 in the UK (See &#8220;Cuts&#8221; link on right for full list by authority)</b></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial"
+  ],
+  "stories_count": 2,
+  "story_ids": [
+    "pln-story-585-changes-001",
+    "pln-story-585-changes-002"
+  ],
+  "stats": {
+    "authorities_count": 1,
+    "libraries_count": 2,
+    "countries_count": 1,
+    "top_categories": {
+      "closures_and_threats": 2,
+      "cuts_and_finance": 2,
+      "staffing_and_unions": 2,
+      "book_bans_and_challenges": 1,
+      "volunteers_and_community": 1,
+      "refurbishment_and_new_builds": 1,
+      "campaigns_and_protests": 1,
+      "events_and_activities": 1,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,62 @@
+{
+  "id": "pln-post-6064",
+  "source_id": 6064,
+  "url": "https://www.publiclibrariesnews.com/2013/10/public-libraries-news-2-oct-2013-stockport-hours-cut-birmingham-norfolk.html",
+  "slug": "public-libraries-news-2-oct-2013-stockport-hours-cut-birmingham-norfolk",
+  "title": "Public Libraries News 2 Oct 2013: Stockport hours cut; Birmingham; Norfolk.",
+  "date_published": "2013-10-02T20:50:04",
+  "date_modified": "2013-10-03T21:48:06",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 17,
+  "story_ids": [
+    "pln-story-6064-changes-001",
+    "pln-story-6064-changes-002",
+    "pln-story-6064-changes-003",
+    "pln-story-6064-changes-004",
+    "pln-story-6064-changes-005",
+    "pln-story-6064-changes-006",
+    "pln-story-6064-changes-007",
+    "pln-story-6064-changes-008",
+    "pln-story-6064-changes-009",
+    "pln-story-6064-local-001",
+    "pln-story-6064-local-002",
+    "pln-story-6064-local-003",
+    "pln-story-6064-local-004",
+    "pln-story-6064-local-005",
+    "pln-story-6064-local-006",
+    "pln-story-6064-local-007",
+    "pln-story-6064-local-008"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 2,
+    "countries_count": 1,
+    "top_categories": {
+      "cuts_and_finance": 9,
+      "staffing_and_unions": 6,
+      "closures_and_threats": 5,
+      "volunteers_and_community": 2,
+      "opening_hours": 2,
+      "digital_and_technology": 1,
+      "events_and_activities": 1,
+      "book_bans_and_challenges": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

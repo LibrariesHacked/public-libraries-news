@@ -1,0 +1,63 @@
+{
+  "id": "pln-post-7754",
+  "source_id": 7754,
+  "url": "https://www.publiclibrariesnews.com/2014/06/we-hope-she-grows-up-to-be-a-real-book-lover.html",
+  "slug": "we-hope-she-grows-up-to-be-a-real-book-lover",
+  "title": "“We hope she grows up to be a real book lover”",
+  "date_published": "2014-06-30T22:27:21",
+  "date_modified": "2014-07-01T21:20:37",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 15,
+  "story_ids": [
+    "pln-story-7754-changes-001",
+    "pln-story-7754-intl-001",
+    "pln-story-7754-intl-002",
+    "pln-story-7754-intl-003",
+    "pln-story-7754-intl-004",
+    "pln-story-7754-intl-005",
+    "pln-story-7754-intl-006",
+    "pln-story-7754-intl-007",
+    "pln-story-7754-intl-008",
+    "pln-story-7754-intl-009",
+    "pln-story-7754-intl-010",
+    "pln-story-7754-intl-011",
+    "pln-story-7754-natl-001",
+    "pln-story-7754-natl-002",
+    "pln-story-7754-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 6,
+    "libraries_count": 4,
+    "countries_count": 6,
+    "top_categories": {
+      "cuts_and_finance": 3,
+      "digital_and_technology": 3,
+      "closures_and_threats": 2,
+      "staffing_and_unions": 1,
+      "refurbishment_and_new_builds": 1,
+      "governance_and_trusts": 1,
+      "opening_hours": 1,
+      "campaigns_and_protests": 1,
+      "volunteers_and_community": 1,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

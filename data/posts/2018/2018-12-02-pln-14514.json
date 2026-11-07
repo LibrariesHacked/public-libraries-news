@@ -1,0 +1,77 @@
+{
+  "id": "pln-post-14514",
+  "source_id": 14514,
+  "url": "https://www.publiclibrariesnews.com/2018/12/well-at-least-in-one-way-uk-public-libraries-are-leading-the-way-on-privacy.html",
+  "slug": "well-at-least-in-one-way-uk-public-libraries-are-leading-the-way-on-privacy",
+  "title": "Well, at least in one way, UK public libraries are leading the way on privacy",
+  "date_published": "2018-12-02T19:42:46",
+  "date_modified": "2018-12-09T16:32:42",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The launch of the very good guide to privacy for library staff was a nice surprise – befittingly, they kept that quiet – as it is very well written and includes an excellent call to arms by Aude Charillon as well as useful tips and examples. Do have a read. Sadly, I think the only thing many public library services are currently leading on privacy-wise is not sharing their performance data. There’s an excellent article by Libraries Stats on the continuing drama of CIPFA trying to control access to library figures (or, rather, “professionally collate” them and then refuse to give them to anyone who does not have £650) and also the rather poor record of some library services in sharing their data on request. This is a very ironic shame, and shameful, for library services. I was taught in library school that we were signposts to people, not locked doors, but that does not seem to be the case for many. I hope the trend towards Open Data apparent elsewhere finally reaches the library sector soon. Well, I don’t often mention my own library service on the website, for obvious reasons of the need to keep work and blog separate. But it would be off of me if I did not mention Cheshire West and Chester Council library service winning not just the Transformation award for which it was entered but also the Overall Award as well, and it would also be wrong if I did mentioned they’re my employer. So, well done colleagues, well done library service and well done the Guardian for their continuing support for libraries. That’s at least something that’s not secret.",
+    "html": "<p style=\"text-align: justify;\">The launch of the very good guide to privacy for library staff was a nice surprise &#8211; befittingly, they kept that quiet &#8211; as it is very well written and includes an excellent call to arms by Aude Charillon as well as useful tips and examples. Do have a read. Sadly, I think the only thing many public library services are currently leading on privacy-wise is not sharing their performance data. There&#8217;s an excellent article by Libraries Stats on the continuing drama of CIPFA trying to control access to library figures (or, rather, &#8220;professionally collate&#8221; them and then refuse to give them to anyone who does not have £650) and also the rather poor record of some library services in sharing their data on request. This is a very ironic shame, and shameful, for library services. I was taught in library school that we were signposts to people, not locked doors, but that does not seem to be the case for many. I hope the trend towards Open Data apparent elsewhere finally reaches the library sector soon.</p> <p style=\"text-align: justify;\">Well, I don&#8217;t often mention my own library service on the website, for obvious reasons of the need to keep work and blog separate. But it would be off of me if I did not mention Cheshire West and Chester Council library service winning not just the Transformation award for which it was entered but also the Overall Award as well, and it would also be wrong if I did mentioned they&#8217;re my employer. So, well done colleagues, well done library service and well done the Guardian for their continuing support for libraries. That&#8217;s at least something that&#8217;s not secret.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 29,
+  "story_ids": [
+    "pln-story-14514-changes-001",
+    "pln-story-14514-changes-002",
+    "pln-story-14514-local-001",
+    "pln-story-14514-local-002",
+    "pln-story-14514-local-003",
+    "pln-story-14514-local-004",
+    "pln-story-14514-local-005",
+    "pln-story-14514-local-006",
+    "pln-story-14514-local-007",
+    "pln-story-14514-local-008",
+    "pln-story-14514-local-009",
+    "pln-story-14514-local-010",
+    "pln-story-14514-local-011",
+    "pln-story-14514-local-012",
+    "pln-story-14514-local-013",
+    "pln-story-14514-local-014",
+    "pln-story-14514-natl-001",
+    "pln-story-14514-natl-002",
+    "pln-story-14514-natl-003",
+    "pln-story-14514-natl-004",
+    "pln-story-14514-natl-005",
+    "pln-story-14514-natl-006",
+    "pln-story-14514-natl-007",
+    "pln-story-14514-natl-008",
+    "pln-story-14514-natl-009",
+    "pln-story-14514-natl-010",
+    "pln-story-14514-natl-011",
+    "pln-story-14514-natl-012",
+    "pln-story-14514-natl-013"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 9,
+    "countries_count": 1,
+    "top_categories": {
+      "staffing_and_unions": 5,
+      "events_and_activities": 4,
+      "book_bans_and_challenges": 4,
+      "closures_and_threats": 3,
+      "co_location": 2,
+      "cuts_and_finance": 2,
+      "opening_hours": 2,
+      "campaigns_and_protests": 2,
+      "mobile_and_outreach": 1,
+      "volunteers_and_community": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": "pln-post-7592",
+  "source_id": 7592,
+  "url": "https://www.publiclibrariesnews.com/2014/05/lincolnshire-and-canada.html",
+  "slug": "lincolnshire-and-canada",
+  "title": "Lincolnshire and Canada",
+  "date_published": "2014-05-29T21:27:54",
+  "date_modified": "2014-06-01T20:21:36",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "You’ll notice a new advertising banner if you visit PLN for the next couple of months: I’m advertising the Save Lincolnshire Libraries campaign bid to raise funds for their judicial review. I don’t live anywhere near Lincolnshire but I’m supporting this as one of the grounds they are challenging on is that the reduced service will not meet the provisions of the 1964 Public Libraries and Museums Act. If they win on that point then there may be national implications for other councils. It may also stop all those media reports who call libraries “non-statutory”. Meanwhile, a Canadian union campaign against part-time paid workers caught my eye. Yes, over in the UK unions are concerned about paid staff losing their jobs entirely and/or being replaced by volunteers while over in Canada, the situation is so different they’re concerned about workers not working full-time. I have difficulty in seeing how a standard public library can survive without casuals and part-time staff myself but I envy the Canadians their funding.",
+    "html": "<p style=\"text-align: justify;\">You&#8217;ll notice a new advertising banner if you visit PLN for the next couple of months: I&#8217;m advertising the Save <a title=\"Save Lincolnshire Libraries\" href=\"http://savelincslibraries.org.uk/donate/\">Lincolnshire Libraries campaign bid to raise funds for their judicial review</a>. I don&#8217;t live anywhere near Lincolnshire but I&#8217;m supporting this as one of the grounds they are challenging on is that the reduced service will not meet the provisions of the 1964 Public Libraries and Museums Act. If they win on that point then there may be national implications for other councils. It may also stop all those media reports who call libraries &#8220;non-statutory&#8221;.</p> <p style=\"text-align: justify;\">Meanwhile, a<a title=\"Cupenat Twitter\" href=\"https://twitter.com/cupenat/status/472070391952068608/photo/1\"> Canadian union campaign against part-time paid workers caught my eye</a>. Yes, over in the UK unions are concerned about paid <a title=\"Barry and District News\" href=\"http://www.barryanddistrictnews.co.uk/news/11242887.display/\">staff losing their jobs entirely and/or being replaced by volunteers</a> while over in Canada, the situation is so different they&#8217;re concerned about workers not working full-time. I have difficulty in seeing how a standard public library can survive without casuals and part-time staff myself but I envy the Canadians their funding.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 11,
+  "story_ids": [
+    "pln-story-7592-intl-001",
+    "pln-story-7592-intl-002",
+    "pln-story-7592-intl-003",
+    "pln-story-7592-intl-004",
+    "pln-story-7592-intl-005",
+    "pln-story-7592-intl-006",
+    "pln-story-7592-intl-007",
+    "pln-story-7592-natl-001",
+    "pln-story-7592-natl-002",
+    "pln-story-7592-natl-003",
+    "pln-story-7592-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 4,
+    "libraries_count": 1,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 4,
+      "digital_and_technology": 3,
+      "campaigns_and_protests": 3,
+      "cuts_and_finance": 2,
+      "volunteers_and_community": 2,
+      "book_bans_and_challenges": 1,
+      "staffing_and_unions": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

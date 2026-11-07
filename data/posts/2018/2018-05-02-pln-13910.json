@@ -1,0 +1,78 @@
+{
+  "id": "pln-post-13910",
+  "source_id": 13910,
+  "url": "https://www.publiclibrariesnews.com/2018/05/passing-it-all-to-parishes-plus-staffless-issues.html",
+  "slug": "passing-it-all-to-parishes-plus-staffless-issues",
+  "title": "Passing it all to parishes, plus staffless issues",
+  "date_published": "2018-05-02T18:58:35",
+  "date_modified": "2018-05-07T17:24:43",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Two things that spark my interest today. The first is the continuing, and little publicised outside of the county, move by Cornwall to transfer numerous branches to town and parish councils. The media suggests Bude-Stratton, Redruth, Camelford, Falmouth, Launceston, St Ives, Bodmin, Camborne, St Austell and Penryn are all being transferred this way. This makes sense as lower-tier councils are not capped in the same way as top-tier ones and of course there’s co-locations happening in a few of these. Cornwall are clearly going for it big time with this option, as are a handful of others such as Swindon. I’d also expect others are quietly exploring this route. The second is a couple of mentions of staffless/open libraries. Leicestershire are installing a lot of this in their libraries and, interestingly, one branch which is not having it is described as “missing out” in the local press. Such a description would not one suspect be shared by the Irish “Staff Our Libraries” which has uncovered evidence of widespread and repeated examples of people using the libraries without library cards. including children. It’s worth noting that there appears to be little actual problem or serious incident with this, yet, but the worry has to be that something really bad will happen in one of these branches and the council will then have to prove due care and attention was given. Something to weigh up when doing the risk assessment at least, including in Bristol where a few libraries will be going down this “extended access” route shortly.",
+    "html": "<p style=\"text-align: justify;\">Two things that spark my interest today. The first is the continuing, and little publicised outside of the county, move by Cornwall to transfer numerous branches to town and parish councils. <a href=\"https://www.publiclibrariesnews.com/about-public-libraries-news/information/changes-by-local-authority-a-to-fife/camden-to-cornwall\">The media suggests </a>Bude-Stratton, Redruth, Camelford, Falmouth, Launceston, St Ives, Bodmin, Camborne, St Austell and Penryn are all being transferred this way. This makes sense as lower-tier councils are not capped in the same way as top-tier ones and of course there&#8217;s co-locations happening in a few of these. Cornwall are clearly going for it big time with this option, as are a handful of others such as Swindon. I&#8217;d also expect others are quietly exploring this route.</p> <p style=\"text-align: justify;\">The second is a couple of mentions of staffless/open libraries. Leicestershire are installing a lot of this in their libraries and, interestingly, one branch which is not having it is described as &#8220;missing out&#8221; in the local press. Such a description would not one suspect be shared by the Irish &#8220;Staff Our Libraries&#8221; which has uncovered evidence of widespread and repeated examples of people using the libraries without library cards. including children. It&#8217;s worth noting that there appears to be little actual problem or serious incident with this, yet, but the worry has to be that something really bad will happen in one of these branches and the council will then have to prove due care and attention was given. Something to weigh up when doing the risk assessment at least, including in Bristol where a few libraries will be going down this &#8220;extended access&#8221; route shortly.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 27,
+  "story_ids": [
+    "pln-story-13910-changes-001",
+    "pln-story-13910-changes-002",
+    "pln-story-13910-changes-003",
+    "pln-story-13910-local-001",
+    "pln-story-13910-local-002",
+    "pln-story-13910-local-003",
+    "pln-story-13910-local-004",
+    "pln-story-13910-local-005",
+    "pln-story-13910-local-006",
+    "pln-story-13910-local-007",
+    "pln-story-13910-local-008",
+    "pln-story-13910-local-009",
+    "pln-story-13910-local-010",
+    "pln-story-13910-local-011",
+    "pln-story-13910-local-012",
+    "pln-story-13910-local-013",
+    "pln-story-13910-intl-001",
+    "pln-story-13910-intl-002",
+    "pln-story-13910-intl-003",
+    "pln-story-13910-intl-004",
+    "pln-story-13910-natl-001",
+    "pln-story-13910-natl-002",
+    "pln-story-13910-natl-003",
+    "pln-story-13910-natl-004",
+    "pln-story-13910-natl-005",
+    "pln-story-13910-natl-006",
+    "pln-story-13910-natl-007"
+  ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 22,
+    "countries_count": 6,
+    "top_categories": {
+      "closures_and_threats": 7,
+      "staffing_and_unions": 6,
+      "volunteers_and_community": 5,
+      "opening_hours": 4,
+      "cuts_and_finance": 4,
+      "book_bans_and_challenges": 3,
+      "refurbishment_and_new_builds": 2,
+      "campaigns_and_protests": 2,
+      "co_location": 1,
+      "governance_and_trusts": 1,
+      "digital_and_technology": 1,
+      "unstaffed_open_plus": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

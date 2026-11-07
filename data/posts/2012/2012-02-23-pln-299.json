@@ -1,0 +1,71 @@
+{
+  "id": "pln-post-299",
+  "source_id": 299,
+  "url": "https://www.publiclibrariesnews.com/2012/02/doncaster-campaigners-take-the-next-step.html",
+  "slug": "doncaster-campaigners-take-the-next-step",
+  "title": "Doncaster campaigners take the next step",
+  "date_published": "2012-02-23T23:25:00",
+  "date_modified": "2012-02-23T23:25:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Doncaster campaigners have confirmed that they will be taking legal action against their Council. Surrey campaigners have already started along this road following in the footsteps of Somerset, Gloucestershire, Brent and the Isle of Wight. 400 libraries (310 buildings and 90 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4612 in the UK, complete list below. Librarian professional body CILIP forecasts 600 libraries under threat (inc. 20% of English libraries). The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day.",
+    "html": "<a href=\"http://www.bbc.co.uk/news/uk-england-south-yorkshire-17144291\">Doncaster campaigners have confirmed that they will be taking legal action against their Council</a>. Surrey campaigners have already started along this road following in the footsteps of Somerset, Gloucestershire, Brent and the Isle of Wight. <b>400 libraries (310 buildings and 90 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.<a href=\"http://www.cilip.org.uk/get-involved/advocacy/public-libraries/Documents/Public_libraries_briefing_CILIP_March2011.pdf\">4612</a> in the UK, complete list below</b><b>. Librarian professional body CILIP forecasts 600 libraries under threat (inc. 20% of English libraries). </b>The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day.<b> </b>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-299-changes-001",
+    "pln-story-299-local-001",
+    "pln-story-299-local-002",
+    "pln-story-299-local-003",
+    "pln-story-299-local-004",
+    "pln-story-299-local-005",
+    "pln-story-299-local-006",
+    "pln-story-299-local-007",
+    "pln-story-299-local-008",
+    "pln-story-299-local-009",
+    "pln-story-299-local-010",
+    "pln-story-299-local-011",
+    "pln-story-299-local-012",
+    "pln-story-299-local-013",
+    "pln-story-299-local-014",
+    "pln-story-299-local-015",
+    "pln-story-299-local-016",
+    "pln-story-299-local-017",
+    "pln-story-299-local-018",
+    "pln-story-299-local-019",
+    "pln-story-299-local-020",
+    "pln-story-299-local-021",
+    "pln-story-299-natl-001",
+    "pln-story-299-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 18,
+    "libraries_count": 13,
+    "countries_count": 2,
+    "top_categories": {
+      "cuts_and_finance": 10,
+      "closures_and_threats": 9,
+      "campaigns_and_protests": 5,
+      "staffing_and_unions": 4,
+      "volunteers_and_community": 4,
+      "opening_hours": 3,
+      "refurbishment_and_new_builds": 2,
+      "mobile_and_outreach": 1,
+      "co_location": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

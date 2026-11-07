@@ -1,0 +1,59 @@
+{
+  "id": "pln-post-6722",
+  "source_id": 6722,
+  "url": "https://www.publiclibrariesnews.com/2014/01/brent-says-their-strategy-worked-torbay-and-cornwall-cuts.html",
+  "slug": "brent-says-their-strategy-worked-torbay-and-cornwall-cuts",
+  "title": "Brent say their strategy worked: Torbay and Cornwall cuts",
+  "date_published": "2014-01-13T22:59:42",
+  "date_modified": "2014-01-14T22:18:15",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "national_news"
+  ],
+  "stories_count": 13,
+  "story_ids": [
+    "pln-story-6722-changes-001",
+    "pln-story-6722-changes-002",
+    "pln-story-6722-natl-001",
+    "pln-story-6722-natl-002",
+    "pln-story-6722-natl-003",
+    "pln-story-6722-natl-004",
+    "pln-story-6722-natl-005",
+    "pln-story-6722-natl-006",
+    "pln-story-6722-natl-007",
+    "pln-story-6722-natl-008",
+    "pln-story-6722-natl-009",
+    "pln-story-6722-natl-010",
+    "pln-story-6722-natl-011"
+  ],
+  "stats": {
+    "authorities_count": 10,
+    "libraries_count": 3,
+    "countries_count": 2,
+    "top_categories": {
+      "opening_hours": 4,
+      "mobile_and_outreach": 3,
+      "closures_and_threats": 3,
+      "cuts_and_finance": 2,
+      "volunteers_and_community": 2,
+      "events_and_activities": 1,
+      "digital_and_technology": 1,
+      "governance_and_trusts": 1,
+      "campaigns_and_protests": 1,
+      "staffing_and_unions": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

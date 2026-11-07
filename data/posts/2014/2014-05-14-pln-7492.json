@@ -1,0 +1,62 @@
+{
+  "id": "pln-post-7492",
+  "source_id": 7492,
+  "url": "https://www.publiclibrariesnews.com/2014/05/public-libraries-given-means-of-assessing-their-own-value-to-users.html",
+  "slug": "public-libraries-given-means-of-assessing-their-own-value-to-users",
+  "title": "Public libraries given means of assessing their own value to users",
+  "date_published": "2014-05-14T19:48:50",
+  "date_modified": "2014-05-15T22:30:46",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "ALMA-UK (no, I’ve never head of them either but apparently it’s “a voluntary cross-nation partnership, dedicated to enhancing the public value of archives, libraries and museums UK wide”) has come up with some useful findings to help keep your public library afloat. It also provides, for free, a sample questionnaire and spreadsheets which any library service can use to find out the economic impact of its service. The results of its survey incidentally is that the value of each library trip for the user is between 5.5 and 7.5 times the cost of provision. Which is a pretty good multiplier and places it at the high end of studies which normally place the return on investment of public libraries as from 1.6 to 5.6.",
+    "html": "<p>ALMA-UK (no, I&#8217;ve never head of them either but apparently it&#8217;s &#8220;a voluntary cross-nation partnership, dedicated to enhancing the public value of archives, libraries and museums UK wide&#8221;) has come up with some useful findings to help keep your public library afloat. It also provides, for free, a sample questionnaire and spreadsheets which any library service can use to find out the economic impact of its service. The results of its survey incidentally is that the value of each library trip for the user is between 5.5 and 7.5 times the cost of provision. Which is a pretty good multiplier and places it at the high end <a title=\"PLN\" href=\"https://www.publiclibrariesnews.com/reasons-for/reasons-for-libraries-values-for-money\">of studies which normally place the return on investment of public libraries as from 1.6 to 5.6</a>.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 16,
+  "story_ids": [
+    "pln-story-7492-intl-001",
+    "pln-story-7492-intl-002",
+    "pln-story-7492-intl-003",
+    "pln-story-7492-intl-004",
+    "pln-story-7492-intl-005",
+    "pln-story-7492-intl-006",
+    "pln-story-7492-intl-007",
+    "pln-story-7492-intl-008",
+    "pln-story-7492-intl-009",
+    "pln-story-7492-intl-010",
+    "pln-story-7492-intl-011",
+    "pln-story-7492-intl-012",
+    "pln-story-7492-natl-001",
+    "pln-story-7492-natl-002",
+    "pln-story-7492-natl-003",
+    "pln-story-7492-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 6,
+    "libraries_count": 6,
+    "countries_count": 2,
+    "top_categories": {
+      "staffing_and_unions": 4,
+      "closures_and_threats": 3,
+      "cuts_and_finance": 3,
+      "events_and_activities": 3,
+      "campaigns_and_protests": 2,
+      "volunteers_and_community": 1,
+      "opening_hours": 1,
+      "governance_and_trusts": 1,
+      "refurbishment_and_new_builds": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

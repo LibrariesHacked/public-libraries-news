@@ -1,0 +1,72 @@
+{
+  "id": "pln-post-11062",
+  "source_id": 11062,
+  "url": "https://www.publiclibrariesnews.com/2016/05/traffic-delays-due-to-library-campaigners.html",
+  "slug": "traffic-delays-due-to-library-campaigners",
+  "title": "Traffic delays due to library campaigners",
+  "date_published": "2016-05-22T20:13:17",
+  "date_modified": "2016-05-24T21:08:23",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The news that it is costing Lambeth more money to guard its closed libraries than it would have cost to keep them open is a new low in the odd way that some councils treat libraries. Some councillors, of all political stripe, have shown themselves adept at making an already bad situation worse. Barnet, for example, managed to tender out its library computer system without adequate maintenance safeguards, meaning a loss of library data (and inconvenience to staff) months ago still encumbering them now. Other councillors simply do not understand the important work libraries do, or wish to make some sort of point – be it about the wonderfulness of the BIg Society or the evils of Austerity or whatever. It’s good therefore that people are willing to protest, as was the case in Lewisham this weekend with hundreds protesting. I wonder how many countries can say traffic delayed due to library campaigners? Well, the UK joined the undoubtedly short and tragic list this weekend.",
+    "html": "<p style=\"text-align: justify;\">The news that it is costing Lambeth more money to guard its closed libraries than it would have cost to keep them open is a new low in the odd way that some councils treat libraries. Some councillors, of all political stripe, have shown themselves adept at making an already bad situation worse. Barnet, for example, managed to tender out its library computer system without adequate maintenance safeguards, meaning a loss of library data (and inconvenience to staff) months ago still encumbering them now. Other councillors simply do not understand the important work libraries do, or wish to make some sort of point &#8211; be it about the wonderfulness of the BIg Society or the evils of Austerity or whatever. It&#8217;s good therefore that people are willing to protest, as was the case in Lewisham this weekend with hundreds protesting. I wonder how many countries can say traffic delayed due to library campaigners? Well, the UK joined the undoubtedly short and tragic list this weekend.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 21,
+  "story_ids": [
+    "pln-story-11062-changes-001",
+    "pln-story-11062-changes-002",
+    "pln-story-11062-local-001",
+    "pln-story-11062-local-002",
+    "pln-story-11062-local-003",
+    "pln-story-11062-local-004",
+    "pln-story-11062-local-005",
+    "pln-story-11062-local-006",
+    "pln-story-11062-local-007",
+    "pln-story-11062-local-008",
+    "pln-story-11062-local-009",
+    "pln-story-11062-local-010",
+    "pln-story-11062-intl-001",
+    "pln-story-11062-intl-002",
+    "pln-story-11062-intl-003",
+    "pln-story-11062-intl-004",
+    "pln-story-11062-intl-005",
+    "pln-story-11062-natl-001",
+    "pln-story-11062-natl-002",
+    "pln-story-11062-ideas-001",
+    "pln-story-11062-ideas-002"
+  ],
+  "stats": {
+    "authorities_count": 10,
+    "libraries_count": 11,
+    "countries_count": 5,
+    "top_categories": {
+      "staffing_and_unions": 6,
+      "cuts_and_finance": 5,
+      "campaigns_and_protests": 4,
+      "events_and_activities": 3,
+      "closures_and_threats": 3,
+      "mobile_and_outreach": 2,
+      "book_bans_and_challenges": 2,
+      "digital_and_technology": 2,
+      "governance_and_trusts": 1,
+      "unstaffed_open_plus": 1,
+      "co_location": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

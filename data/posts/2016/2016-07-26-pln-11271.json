@@ -1,0 +1,74 @@
+{
+  "id": "pln-post-11271",
+  "source_id": 11271,
+  "url": "https://www.publiclibrariesnews.com/2016/07/the-first-letter-new-libraries-minister-speaks.html",
+  "slug": "the-first-letter-new-libraries-minister-speaks",
+  "title": "The first letter: New Libraries Minister speaks",
+  "date_published": "2016-07-26T20:19:23",
+  "date_modified": "2016-07-28T19:15:44",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The new libraries minister has spoken, showing an interest in the field and an awareness of the Taskforce, amongst other things. He points out that his interest in volunteering has a bearing in libraries, which will be seen as a bad omen by many (especially paid staff) but he does single out young volunteers, which suggests he’s thinking more in terms of Reading Hacks. It’s a good thing he has already had at least one meeting with public libraries people, anyway.",
+    "html": "<p>The new libraries minister has spoken, showing an interest in the field and an awareness of the Taskforce, amongst other things. He points out that his interest in volunteering has a bearing in libraries, which will be seen as a bad omen by many (especially paid staff) but he does single out young volunteers, which suggests he&#8217;s thinking more in terms of Reading Hacks. It&#8217;s a good thing he has already had at least one meeting with public libraries people, anyway.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 25,
+  "story_ids": [
+    "pln-story-11271-local-001",
+    "pln-story-11271-local-002",
+    "pln-story-11271-local-003",
+    "pln-story-11271-local-004",
+    "pln-story-11271-local-005",
+    "pln-story-11271-local-006",
+    "pln-story-11271-local-007",
+    "pln-story-11271-local-008",
+    "pln-story-11271-local-009",
+    "pln-story-11271-local-010",
+    "pln-story-11271-local-011",
+    "pln-story-11271-local-012",
+    "pln-story-11271-local-013",
+    "pln-story-11271-local-014",
+    "pln-story-11271-local-015",
+    "pln-story-11271-intl-001",
+    "pln-story-11271-intl-002",
+    "pln-story-11271-intl-003",
+    "pln-story-11271-natl-001",
+    "pln-story-11271-natl-002",
+    "pln-story-11271-natl-003",
+    "pln-story-11271-natl-004",
+    "pln-story-11271-natl-005",
+    "pln-story-11271-natl-006",
+    "pln-story-11271-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 15,
+    "libraries_count": 27,
+    "countries_count": 5,
+    "top_categories": {
+      "cuts_and_finance": 10,
+      "staffing_and_unions": 7,
+      "closures_and_threats": 7,
+      "volunteers_and_community": 6,
+      "campaigns_and_protests": 4,
+      "digital_and_technology": 3,
+      "opening_hours": 3,
+      "refurbishment_and_new_builds": 2,
+      "events_and_activities": 2,
+      "mobile_and_outreach": 2,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

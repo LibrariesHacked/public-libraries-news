@@ -1,0 +1,49 @@
+{
+  "id": "pln-post-570",
+  "source_id": 570,
+  "url": "https://www.publiclibrariesnews.com/2011/04/zombies-attack.html",
+  "slug": "zombies-attack",
+  "title": "Zombies attack",
+  "date_published": "2011-04-09T20:38:00",
+  "date_modified": "2011-04-09T20:38:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial"
+  ],
+  "stories_count": 9,
+  "story_ids": [
+    "pln-story-570-changes-001",
+    "pln-story-570-changes-002",
+    "pln-story-570-changes-003",
+    "pln-story-570-changes-004",
+    "pln-story-570-changes-005",
+    "pln-story-570-changes-006",
+    "pln-story-570-changes-007",
+    "pln-story-570-changes-008",
+    "pln-story-570-changes-009"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 4,
+    "countries_count": 1,
+    "top_categories": {
+      "cuts_and_finance": 5,
+      "staffing_and_unions": 1,
+      "digital_and_technology": 1,
+      "closures_and_threats": 1,
+      "volunteers_and_community": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

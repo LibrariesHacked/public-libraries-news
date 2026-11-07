@@ -1,0 +1,67 @@
+{
+  "id": "pln-post-7021",
+  "source_id": 7021,
+  "url": "https://www.publiclibrariesnews.com/2014/02/arts-funding-refurbishment-and-imperilment.html",
+  "slug": "arts-funding-refurbishment-and-imperilment",
+  "title": "Arts funding, refurbishment and imperilment",
+  "date_published": "2014-02-25T21:41:51",
+  "date_modified": "2014-02-26T21:53:19",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 21,
+  "story_ids": [
+    "pln-story-7021-changes-001",
+    "pln-story-7021-changes-002",
+    "pln-story-7021-intl-001",
+    "pln-story-7021-intl-002",
+    "pln-story-7021-intl-003",
+    "pln-story-7021-intl-004",
+    "pln-story-7021-intl-005",
+    "pln-story-7021-intl-006",
+    "pln-story-7021-intl-007",
+    "pln-story-7021-intl-008",
+    "pln-story-7021-intl-009",
+    "pln-story-7021-intl-010",
+    "pln-story-7021-intl-011",
+    "pln-story-7021-natl-001",
+    "pln-story-7021-natl-002",
+    "pln-story-7021-natl-003",
+    "pln-story-7021-natl-004",
+    "pln-story-7021-natl-005",
+    "pln-story-7021-natl-006",
+    "pln-story-7021-natl-007",
+    "pln-story-7021-natl-008"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 8,
+    "countries_count": 3,
+    "top_categories": {
+      "cuts_and_finance": 6,
+      "digital_and_technology": 5,
+      "events_and_activities": 4,
+      "refurbishment_and_new_builds": 2,
+      "staffing_and_unions": 2,
+      "volunteers_and_community": 2,
+      "campaigns_and_protests": 2,
+      "closures_and_threats": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

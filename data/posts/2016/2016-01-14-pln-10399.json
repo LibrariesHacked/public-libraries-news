@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-10399",
+  "source_id": 10399,
+  "url": "https://www.publiclibrariesnews.com/2016/01/democracy-of-space.html",
+  "slug": "democracy-of-space",
+  "title": "Democracy of space",
+  "date_published": "2016-01-14T21:26:51",
+  "date_modified": "2016-01-17T21:14:43",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Good to see some more publicity for the campaign for the statutory nature of libraries: Joanne Trollope leads a useful article in the Guardian. It’s a shame, though, that there’s still at time of writing fewer than 10,000 names on the petition. Time to encourage some more to sign. This is especially important as the cuts march on. Newcastle have announced that total opening hours will be more than halved, which is pretty major.",
+    "html": "<p style=\"text-align: justify;\">Good to see some more publicity for the campaign for the statutory nature of libraries: Joanne Trollope leads a useful article in the Guardian. It&#8217;s a shame, though, that there&#8217;s still at time of writing fewer <a href=\"https://www.change.org/p/john-whittingdale-hm-government-act-now-to-protect-my-statutory-rights-to-a-quality-public-library-service\">than 10,000 names on the petition</a>. Time to encourage some more to sign. This is especially important as the cuts march on. Newcastle have announced that total opening hours will be more than halved, which is pretty major.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 31,
+  "story_ids": [
+    "pln-story-10399-changes-001",
+    "pln-story-10399-changes-002",
+    "pln-story-10399-local-001",
+    "pln-story-10399-local-002",
+    "pln-story-10399-local-003",
+    "pln-story-10399-local-004",
+    "pln-story-10399-local-005",
+    "pln-story-10399-local-006",
+    "pln-story-10399-local-007",
+    "pln-story-10399-local-008",
+    "pln-story-10399-local-009",
+    "pln-story-10399-local-010",
+    "pln-story-10399-local-011",
+    "pln-story-10399-local-012",
+    "pln-story-10399-local-013",
+    "pln-story-10399-local-014",
+    "pln-story-10399-local-015",
+    "pln-story-10399-local-016",
+    "pln-story-10399-local-017",
+    "pln-story-10399-local-018",
+    "pln-story-10399-local-019",
+    "pln-story-10399-local-020",
+    "pln-story-10399-intl-001",
+    "pln-story-10399-intl-002",
+    "pln-story-10399-intl-003",
+    "pln-story-10399-natl-001",
+    "pln-story-10399-natl-002",
+    "pln-story-10399-natl-003",
+    "pln-story-10399-natl-004",
+    "pln-story-10399-natl-005",
+    "pln-story-10399-natl-006"
+  ],
+  "stats": {
+    "authorities_count": 16,
+    "libraries_count": 25,
+    "countries_count": 4,
+    "top_categories": {
+      "cuts_and_finance": 10,
+      "staffing_and_unions": 10,
+      "opening_hours": 5,
+      "volunteers_and_community": 3,
+      "refurbishment_and_new_builds": 3,
+      "closures_and_threats": 3,
+      "campaigns_and_protests": 3,
+      "digital_and_technology": 3,
+      "co_location": 2,
+      "governance_and_trusts": 2,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-14678",
+  "source_id": 14678,
+  "url": "https://www.publiclibrariesnews.com/2019/01/a-couple-of-hundred-ideas-for-public-libraries-plus-coverage-in-the-express-and-independent.html",
+  "slug": "a-couple-of-hundred-ideas-for-public-libraries-plus-coverage-in-the-express-and-independent",
+  "title": "A couple of hundred ideas for public libraries, plus coverage in the Express and Independent",
+  "date_published": "2019-01-27T22:36:04",
+  "date_modified": "2019-02-03T21:14:40",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Considering that it has been a fairly quiet few days, what a heck of a lot of national newspaper coverage. The Express continues its quite impressive “crusade” for libraries with a couple of big of articles this weekend and, I understand, more coming in the next week. The newspaper, not known for its pro-public service sympathies, is publishing a few pro-library articles a week at the moment, which is brilliant as I suspect the decision-makers tend to discount the Guardian (the normal reporter on library matters). The Independent too has published three stories this weekend too, which is fantastic. And all of these articles in both papers have been entirely positive about the sector which is great. Oh, and I love the “50 times libraries surprised everyone” article by Boredpanda. There were a couple on there I’ve not seen before, including having the books lying down and spine up so people can clearly see their titles. I’ve been collecting ideas and innovations for public libraries for a few years now, by the way, and recently updated by seriously nerdy list here.",
+    "html": "<p style=\"text-align: justify;\">Considering that it has been a fairly quiet few days, what a heck of a lot of national newspaper coverage. The Express continues its quite impressive &#8220;crusade&#8221; for libraries with a couple of big of articles this weekend and, I understand, more coming in the next week. The newspaper, not known for its pro-public service sympathies, is publishing a few pro-library articles a week at the moment, which is brilliant as I suspect the decision-makers tend to discount the Guardian (the normal reporter on library matters). The Independent too has published three stories this weekend too, which is fantastic. And all of these articles in both papers have been entirely positive about the sector which is great.</p> <p style=\"text-align: justify;\">Oh, and I love the &#8220;50 times libraries surprised everyone&#8221; article by Boredpanda. There were a couple on there I&#8217;ve not seen before, including having the books lying down and spine up so people can clearly see their titles. I&#8217;ve been collecting ideas and innovations for public libraries for a few years now, by the way, and <a href=\"https://www.publiclibrariesnews.com/practitioners/ideas-and-innovations-in-public-libraries\">recently updated by seriously nerdy list here</a>.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 30,
+  "story_ids": [
+    "pln-story-14678-changes-001",
+    "pln-story-14678-changes-002",
+    "pln-story-14678-changes-003",
+    "pln-story-14678-local-001",
+    "pln-story-14678-local-002",
+    "pln-story-14678-local-003",
+    "pln-story-14678-local-004",
+    "pln-story-14678-local-005",
+    "pln-story-14678-local-006",
+    "pln-story-14678-local-007",
+    "pln-story-14678-local-008",
+    "pln-story-14678-local-009",
+    "pln-story-14678-local-010",
+    "pln-story-14678-local-011",
+    "pln-story-14678-local-012",
+    "pln-story-14678-local-013",
+    "pln-story-14678-local-014",
+    "pln-story-14678-local-015",
+    "pln-story-14678-local-016",
+    "pln-story-14678-local-017",
+    "pln-story-14678-local-018",
+    "pln-story-14678-intl-001",
+    "pln-story-14678-intl-002",
+    "pln-story-14678-intl-003",
+    "pln-story-14678-intl-004",
+    "pln-story-14678-natl-001",
+    "pln-story-14678-natl-002",
+    "pln-story-14678-natl-003",
+    "pln-story-14678-natl-004",
+    "pln-story-14678-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 16,
+    "libraries_count": 22,
+    "countries_count": 5,
+    "top_categories": {
+      "cuts_and_finance": 9,
+      "closures_and_threats": 5,
+      "events_and_activities": 4,
+      "opening_hours": 3,
+      "governance_and_trusts": 2,
+      "staffing_and_unions": 2,
+      "volunteers_and_community": 1,
+      "co_location": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "digital_and_technology": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

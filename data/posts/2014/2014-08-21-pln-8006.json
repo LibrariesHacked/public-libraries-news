@@ -1,0 +1,60 @@
+{
+  "id": "pln-post-8006",
+  "source_id": 8006,
+  "url": "https://www.publiclibrariesnews.com/2014/08/australia-wins-10-beatiful-oz-libraries-and-the-best-new-one-in-the-world.html",
+  "slug": "australia-wins-10-beatiful-oz-libraries-and-the-best-new-one-in-the-world",
+  "title": "Australia wins: 10 beautiful Oz Libraries and the best new one in the world",
+  "date_published": "2014-08-21T20:01:57",
+  "date_modified": "2014-08-25T18:52:07",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 14,
+  "story_ids": [
+    "pln-story-8006-changes-001",
+    "pln-story-8006-intl-001",
+    "pln-story-8006-intl-002",
+    "pln-story-8006-intl-003",
+    "pln-story-8006-intl-004",
+    "pln-story-8006-intl-005",
+    "pln-story-8006-intl-006",
+    "pln-story-8006-intl-007",
+    "pln-story-8006-intl-008",
+    "pln-story-8006-intl-009",
+    "pln-story-8006-intl-010",
+    "pln-story-8006-intl-011",
+    "pln-story-8006-natl-001",
+    "pln-story-8006-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 5,
+    "libraries_count": 3,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 4,
+      "digital_and_technology": 3,
+      "staffing_and_unions": 3,
+      "volunteers_and_community": 2,
+      "opening_hours": 2,
+      "refurbishment_and_new_builds": 1,
+      "cuts_and_finance": 1,
+      "campaigns_and_protests": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

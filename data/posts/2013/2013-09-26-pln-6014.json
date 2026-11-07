@@ -1,0 +1,68 @@
+{
+  "id": "pln-post-6014",
+  "source_id": 6014,
+  "url": "https://www.publiclibrariesnews.com/2013/09/when-there-are-less-libraries-less-librarians-and-less-money-to-spend-on-stock-you-cant-be-surprised-if-usage-drops.html",
+  "slug": "when-there-are-less-libraries-less-librarians-and-less-money-to-spend-on-stock-you-cant-be-surprised-if-usage-drops",
+  "title": "“When there are less libraries, less librarians and less money to spend on stock you can’t be surprised if usage drops”",
+  "date_published": "2013-09-26T22:30:07",
+  "date_modified": "2013-09-29T19:46:27",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A few articles on national trends today. We have the most recent Taking Part survey from the DCMS that shows that the proportion of the population using public libraries is continuing to fall (although not as fast as they have done in some years since 2005/6). Other articles may give reasons for this decline. The Express interviews Annie Mauger of CILIP who squarely places the blame on the cuts to library budgets. An unrelated Neilsen survey sees a decline in child’s reading as partly due to the rise of social networking and a lot to do with the rise of tablet PCs and apps. The real answer seems to be, of course, a bit of both, with the continuing and accelerating decline in funding to libraries working in tandem with the rise of competitive technologies like the internet, e-books and apps. There is also the point where cuts in funding mean that libraries, even if they wanted to, cannot keep up with digital change. Simply because they cannot often afford it. Between a rock and a hard place, in other words.",
+    "html": "<p style=\"text-align: justify;\"><strong></strong>A few articles on national trends today. We have the most recent T<a title=\"Gov.uk\" href=\"https://www.gov.uk/government/publications/taking-part-201314-quarter-1-statistical-release\">aking Part survey from the DCMS</a> that shows that the proportion of the population using public libraries is continuing to fall (although not as fast as they have done in some years since 2005/6). Other articles may give reasons for this decline. <a title=\"Express\" href=\"http://www.express.co.uk/news/uk/432412/Death-of-the-library-Shock-fall-in-users-as-government-cuts-bite\">The Express interviews Annie Mauger of CILIP</a> who squarely places the blame on the cuts to library budgets. <a title=\"Guardian\" href=\"http://www.theguardian.com/technology/appsblog/2013/sep/26/children-reading-less-apps-games\">An unrelated Neilsen survey </a>sees a decline in child&#8217;s reading as partly due to the rise of social networking and a lot to do with the rise of tablet PCs and apps. The real answer seems to be, of course, a bit of both, with the continuing and accelerating decline in funding to libraries working in tandem with the rise of competitive technologies like the internet, e-books and apps. There is also the point where cuts in funding mean that libraries, even if they wanted to, cannot keep up with digital change. Simply because they cannot often afford it. Between a rock and a hard place, in other words.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-6014-changes-001",
+    "pln-story-6014-changes-002",
+    "pln-story-6014-changes-003",
+    "pln-story-6014-changes-004",
+    "pln-story-6014-changes-005",
+    "pln-story-6014-changes-006",
+    "pln-story-6014-changes-007",
+    "pln-story-6014-changes-008",
+    "pln-story-6014-changes-009",
+    "pln-story-6014-changes-010",
+    "pln-story-6014-local-001",
+    "pln-story-6014-local-002",
+    "pln-story-6014-local-003",
+    "pln-story-6014-local-004",
+    "pln-story-6014-local-005",
+    "pln-story-6014-local-006",
+    "pln-story-6014-local-007",
+    "pln-story-6014-local-008",
+    "pln-story-6014-local-009",
+    "pln-story-6014-local-010",
+    "pln-story-6014-local-011",
+    "pln-story-6014-local-012",
+    "pln-story-6014-local-013",
+    "pln-story-6014-local-014"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 12,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 7,
+      "campaigns_and_protests": 7,
+      "digital_and_technology": 4,
+      "cuts_and_finance": 3,
+      "volunteers_and_community": 3,
+      "staffing_and_unions": 2,
+      "book_bans_and_challenges": 2,
+      "co_location": 2
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

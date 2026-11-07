@@ -1,0 +1,43 @@
+{
+  "id": "pln-post-569",
+  "source_id": 569,
+  "url": "https://www.publiclibrariesnews.com/2011/04/over-500-again-cumbria-threaten-23-libraries-bucks-18-hull-3.html",
+  "slug": "over-500-again-cumbria-threaten-23-libraries-bucks-18-hull-3",
+  "title": "Over 500 again – Cumbria threaten 23 libraries, Bucks 18, Hull 3",
+  "date_published": "2011-04-11T22:12:00",
+  "date_modified": "2011-04-11T22:12:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "507 libraries (436 buildings and 71 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4517 in the UK (see the complete tally on the link on the right)",
+    "html": "<b>507 </b><b>libraries (436 buildings and 71 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4517 in the UK (see the complete tally on the link on the right)</b></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial"
+  ],
+  "stories_count": 3,
+  "story_ids": [
+    "pln-story-569-changes-001",
+    "pln-story-569-changes-002",
+    "pln-story-569-changes-003"
+  ],
+  "stats": {
+    "authorities_count": 2,
+    "libraries_count": 2,
+    "countries_count": 1,
+    "top_categories": {
+      "cuts_and_finance": 2,
+      "closures_and_threats": 1,
+      "staffing_and_unions": 1,
+      "volunteers_and_community": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

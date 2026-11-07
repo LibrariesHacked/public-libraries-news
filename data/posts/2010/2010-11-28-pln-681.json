@@ -1,0 +1,32 @@
+{
+  "id": "pln-post-681",
+  "source_id": 681,
+  "url": "https://www.publiclibrariesnews.com/2010/11/681.html",
+  "slug": "681",
+  "title": "",
+  "date_published": "2010-11-28T07:15:00",
+  "date_modified": "2010-11-28T07:15:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Edinburgh – new library to be built – Edinburgh Outlook",
+    "html": "<p><a href=\"http://www.edinburghoutlook.co.uk/2010-04/yourarea/east/3101.aspx\">Edinburgh &#8211; new library to be built</a> &#8211; Edinburgh Outlook</p>"
+  },
+  "sections_found": [
+    "editorial"
+  ],
+  "stories_count": 0,
+  "story_ids": [],
+  "stats": {
+    "authorities_count": 0,
+    "libraries_count": 0,
+    "countries_count": 0,
+    "top_categories": {}
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

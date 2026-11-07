@@ -1,0 +1,71 @@
+{
+  "id": "pln-post-7568",
+  "source_id": 7568,
+  "url": "https://www.publiclibrariesnews.com/2014/05/three-changes-to-public-libraries-due-to-the-local-elections.html",
+  "slug": "three-changes-to-public-libraries-due-to-the-local-elections",
+  "title": "Three changes to public libraries due to the local elections",
+  "date_published": "2014-05-26T23:31:09",
+  "date_modified": "2014-05-27T19:40:39",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Right, let’s talk about the local elections and not mention a certain anti-EU party. What the media has not talked about, strangely, is what the results mean for libraries. Well, let’s remedy that odd omission. The three key things here: Hammersmith and Fulham is now Labour controlled. This will place strain on the Tri-Borough council which, originally, consisted of three Conservative councils (with Kensington & Chelsea and Westminster being the other two). Whether such a cross-council partnership will survive different party allegiances will be closely watched. Croydon is now Labour controlled. The Labour party beforehand promised to reverse the decision to outsource its libraries to a private company (Laing and then Carillion). It’ll be interesting to see if it tries to do so and what problems it will raise. The Local Government Association (LGA) now has Labour as its largest grouping. One can expect them to be more vociferous against cuts to services because of this … but by how much and to what effect remains to be seen. By the way, the 31st July of this year will be fiftieth anniversary of the Public Libraries and Museums Act which made public libraries statutory. This completely passed me by. Is anyone doing anything for this day? Do let me know. Please email any thoughts, news or comments to ianlibrarian@live.co.uk",
+    "html": "<p style=\"text-align: justify;\">Right, let&#8217;s talk about the local elections and not mention a certain anti-EU party. What the media has not talked about, strangely, is what the results mean for libraries. Well, let&#8217;s remedy that odd omission. The three key things here:</p> <li>Hammersmith and Fulham is now Labour controlled. This will place strain on the Tri-Borough council which, originally, consisted of three <em>Conservative </em>councils (with Kensington &amp; Chelsea and Westminster being the other two). Whether such a cross-council partnership will survive different party allegiances will be closely watched.</li> <li>Croydon is now Labour controlled. The Labour party beforehand promised to reverse the decision to outsource its libraries to a private company (Laing and then Carillion). It&#8217;ll be interesting to see if it tries to do so and what problems it will raise.</li> <li>The Local Government Association (LGA) now has Labour as its largest grouping. One can expect them to be more vociferous against cuts to services because of this &#8230; but by how much and to what effect remains to be seen.</li> <p style=\"text-align: justify;\">By the way, the 31st July of this year will be fiftieth anniversary of the Public Libraries and Museums Act which made public libraries statutory. This completely passed me by. Is anyone doing anything for this day? Do let me know.</p> <p style=\"text-align: justify;\"><em>Please email any thoughts, news or comments to ianlibrarian@live.co.uk</em></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 23,
+  "story_ids": [
+    "pln-story-7568-changes-001",
+    "pln-story-7568-intl-001",
+    "pln-story-7568-intl-002",
+    "pln-story-7568-intl-003",
+    "pln-story-7568-intl-004",
+    "pln-story-7568-intl-005",
+    "pln-story-7568-intl-006",
+    "pln-story-7568-intl-007",
+    "pln-story-7568-intl-008",
+    "pln-story-7568-intl-009",
+    "pln-story-7568-intl-010",
+    "pln-story-7568-intl-011",
+    "pln-story-7568-intl-012",
+    "pln-story-7568-intl-013",
+    "pln-story-7568-intl-014",
+    "pln-story-7568-intl-015",
+    "pln-story-7568-natl-001",
+    "pln-story-7568-natl-002",
+    "pln-story-7568-ideas-001",
+    "pln-story-7568-ideas-002",
+    "pln-story-7568-ideas-003",
+    "pln-story-7568-ideas-004",
+    "pln-story-7568-ideas-005"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 2,
+    "countries_count": 6,
+    "top_categories": {
+      "staffing_and_unions": 6,
+      "cuts_and_finance": 4,
+      "campaigns_and_protests": 4,
+      "closures_and_threats": 4,
+      "digital_and_technology": 4,
+      "events_and_activities": 2,
+      "book_bans_and_challenges": 1,
+      "governance_and_trusts": 1,
+      "volunteers_and_community": 1,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "pln-post-6673",
+  "source_id": 6673,
+  "url": "https://www.publiclibrariesnews.com/2013/12/changes-in-branch-numbers-20078-to-201213.html",
+  "slug": "changes-in-branch-numbers-20078-to-201213",
+  "title": "Changes in branch numbers 2007/8 to 2012/13",
+  "date_published": "2013-12-27T22:48:49",
+  "date_modified": "2014-01-06T23:01:13",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The following, taken from the Cipfa figures (based on returns from local authorities: they’re not independently audited) was put on Lis-pub-libs by Lionel Aldridge. It is reproduced with his kind permission here.",
+    "html": "<p>The following, taken from the Cipfa figures (based on returns from local authorities: they&#8217;re not independently audited) was put on Lis-pub-libs by Lionel Aldridge. It is reproduced with his kind permission here. </p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 27,
+  "story_ids": [
+    "pln-story-6673-changes-001",
+    "pln-story-6673-changes-002",
+    "pln-story-6673-changes-003",
+    "pln-story-6673-intl-001",
+    "pln-story-6673-intl-002",
+    "pln-story-6673-intl-003",
+    "pln-story-6673-intl-004",
+    "pln-story-6673-intl-005",
+    "pln-story-6673-intl-006",
+    "pln-story-6673-intl-007",
+    "pln-story-6673-intl-008",
+    "pln-story-6673-intl-009",
+    "pln-story-6673-intl-010",
+    "pln-story-6673-intl-011",
+    "pln-story-6673-intl-012",
+    "pln-story-6673-intl-013",
+    "pln-story-6673-intl-014",
+    "pln-story-6673-intl-015",
+    "pln-story-6673-intl-016",
+    "pln-story-6673-intl-017",
+    "pln-story-6673-intl-018",
+    "pln-story-6673-intl-019",
+    "pln-story-6673-intl-020",
+    "pln-story-6673-intl-021",
+    "pln-story-6673-intl-022",
+    "pln-story-6673-natl-001",
+    "pln-story-6673-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 10,
+    "countries_count": 4,
+    "top_categories": {
+      "cuts_and_finance": 6,
+      "closures_and_threats": 4,
+      "digital_and_technology": 3,
+      "mobile_and_outreach": 1,
+      "staffing_and_unions": 1,
+      "refurbishment_and_new_builds": 1,
+      "volunteers_and_community": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

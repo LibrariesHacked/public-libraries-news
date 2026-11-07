@@ -1,0 +1,64 @@
+{
+  "id": "pln-post-302",
+  "source_id": 302,
+  "url": "https://www.publiclibrariesnews.com/2012/02/brave-new-world.html",
+  "slug": "brave-new-world",
+  "title": "Brave New World",
+  "date_published": "2012-02-18T14:04:00",
+  "date_modified": "2012-02-18T14:04:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "396 libraries (307 buildings and 89 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4612 in the UK, complete list below. Librarian professional body CILIP forecasts 600 libraries under threat (inc. 20% of English libraries). The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day. This post brings Public Libraries News back up to date with all of the known media mentions of public libraries this week. It includes some news from both before and after yesterdays posting “Bit by Bit“. All of the other pages have now also up to date. There were no postings from Monday to Thursday due to myself and the family going on holiday. Ian A. Actions",
+    "html": "<b>396 libraries (307 buildings and 89 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.<a href=\"http://www.cilip.org.uk/get-involved/advocacy/public-libraries/Documents/Public_libraries_briefing_CILIP_March2011.pdf\">4612</a> in the UK, complete list below</b><b>. Librarian professional body CILIP forecasts 600 libraries under threat (inc. 20% of English libraries). </b>The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day.<b> </b></p> <p><b><i>This post brings Public Libraries News back up to date with all of the known media mentions of public libraries this week. It includes some news from both before and after yesterdays posting &#8220;<a href=\"https://www.publiclibrariesnews.com/2012/02/bit-by-bit.html\">Bit by Bit</a>&#8220;. All of the other pages have now also up to date. There were no postings from Monday to Thursday due to myself and the family going on holiday. Ian A.</i> </b></p> <p><b>Actions</b></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 17,
+  "story_ids": [
+    "pln-story-302-changes-001",
+    "pln-story-302-local-001",
+    "pln-story-302-local-002",
+    "pln-story-302-local-003",
+    "pln-story-302-local-004",
+    "pln-story-302-local-005",
+    "pln-story-302-local-006",
+    "pln-story-302-local-007",
+    "pln-story-302-local-008",
+    "pln-story-302-local-009",
+    "pln-story-302-local-010",
+    "pln-story-302-local-011",
+    "pln-story-302-natl-001",
+    "pln-story-302-natl-002",
+    "pln-story-302-natl-003",
+    "pln-story-302-natl-004",
+    "pln-story-302-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 10,
+    "libraries_count": 5,
+    "countries_count": 1,
+    "top_categories": {
+      "closures_and_threats": 4,
+      "campaigns_and_protests": 4,
+      "cuts_and_finance": 3,
+      "volunteers_and_community": 3,
+      "mobile_and_outreach": 1,
+      "refurbishment_and_new_builds": 1,
+      "events_and_activities": 1,
+      "governance_and_trusts": 1,
+      "staffing_and_unions": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

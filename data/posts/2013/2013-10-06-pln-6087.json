@@ -1,0 +1,76 @@
+{
+  "id": "pln-post-6087",
+  "source_id": 6087,
+  "url": "https://www.publiclibrariesnews.com/2013/10/libraries-of-the-rich-and-famous-of-the-poor-and-unknown-and-everyone-inbetween.html",
+  "slug": "libraries-of-the-rich-and-famous-of-the-poor-and-unknown-and-everyone-inbetween",
+  "title": "Libraries of the rich and famous, of the poor and unknown and everyone inbetween",
+  "date_published": "2013-10-06T21:03:14",
+  "date_modified": "2013-10-07T21:46:46",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 30,
+  "story_ids": [
+    "pln-story-6087-changes-001",
+    "pln-story-6087-changes-002",
+    "pln-story-6087-changes-003",
+    "pln-story-6087-changes-004",
+    "pln-story-6087-changes-005",
+    "pln-story-6087-changes-006",
+    "pln-story-6087-changes-007",
+    "pln-story-6087-changes-008",
+    "pln-story-6087-intl-001",
+    "pln-story-6087-intl-002",
+    "pln-story-6087-intl-003",
+    "pln-story-6087-intl-004",
+    "pln-story-6087-intl-005",
+    "pln-story-6087-intl-006",
+    "pln-story-6087-intl-007",
+    "pln-story-6087-intl-008",
+    "pln-story-6087-intl-009",
+    "pln-story-6087-intl-010",
+    "pln-story-6087-intl-011",
+    "pln-story-6087-intl-012",
+    "pln-story-6087-intl-013",
+    "pln-story-6087-intl-014",
+    "pln-story-6087-intl-015",
+    "pln-story-6087-intl-016",
+    "pln-story-6087-intl-017",
+    "pln-story-6087-intl-018",
+    "pln-story-6087-intl-019",
+    "pln-story-6087-intl-020",
+    "pln-story-6087-intl-021",
+    "pln-story-6087-intl-022"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 3,
+    "countries_count": 3,
+    "top_categories": {
+      "staffing_and_unions": 6,
+      "cuts_and_finance": 6,
+      "digital_and_technology": 4,
+      "events_and_activities": 4,
+      "governance_and_trusts": 3,
+      "campaigns_and_protests": 2,
+      "closures_and_threats": 2,
+      "book_bans_and_challenges": 1,
+      "opening_hours": 1,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

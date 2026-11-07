@@ -1,0 +1,74 @@
+{
+  "id": "pln-post-7219",
+  "source_id": 7219,
+  "url": "https://www.publiclibrariesnews.com/2014/03/read-without-prejudice-refurbished-libraries-ace-and-reader-development.html",
+  "slug": "read-without-prejudice-refurbished-libraries-ace-and-reader-development",
+  "title": "Read without prejudice: refurbished libraries, ACE and reader development",
+  "date_published": "2014-03-26T22:42:38",
+  "date_modified": "2014-04-06T18:35:34",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A fair bit of good news today, with refurbished libraries opening in Carmarthenshire, Hillingdon and Lambeth. There’s also some good ideas from across the Atlantic and, footballers promoting books. To cap it all, Arts Council England have come out with a response to the Sieghart Inquiry into public libraries which makes a fair bit of sense in parts. I also love a great article by Mobeena Khan on the importance of reader development in libraries.",
+    "html": "<p style=\"text-align: justify;\">A fair bit of good news today, with refurbished libraries opening in Carmarthenshire, Hillingdon and Lambeth. There&#8217;s also some good ideas from across the Atlantic and, footballers promoting books. To cap it all, Arts Council England have come out with a response to the Sieghart Inquiry into public libraries which makes a fair bit of sense in parts. I also love a great article by Mobeena Khan on the importance of reader development in libraries.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 26,
+  "story_ids": [
+    "pln-story-7219-changes-001",
+    "pln-story-7219-changes-002",
+    "pln-story-7219-intl-001",
+    "pln-story-7219-intl-002",
+    "pln-story-7219-intl-003",
+    "pln-story-7219-intl-004",
+    "pln-story-7219-intl-005",
+    "pln-story-7219-intl-006",
+    "pln-story-7219-intl-007",
+    "pln-story-7219-intl-008",
+    "pln-story-7219-intl-009",
+    "pln-story-7219-intl-010",
+    "pln-story-7219-intl-011",
+    "pln-story-7219-intl-012",
+    "pln-story-7219-intl-013",
+    "pln-story-7219-intl-014",
+    "pln-story-7219-natl-001",
+    "pln-story-7219-natl-002",
+    "pln-story-7219-natl-003",
+    "pln-story-7219-natl-004",
+    "pln-story-7219-natl-005",
+    "pln-story-7219-natl-006",
+    "pln-story-7219-natl-007",
+    "pln-story-7219-ideas-001",
+    "pln-story-7219-ideas-002",
+    "pln-story-7219-ideas-003"
+  ],
+  "stats": {
+    "authorities_count": 11,
+    "libraries_count": 5,
+    "countries_count": 4,
+    "top_categories": {
+      "digital_and_technology": 9,
+      "cuts_and_finance": 7,
+      "refurbishment_and_new_builds": 6,
+      "events_and_activities": 6,
+      "campaigns_and_protests": 6,
+      "closures_and_threats": 5,
+      "opening_hours": 2,
+      "volunteers_and_community": 2,
+      "staffing_and_unions": 2,
+      "governance_and_trusts": 2
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

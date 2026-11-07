@@ -1,0 +1,48 @@
+{
+  "id": "pln-post-5784",
+  "source_id": 5784,
+  "url": "https://www.publiclibrariesnews.com/2013/08/national-libraries-day-theres-no-excuse-not-to-celebrate-it.html",
+  "slug": "national-libraries-day-theres-no-excuse-not-to-celebrate-it",
+  "title": "National Libraries Day: there’s no excuse not to celebrate it",
+  "date_published": "2013-08-05T21:45:32",
+  "date_modified": "2013-08-07T21:17:02",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The date of the next National Libraries Day has been confirmed as Saturday 8th Feburary. It is to be the culmination of a week of celebration and events for all types of library. Starting out less than three years ago as a spontaneous day protesting against library closures (with all credit for this going to Alan Gibbons), the event has matured at blinding speed into something which all aspects of the library sector should be able and willing to support. So, if you have not done so already, get planning something special to help show the nation what excellent services libraries provide.",
+    "html": "<p style=\"text-align: justify;\"><strong></strong>The date of the next National Libraries Day has been confirmed as Saturday 8th Feburary. It is to be the culmination of a week of celebration and events for all types of library. <a title=\"BookSeller\" href=\"http://www.thebookseller.com/news/gibbons-proposes-national-libraries-day.html\">Starting out less than three years ago as a spontaneous day protesting against library closures (with all credit for this going to Alan Gibbons)</a>, the event has matured at blinding speed into something which all aspects of the library sector should be able and willing to support. So, if you have not done so already, get planning something special to help show the <em>nation</em> what excellent services libraries provide.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 8,
+  "story_ids": [
+    "pln-story-5784-changes-001",
+    "pln-story-5784-local-001",
+    "pln-story-5784-local-002",
+    "pln-story-5784-local-003",
+    "pln-story-5784-natl-001",
+    "pln-story-5784-natl-002",
+    "pln-story-5784-natl-003",
+    "pln-story-5784-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 3,
+    "libraries_count": 1,
+    "countries_count": 2,
+    "top_categories": {
+      "refurbishment_and_new_builds": 2,
+      "digital_and_technology": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "id": "pln-post-9881",
+  "source_id": 9881,
+  "url": "https://www.publiclibrariesnews.com/2015/10/oxfordshire-cornwall-and-my-goodness-its-the-library-of-birmingham-again.html",
+  "slug": "oxfordshire-cornwall-and-my-goodness-its-the-library-of-birmingham-again",
+  "title": "Oxfordshire, Cornwall and, my goodness, it’s the Library of Birmingham again",
+  "date_published": "2015-10-20T21:57:22",
+  "date_modified": "2015-10-22T21:45:22",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Oxfordshire has announced cuts of £1m per year to its libraries, with customer service staff being placed in libraries. Meanwhile, in Cornwall, the council is aiming to pass as many of its libraries to the control of parish/town councils as possible, with other options in reserve if that doesn’t work. The saga in Birmingham continues with more money being spent on the new highly expensive Library of Birmingham in order to replace public space with class rooms for a language school. This is intended to raise enough funds and staffing to allow the building, which greatly reduced opening hours barely a year after opening, to be open a bit more commensurate with its size and cost. Also included today is more details on one of the winners of the CILIP PMLG Library Champions Awards: John sounds like a bit of a gem and Essex Libraries are rightly proud of him.",
+    "html": "<p style=\"text-align: justify;\">Oxfordshire has announced cuts of £1m per year to its libraries, with customer service staff being placed in libraries. Meanwhile, in Cornwall, the council is aiming to pass as many of its libraries to the control of parish/town councils as possible, with other options in reserve if that doesn&#8217;t work. The saga in Birmingham continues with more money being spent on the new highly expensive Library of Birmingham in order to replace public space with class rooms for a language school. This is intended to raise enough funds and staffing to allow the building, which greatly reduced opening hours barely a year after opening, to be open a bit more commensurate with its size and cost.</p> <p style=\"text-align: justify;\">Also included today is more details on one of the winners of the CILIP PMLG Library Champions Awards: John sounds like a bit of a gem and Essex Libraries are rightly proud of him.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 29,
+  "story_ids": [
+    "pln-story-9881-changes-001",
+    "pln-story-9881-changes-002",
+    "pln-story-9881-changes-003",
+    "pln-story-9881-changes-004",
+    "pln-story-9881-changes-005",
+    "pln-story-9881-changes-006",
+    "pln-story-9881-changes-007",
+    "pln-story-9881-local-001",
+    "pln-story-9881-local-002",
+    "pln-story-9881-local-003",
+    "pln-story-9881-local-004",
+    "pln-story-9881-local-005",
+    "pln-story-9881-local-006",
+    "pln-story-9881-local-007",
+    "pln-story-9881-local-008",
+    "pln-story-9881-local-009",
+    "pln-story-9881-local-010",
+    "pln-story-9881-local-011",
+    "pln-story-9881-local-012",
+    "pln-story-9881-intl-001",
+    "pln-story-9881-intl-002",
+    "pln-story-9881-intl-003",
+    "pln-story-9881-intl-004",
+    "pln-story-9881-natl-001",
+    "pln-story-9881-natl-002",
+    "pln-story-9881-natl-003",
+    "pln-story-9881-natl-004",
+    "pln-story-9881-natl-005",
+    "pln-story-9881-natl-006"
+  ],
+  "stats": {
+    "authorities_count": 11,
+    "libraries_count": 7,
+    "countries_count": 5,
+    "top_categories": {
+      "cuts_and_finance": 12,
+      "volunteers_and_community": 5,
+      "mobile_and_outreach": 5,
+      "staffing_and_unions": 4,
+      "closures_and_threats": 4,
+      "opening_hours": 2,
+      "book_bans_and_challenges": 2,
+      "campaigns_and_protests": 2,
+      "digital_and_technology": 2,
+      "refurbishment_and_new_builds": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,65 @@
+{
+  "id": "pln-post-8211",
+  "source_id": 8211,
+  "url": "https://www.publiclibrariesnews.com/2014/10/an-idea-for-free-how-libraries-can-be-a-vital-radar-for-other-council-services.html",
+  "slug": "an-idea-for-free-how-libraries-can-be-a-vital-radar-for-other-council-services",
+  "title": "An idea for free: how libraries can be a vital radar for other council services",
+  "date_published": "2014-10-02T21:36:49",
+  "date_modified": "2014-10-05T20:50:36",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "So here’s an idea I came up with recently that you can have for free: public libraries are often the first council service to know about an influx of a new ethnic group. Why? Because the first thing a newcomer does is join the library in order to use the internet … and if they don’t need other council services then they will otherwise invisibly appear (can you invisibly appear? you know what I mean) in an area and the council is none the wiser. Even more nicely, many library services automatically collect data on what is the main language of a new joiner so you can see, almost in real time, what new minorities are coming in, into which libraries and over what time period. This can be passed on (anonymised obviously) to the rest of the council so they get to know what’s happening and can tailor their services accordingly. Even even more nicely, the council could then put leaflets in the relevant language by the public access computers, giving the new users a chance to engage if they need to and jolly well go around their own business otherwise. This gives the council a chance to engage and the newcomers a chance to engage or not with everyone’s dignity still intact and the group as empowered as is possible to be. This is just one of the many ways that libraries can make themselves useful to the council and show their value to the decision-makers. I’m sure there are tons of others. Try to think of one today.",
+    "html": "<p style=\"text-align: justify;\">So here&#8217;s an idea I came up with recently that you can have for free: public libraries are often the first council service to know about an influx of a new ethnic group. Why? Because the first thing a newcomer does is join the library in order to use the internet &#8230; and if they don&#8217;t need other council services then they will otherwise invisibly appear (can you invisibly appear? you know what I mean) in an area and the council is none the wiser. Even more nicely, many library services automatically collect data on what is the main language of a new joiner so you can see, almost in real time, what new minorities are coming in, into which libraries and over what time period. This can be passed on (anonymised obviously) to the rest of the council so they get to know what&#8217;s happening and can tailor their services accordingly. Even even more nicely, the council could then put leaflets <em>in the relevant language</em> by the public access computers, giving the new users a chance to engage if they need to and jolly well go around their own business otherwise. This gives the council a chance to engage and the newcomers a chance to engage or not with everyone&#8217;s dignity still intact and the group as empowered as is possible to be. This is just one of the many ways that libraries can make themselves useful to the council and show their value to the decision-makers. I&#8217;m sure there are tons of others. Try to think of one today.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "national_news"
+  ],
+  "stories_count": 18,
+  "story_ids": [
+    "pln-story-8211-changes-001",
+    "pln-story-8211-natl-001",
+    "pln-story-8211-natl-002",
+    "pln-story-8211-natl-003",
+    "pln-story-8211-natl-004",
+    "pln-story-8211-natl-005",
+    "pln-story-8211-natl-006",
+    "pln-story-8211-natl-007",
+    "pln-story-8211-natl-008",
+    "pln-story-8211-natl-009",
+    "pln-story-8211-natl-010",
+    "pln-story-8211-natl-011",
+    "pln-story-8211-natl-012",
+    "pln-story-8211-natl-013",
+    "pln-story-8211-natl-014",
+    "pln-story-8211-natl-015",
+    "pln-story-8211-natl-016",
+    "pln-story-8211-natl-017"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 9,
+    "countries_count": 3,
+    "top_categories": {
+      "cuts_and_finance": 8,
+      "campaigns_and_protests": 5,
+      "closures_and_threats": 4,
+      "events_and_activities": 3,
+      "volunteers_and_community": 2,
+      "book_bans_and_challenges": 1,
+      "co_location": 1,
+      "mobile_and_outreach": 1,
+      "governance_and_trusts": 1,
+      "staffing_and_unions": 1,
+      "opening_hours": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

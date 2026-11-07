@@ -1,0 +1,32 @@
+{
+  "id": "pln-post-447",
+  "source_id": 447,
+  "url": "https://www.publiclibrariesnews.com/2011/09/447.html",
+  "slug": "447",
+  "title": "",
+  "date_published": "2011-09-09T19:12:00",
+  "date_modified": "2011-09-09T19:12:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "editorial"
+  ],
+  "stories_count": 0,
+  "story_ids": [],
+  "stats": {
+    "authorities_count": 0,
+    "libraries_count": 0,
+    "countries_count": 0,
+    "top_categories": {}
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

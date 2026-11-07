@@ -1,0 +1,73 @@
+{
+  "id": "pln-post-18177",
+  "source_id": 18177,
+  "url": "https://www.publiclibrariesnews.com/2021/08/august-is-here.html",
+  "slug": "august-is-here",
+  "title": "August is here",
+  "date_published": "2021-08-08T15:30:23",
+  "date_modified": "2021-08-08T15:30:28",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A quiet week, as one would expect from August. Enjoy your holidays, those of you who have them … and for the rest, here’s to a good Summer Reading Challenge and a return, however hesitant, to normality.",
+    "html": "<p class=\"wp-block-paragraph\">A quiet week, as one would expect from August. Enjoy your holidays, those of you who have them &#8230; and for the rest, here&#8217;s to a good Summer Reading Challenge and a return, however hesitant, to normality.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-18177-changes-001",
+    "pln-story-18177-local-001",
+    "pln-story-18177-local-002",
+    "pln-story-18177-local-003",
+    "pln-story-18177-local-004",
+    "pln-story-18177-local-005",
+    "pln-story-18177-local-006",
+    "pln-story-18177-local-007",
+    "pln-story-18177-local-008",
+    "pln-story-18177-local-009",
+    "pln-story-18177-local-010",
+    "pln-story-18177-local-011",
+    "pln-story-18177-local-012",
+    "pln-story-18177-local-013",
+    "pln-story-18177-local-014",
+    "pln-story-18177-local-015",
+    "pln-story-18177-local-016",
+    "pln-story-18177-local-017",
+    "pln-story-18177-intl-001",
+    "pln-story-18177-natl-001",
+    "pln-story-18177-natl-002",
+    "pln-story-18177-natl-003",
+    "pln-story-18177-natl-004",
+    "pln-story-18177-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 17,
+    "libraries_count": 16,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 4,
+      "co_location": 2,
+      "refurbishment_and_new_builds": 2,
+      "events_and_activities": 2,
+      "cuts_and_finance": 2,
+      "digital_and_technology": 2,
+      "opening_hours": 1,
+      "campaigns_and_protests": 1,
+      "staffing_and_unions": 1,
+      "governance_and_trusts": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

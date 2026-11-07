@@ -1,0 +1,63 @@
+{
+  "id": "pln-post-191",
+  "source_id": 191,
+  "url": "https://www.publiclibrariesnews.com/2012/07/wakefield-up-to-12-branches-may-go-2-possible-moves-elsewhere.html",
+  "slug": "wakefield-up-to-12-branches-may-go-2-possible-moves-elsewhere",
+  "title": "Wakefield up to 12 branches may go, 2 possible moves elsewhere",
+  "date_published": "2012-07-19T22:23:00",
+  "date_modified": "2012-07-29T11:55:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "News Calls to “move libraries into 21st century” sparks ebook lending review – Guardian. ” a Department for Culture, Media and Sport (DCMS) spokesman has said the culture minister, Ed Vaizey, will soon announce an independent review into ebook lending.” If Dan Jarvis believes the DCMS is not competent to handle public libraries why is he asking them to conduct a review on ebook lending? – Good Library Blog. Labour Party does not have a good record in Brent etc so Mr Jarvis should sort out his own backyard first. New chapter for Beijing’s libraries – China Daily (via finding heroes). “Self-service libraries are becoming increasingly popular with Beijing residents, with 50 having sprung up across the city over the past year and 100 more are expected to open in the coming months. The 24-hour service allows readers to choose from 20,000 books housed in giant automatic machines scattered across the capital.” Amazing picture of the largest vending machine I have ever seen. Public Lending Right inquiry was rigged from the start – Guardian. “What’s possibly even worse is that the betrayal of trust, the transfer of the Stockton office beneath the umbrella of the British Library, will make no obvious savings, and tinkers with a cost-effective and highly efficient system for the remuneration of writers, translators, illustrators and photographers.”",
+    "html": "<strong>News</strong></p> <ul style=\"text-align: justify;\"> <li><a href=\"http://www.guardian.co.uk/books/2012/jul/19/libraries-ebook-lending-review\"><strong>Calls to &#8220;move libraries into 21st century&#8221; sparks ebook lending review</strong></a> &#8211; Guardian. &#8221; a Department for Culture, Media and Sport (DCMS) spokesman has said the culture minister, Ed Vaizey, will soon announce an independent review into ebook lending.&#8221;</li> <li><strong><a href=\"http://www.goodlibraryguide.com/blog/archives/2012/07/if_dan_jarvis_b.html\">If Dan Jarvis believes the DCMS is not competent to handle public libraries why is he asking them to conduct a review on ebook lending?</a> </strong>&#8211; Good Library Blog. Labour Party does not have a good record in Brent etc so Mr Jarvis should sort out his own backyard first.<!--more--></li> <li><strong><a href=\"http://europe.chinadaily.com.cn/china/2012-07/17/content_15587981.htm\">New chapter for Beijing&#8217;s libraries</a> </strong>&#8211; China Daily (<a href=\"http://findingheroes.co.nz/\"><em>via finding heroes</em></a>). &#8220;Self-service libraries are becoming increasingly popular with Beijing residents, with 50 having sprung up across the city over the past year and 100 more are expected to open in the coming months. The 24-hour service allows readers to choose from 20,000 books housed in giant automatic machines scattered across the capital.&#8221; <em>Amazing picture of the largest vending machine I have ever seen.</em></li> <li><strong><a href=\"http://www.guardian.co.uk/books/2012/jul/19/public-lending-right-inquiry-rigged\">Public Lending Right inquiry was rigged from the start</a> </strong>&#8211; Guardian. <em> </em>&#8220;What&#8217;s possibly even worse is that the betrayal of trust, the transfer of the Stockton office beneath the umbrella of the <a title=\"More from guardian.co.uk on British Library\" href=\"http://www.guardian.co.uk/books/british-library\">British Library</a>, will make no obvious savings, and tinkers with a cost-effective and highly efficient system for the remuneration of writers, translators, illustrators and photographers.&#8221;</li>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 15,
+  "story_ids": [
+    "pln-story-191-changes-001",
+    "pln-story-191-changes-002",
+    "pln-story-191-changes-003",
+    "pln-story-191-local-001",
+    "pln-story-191-local-002",
+    "pln-story-191-local-003",
+    "pln-story-191-local-004",
+    "pln-story-191-local-005",
+    "pln-story-191-local-006",
+    "pln-story-191-local-007",
+    "pln-story-191-local-008",
+    "pln-story-191-local-009",
+    "pln-story-191-local-010",
+    "pln-story-191-local-011",
+    "pln-story-191-local-012"
+  ],
+  "stats": {
+    "authorities_count": 11,
+    "libraries_count": 26,
+    "countries_count": 2,
+    "top_categories": {
+      "cuts_and_finance": 7,
+      "closures_and_threats": 4,
+      "campaigns_and_protests": 4,
+      "refurbishment_and_new_builds": 3,
+      "volunteers_and_community": 3,
+      "co_location": 3,
+      "digital_and_technology": 3,
+      "staffing_and_unions": 2,
+      "book_bans_and_challenges": 1,
+      "events_and_activities": 1,
+      "mobile_and_outreach": 1,
+      "opening_hours": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

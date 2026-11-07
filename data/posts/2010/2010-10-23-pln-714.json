@@ -1,0 +1,32 @@
+{
+  "id": "pln-post-714",
+  "source_id": 714,
+  "url": "https://www.publiclibrariesnews.com/2010/10/23rd-october-2010-2.html",
+  "slug": "23rd-october-2010-2",
+  "title": "23rd October 2010",
+  "date_published": "2010-10-23T19:59:00",
+  "date_modified": "2010-10-23T19:59:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "editorial"
+  ],
+  "stories_count": 0,
+  "story_ids": [],
+  "stats": {
+    "authorities_count": 0,
+    "libraries_count": 0,
+    "countries_count": 0,
+    "top_categories": {}
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

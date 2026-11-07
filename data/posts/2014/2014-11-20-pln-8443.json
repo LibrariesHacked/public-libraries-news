@@ -1,0 +1,81 @@
+{
+  "id": "pln-post-8443",
+  "source_id": 8443,
+  "url": "https://www.publiclibrariesnews.com/2014/11/westminster-hall-debate-on-public-libraries.html",
+  "slug": "westminster-hall-debate-on-public-libraries",
+  "title": "Westminster Hall debate on public libraries",
+  "date_published": "2014-11-20T23:00:04",
+  "date_modified": "2014-11-23T22:01:49",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The first Westminster Hall debate for a few years (the last one being in January 2011) has taken place, with Labour and Conservatives attacking each other’s record on the subject. There was some interesting debate about the poor record of the Conservatives from the Labour Party and some accusations of Labour closing more libraries from the Conservatives. In reality, both parties are cutting spending on libraries: who it is doing it depends simply on who is in power and how much their budgets have been cut by the Coalition Government. It’s always amusing to see Ed Vaizey claiming that the situation with libraries is rosy and this time he excelled himself by even managing to claim responsibility for the new Liverpool and Birmingham libraries, both of which owe their revamps to decisions made before 2010. Ed asking “what can one do from the centre?” in one breath and then claiming to be a “pro-active campaigner”for libraries almost in the next was pushing it a tad though.",
+    "html": "<p style=\"text-align: justify;\">The first Westminster Hall debate for a few years (<a title=\"Westminster Hall debate 2011\" href=\"Parliament.uk\">the last one being in January 2011</a>) has taken place, with Labour and Conservatives attacking each other&#8217;s record on the subject. There was some interesting debate about the poor record of the Conservatives from the Labour Party and some accusations of Labour closing more libraries from the Conservatives. In reality, <em>both</em> parties are cutting spending on libraries: who it is doing it depends simply on who is in power and how much their budgets have been cut by the Coalition Government. It&#8217;s always amusing to see Ed Vaizey claiming that the situation with libraries is rosy and this time he excelled himself by even managing to claim responsibility for the new Liverpool and Birmingham libraries, both of which owe their revamps to decisions made before 2010. Ed asking &#8220;what can one do from the centre?&#8221; in one breath and then claiming to be a &#8220;pro-active campaigner&#8221;for libraries almost in the next was pushing it a tad though.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 30,
+  "story_ids": [
+    "pln-story-8443-changes-001",
+    "pln-story-8443-intl-001",
+    "pln-story-8443-intl-002",
+    "pln-story-8443-intl-003",
+    "pln-story-8443-intl-004",
+    "pln-story-8443-intl-005",
+    "pln-story-8443-intl-006",
+    "pln-story-8443-intl-007",
+    "pln-story-8443-intl-008",
+    "pln-story-8443-intl-009",
+    "pln-story-8443-intl-010",
+    "pln-story-8443-intl-011",
+    "pln-story-8443-intl-012",
+    "pln-story-8443-intl-013",
+    "pln-story-8443-intl-014",
+    "pln-story-8443-intl-015",
+    "pln-story-8443-intl-016",
+    "pln-story-8443-intl-017",
+    "pln-story-8443-intl-018",
+    "pln-story-8443-intl-019",
+    "pln-story-8443-intl-020",
+    "pln-story-8443-natl-001",
+    "pln-story-8443-natl-002",
+    "pln-story-8443-natl-003",
+    "pln-story-8443-natl-004",
+    "pln-story-8443-natl-005",
+    "pln-story-8443-natl-006",
+    "pln-story-8443-natl-007",
+    "pln-story-8443-natl-008",
+    "pln-story-8443-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 14,
+    "libraries_count": 10,
+    "countries_count": 6,
+    "top_categories": {
+      "cuts_and_finance": 7,
+      "volunteers_and_community": 7,
+      "staffing_and_unions": 6,
+      "closures_and_threats": 6,
+      "governance_and_trusts": 4,
+      "campaigns_and_protests": 4,
+      "opening_hours": 4,
+      "co_location": 3,
+      "events_and_activities": 2,
+      "book_bans_and_challenges": 2,
+      "digital_and_technology": 1,
+      "mobile_and_outreach": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

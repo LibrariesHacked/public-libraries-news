@@ -1,0 +1,65 @@
+{
+  "id": "pln-post-17826",
+  "source_id": 17826,
+  "url": "https://www.publiclibrariesnews.com/2021/02/disturbingly-normal.html",
+  "slug": "disturbingly-normal",
+  "title": "Disturbingly normal",
+  "date_published": "2021-02-21T19:25:44",
+  "date_modified": "2021-02-21T19:25:51",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "As I write this, it’s the day before we find out what is happening with possible (or not) reopening after the third lockdown. Let us hope the vaccines mean that this is the last one we are in. This weird shut world is starting to feel disturbingly normal. World Book Day looks interesting, as does the Future of Libraries webinar. There are some of the normal various interesting things and outright weirdness from the USA and a few initiatives from around our country, including a nice series of events from the ever-positive and busy Manchester library service.",
+    "html": "<p class=\"wp-block-paragraph\">As I write this, it&#8217;s the day before we find out what is happening with possible (or not) reopening after the third lockdown. Let us hope the vaccines mean that this is the last one we are in. This weird shut world is starting to feel disturbingly normal.</p> <p class=\"wp-block-paragraph\">World Book Day looks interesting, as does the Future of Libraries webinar. There are some of the normal various interesting things and outright weirdness from the USA and a few initiatives from around our country, including a nice series of events from the ever-positive and busy Manchester library service.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 21,
+  "story_ids": [
+    "pln-story-17826-local-001",
+    "pln-story-17826-local-002",
+    "pln-story-17826-local-003",
+    "pln-story-17826-local-004",
+    "pln-story-17826-local-005",
+    "pln-story-17826-local-006",
+    "pln-story-17826-local-007",
+    "pln-story-17826-local-008",
+    "pln-story-17826-local-009",
+    "pln-story-17826-local-010",
+    "pln-story-17826-local-011",
+    "pln-story-17826-local-012",
+    "pln-story-17826-local-013",
+    "pln-story-17826-local-014",
+    "pln-story-17826-local-015",
+    "pln-story-17826-intl-001",
+    "pln-story-17826-intl-002",
+    "pln-story-17826-intl-003",
+    "pln-story-17826-natl-001",
+    "pln-story-17826-natl-002",
+    "pln-story-17826-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 15,
+    "libraries_count": 14,
+    "countries_count": 5,
+    "top_categories": {
+      "cuts_and_finance": 3,
+      "campaigns_and_protests": 3,
+      "closures_and_threats": 2,
+      "refurbishment_and_new_builds": 2,
+      "governance_and_trusts": 1,
+      "staffing_and_unions": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "pln-post-11099",
+  "source_id": 11099,
+  "url": "https://www.publiclibrariesnews.com/2016/06/its-not-enough-to-just-be-aware-of-what-is-going-on-in-uk-libraries.html",
+  "slug": "its-not-enough-to-just-be-aware-of-what-is-going-on-in-uk-libraries",
+  "title": "It’s not enough to just be aware of what is going on in UK libraries",
+  "date_published": "2016-06-01T19:54:25",
+  "date_modified": "2016-06-05T21:00:47",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "There’s some great things going on in public libraries abroad: the drone that flies above a children’s library in Norway scanning RFID tags is getting a lot of publicity for example, but there’s a lot more besides. This post includes: the fantastic First 5 Forever campaign in Queensland which has really raised the profile and funding for libraries there; a superb library Instagram account (which itself includes lots of good ideas); getting fathers into libraries; a hilarious library promotional video and an example of a US library (why is it always US libraries? Don’t they have emergency services?) helping out in a crisis. I started off this blog six years ago to get an idea of what is going on nationally, and I think that has succeeded, but it’s equally as important to look at what is going on internationally, and to learn from it. I hope you do too. Not least because UK news is often somewhat depressing, of course – and we have consultations on library cuts announced in no less than three different councils this time – but we also have other trends. The pressure on parish and town councils to take over public libraries appears to be gathering apace. In addition, it’s notable that the two library-led trusts – Suffolk and York – tend to be reporting only good news. That may mean they’re brilliant or it may mean that they have excellent public relations, or both.",
+    "html": "<p style=\"text-align: justify;\">There&#8217;s some great things going on in public libraries abroad: <a href=\"http://theoslobook.no/2016/05/28/biblo-toyen/\">the drone that flies above a children&#8217;s library in Norway scanning RFID tags is getting a lot of publicity</a> for example, but there&#8217;s a lot more besides. This post includes: the fantastic First 5 Forever campaign in Queensland which has really raised the profile and funding for libraries there; a superb library Instagram account (which itself includes lots of good ideas); getting fathers into libraries; a hilarious library promotional video and an example of a US library (why is it always US libraries? Don&#8217;t they have emergency services?) helping out in a crisis. I started off this blog six years ago to get an idea of what is going on nationally, and I think that has succeeded, but it&#8217;s equally as important to look at what is going on internationally, and to learn from it. I hope you do too.</p> <p style=\"text-align: justify;\">Not least because UK news is often somewhat depressing, of course &#8211; and we have consultations on library cuts announced in no less than three different councils this time &#8211; but we also have other trends. The pressure on parish and town councils to take over public libraries appears to be gathering apace. In addition, it&#8217;s notable that the two library-led trusts &#8211; Suffolk and York &#8211; tend to be reporting only good news. That may mean they&#8217;re brilliant or it may mean that they have excellent public relations, or both.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 33,
+  "story_ids": [
+    "pln-story-11099-changes-001",
+    "pln-story-11099-changes-002",
+    "pln-story-11099-changes-003",
+    "pln-story-11099-changes-004",
+    "pln-story-11099-changes-005",
+    "pln-story-11099-changes-006",
+    "pln-story-11099-local-001",
+    "pln-story-11099-local-002",
+    "pln-story-11099-local-003",
+    "pln-story-11099-local-004",
+    "pln-story-11099-local-005",
+    "pln-story-11099-local-006",
+    "pln-story-11099-local-007",
+    "pln-story-11099-local-008",
+    "pln-story-11099-local-009",
+    "pln-story-11099-local-010",
+    "pln-story-11099-local-011",
+    "pln-story-11099-local-012",
+    "pln-story-11099-local-013",
+    "pln-story-11099-intl-001",
+    "pln-story-11099-intl-002",
+    "pln-story-11099-intl-003",
+    "pln-story-11099-intl-004",
+    "pln-story-11099-intl-005",
+    "pln-story-11099-intl-006",
+    "pln-story-11099-natl-001",
+    "pln-story-11099-natl-002",
+    "pln-story-11099-natl-003",
+    "pln-story-11099-natl-004",
+    "pln-story-11099-natl-005",
+    "pln-story-11099-natl-006",
+    "pln-story-11099-natl-007",
+    "pln-story-11099-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 15,
+    "countries_count": 4,
+    "top_categories": {
+      "cuts_and_finance": 11,
+      "staffing_and_unions": 7,
+      "closures_and_threats": 6,
+      "campaigns_and_protests": 5,
+      "events_and_activities": 4,
+      "book_bans_and_challenges": 2,
+      "opening_hours": 2,
+      "governance_and_trusts": 2,
+      "volunteers_and_community": 1,
+      "mobile_and_outreach": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

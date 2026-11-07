@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-18624",
+  "source_id": 18624,
+  "url": "https://www.publiclibrariesnews.com/2022/06/oho.html",
+  "slug": "oho",
+  "title": "Oho …",
+  "date_published": "2022-06-19T12:41:06",
+  "date_modified": "2022-06-19T12:41:14",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A truly scary newspaper article from the Guardian points out that without major Government funding, there’s going to be some very serious cuts to local council funding and libraries may be one of the services that bear the brunt. Yay. Been here before. This time around though it’s not austerity but rather inflation and the subsequent necessary wage increases, which haven’t been budgeted for. But don’t worry, the Government is arguing that inflation doesn’t affect a lot of council business (which parts exactly?) and of course if wages are not increased then inflation will go slower. So, that’s OK then. Faced with potential news like that, it’s good to see that the Libraries Connected conference went really well last week, with lots of sharing of ideas and positive and productive talks about the impact of libraries. And the discovery that Lord Parkinson, who is the Libraries Minister, not only knows his own library card number but is also willing to be used as a library champion. That’s as long of course as he gets robust library data of course. Oho …",
+    "html": "<p class=\"wp-block-paragraph\">A<a href=\"https://www.theguardian.com/society/2022/jun/17/emergency-council-cuts-feared-after-higher-costs-create-17bn-shortfall\"> truly scary newspaper article from the Guardian</a> points out that without major Government funding, there&#8217;s going to be some very serious cuts to local council funding and libraries may be one of the services that bear the brunt. Yay. Been here before. This time around though it&#8217;s not austerity but rather inflation and the subsequent necessary wage increases, which haven&#8217;t been budgeted for. But don&#8217;t worry, the Government is arguing that inflation doesn&#8217;t affect a lot of council business (which parts exactly?) and of course if wages are not increased then inflation will go slower. So, that&#8217;s OK then. </p> <p class=\"wp-block-paragraph\">Faced with potential news like that, it&#8217;s good to see that the Libraries Connected conference went really well last week, with lots of sharing of ideas and positive and productive talks about the impact of libraries. And the discovery that Lord Parkinson, who is<a href=\"https://dcmslibraries.blog.gov.uk/2020/03/13/introducing-the-dcms-libraries-team/\"> the Libraries Minister</a>, not only knows his own library card number but is also willing to be used as a library champion. That&#8217;s as long of course as he gets robust library data of course. <a href=\"https://www.librariesconnected.org.uk/news/why-cipfa-libraries-data-no-longer-fit-purpose\">Oho &#8230;</a></p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 32,
+  "story_ids": [
+    "pln-story-18624-local-001",
+    "pln-story-18624-local-002",
+    "pln-story-18624-local-003",
+    "pln-story-18624-local-004",
+    "pln-story-18624-local-005",
+    "pln-story-18624-local-006",
+    "pln-story-18624-local-007",
+    "pln-story-18624-local-008",
+    "pln-story-18624-local-009",
+    "pln-story-18624-local-010",
+    "pln-story-18624-local-011",
+    "pln-story-18624-local-012",
+    "pln-story-18624-local-013",
+    "pln-story-18624-local-014",
+    "pln-story-18624-local-015",
+    "pln-story-18624-local-016",
+    "pln-story-18624-local-017",
+    "pln-story-18624-local-018",
+    "pln-story-18624-local-019",
+    "pln-story-18624-local-020",
+    "pln-story-18624-local-021",
+    "pln-story-18624-local-022",
+    "pln-story-18624-local-023",
+    "pln-story-18624-local-024",
+    "pln-story-18624-intl-001",
+    "pln-story-18624-intl-002",
+    "pln-story-18624-intl-003",
+    "pln-story-18624-intl-004",
+    "pln-story-18624-intl-005",
+    "pln-story-18624-natl-001",
+    "pln-story-18624-natl-002",
+    "pln-story-18624-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 25,
+    "libraries_count": 27,
+    "countries_count": 7,
+    "top_categories": {
+      "cuts_and_finance": 6,
+      "refurbishment_and_new_builds": 4,
+      "events_and_activities": 4,
+      "digital_and_technology": 3,
+      "closures_and_threats": 3,
+      "volunteers_and_community": 3,
+      "co_location": 3,
+      "staffing_and_unions": 2,
+      "campaigns_and_protests": 1,
+      "opening_hours": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

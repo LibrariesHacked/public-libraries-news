@@ -32,6 +32,22 @@
     "pln-story-20127-intl-001",
     "pln-story-20127-intl-002"
   ],
+  "stats": {
+    "authorities_count": 10,
+    "libraries_count": 5,
+    "countries_count": 5,
+    "top_categories": {
+      "events_and_activities": 5,
+      "book_bans_and_challenges": 2,
+      "opening_hours": 1,
+      "co_location": 1,
+      "refurbishment_and_new_builds": 1,
+      "governance_and_trusts": 1,
+      "staffing_and_unions": 1,
+      "cuts_and_finance": 1,
+      "digital_and_technology": 1
+    }
+  },
   "attribution": {
     "source": "Public Libraries News",
     "source_url": "https://www.publiclibrariesnews.com/",

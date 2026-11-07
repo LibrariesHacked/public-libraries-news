@@ -1,0 +1,58 @@
+{
+  "id": "pln-post-7060",
+  "source_id": 7060,
+  "url": "https://www.publiclibrariesnews.com/2014/03/world-book-day-a-wonderful-opportunity-for-libraries.html",
+  "slug": "world-book-day-a-wonderful-opportunity-for-libraries",
+  "title": "World Book Day: A wonderful opportunity for libraries",
+  "date_published": "2014-03-05T21:09:46",
+  "date_modified": "2014-03-06T22:23:13",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "World Book Day has come. This means classes of children coming in, normally in some sort of fancy dress, learning about how wonderful public libraries are. I’ve already done a school assembly (got to love 250 children screaming “World Book Day”), opened a new school library and did two class visits (“We’re Going On a Bear Hunt” is famous but may I also recommend “Here Come The Aliens“) … and that was just on Monday. The Day (and, let’s be honest, the whole week) is a wonderful opportunity for public libraries to get children in as schools are so keen to get involved this week. Indeed, it’s great when schools phone you and not the other way. I try to squeeze as many activities as I can in and I hope all public libraries are able to do the same … and keep those statistics too. World Book Day is all about. well, books, of course and so it’s only appropriate to mention some fairly good evidence that has come in from the US that suggests that it is not public libraries per se that are declining but rather those in the UK where book funds have been cut. Across the Atlantic, material funds rose 2% on average in 2013 and usage went up 2%. This tallies well with the UK experience where declines in usage appears to mirror somewhat cuts in funding. So one may wonder whether it’s not that UK public libraries are dieing: rather it appears they are being murdered or, rather, suffering from neglect. Please send any news stories, comments or pictures (World Book Day ones would be great) to ianlibrarian@live.co.uk",
+    "html": "<p style=\"text-align: justify;\"><a title=\"World Book Day\" href=\"http://www.worldbookday.com/\">World Book Day has come</a>. This means classes of children coming in, normally in some sort of fancy dress, learning about how wonderful public libraries are. I&#8217;ve already done a school assembly (got to love 250 children screaming &#8220;World Book Day&#8221;), opened a new school library and did two class visits (&#8220;We&#8217;re Going On a Bear Hunt&#8221; is famous but may I also recommend &#8220;<a title=\"BookBag\" href=\"http://www.thebookbag.co.uk/reviews/index.php?title=Here_Come_the_Aliens!_by_Colin_McNaughton\">Here Come The Aliens</a>&#8220;) &#8230; and that was just on Monday. The Day (and, let&#8217;s be honest, the whole week) is a wonderful opportunity for public libraries to get children in as schools are so keen to get involved this week. Indeed, it&#8217;s great when schools <em>phone you</em> and not the other way. I try to squeeze as many activities as I can in and I hope all public libraries are able to do the same &#8230; and keep those statistics too.</p> <p style=\"text-align: justify;\">World Book Day is all about. well, books, of course and so it&#8217;s only appropriate to mention s<a title=\"Library Journal\" href=\"http://reviews.libraryjournal.com/2014/03/collection-development/materials-shift/\">ome fairly good evidence that has come in from the US that suggests that it is not public libraries <em>per se</em> that are declining </a>but rather those in the UK where book funds have been cut. Across the Atlantic, material funds rose 2% on average in 2013 and usage went up 2%. This tallies well with the UK experience where declines in usage appears to mirror somewhat cuts in funding. So one may wonder whether it&#8217;s not that UK public libraries are dieing: rather it appears they are being murdered or, rather, suffering from neglect.</p> <p style=\"text-align: justify;\"><em>Please send any news stories, comments or pictures (World Book Day ones would be great) to <a href=\"mailto:ianlibrarian@live.co.uk\">ianlibrarian@live.co.uk</a></em></p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 13,
+  "story_ids": [
+    "pln-story-7060-intl-001",
+    "pln-story-7060-intl-002",
+    "pln-story-7060-intl-003",
+    "pln-story-7060-intl-004",
+    "pln-story-7060-intl-005",
+    "pln-story-7060-intl-006",
+    "pln-story-7060-intl-007",
+    "pln-story-7060-intl-008",
+    "pln-story-7060-intl-009",
+    "pln-story-7060-intl-010",
+    "pln-story-7060-natl-001",
+    "pln-story-7060-natl-002",
+    "pln-story-7060-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 5,
+    "libraries_count": 2,
+    "countries_count": 4,
+    "top_categories": {
+      "cuts_and_finance": 5,
+      "staffing_and_unions": 4,
+      "digital_and_technology": 2,
+      "campaigns_and_protests": 2,
+      "opening_hours": 2,
+      "closures_and_threats": 2,
+      "events_and_activities": 1,
+      "volunteers_and_community": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

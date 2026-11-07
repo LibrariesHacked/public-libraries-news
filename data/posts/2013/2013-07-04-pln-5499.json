@@ -1,0 +1,64 @@
+{
+  "id": "pln-post-5499",
+  "source_id": 5499,
+  "url": "https://www.publiclibrariesnews.com/2013/07/lets-lovelibraries-while-were-not-saving-them.html",
+  "slug": "lets-lovelibraries-while-were-not-saving-them",
+  "title": "Let’s #lovelibraries while we’re not #saving them",
+  "date_published": "2013-07-04T21:47:45",
+  "date_modified": "2013-07-07T18:54:30",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "5000 people have signed a petition to save a library in Leigh. This is a quarter of the population of the town, which is amazing and I wish them well. Now, if libraries can harness the power of those people before the library was under threat, that would be truly quite something. The estimable (it means “worthy or respect – I had to look it up) Mick Fortune has pointed out that the “Save Libraries” message should only be used when libraries actually under threat. Because when people say “save x”, the mental switch in their heads moves onward to “x = the siberian tiger and is probably doomed”. It’ll get to “doomed” quickly if they see the message repeated again and again, everywhere. It’s a powerful slogan but needs to be used in extremis only. Of course, with 50% cuts 2010-2016 likely then one could say that all libraries are in extremis. But let’s not jump the gun in those authorities where no-one has reached for the trigger yet. Let’s get people to love libraries as well.",
+    "html": "<p style=\"text-align: justify;\">5000 people have signed a petition to save a library in Leigh. This is a quarter of the population of the town, which is amazing and I wish them well. Now, if libraries can harness the power of those people <em>before</em> the library was under threat, that would be truly quite something. The estimable (it means &#8220;worthy or respect &#8211; I had to look it up) <a title=\"Library RFID\" href=\"http://www.libraryrfid.co.uk/index.html\">Mick Fortune</a> has pointed out that the &#8220;Save Libraries&#8221; message should only be used when libraries actually under threat. Because when people say &#8220;save x&#8221;, the mental switch in their heads moves onward to &#8220;x = the siberian tiger and is probably doomed&#8221;. It&#8217;ll get to &#8220;doomed&#8221; quickly if they see the message repeated again and again, everywhere. It&#8217;s a powerful slogan but needs to be used <em>in extremis </em>only. Of course, with 50% cuts 2010-2016 likely then one could say that all libraries are in extremis. But let&#8217;s not jump the gun in those authorities where no-one has reached for the trigger yet. Let&#8217;s get people to love libraries as well.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 17,
+  "story_ids": [
+    "pln-story-5499-changes-001",
+    "pln-story-5499-changes-002",
+    "pln-story-5499-changes-003",
+    "pln-story-5499-changes-004",
+    "pln-story-5499-changes-005",
+    "pln-story-5499-changes-006",
+    "pln-story-5499-changes-007",
+    "pln-story-5499-changes-008",
+    "pln-story-5499-changes-009",
+    "pln-story-5499-changes-010",
+    "pln-story-5499-local-001",
+    "pln-story-5499-local-002",
+    "pln-story-5499-local-003",
+    "pln-story-5499-local-004",
+    "pln-story-5499-local-005",
+    "pln-story-5499-local-006",
+    "pln-story-5499-local-007"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 6,
+    "countries_count": 2,
+    "top_categories": {
+      "closures_and_threats": 4,
+      "cuts_and_finance": 4,
+      "co_location": 3,
+      "refurbishment_and_new_builds": 2,
+      "volunteers_and_community": 2,
+      "book_bans_and_challenges": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "digital_and_technology": 1,
+      "governance_and_trusts": 1,
+      "staffing_and_unions": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

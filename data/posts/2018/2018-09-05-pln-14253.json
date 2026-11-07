@@ -1,0 +1,75 @@
+{
+  "id": "pln-post-14253",
+  "source_id": 14253,
+  "url": "https://www.publiclibrariesnews.com/2018/09/crowning-achievement.html",
+  "slug": "crowning-achievement",
+  "title": "Crowning achievement",
+  "date_published": "2018-09-05T18:38:17",
+  "date_modified": "2018-09-09T18:33:06",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The big news, especially for those who have been following the drama these last two years, is the announcement that Crown Street Library in Darlington will stay open. This simply would not have happened without the strong public response to the new, the campaigning and protest and, indeed, the legal challenge. The real challenge, though, now will see what the surviving library will look like – the fear is that cuts will be made to staffing and that other services will be brought in, reducing the space and “offer” that has made the library so successful in the first place. But, for now, well done Darlington campaigners. Well done. Other news that strikes the eye is the large amount of refurbishment going on in Hampshire – well done again – and the confirmation that open technology, which is relatively slowly but surely spreading like self-service did, will be universally adopted in Bracknell Forest. Finally, interesting to note King’s Lynn – not a name that shouts urban deprivation to me – has had to call in the security guards. As a result, I’ve started a twitter poll on security guards in libraries which I’d love it if you could contribute to. Thank you.",
+    "html": "<p style=\"text-align: justify;\">The big news, especially for those who have been following the drama these last two years, is the announcement that Crown Street Library in Darlington will stay open. This simply would not have happened without the strong public response to the new, the campaigning and protest and, indeed, the legal challenge. The real challenge, though, now will see what the surviving library will look like &#8211; the fear is that cuts will be made to staffing and that other services will be brought in, reducing the space and &#8220;offer&#8221; that has made the library so successful in the first place. But, for now, well done Darlington campaigners. Well done.</p> <p style=\"text-align: justify;\">Other news that strikes the eye is the large amount of refurbishment going on in Hampshire &#8211; well done again &#8211; and the confirmation that open technology, which is relatively slowly but surely spreading like self-service did, will be universally adopted in Bracknell Forest. Finally, interesting to note King&#8217;s Lynn &#8211; not a name that shouts urban deprivation to me &#8211; has had to call in the security guards. As a result, I&#8217;ve started a twitter poll on security guards in libraries which I&#8217;d love it if you could contribute to. Thank you.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 27,
+  "story_ids": [
+    "pln-story-14253-changes-001",
+    "pln-story-14253-changes-002",
+    "pln-story-14253-changes-003",
+    "pln-story-14253-changes-004",
+    "pln-story-14253-local-001",
+    "pln-story-14253-local-002",
+    "pln-story-14253-local-003",
+    "pln-story-14253-local-004",
+    "pln-story-14253-local-005",
+    "pln-story-14253-local-006",
+    "pln-story-14253-local-007",
+    "pln-story-14253-local-008",
+    "pln-story-14253-local-009",
+    "pln-story-14253-local-010",
+    "pln-story-14253-local-011",
+    "pln-story-14253-local-012",
+    "pln-story-14253-local-013",
+    "pln-story-14253-local-014",
+    "pln-story-14253-local-015",
+    "pln-story-14253-local-016",
+    "pln-story-14253-local-017",
+    "pln-story-14253-local-018",
+    "pln-story-14253-local-019",
+    "pln-story-14253-local-020",
+    "pln-story-14253-natl-001",
+    "pln-story-14253-natl-002",
+    "pln-story-14253-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 17,
+    "libraries_count": 15,
+    "countries_count": 4,
+    "top_categories": {
+      "refurbishment_and_new_builds": 8,
+      "cuts_and_finance": 6,
+      "events_and_activities": 6,
+      "closures_and_threats": 5,
+      "staffing_and_unions": 5,
+      "volunteers_and_community": 3,
+      "mobile_and_outreach": 2,
+      "governance_and_trusts": 1,
+      "opening_hours": 1,
+      "digital_and_technology": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

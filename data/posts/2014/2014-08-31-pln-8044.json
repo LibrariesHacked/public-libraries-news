@@ -1,0 +1,79 @@
+{
+  "id": "pln-post-8044",
+  "source_id": 8044,
+  "url": "https://www.publiclibrariesnews.com/2014/08/havering-cuts-librarylab-and-the-public-library-champion-of-the-year.html",
+  "slug": "havering-cuts-librarylab-and-the-public-library-champion-of-the-year",
+  "title": "Havering cuts, LibraryLab and the Public Library Champion of the Year",
+  "date_published": "2014-08-31T20:47:22",
+  "date_modified": "2014-09-02T21:49:08",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Some majorly bad news has come in from Havering where it has been announced that over a third of the library budget will be cut. This looks set to be achieved via cuts to services (such as the ending of the reader development scheme and children’s programmes), job losses and a deep cut into opening hours at six branches. Moving away from this sad news, the 1st September is the first day for applications to the Carnegie UK LibraryLab project. This looks to be a very good partnering/funding/training programme for the successful candidates who must put forward an innovative idea (not necessarily digital) for public libraries. It’s the sort of thing that a national libraries development agency should be providing but, being we don’t have one of those, let’s make sure to make full use of this instead. Finally, I’m pleased to say that Gareth Hatton, the Public Library Champion of the Year, has agreed to let the readers of Public Libraries News have an insight into the wonderful work he does, the benefits that public libraries can bring to businesses and the tools that he uses. There’s some good hints and tips in there.",
+    "html": "<p style=\"text-align: justify;\">Some majorly bad news has come in from Havering where it has been announced that over a third of the library budget will be cut. This looks set to be achieved via cuts to services (such as the ending of the reader development scheme and children&#8217;s programmes), job losses and a deep cut into opening hours at six branches.</p> <p style=\"text-align: justify;\">Moving away from this sad news, the 1st September is the first day for applications to <a title=\"LibraryLab\" href=\"http://www.carnegieuktrust.org.uk/changing-minds/knowledge---culture/the-future-of-libraries/carnegie-library-lab\">the Carnegie UK LibraryLab project</a>. This looks to be a very good partnering/funding/training programme for the successful candidates who must put forward an innovative idea (not necessarily digital) for public libraries. It&#8217;s the sort of thing that a national libraries development agency should be providing but, being we don&#8217;t have one of those, let&#8217;s make sure to make full use of this instead.</p> <p style=\"text-align: justify;\">Finally, <a title=\"PLN coverage of Public Librarian awards\" href=\"https://www.publiclibrariesnews.com/2014/08/librarians-of-the-year.html\">I&#8217;m pleased to say that Gareth Hatton, the Public Library Champion of the Year</a>, has agreed to let the readers of <em>Public Libraries News</em> have an insight into the wonderful work he does, the benefits that public libraries can bring to businesses and the tools that he uses. There&#8217;s some good hints and tips in there.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 29,
+  "story_ids": [
+    "pln-story-8044-changes-001",
+    "pln-story-8044-changes-002",
+    "pln-story-8044-intl-001",
+    "pln-story-8044-intl-002",
+    "pln-story-8044-intl-003",
+    "pln-story-8044-intl-004",
+    "pln-story-8044-intl-005",
+    "pln-story-8044-intl-006",
+    "pln-story-8044-intl-007",
+    "pln-story-8044-intl-008",
+    "pln-story-8044-intl-009",
+    "pln-story-8044-intl-010",
+    "pln-story-8044-intl-011",
+    "pln-story-8044-intl-012",
+    "pln-story-8044-intl-013",
+    "pln-story-8044-intl-014",
+    "pln-story-8044-intl-015",
+    "pln-story-8044-intl-016",
+    "pln-story-8044-intl-017",
+    "pln-story-8044-intl-018",
+    "pln-story-8044-intl-019",
+    "pln-story-8044-intl-020",
+    "pln-story-8044-intl-021",
+    "pln-story-8044-intl-022",
+    "pln-story-8044-intl-023",
+    "pln-story-8044-natl-001",
+    "pln-story-8044-natl-002",
+    "pln-story-8044-natl-003",
+    "pln-story-8044-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 8,
+    "countries_count": 6,
+    "top_categories": {
+      "cuts_and_finance": 8,
+      "opening_hours": 4,
+      "digital_and_technology": 4,
+      "volunteers_and_community": 4,
+      "closures_and_threats": 3,
+      "staffing_and_unions": 3,
+      "campaigns_and_protests": 3,
+      "book_bans_and_challenges": 2,
+      "refurbishment_and_new_builds": 1,
+      "mobile_and_outreach": 1,
+      "events_and_activities": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

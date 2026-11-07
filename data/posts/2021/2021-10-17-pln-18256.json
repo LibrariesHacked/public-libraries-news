@@ -1,0 +1,68 @@
+{
+  "id": "pln-post-18256",
+  "source_id": 18256,
+  "url": "https://www.publiclibrariesnews.com/2021/10/going-sloughly.html",
+  "slug": "going-sloughly",
+  "title": "Going Sloughly",
+  "date_published": "2021-10-17T18:37:08",
+  "date_modified": "2021-10-17T18:37:17",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Another quiet week, with the sound of Covid recovery broken only by the announcement of cuts in one service – they’re going to happen, they do not know the precise details. On the plus side, there’s a lovely short programme on reading, with lots of library references, from the BBC. If one is interested in what is going on internationally, and I feel we all should be, we can read about what’s going on in the USA and be grateful that, at least. we don’t work in libraries there. Oh boy, if we thought our society was divisive, we ain’t got nothing on the Americans. Finally, I’d like to pay tribute to #uklibchat, which has been providing a superb platform for people to share their professional experiences and thoughts for a decade. Well done to all those involved. And thank you.",
+    "html": "<p class=\"wp-block-paragraph\">Another quiet week, with the sound of Covid recovery broken only by the announcement of cuts in one service &#8211; they&#8217;re going to happen, they do not know the precise details. On the plus side, <a href=\"https://www.bbc.co.uk/iplayer/episode/m0010ld7/inside-culture-series-4-4-how-we-read\">there&#8217;s a lovely short programme on reading, with lots of library references</a>, from the BBC. If one is interested in what is going on internationally, and I feel we all should be, we can read about what&#8217;s going on in the USA and be grateful that, at least. we don&#8217;t work in libraries there. Oh boy, if we thought our society was divisive, we ain&#8217;t got nothing on the Americans. Finally,<a href=\"https://uklibchat.wordpress.com/2021/10/15/a-fond-farewell-to-uklibchat/\"> I&#8217;d like to pay tribute to #uklibchat,</a> which has been providing a superb platform for people to share their professional experiences and thoughts for a decade. Well done to all those involved. And thank you.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 19,
+  "story_ids": [
+    "pln-story-18256-changes-001",
+    "pln-story-18256-local-001",
+    "pln-story-18256-local-002",
+    "pln-story-18256-local-003",
+    "pln-story-18256-local-004",
+    "pln-story-18256-local-005",
+    "pln-story-18256-local-006",
+    "pln-story-18256-local-007",
+    "pln-story-18256-local-008",
+    "pln-story-18256-local-009",
+    "pln-story-18256-local-010",
+    "pln-story-18256-intl-001",
+    "pln-story-18256-intl-002",
+    "pln-story-18256-natl-001",
+    "pln-story-18256-natl-002",
+    "pln-story-18256-natl-003",
+    "pln-story-18256-natl-004",
+    "pln-story-18256-natl-005",
+    "pln-story-18256-natl-006"
+  ],
+  "stats": {
+    "authorities_count": 10,
+    "libraries_count": 8,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 5,
+      "events_and_activities": 5,
+      "refurbishment_and_new_builds": 3,
+      "cuts_and_finance": 2,
+      "campaigns_and_protests": 2,
+      "digital_and_technology": 2,
+      "staffing_and_unions": 2,
+      "volunteers_and_community": 1,
+      "book_bans_and_challenges": 1,
+      "co_location": 1,
+      "opening_hours": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

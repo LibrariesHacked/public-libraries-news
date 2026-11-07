@@ -1,0 +1,63 @@
+{
+  "id": "pln-post-7533",
+  "source_id": 7533,
+  "url": "https://www.publiclibrariesnews.com/2014/05/mergers-charitable-trusts-and-retro-maker-spaces.html",
+  "slug": "mergers-charitable-trusts-and-retro-maker-spaces",
+  "title": "Mergers, charitable trusts and retro Maker Spaces",
+  "date_published": "2014-05-21T22:24:00",
+  "date_modified": "2014-05-22T22:19:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Well, a lot going on today, in the headlines and behind them but the key stuff is fairly obvious. In no particular order, we have two London boroughs (Camden and Islington) looking to merge library services, with a view to rationalising library provision where they both have branches close to eachother on the border. Think of this, perhaps, as a Labour-run Bi-Borough to rival the Conservative Tri-Borough (Kensington and Chelsea, Westminster, Hammersmith and Fulham). Because that’s how it seems to go: the councils need to be of the same party in order to get along, at least initially. Secondly, we have Kent – one of the very biggest councils in terms of branches at least (nearly a hundred depending on your definitions) – thinking about moving libraries (and Registrars and Archives) into a charitable trust similar to that currently being run in Suffolk or York. This model is getting a lot of attention at the moment and I expect to see more going this way soon. Finally, we have the refurbished Exeter Central Library reopening. From the pictures I have seen it looks weirdly retro – the building is 1960s and it was decided to go with that look – but it also has the country’s first public library library Maker Space within it. This opening is coming at a time when Devon is going through a painful review with 28 out of 50 branches being potentially under threat (although definitions are disputed) and it is notable that there is a certain “that’s nice, what about us with our library maybe closing?” chatter on Twitter on the subject. But I am sure Exeter needed the upgrade and I’m not going to diss a new library project in this day and age. I really hope it goes well and I’m looking forward to seeing more about it.",
+    "html": "<p style=\"text-align: justify;\">Well, a lot going on today, in the headlines and behind them but the key stuff is fairly obvious. In no particular order, we have two London boroughs (Camden and Islington) looking to merge library services, with a view to rationalising library provision where they both have branches close to eachother on the border. Think of this, perhaps, as a Labour-run Bi-Borough to rival the Conservative Tri-Borough (Kensington and Chelsea, Westminster, Hammersmith and Fulham).<strong> </strong> Because that&#8217;s how it seems to go: the councils need to be of the same party in order to get along, at least initially. <strong> </strong></p> <p style=\"text-align: justify;\">Secondly, we have Kent &#8211; one of the very biggest councils in terms of branches at least (nearly a hundred depending on your definitions) &#8211; thinking about moving libraries (and Registrars and Archives) into a charitable trust similar to that currently being run in Suffolk or York. This model is getting a lot of attention at the moment and I expect to see more going this way soon.</p> <p style=\"text-align: justify;\">Finally, we have the refurbished Exeter Central Library reopening. From the pictures I have seen it looks weirdly retro &#8211; the building is 1960s and it was decided to go with that look &#8211; but it also has the country&#8217;s first public library library Maker Space within it. This opening is coming at a time when Devon is going through a painful review with 28 out of 50 branches being potentially under threat (although definitions are disputed) and it is notable that there is a certain &#8220;that&#8217;s nice, what about us with <em>our</em> library maybe closing?&#8221; chatter on Twitter on the subject. But I am sure Exeter needed the upgrade and I&#8217;m not going to diss a new library project in this day and age. I really hope it goes well and I&#8217;m looking forward to seeing more about it.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 16,
+  "story_ids": [
+    "pln-story-7533-changes-001",
+    "pln-story-7533-changes-002",
+    "pln-story-7533-changes-003",
+    "pln-story-7533-changes-004",
+    "pln-story-7533-intl-001",
+    "pln-story-7533-intl-002",
+    "pln-story-7533-intl-003",
+    "pln-story-7533-intl-004",
+    "pln-story-7533-intl-005",
+    "pln-story-7533-intl-006",
+    "pln-story-7533-intl-007",
+    "pln-story-7533-intl-008",
+    "pln-story-7533-intl-009",
+    "pln-story-7533-natl-001",
+    "pln-story-7533-natl-002",
+    "pln-story-7533-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 5,
+    "libraries_count": 2,
+    "countries_count": 4,
+    "top_categories": {
+      "cuts_and_finance": 6,
+      "closures_and_threats": 4,
+      "digital_and_technology": 3,
+      "volunteers_and_community": 2,
+      "governance_and_trusts": 2,
+      "staffing_and_unions": 1,
+      "mobile_and_outreach": 1,
+      "opening_hours": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

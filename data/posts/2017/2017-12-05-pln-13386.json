@@ -1,0 +1,72 @@
+{
+  "id": "pln-post-13386",
+  "source_id": 13386,
+  "url": "https://www.publiclibrariesnews.com/2017/12/good-news-and-christmas.html",
+  "slug": "good-news-and-christmas",
+  "title": "Good news and Christmas",
+  "date_published": "2017-12-05T21:31:11",
+  "date_modified": "2017-12-10T20:05:29",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Good to see library news connecting with the general goodwill of the season. A news article from Warrington reports that no libraries may close (a big turnaround from the original proposals), although of course the devil may be in the detail, as yet unseen. Also – and I love this – West Dunbartonshire are putting out to consultation (rather than just voting through) deep cuts in their library opening hours due to a well-timed letter from CILIPS. Well done Scottish CILIP people. And it may be Christmas for Derby libraries every day as the council catches on, finally, that Section 106 money from new housing can be used for library projects. But the big applause must go to the library team at Plymouth who are keeping their library open on Christmas Day. It can be the loneliest day for so many so this is a really warm-hearted move. Well done those who volunteered to work that day. I hope it goes well, and the mince pies are delicious.",
+    "html": "<p style=\"text-align: justify;\">Good to see library news connecting with the general goodwill of the season. A news article from Warrington reports that no libraries may close (a big turnaround from the original proposals), although of course the devil may be in the detail, as yet unseen. Also &#8211; and I love this &#8211; West Dunbartonshire are putting out to consultation (rather than just voting through) deep cuts in their library opening hours due to a well-timed letter from CILIPS. Well done Scottish CILIP people. And it may be Christmas for Derby libraries every day as the council catches on, finally, that Section 106 money from new housing can be used for library projects. But the big applause must go to the library team at Plymouth who are keeping their library open on Christmas Day. It can be the loneliest day for so many so this is a really warm-hearted move. Well done those who volunteered to work that day. I hope it goes well, and the mince pies are delicious.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 22,
+  "story_ids": [
+    "pln-story-13386-changes-001",
+    "pln-story-13386-changes-002",
+    "pln-story-13386-local-001",
+    "pln-story-13386-local-002",
+    "pln-story-13386-local-003",
+    "pln-story-13386-local-004",
+    "pln-story-13386-local-005",
+    "pln-story-13386-local-006",
+    "pln-story-13386-local-007",
+    "pln-story-13386-local-008",
+    "pln-story-13386-local-009",
+    "pln-story-13386-local-010",
+    "pln-story-13386-local-011",
+    "pln-story-13386-local-012",
+    "pln-story-13386-local-013",
+    "pln-story-13386-local-014",
+    "pln-story-13386-local-015",
+    "pln-story-13386-intl-001",
+    "pln-story-13386-intl-002",
+    "pln-story-13386-intl-003",
+    "pln-story-13386-natl-001",
+    "pln-story-13386-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 14,
+    "libraries_count": 15,
+    "countries_count": 6,
+    "top_categories": {
+      "cuts_and_finance": 4,
+      "staffing_and_unions": 4,
+      "events_and_activities": 4,
+      "volunteers_and_community": 3,
+      "campaigns_and_protests": 3,
+      "opening_hours": 3,
+      "digital_and_technology": 2,
+      "closures_and_threats": 2,
+      "unstaffed_open_plus": 1,
+      "governance_and_trusts": 1,
+      "refurbishment_and_new_builds": 1,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

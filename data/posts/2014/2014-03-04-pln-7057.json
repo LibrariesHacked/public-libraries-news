@@ -1,0 +1,65 @@
+{
+  "id": "pln-post-7057",
+  "source_id": 7057,
+  "url": "https://www.publiclibrariesnews.com/2014/03/book-blendings.html",
+  "slug": "book-blendings",
+  "title": "Book Blendings",
+  "date_published": "2014-03-04T22:13:32",
+  "date_modified": "2014-03-05T21:10:32",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 18,
+  "story_ids": [
+    "pln-story-7057-intl-001",
+    "pln-story-7057-intl-002",
+    "pln-story-7057-intl-003",
+    "pln-story-7057-intl-004",
+    "pln-story-7057-intl-005",
+    "pln-story-7057-intl-006",
+    "pln-story-7057-intl-007",
+    "pln-story-7057-intl-008",
+    "pln-story-7057-intl-009",
+    "pln-story-7057-intl-010",
+    "pln-story-7057-natl-001",
+    "pln-story-7057-natl-002",
+    "pln-story-7057-natl-003",
+    "pln-story-7057-natl-004",
+    "pln-story-7057-natl-005",
+    "pln-story-7057-natl-006",
+    "pln-story-7057-natl-007",
+    "pln-story-7057-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 4,
+    "libraries_count": 4,
+    "countries_count": 6,
+    "top_categories": {
+      "staffing_and_unions": 3,
+      "digital_and_technology": 3,
+      "book_bans_and_challenges": 2,
+      "cuts_and_finance": 2,
+      "volunteers_and_community": 2,
+      "events_and_activities": 2,
+      "mobile_and_outreach": 1,
+      "campaigns_and_protests": 1,
+      "opening_hours": 1,
+      "closures_and_threats": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -4,9 +4,11 @@ Splits posts into standard sections (Editorial, Changes, Local news, Internation
 and extracts discrete story items with links and entity headings.
 """
 
+from html import unescape
 from html.parser import HTMLParser
 import re
 from typing import Dict, List, Optional, Tuple, Any
+import urllib.parse
 
 class HTMLTextExtractor(HTMLParser):
     """Extract plain text, clean HTML, and hyperlinks from an HTML fragment."""
@@ -29,7 +31,17 @@ class HTMLTextExtractor(HTMLParser):
         if tag == "a" and self._current_link:
             link_text = "".join(self._current_link_text).strip()
             if self._current_link and link_text:
-                self.links.append({"url": self._current_link, "text": link_text})
+                domain = None
+                try:
+                    parsed = urllib.parse.urlparse(self._current_link)
+                    domain = parsed.netloc.lower().replace("www.", "")
+                except Exception:
+                    pass
+                self.links.append({
+                    "url": self._current_link,
+                    "text": link_text,
+                    "domain": domain
+                })
             self._current_link = None
             self._current_link_text = []
         elif tag in ["p", "br", "li", "div", "h1", "h2", "h3", "h4"]:
@@ -145,11 +157,18 @@ class PLNPostParser:
                 text_html = item["text_html"]
                 links = item["links"]
 
-                # Resolve entity if resolver is provided
+                # Resolve entity and classification if resolver is provided
                 resolution_dict = {"entity_type": "general", "libraries_mentioned": []}
+                classification_dict = {
+                    "categories": [],
+                    "primary_category": None,
+                    "change_type": None,
+                    "sector_bodies_mentioned": [],
+                    "financial_mentions": []
+                }
                 tags = []
                 if self.resolver:
-                    res, tags = self.resolver.resolve(entity_raw, text, sec_name)
+                    res, cls_obj, tags = self.resolver.resolve(entity_raw, text, sec_name)
                     # Convert resolution to dict
                     resolution_dict = {
                         "entity_type": res.entity_type,
@@ -176,6 +195,13 @@ class PLNPostParser:
                             "longitude": res.coordinates.longitude
                         } if res.coordinates else None
                     }
+                    classification_dict = {
+                        "categories": cls_obj.categories,
+                        "primary_category": cls_obj.primary_category,
+                        "change_type": cls_obj.change_type,
+                        "sector_bodies_mentioned": cls_obj.sector_bodies_mentioned,
+                        "financial_mentions": cls_obj.financial_mentions
+                    }
 
                 all_stories.append({
                     "id": story_id,
@@ -187,6 +213,7 @@ class PLNPostParser:
                     "text_html": text_html,
                     "links": links,
                     "resolution": resolution_dict,
+                    "classification": classification_dict,
                     "tags": tags
                 })
 
@@ -230,9 +257,10 @@ class PLNPostParser:
         match_bold = re.search(r"<(?:strong|b)>([^<]+)</(?:strong|b)>\s*(?:[\u2013\u2014\-:]|&ndash;|&mdash;)?\s*(.*)", block, flags=re.DOTALL | re.IGNORECASE)
 
         if match_bold:
-            entity_raw = match_bold.group(1).strip()
-            # Clean entity of any trailing punctuation or separators
-            entity_raw = re.sub(r"[\s\u2013\u2014\-:]+$", "", entity_raw).strip()
+            entity_raw = unescape(match_bold.group(1)).strip()
+            # Clean entity of any leading/trailing punctuation or separators
+            entity_raw = re.sub(r"^(?:[\s\u2013\u2014\-:]|&ndash;|&mdash;|&#8211;|&#8212;)+", "", entity_raw).strip()
+            entity_raw = re.sub(r"(?:[\s\u2013\u2014\-:]|&ndash;|&mdash;|&#8211;|&#8212;)+$", "", entity_raw).strip()
             body_html = match_bold.group(2).strip()
 
             # Sometimes the separator is inside or outside the bold tag

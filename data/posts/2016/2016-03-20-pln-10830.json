@@ -1,0 +1,67 @@
+{
+  "id": "pln-post-10830",
+  "source_id": 10830,
+  "url": "https://www.publiclibrariesnews.com/2016/03/the-house-of-stories.html",
+  "slug": "the-house-of-stories",
+  "title": "The House of Stories",
+  "date_published": "2016-03-20T21:51:55",
+  "date_modified": "2016-03-22T21:10:35",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I love the new name for the combined library/theatre/cinema in Chester. “Storyhouse” neatly combines the common elements of all three services that will be sharing the refurbished and expanded building. In fact, it seems to me that story house neatly sums up libraries more than most terms, on many levels. On the most basic grounds, there’s a ton of stories housed in a library. As I tell anyone, you can read about anything, be anyone, when you read a book from the library. Moving further, the users of the library tell many stories to the experienced eye. The student typing away using the wifi, the senior citizens catching up with eachother, children hopping around in delight, the quiet figure searching for a job … they all tell stories, not least how good the library is. Further, the health or even presence of a library tells a story about the community which it serves. A bustling library, in a good quality building, filled with all kinds of people doing all kinds of things says wonderful things about the local neighbourhood. A dilapidated library building up for sale in Lincolnshire not so much. Ultimately, the health of the public library service can provide a narrative for how well a country is doing. A thriving library service, full of new ideas – like I see in countries overseas – says so many positive things about that country. I’ll leave it up to you to decide what story the current state of UK libraries tells.",
+    "html": "<p style=\"text-align: justify;\">I<a href=\"http://www.chesterchronicle.co.uk/news/chester-cheshire-news/chesters-new-37m-cultural-centre-11049497\"> love the new name for the combined library/theatre/cinema in Chester</a>. &#8220;Storyhouse&#8221; neatly combines the common elements of all three services that will be sharing the refurbished and expanded building. In fact, it seems to me that story house neatly sums up libraries more than most terms, on many levels. On the most basic grounds, there&#8217;s a ton of stories housed in a library. As I tell anyone, you can read about anything, <em>be anyone, </em>when you read a book from the library. Moving further, the users of the library tell many stories to the experienced eye. The student typing away using the wifi, the senior citizens catching up with eachother, children hopping around in delight, the quiet figure searching for a job &#8230; they all tell stories, not least how good the library is. Further, the health or even presence of a library tells a story about the community which it serves. A bustling library, in a good quality building, filled with all kinds of people doing all kinds of things says wonderful things about the local neighbourhood. <a href=\"https://propertylink.estatesgazette.com/property-details/6129543-cp8975-former-library-premises-for-sale-in-lincoln\">A dilapidated library building up for sale in Lincolnshire not so much</a>. Ultimately, the health of the public library service can provide a narrative for how well a country is doing. A thriving library service, full of new ideas &#8211; like I see in countries overseas &#8211; says so many positive things about that country. I&#8217;ll leave it up to you to decide what story the current state of UK libraries tells.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 18,
+  "story_ids": [
+    "pln-story-10830-changes-001",
+    "pln-story-10830-local-001",
+    "pln-story-10830-local-002",
+    "pln-story-10830-local-003",
+    "pln-story-10830-local-004",
+    "pln-story-10830-local-005",
+    "pln-story-10830-local-006",
+    "pln-story-10830-local-007",
+    "pln-story-10830-local-008",
+    "pln-story-10830-local-009",
+    "pln-story-10830-local-010",
+    "pln-story-10830-local-011",
+    "pln-story-10830-local-012",
+    "pln-story-10830-local-013",
+    "pln-story-10830-local-014",
+    "pln-story-10830-local-015",
+    "pln-story-10830-local-016",
+    "pln-story-10830-natl-001"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 15,
+    "countries_count": 2,
+    "top_categories": {
+      "campaigns_and_protests": 6,
+      "closures_and_threats": 6,
+      "events_and_activities": 3,
+      "cuts_and_finance": 3,
+      "refurbishment_and_new_builds": 3,
+      "co_location": 3,
+      "volunteers_and_community": 1,
+      "opening_hours": 1,
+      "mobile_and_outreach": 1,
+      "staffing_and_unions": 1,
+      "digital_and_technology": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

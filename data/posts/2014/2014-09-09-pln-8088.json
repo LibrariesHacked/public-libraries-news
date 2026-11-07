@@ -1,0 +1,68 @@
+{
+  "id": "pln-post-8088",
+  "source_id": 8088,
+  "url": "https://www.publiclibrariesnews.com/2014/09/read-on-get-on-library-on.html",
+  "slug": "read-on-get-on-library-on",
+  "title": "Read On. Get On. Library On.",
+  "date_published": "2014-09-09T20:00:17",
+  "date_modified": "2014-09-11T21:59:38",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Main news this post is the formation of the “Read On. Get On” coalition of several agencies (including the Reading Agency but sadly no other public library related groups) to help boost literacy in England. Being the country apparently is second only to Romania (ouch) in the EU in terms of unequal reading levels and that such problems may cost us £32 billion by 2025, this sounds important. Public libraries are mentioned a couple of times in the report and it is hoped that the importance of the sector (dudes, literacy is what we do) will become better recognised. Things like the Six Book Challenge, which has just announced that it is aiming for 50,000 users next year, should be a key component in all of this.",
+    "html": "<p style=\"text-align: justify;\">Main news this post is the formation of the &#8220;Read On. Get On&#8221; coalition of several agencies (including the Reading Agency but sadly no other public library related groups) to help boost literacy in England. Being the country apparently is second only to Romania (ouch) in the EU in terms of unequal reading levels and that such problems may cost us £32 <em>billion</em> by 2025, this sounds important. Public libraries are mentioned a couple of times in the report and it is hoped that the importance of the sector (dudes, literacy is what we <em>do) </em>will become better recognised. Things like the Six Book Challenge, which has just announced that it is aiming for 50,000 users next year, should be a key component in all of this.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 21,
+  "story_ids": [
+    "pln-story-8088-intl-001",
+    "pln-story-8088-intl-002",
+    "pln-story-8088-intl-003",
+    "pln-story-8088-intl-004",
+    "pln-story-8088-intl-005",
+    "pln-story-8088-intl-006",
+    "pln-story-8088-intl-007",
+    "pln-story-8088-intl-008",
+    "pln-story-8088-intl-009",
+    "pln-story-8088-intl-010",
+    "pln-story-8088-intl-011",
+    "pln-story-8088-intl-012",
+    "pln-story-8088-intl-013",
+    "pln-story-8088-intl-014",
+    "pln-story-8088-intl-015",
+    "pln-story-8088-intl-016",
+    "pln-story-8088-intl-017",
+    "pln-story-8088-intl-018",
+    "pln-story-8088-natl-001",
+    "pln-story-8088-natl-002",
+    "pln-story-8088-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 6,
+    "countries_count": 4,
+    "top_categories": {
+      "staffing_and_unions": 7,
+      "closures_and_threats": 7,
+      "cuts_and_finance": 7,
+      "digital_and_technology": 4,
+      "campaigns_and_protests": 4,
+      "opening_hours": 3,
+      "book_bans_and_challenges": 2,
+      "events_and_activities": 2,
+      "mobile_and_outreach": 2,
+      "volunteers_and_community": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

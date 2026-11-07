@@ -1,0 +1,70 @@
+{
+  "id": "pln-post-9664",
+  "source_id": 9664,
+  "url": "https://www.publiclibrariesnews.com/2015/09/heres-some-positive-public-libraries-news.html",
+  "slug": "heres-some-positive-public-libraries-news",
+  "title": "Here’s some positive Public Libraries News",
+  "date_published": "2015-09-06T21:03:23",
+  "date_modified": "2015-09-08T21:21:48",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "As if on order, following the demand for a more “positive narrative” for libraries described in the last post, there’s been a couple of really positive library stories in the news this weekend. The first is that BBC Radio 6 spent a fair bit of time celebrating libraries on Saturday, including Guy Garvey at Manchester Central Library. It was all good stuff and showed the importance of libraries in nurturing authors and musicians, and thus (because in these philistine times there is always a bottom line) helping to make loads of money for UK Culture plc. I hope politicians were listening. In fact, Manchester are playing a blinder with positive publicity stories at the moment, with a flagship beautiful library often being used for music and arts events: there’s even chefs doing demonstrations there soon. The other positive news story is a librarian from Northamptonshire, described only as “Tim”, who went above and beyond the call of duty and, by doing so, got a load of positive press, including on the BBC national news website. Well done to him. It’s stories like these that show the importance of libraries and how great they are. We don’t need reminding but politicians and those of the public that don’t use libraries surely do.",
+    "html": "<p style=\"text-align: justify;\">As if on order, following the demand for a more &#8220;positive narrative&#8221; for libraries described in the last post, there&#8217;s been a couple of really positive library stories in the news this weekend. <a href=\"http://www.independent.co.uk/arts-entertainment/books/news/elbows-frontman-looks-to-promote-libraries-with-new-show-guy-harveys-finest-hour-10488247.html\">The first is that BBC Radio 6 spent a fair bit of time celebrating libraries on Saturday, including Guy Garvey at Manchester Central Library</a>. It was all good stuff and showed the importance of libraries in nurturing authors and musicians, and thus (because in these philistine times there is always a bottom line) helping to make loads of money for UK Culture plc. I hope politicians were listening. In fact, Manchester are playing a blinder with positive publicity stories at the moment, with a flagship beautiful library often being used for music and arts events: <a href=\"http://www.manchestereveningnews.co.uk/business/aumbry-chef-mary-ellen-mctague-9988518#ICID=nsm\">there&#8217;s even chefs doing demonstrations there soon</a>. The <a href=\"http://www.bbc.co.uk/news/uk-england-northamptonshire-34151953\">other positive news story is a librarian from Northamptonshire, described only as &#8220;Tim&#8221;, who went above and beyond the call of duty and, by doing so, got a load of positive press</a>, including on the BBC national news website. Well done to him. It&#8217;s stories like these that show the importance of libraries and how great they are. We don&#8217;t need reminding but politicians and those of the public that don&#8217;t use libraries surely do.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 22,
+  "story_ids": [
+    "pln-story-9664-changes-001",
+    "pln-story-9664-changes-002",
+    "pln-story-9664-changes-003",
+    "pln-story-9664-local-001",
+    "pln-story-9664-local-002",
+    "pln-story-9664-local-003",
+    "pln-story-9664-local-004",
+    "pln-story-9664-local-005",
+    "pln-story-9664-local-006",
+    "pln-story-9664-local-007",
+    "pln-story-9664-local-008",
+    "pln-story-9664-intl-001",
+    "pln-story-9664-intl-002",
+    "pln-story-9664-intl-003",
+    "pln-story-9664-natl-001",
+    "pln-story-9664-natl-002",
+    "pln-story-9664-natl-003",
+    "pln-story-9664-natl-004",
+    "pln-story-9664-natl-005",
+    "pln-story-9664-natl-006",
+    "pln-story-9664-natl-007",
+    "pln-story-9664-natl-008"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 4,
+    "countries_count": 4,
+    "top_categories": {
+      "staffing_and_unions": 7,
+      "volunteers_and_community": 6,
+      "co_location": 4,
+      "closures_and_threats": 4,
+      "campaigns_and_protests": 4,
+      "cuts_and_finance": 4,
+      "events_and_activities": 3,
+      "digital_and_technology": 2,
+      "opening_hours": 2,
+      "refurbishment_and_new_builds": 2
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

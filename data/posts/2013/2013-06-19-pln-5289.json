@@ -1,0 +1,79 @@
+{
+  "id": "pln-post-5289",
+  "source_id": 5289,
+  "url": "https://www.publiclibrariesnews.com/2013/06/lincolnshire-aim-for-lowest-possible-statutory-provision-32-libraries-at-risk.html",
+  "slug": "lincolnshire-aim-for-lowest-possible-statutory-provision-32-libraries-at-risk",
+  "title": "Lincolnshire aim for lowest possible statutory provision: 32 libraries at risk",
+  "date_published": "2013-06-19T21:41:58",
+  "date_modified": "2013-06-21T21:37:55",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Lincolnshire have announced that 32 out of 45 libraries, plus an indeterminate number of mobiles, will either close or be passed on to volunteers. This is part of a major review that cuts a full third of the budget (£2m from a total of £6m) and will result in a reduction of 170 posts (55 full time equivalent) and, significantly at this time of online everything, 177 less public access computers. So far, so awful but also so sadly familiar. But there are two worrying two aspects about these cuts. The first is that they’re not being touted as due to cuts but rather because the current system is “inefficient”. The second is that the council has carefully looked at the recent DCMS decisions not to intervene in other authorities and tailored their cuts appropriately. So, for instance, the minister made clear that she did not consider computers to be part of the statutory provision and so the loss of so many machines can be contemplated, even at the time when those without online access may have difficulty claiming benefit or looking for a job. This is the first authority I can recall whose cuts have been so clearly tailored to reach the minimum statutory provision. It is also the most clear in stating that, in the brave new e-book and online world, and regardless of finances, there is no longer any need for libraries in smaller towns and villages and, if those communities stubbornly insist that there is, then they can jolly well staff them themselves.",
+    "html": "<p style=\"text-align: justify;\"><strong></strong>Lincolnshire have announced that 32 out of 45 libraries, plus an indeterminate number of mobiles, will either close or be passed on to volunteers. This is part of a major review that cuts a full third of the budget (£2m from a total of £6m) and will result in a reduction of 170 posts (55 full time equivalent) and, significantly at this time of online everything, 177 less public access computers. So far, so awful but also so sadly familiar. But there are two worrying two aspects about these cuts. The first is that they&#8217;re not being touted as due to cuts but rather because the current system is &#8220;inefficient&#8221;. The second is that the council has carefully looked at the recent DCMS decisions not to intervene in other authorities and tailored their cuts appropriately. So, for instance, the minister made clear that she did not consider computers to be part of the statutory provision and so the loss of so many machines can be contemplated, even at the time when those without online access may have difficulty claiming benefit or looking for a job. This is the first authority I can recall whose cuts have been so clearly tailored to reach the minimum statutory provision. It is also the most clear in stating that, in the brave new e-book and online world, and regardless of finances, there is no longer any need for libraries in smaller towns and villages and, if those communities stubbornly insist that there is, then they can jolly well staff them themselves.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "local_news"
+  ],
+  "stories_count": 31,
+  "story_ids": [
+    "pln-story-5289-changes-001",
+    "pln-story-5289-local-001",
+    "pln-story-5289-local-002",
+    "pln-story-5289-local-003",
+    "pln-story-5289-local-004",
+    "pln-story-5289-local-005",
+    "pln-story-5289-local-006",
+    "pln-story-5289-local-007",
+    "pln-story-5289-local-008",
+    "pln-story-5289-local-009",
+    "pln-story-5289-local-010",
+    "pln-story-5289-local-011",
+    "pln-story-5289-ideas-001",
+    "pln-story-5289-ideas-002",
+    "pln-story-5289-ideas-003",
+    "pln-story-5289-ideas-004",
+    "pln-story-5289-ideas-005",
+    "pln-story-5289-ideas-006",
+    "pln-story-5289-ideas-007",
+    "pln-story-5289-ideas-008",
+    "pln-story-5289-ideas-009",
+    "pln-story-5289-ideas-010",
+    "pln-story-5289-ideas-011",
+    "pln-story-5289-ideas-012",
+    "pln-story-5289-ideas-013",
+    "pln-story-5289-ideas-014",
+    "pln-story-5289-ideas-015",
+    "pln-story-5289-ideas-016",
+    "pln-story-5289-ideas-017",
+    "pln-story-5289-ideas-018",
+    "pln-story-5289-ideas-019"
+  ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 3,
+    "countries_count": 2,
+    "top_categories": {
+      "staffing_and_unions": 10,
+      "cuts_and_finance": 7,
+      "closures_and_threats": 5,
+      "digital_and_technology": 4,
+      "events_and_activities": 3,
+      "book_bans_and_challenges": 3,
+      "volunteers_and_community": 2,
+      "co_location": 2,
+      "mobile_and_outreach": 1,
+      "opening_hours": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

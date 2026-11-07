@@ -1,0 +1,65 @@
+{
+  "id": "pln-post-7584",
+  "source_id": 7584,
+  "url": "https://www.publiclibrariesnews.com/2014/05/get-out-and-meet-people.html",
+  "slug": "get-out-and-meet-people",
+  "title": "Get out and meet people",
+  "date_published": "2014-05-28T21:14:15",
+  "date_modified": "2014-05-29T21:28:28",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "So public librarians know that, far from being the quiet shy people stereotyped in popular culture, we’re actually dealing with people all the time. Being an extrovert is a positive advantage in this profession. Library staff deal with the public every day but probably not enough with other library staff outside of their own organisations, especially in these days of limited and sometimes non-existent training budgets. But it is worth the effort to get out there and meet people with different experiences and views. I think this is one of the reasons why the Librarycamp movement is doing so well as is #uklibchat. I recommend both even though I’m not involved enough in either. More traditionally, there’s a pile of events listed below, from the biggest like CILIP 2015 to webcasts. I’d also recommend for your perusal the Library Campaign AGM because these are people who give up their time to fight for libraries and your jobs. They work really hard and they care and, I think, they’d really appreciate a few librarians along to give them support and some inside (and totally confidential) views on what is really going on.",
+    "html": "<p style=\"text-align: justify;\">So public librarians know that, far from being the quiet shy people stereotyped in popular culture, we&#8217;re actually dealing with people all the time. Being an extrovert is a positive advantage in this profession. Library staff deal with the public every day but probably not enough with other library staff outside of their own organisations, especially in these days of limited and sometimes non-existent training budgets. But it is worth the effort to get out there and meet people with different experiences and views. I think this is one of the reasons why the<a title=\"Librarycamp\" href=\"http://www.librarycamp.co.uk/\" target=\"_blank\"> Librarycamp </a>movement is doing so well as is <a title=\"UKlibchat\" href=\"http://uklibchat.wordpress.com/\" target=\"_blank\">#uklibchat</a>. I recommend both even though I&#8217;m not involved enough in either. More traditionally, there&#8217;s a pile of events listed below, from the biggest like CILIP 2015 to webcasts. I&#8217;d also recommend for your perusal the <a title=\"Library Campaign AGM\" href=\"http://www.librarycampaign.com/about-us/\" target=\"_blank\">Library Campaign AGM</a><em> because these are people who give up their time to fight for libraries and your jobs</em>. They work really hard and they care and, I think, they&#8217;d really appreciate a few librarians along to give <em>them</em> support and some inside (and totally confidential) views on what is really going on.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 19,
+  "story_ids": [
+    "pln-story-7584-changes-001",
+    "pln-story-7584-intl-001",
+    "pln-story-7584-intl-002",
+    "pln-story-7584-intl-003",
+    "pln-story-7584-intl-004",
+    "pln-story-7584-intl-005",
+    "pln-story-7584-intl-006",
+    "pln-story-7584-intl-007",
+    "pln-story-7584-intl-008",
+    "pln-story-7584-intl-009",
+    "pln-story-7584-natl-001",
+    "pln-story-7584-natl-002",
+    "pln-story-7584-natl-003",
+    "pln-story-7584-natl-004",
+    "pln-story-7584-natl-005",
+    "pln-story-7584-natl-006",
+    "pln-story-7584-natl-007",
+    "pln-story-7584-natl-008",
+    "pln-story-7584-natl-009"
+  ],
+  "stats": {
+    "authorities_count": 4,
+    "libraries_count": 3,
+    "countries_count": 6,
+    "top_categories": {
+      "staffing_and_unions": 4,
+      "digital_and_technology": 3,
+      "book_bans_and_challenges": 3,
+      "cuts_and_finance": 3,
+      "volunteers_and_community": 2,
+      "campaigns_and_protests": 2,
+      "events_and_activities": 2,
+      "closures_and_threats": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

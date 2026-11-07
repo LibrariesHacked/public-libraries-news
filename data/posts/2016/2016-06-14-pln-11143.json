@@ -1,0 +1,78 @@
+{
+  "id": "pln-post-11143",
+  "source_id": 11143,
+  "url": "https://www.publiclibrariesnews.com/2016/06/how-i-learned-to-stop-worrying-and-love-wikipedia.html",
+  "slug": "how-i-learned-to-stop-worrying-and-love-wikipedia",
+  "title": "How I learned to stop worrying and love Wikipedia",
+  "date_published": "2016-06-14T20:46:49",
+  "date_modified": "2016-06-15T21:57:35",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I remember when Wikipedia was first heard of in public libraries. It was dismissed as something irrelevant or misleading: after all, anyone could add anything to it so how trustworthy, or useful, could it be? I even occasionally hear librarians today questioning its usefulness. Well, it’s probably the main source of information and answers in the Western World now, having displaced the Encyclopaedia Britannica (and, whisper it, libraries) with many people years ago, so perhaps its time to go with it a little. I know from personal experience how quickly fake information is deleted (my “Great Chocolate Teapot Massacre of 1826” lasted barely two seconds when I tried) and how carefully new information was checked. When I added details of a little-known Cheshire prophet to the site, I got contacted to prove my sources: thankfully, I could, but the article still has warnings all over it. After that, I had no doubt as to Wikipedia’s utility and I’m as likely to use it as any other information source, although – as with any other source, printed material included – my falsehood detectors are always on. I am a librarian after all. Nowadays, public librarians need to learn how best to use Wikipedia, not how to discredit it. I’m therefore delighted to have a guest post below from Jason Evans, Wikipedian in Residence at the National Library of Wales. He’s got a lot of useful points to make and there’s a few things there – like the thousands of free images and texts and the ability to use it for local purposes – that will be directly handy and not universally known about. So, it’s time to embrace Wikipedia. Because it’s a good resource and public libraries should, like millions of people, learn how best to use it for our purposes. And, if you don’t believe me, it’s always worth trying to add that entry on the chocolate teapots.",
+    "html": "<p style=\"text-align: justify;\">I remember when Wikipedia was first heard of in public libraries. It was dismissed as something irrelevant or misleading: after all, anyone could add anything to it so how trustworthy, or useful, could it be? I even occasionally hear librarians <em>today</em> questioning its usefulness. Well, it&#8217;s probably the main source of information and answers in the Western World now, having displaced the Encyclopaedia Britannica (and, whisper it, libraries) with many people years ago, so perhaps its time to go with it a little. I know from personal experience how quickly fake information is deleted (my &#8220;Great Chocolate Teapot Massacre of 1826&#8221; lasted barely two seconds when I tried) and how carefully new information was checked. When I added details <a href=\"https://en.wikipedia.org/wiki/Robert_Nixon_(prophet)\" target=\"_blank\">of a little-known Cheshire prophet to the site</a>, I got contacted to prove my sources: thankfully, I could, but the article still has warnings all over it. After that, I had no doubt as to Wikipedia&#8217;s utility and I&#8217;m as likely to use it as any other information source, although &#8211; as with any other source, printed material included &#8211; my falsehood detectors are always on. I am a librarian after all.</p> <p style=\"text-align: justify;\">Nowadays, public librarians need to learn how best to use Wikipedia, not how to discredit it. I&#8217;m therefore delighted to have a guest post below from Jason Evans, Wikipedian in Residence at the National Library of Wales. He&#8217;s got a lot of useful points to make and there&#8217;s a few things there &#8211; like the thousands of free images and texts and the ability to use it for local purposes &#8211; that will be directly handy and not universally known about. So, it&#8217;s time to embrace Wikipedia. Because it&#8217;s a good resource and public libraries should, like millions of people, learn how best to use it for our purposes. And, if you don&#8217;t believe me, it&#8217;s always worth trying to add that entry on the chocolate teapots.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 29,
+  "story_ids": [
+    "pln-story-11143-changes-001",
+    "pln-story-11143-changes-002",
+    "pln-story-11143-local-001",
+    "pln-story-11143-local-002",
+    "pln-story-11143-local-003",
+    "pln-story-11143-local-004",
+    "pln-story-11143-local-005",
+    "pln-story-11143-local-006",
+    "pln-story-11143-local-007",
+    "pln-story-11143-local-008",
+    "pln-story-11143-local-009",
+    "pln-story-11143-local-010",
+    "pln-story-11143-local-011",
+    "pln-story-11143-local-012",
+    "pln-story-11143-local-013",
+    "pln-story-11143-local-014",
+    "pln-story-11143-local-015",
+    "pln-story-11143-local-016",
+    "pln-story-11143-intl-001",
+    "pln-story-11143-intl-002",
+    "pln-story-11143-intl-003",
+    "pln-story-11143-intl-004",
+    "pln-story-11143-intl-005",
+    "pln-story-11143-natl-001",
+    "pln-story-11143-natl-002",
+    "pln-story-11143-natl-003",
+    "pln-story-11143-natl-004",
+    "pln-story-11143-natl-005",
+    "pln-story-11143-natl-006"
+  ],
+  "stats": {
+    "authorities_count": 16,
+    "libraries_count": 7,
+    "countries_count": 7,
+    "top_categories": {
+      "closures_and_threats": 10,
+      "cuts_and_finance": 7,
+      "campaigns_and_protests": 5,
+      "staffing_and_unions": 3,
+      "digital_and_technology": 3,
+      "refurbishment_and_new_builds": 2,
+      "events_and_activities": 2,
+      "opening_hours": 1,
+      "mobile_and_outreach": 1,
+      "governance_and_trusts": 1,
+      "volunteers_and_community": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

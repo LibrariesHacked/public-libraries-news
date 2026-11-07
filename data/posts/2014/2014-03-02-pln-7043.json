@@ -1,0 +1,67 @@
+{
+  "id": "pln-post-7043",
+  "source_id": 7043,
+  "url": "https://www.publiclibrariesnews.com/2014/03/community.html",
+  "slug": "community",
+  "title": "Community",
+  "date_published": "2014-03-02T22:09:54",
+  "date_modified": "2014-03-03T22:19:21",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "If you have any news, views, corrections or comments please send them to ianlibrarian@live.co.uk, thank you.",
+    "html": "<p><em>If you have any news, views, corrections or comments please send them to <a href=\"mailto:ianlibrarian@live.co.uk\">ianlibrarian@live.co.uk</a>, thank you.</em></p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 21,
+  "story_ids": [
+    "pln-story-7043-local-001",
+    "pln-story-7043-local-002",
+    "pln-story-7043-local-003",
+    "pln-story-7043-local-004",
+    "pln-story-7043-local-005",
+    "pln-story-7043-local-006",
+    "pln-story-7043-intl-001",
+    "pln-story-7043-intl-002",
+    "pln-story-7043-intl-003",
+    "pln-story-7043-intl-004",
+    "pln-story-7043-intl-005",
+    "pln-story-7043-intl-006",
+    "pln-story-7043-intl-007",
+    "pln-story-7043-intl-008",
+    "pln-story-7043-natl-001",
+    "pln-story-7043-natl-002",
+    "pln-story-7043-natl-003",
+    "pln-story-7043-natl-004",
+    "pln-story-7043-natl-005",
+    "pln-story-7043-natl-006",
+    "pln-story-7043-natl-007"
+  ],
+  "stats": {
+    "authorities_count": 6,
+    "libraries_count": 5,
+    "countries_count": 4,
+    "top_categories": {
+      "staffing_and_unions": 6,
+      "cuts_and_finance": 5,
+      "closures_and_threats": 4,
+      "digital_and_technology": 3,
+      "volunteers_and_community": 2,
+      "campaigns_and_protests": 2,
+      "events_and_activities": 2,
+      "co_location": 2,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

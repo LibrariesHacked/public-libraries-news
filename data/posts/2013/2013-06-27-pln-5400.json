@@ -1,0 +1,74 @@
+{
+  "id": "pln-post-5400",
+  "source_id": 5400,
+  "url": "https://www.publiclibrariesnews.com/2013/06/responses-to-georges-speech-and-the-rest-of-the-days-news.html",
+  "slug": "responses-to-georges-speech-and-the-rest-of-the-days-news",
+  "title": "Responses to George’s speech and the rest of the day’s news",
+  "date_published": "2013-06-27T21:59:48",
+  "date_modified": "2013-06-28T22:04:28",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "local_news"
+  ],
+  "stories_count": 26,
+  "story_ids": [
+    "pln-story-5400-changes-001",
+    "pln-story-5400-local-001",
+    "pln-story-5400-local-002",
+    "pln-story-5400-local-003",
+    "pln-story-5400-local-004",
+    "pln-story-5400-local-005",
+    "pln-story-5400-local-006",
+    "pln-story-5400-local-007",
+    "pln-story-5400-local-008",
+    "pln-story-5400-local-009",
+    "pln-story-5400-local-010",
+    "pln-story-5400-local-011",
+    "pln-story-5400-local-012",
+    "pln-story-5400-local-013",
+    "pln-story-5400-local-014",
+    "pln-story-5400-local-015",
+    "pln-story-5400-ideas-001",
+    "pln-story-5400-ideas-002",
+    "pln-story-5400-ideas-003",
+    "pln-story-5400-ideas-004",
+    "pln-story-5400-ideas-005",
+    "pln-story-5400-ideas-006",
+    "pln-story-5400-ideas-007",
+    "pln-story-5400-ideas-008",
+    "pln-story-5400-ideas-009",
+    "pln-story-5400-ideas-010"
+  ],
+  "stats": {
+    "authorities_count": 10,
+    "libraries_count": 12,
+    "countries_count": 1,
+    "top_categories": {
+      "cuts_and_finance": 9,
+      "campaigns_and_protests": 3,
+      "staffing_and_unions": 3,
+      "volunteers_and_community": 2,
+      "events_and_activities": 2,
+      "closures_and_threats": 2,
+      "refurbishment_and_new_builds": 1,
+      "digital_and_technology": 1,
+      "co_location": 1,
+      "opening_hours": 1,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

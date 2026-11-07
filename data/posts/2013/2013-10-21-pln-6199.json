@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-6199",
+  "source_id": 6199,
+  "url": "https://www.publiclibrariesnews.com/2013/10/the-scandinavian-library-quarterly-and-other-mindbending-reads.html",
+  "slug": "the-scandinavian-library-quarterly-and-other-mindbending-reads",
+  "title": "The Scandinavian Library Quarterly and other mindbending reads",
+  "date_published": "2013-10-21T22:07:40",
+  "date_modified": "2013-10-23T18:37:39",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A very international feel to the post today, mainly due to the arrival of the Scandinavian Library Quarterly. This English-language magazine covering the four main Scandinavian countries gives an insight into a part of the world which is also seen with envy by local government workers in the UK. Yet, they’re facing many of the same problems there … but the way they’re dealing with them is telling. For example, budget cuts in Denmark mean paid staffing is an issue … so now there’s a whole pile of Danish libraries who all have extended opening hours due to having a national libraries agency and a national RFID standard – things which the UK can only dream of. Another example is the need to promote the library service outside of the library … but there they’re doing so, with pedagogues, blogs and, apparently, ambassador library managers. There’s pedagogues, pharmaceutical delivery, national combined websites … loads of stuff. Have a read.",
+    "html": "<p style=\"text-align: justify;\"><strong></strong>A very international feel to the post today, mainly due to the arrival of the <a title=\"SLQ\" href=\"http://slq.nu/\">Scandinavian Library Quarterly</a>. This English-language magazine covering the four main Scandinavian countries gives an insight into a part of the world which is also seen with envy by local government workers in the UK. Yet, they&#8217;re facing many of the same problems there &#8230; but the way they&#8217;re dealing with them is telling. For example, budget cuts in Denmark mean paid staffing is an issue &#8230; so now there&#8217;s a whole pile of Danish libraries who all have extended opening hours due to having a national libraries agency and a national RFID standard &#8211; things which the UK can only dream of. Another example is the need to promote the library service outside of the library &#8230; but there they&#8217;re doing so, with pedagogues, blogs and, apparently, ambassador library managers. There&#8217;s pedagogues, pharmaceutical delivery, national combined websites &#8230; loads of stuff. Have a read.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news"
+  ],
+  "stories_count": 31,
+  "story_ids": [
+    "pln-story-6199-changes-001",
+    "pln-story-6199-local-001",
+    "pln-story-6199-local-002",
+    "pln-story-6199-local-003",
+    "pln-story-6199-local-004",
+    "pln-story-6199-local-005",
+    "pln-story-6199-local-006",
+    "pln-story-6199-local-007",
+    "pln-story-6199-local-008",
+    "pln-story-6199-local-009",
+    "pln-story-6199-local-010",
+    "pln-story-6199-intl-001",
+    "pln-story-6199-intl-002",
+    "pln-story-6199-intl-003",
+    "pln-story-6199-intl-004",
+    "pln-story-6199-intl-005",
+    "pln-story-6199-intl-006",
+    "pln-story-6199-intl-007",
+    "pln-story-6199-intl-008",
+    "pln-story-6199-intl-009",
+    "pln-story-6199-intl-010",
+    "pln-story-6199-intl-011",
+    "pln-story-6199-intl-012",
+    "pln-story-6199-ideas-001",
+    "pln-story-6199-ideas-002",
+    "pln-story-6199-ideas-003",
+    "pln-story-6199-ideas-004",
+    "pln-story-6199-ideas-005",
+    "pln-story-6199-ideas-006",
+    "pln-story-6199-ideas-007",
+    "pln-story-6199-ideas-008"
+  ],
+  "stats": {
+    "authorities_count": 10,
+    "libraries_count": 7,
+    "countries_count": 9,
+    "top_categories": {
+      "cuts_and_finance": 8,
+      "staffing_and_unions": 8,
+      "digital_and_technology": 7,
+      "closures_and_threats": 4,
+      "opening_hours": 4,
+      "mobile_and_outreach": 3,
+      "volunteers_and_community": 3,
+      "book_bans_and_challenges": 2,
+      "events_and_activities": 2,
+      "refurbishment_and_new_builds": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

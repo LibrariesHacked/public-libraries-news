@@ -1,0 +1,67 @@
+{
+  "id": "pln-post-541",
+  "source_id": 541,
+  "url": "https://www.publiclibrariesnews.com/2011/05/541.html",
+  "slug": "541",
+  "title": "",
+  "date_published": "2011-05-17T15:00:00",
+  "date_modified": "2011-05-17T15:00:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-541-changes-001",
+    "pln-story-541-changes-002",
+    "pln-story-541-changes-003",
+    "pln-story-541-changes-004",
+    "pln-story-541-changes-005",
+    "pln-story-541-changes-006",
+    "pln-story-541-changes-007",
+    "pln-story-541-changes-008",
+    "pln-story-541-changes-009",
+    "pln-story-541-changes-010",
+    "pln-story-541-changes-011",
+    "pln-story-541-changes-012",
+    "pln-story-541-changes-013",
+    "pln-story-541-changes-014",
+    "pln-story-541-changes-015",
+    "pln-story-541-changes-016",
+    "pln-story-541-changes-017",
+    "pln-story-541-changes-018",
+    "pln-story-541-changes-019",
+    "pln-story-541-changes-020",
+    "pln-story-541-changes-021",
+    "pln-story-541-changes-022",
+    "pln-story-541-changes-023",
+    "pln-story-541-changes-024"
+  ],
+  "stats": {
+    "authorities_count": 15,
+    "libraries_count": 3,
+    "countries_count": 2,
+    "top_categories": {
+      "cuts_and_finance": 11,
+      "closures_and_threats": 7,
+      "campaigns_and_protests": 7,
+      "opening_hours": 5,
+      "staffing_and_unions": 3,
+      "mobile_and_outreach": 2,
+      "volunteers_and_community": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

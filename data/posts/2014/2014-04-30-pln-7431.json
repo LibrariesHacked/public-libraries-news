@@ -1,0 +1,60 @@
+{
+  "id": "pln-post-7431",
+  "source_id": 7431,
+  "url": "https://www.publiclibrariesnews.com/2014/04/why-are-private-firms-stepping-in-to-offer-what-seem-like-public-services-more-commonly-offered-in-libraries.html",
+  "slug": "why-are-private-firms-stepping-in-to-offer-what-seem-like-public-services-more-commonly-offered-in-libraries",
+  "title": "“Why are private firms stepping in to offer what seem like public services, more commonly offered in libraries ?”",
+  "date_published": "2014-04-30T20:24:44",
+  "date_modified": "2014-05-01T22:35:50",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 15,
+  "story_ids": [
+    "pln-story-7431-intl-001",
+    "pln-story-7431-intl-002",
+    "pln-story-7431-intl-003",
+    "pln-story-7431-intl-004",
+    "pln-story-7431-intl-005",
+    "pln-story-7431-intl-006",
+    "pln-story-7431-intl-007",
+    "pln-story-7431-intl-008",
+    "pln-story-7431-intl-009",
+    "pln-story-7431-intl-010",
+    "pln-story-7431-intl-011",
+    "pln-story-7431-intl-012",
+    "pln-story-7431-natl-001",
+    "pln-story-7431-natl-002",
+    "pln-story-7431-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 5,
+    "libraries_count": 0,
+    "countries_count": 3,
+    "top_categories": {
+      "staffing_and_unions": 5,
+      "campaigns_and_protests": 2,
+      "events_and_activities": 2,
+      "cuts_and_finance": 1,
+      "volunteers_and_community": 1,
+      "opening_hours": 1,
+      "closures_and_threats": 1,
+      "governance_and_trusts": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

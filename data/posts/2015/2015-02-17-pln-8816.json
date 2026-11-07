@@ -1,0 +1,69 @@
+{
+  "id": "pln-post-8816",
+  "source_id": 8816,
+  "url": "https://www.publiclibrariesnews.com/2015/02/necessity-is-the-mother-of-invention-libraries-in-2015.html",
+  "slug": "necessity-is-the-mother-of-invention-libraries-in-2015",
+  "title": "Necessity is the mother of invention? Libraries in 2015",
+  "date_published": "2015-02-17T21:19:46",
+  "date_modified": "2015-02-22T21:03:54",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "There’s a ton of imaginative stuff going on in libraries, if one pushes past the heavy curtain of budget cuts. My thanks to St Helen’s libraries for sending me details of their Arts in Libraries project, which was brought to my attention after a piece written on the need for more theatre in libraries. The boss of their service tweeted me saying they’re already doing a ton of stuff … and indeed they are. The thing is, of course, that these things are now never dependent on internal resources: ideas have to be free (see the fantastic Hovermark idea below), cost very little or have the capacity for commercial sponsorship (I have hopes for Awesome Boxes in that regard), receive outside funding (like St Helen’s) or require partnership (see this excellent US article). There’s more stuff going on as well: a conference in Edinburgh next month will be covering innovations and I’m including further details about this today: I’m going so I hope to see you there and would love to hear from you about what is going on in your service.",
+    "html": "<p style=\"text-align: justify;\">There&#8217;s a ton of imaginative stuff going on in libraries, if one pushes past the heavy curtain of budget cuts. My thanks to St Helen&#8217;s libraries for sending me details of their Arts in Libraries project, which was brought to my attention after a piece written on the need for more theatre in libraries. The boss of their service tweeted me saying they&#8217;re already doing a ton of stuff &#8230; and indeed they are. The thing is, of course, that these things are now never dependent on internal resources: ideas have to be free (see the fantastic Hovermark idea below), cost very little or have the capacity for commercial sponsorship (I have hopes for Awesome Boxes in that regard), receive outside funding (like St Helen&#8217;s) or require partnership (<a title=\"Alone we can do so little ...\" href=\"http://www.techsoupforlibraries.org/spotlight/%E2%80%9Calone-we-can-do-so-little-together-we-can-do-so-much%E2%80%9D\">see this excellent US article</a><a title=\"Techsoup\" href=\"http://www.techsoupforlibraries.org/spotlight/%E2%80%9Calone-we-can-do-so-little-together-we-can-do-so-much%E2%80%9D\">).</a> There&#8217;s more stuff going on as well: a conference in Edinburgh next month will be covering innovations and I&#8217;m including further details about this today: I&#8217;m going so I hope to see you there and would love to hear from you about what is going on in your service.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 22,
+  "story_ids": [
+    "pln-story-8816-changes-001",
+    "pln-story-8816-intl-001",
+    "pln-story-8816-intl-002",
+    "pln-story-8816-intl-003",
+    "pln-story-8816-intl-004",
+    "pln-story-8816-intl-005",
+    "pln-story-8816-intl-006",
+    "pln-story-8816-intl-007",
+    "pln-story-8816-intl-008",
+    "pln-story-8816-intl-009",
+    "pln-story-8816-intl-010",
+    "pln-story-8816-intl-011",
+    "pln-story-8816-natl-001",
+    "pln-story-8816-natl-002",
+    "pln-story-8816-natl-003",
+    "pln-story-8816-natl-004",
+    "pln-story-8816-natl-005",
+    "pln-story-8816-ideas-001",
+    "pln-story-8816-ideas-002",
+    "pln-story-8816-ideas-003",
+    "pln-story-8816-ideas-004",
+    "pln-story-8816-ideas-005"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 4,
+    "countries_count": 2,
+    "top_categories": {
+      "cuts_and_finance": 6,
+      "staffing_and_unions": 5,
+      "campaigns_and_protests": 4,
+      "events_and_activities": 4,
+      "digital_and_technology": 2,
+      "volunteers_and_community": 2,
+      "closures_and_threats": 2,
+      "co_location": 1,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

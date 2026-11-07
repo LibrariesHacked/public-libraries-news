@@ -1,0 +1,56 @@
+{
+  "id": "pln-post-13611",
+  "source_id": 13611,
+  "url": "https://www.publiclibrariesnews.com/2018/02/its-not-all-fine-trafford-remove-all-late-fees-from-1st-april.html",
+  "slug": "its-not-all-fine-trafford-remove-all-late-fees-from-1st-april",
+  "title": "It’s not all fine: Trafford remove all late fees from 1st April",
+  "date_published": "2018-02-07T20:41:14",
+  "date_modified": "2018-02-11T17:12:41",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Trafford has shocked the UK public library world by announcing that they will be removing all library fines from 1st April. The reasons put forward for that by councillors is that fines are off-putting for customers, no fines will increase usage (and indeed will increase returns as people know they won’t get fined if they’re late) and that there should not be any barriers to accessing libraries. Children were especially mentioned as benefitting from no fines and Trafford will also be giving a library card to every child. One suspects as well that it will be a nice thing to say the council has done if local elections are coming up. This is not the first library service in England to remove fines – Rutland does not have fines and I understand from Twitter that there’s one or two in Scotland (West Lothian and West Dunbartonshire) – but it is the first major (sorry Rutland) or metropolitan library service in England to go down this route and so will inevitably be noticed more. It also ties in with a global trend I’ve been noticing for a while (especially in the USA and Australia) where libraries have been removing fine due to it being a barrier (after all, we’ve removed physical ones years ago), inequitable and no longer needed now we have the power to automatically online renew. The big barrier to this in the UK is of course where the money is going to come from if we get rid of fines. Charging people for late books does bring in some money that will need to be replaced in another way. There’s also – no surprise in the library world this – a fundamental lack of research of shared data on how effective removing fines are. We need that evidence shared in order to spread good practice and identify bad. Personally, I am tired of seeing people arguing over fines in libraries and I know that fines are a reason people tell me socially they no longer use libraries. So I really hope this is a successful experiment. And an experiment that produces what a good experiment always does: actual shareable data on the result. There’s more information on pros and cons on fines (and the thorny problem of fines recovery) on this page.",
+    "html": "<p style=\"text-align: justify;\">Trafford has shocked the UK public library world by announcing that they will be removing all library fines from 1st April. The reasons put forward for that by councillors is that fines are off-putting for customers, no fines will increase usage (and indeed will <em>increase</em> returns as people know they won&#8217;t get fined if they&#8217;re late) and that there should not be any barriers to accessing libraries. Children were especially mentioned as benefitting from no fines and Trafford will also be giving a library card to every child. One suspects as well that it will be a nice thing to say the council has done if local elections are coming up.</p> <p style=\"text-align: justify;\">This is not the first library service in England to remove fines &#8211; <a href=\"https://emlib.ent.sirsidynix.net.uk/client/en_GB/rutland/?rm=RETURNING+YOUR0%7C%7C%7C1%7C%7C%7C0%7C%7C%7Ctrue\">Rutland does not have fines</a> and I understand from Twitter that there&#8217;s one or two in Scotland (West Lothian and West Dunbartonshire) &#8211; but it is the first major (sorry Rutland) or metropolitan library service in England to go down this route and so will inevitably be noticed more. It also ties in with a global trend I&#8217;ve been noticing for a while (especially in the USA and Australia) where libraries have been removing fine due to it being a barrier (after all, we&#8217;ve removed physical ones years ago), inequitable and no longer needed now we have the power to automatically online renew.</p> <p style=\"text-align: justify;\">The big barrier to this in the UK is of course where the money is going to come from if we get rid of fines. Charging people for late books does bring in some money that will need to be replaced in another way. There&#8217;s also &#8211; no surprise in the library world this &#8211; a fundamental lack of research of shared data on how effective removing fines are. We need that evidence shared in order to spread good practice and identify bad. Personally, I am tired of seeing people arguing over fines in libraries and I know that fines are a reason people tell me socially they no longer use libraries. So I really hope this is a successful experiment. And an experiment that produces what a good experiment always does: actual shareable data on the result.</p> <p style=\"text-align: justify;\"><a href=\"https://www.publiclibrariesnews.com/campaigning/increasing-income/fines-recovery\">There&#8217;s more information on pros and cons on fines (and the thorny problem of fines recovery) on this page.</a></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 14,
+  "story_ids": [
+    "pln-story-13611-changes-001",
+    "pln-story-13611-changes-002",
+    "pln-story-13611-changes-003",
+    "pln-story-13611-changes-004",
+    "pln-story-13611-local-001",
+    "pln-story-13611-local-002",
+    "pln-story-13611-local-003",
+    "pln-story-13611-local-004",
+    "pln-story-13611-local-005",
+    "pln-story-13611-local-006",
+    "pln-story-13611-local-007",
+    "pln-story-13611-natl-001",
+    "pln-story-13611-natl-002",
+    "pln-story-13611-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 2,
+    "countries_count": 2,
+    "top_categories": {
+      "co_location": 5,
+      "closures_and_threats": 2,
+      "cuts_and_finance": 2,
+      "warm_spaces_and_wellbeing": 1,
+      "staffing_and_unions": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

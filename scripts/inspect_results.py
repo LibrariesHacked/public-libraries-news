@@ -14,11 +14,11 @@ def analyze_all():
     unstripped_dashes = 0
     unresolved_entities = set()
 
-    for p_path in sorted(posts):
+    for p_path in sorted(posts)[-5:]:
         with open(p_path, "r", encoding="utf-8") as f:
             post = json.load(f)
 
-        print(f"Post {post['source_id']} ({post['date_published'][:10]}): {post['title'][:50]}...")
+        print(f"Sample Post {post['source_id']} ({post['date_published'][:10]}): {post['title'][:50]}...")
         print(f"  Stories: {post['stories_count']} | Sections: {post['sections_found']}")
 
     stories_files = glob.glob("data/stories/*.json")

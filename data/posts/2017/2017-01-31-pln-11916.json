@@ -1,0 +1,83 @@
+{
+  "id": "pln-post-11916",
+  "source_id": 11916,
+  "url": "https://www.publiclibrariesnews.com/2017/01/usa-and-canada-see-library-usage-rise-34-budget-cuts-in-walsall-and-kirklees.html",
+  "slug": "usa-and-canada-see-library-usage-rise-34-budget-cuts-in-walsall-and-kirklees",
+  "title": "USA and Canada see library usage rise: 3/4 budget cuts in Walsall and Kirklees",
+  "date_published": "2017-01-31T21:28:04",
+  "date_modified": "2017-02-05T20:48:15",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Those people who say the decline in public libraries are inevitable should look at what is happening in the USA and Canada some time. Just today, there are stories that show that library visits (even book issues) in the USA are increasing long-term and the big authority of Hamilton in Canada saw an increase of 13% over one year. Neither the USA overall or Hamilton have seen deep cuts to their budgets. How that’s going to change with Trump as President one can sadly guess at but the figures show that the decline in UK library usage is not pre-ordained. If you think it is, explain why it’s not happening there. Sadly, however, why the cuts are happening here is pretty evident. From just today’s announcements – Kirklees will soon have reduced their libraries budget by 72% by my reckoning (check the figures below) and Walsall are reported as cutting their budget from £4m to £1m, another cut of three-quarters. Meanwhile, West Berkshire are proudly announcing that they won’t close as many libraries as they originally wanted to because they’re going to depend on volunteers and parish/town council donations instead. Faced with such cuts, it’s pretty clear the decline in Britain is more a case of Austerity killing them than anything else.",
+    "html": "<p style=\"text-align: justify;\">Those people who say the decline in public libraries are inevitable should look at what is happening in the USA and Canada some time. Just today, there are stories that show that library visits (even book issues) in the USA are increasing long-term and the big authority of Hamilton in Canada saw an increase of 13% over one year. Neither the USA overall or Hamilton have seen deep cuts to their budgets. How that&#8217;s going to change with Trump as President one can sadly guess at but the figures show that the decline in UK library usage is not pre-ordained. If you think it is, explain why it&#8217;s not happening there. Sadly, however, why the cuts are happening <em>here</em> is pretty evident. From just today&#8217;s announcements &#8211; Kirklees will soon have reduced their libraries budget by 72% by my reckoning (check the figures below) and Walsall are reported as cutting their budget from £4m to £1m, another cut of three-quarters. Meanwhile, West Berkshire are proudly announcing that they won&#8217;t close as many libraries as they originally wanted to because they&#8217;re going to depend on volunteers and parish/town council donations instead. Faced with such cuts, it&#8217;s pretty clear the decline in Britain is more a case of Austerity killing them than anything else.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 32,
+  "story_ids": [
+    "pln-story-11916-changes-001",
+    "pln-story-11916-changes-002",
+    "pln-story-11916-changes-003",
+    "pln-story-11916-changes-004",
+    "pln-story-11916-changes-005",
+    "pln-story-11916-changes-006",
+    "pln-story-11916-changes-007",
+    "pln-story-11916-changes-008",
+    "pln-story-11916-local-001",
+    "pln-story-11916-local-002",
+    "pln-story-11916-local-003",
+    "pln-story-11916-local-004",
+    "pln-story-11916-local-005",
+    "pln-story-11916-local-006",
+    "pln-story-11916-local-007",
+    "pln-story-11916-local-008",
+    "pln-story-11916-local-009",
+    "pln-story-11916-local-010",
+    "pln-story-11916-local-011",
+    "pln-story-11916-local-012",
+    "pln-story-11916-local-013",
+    "pln-story-11916-local-014",
+    "pln-story-11916-local-015",
+    "pln-story-11916-local-016",
+    "pln-story-11916-intl-001",
+    "pln-story-11916-intl-002",
+    "pln-story-11916-intl-003",
+    "pln-story-11916-intl-004",
+    "pln-story-11916-natl-001",
+    "pln-story-11916-natl-002",
+    "pln-story-11916-natl-003",
+    "pln-story-11916-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 22,
+    "countries_count": 5,
+    "top_categories": {
+      "cuts_and_finance": 13,
+      "closures_and_threats": 11,
+      "staffing_and_unions": 6,
+      "volunteers_and_community": 5,
+      "refurbishment_and_new_builds": 4,
+      "campaigns_and_protests": 4,
+      "co_location": 3,
+      "opening_hours": 2,
+      "digital_and_technology": 2,
+      "governance_and_trusts": 1,
+      "events_and_activities": 1,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

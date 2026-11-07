@@ -62,6 +62,26 @@
     "pln-story-20035-natl-003",
     "pln-story-20035-natl-004"
   ],
+  "stats": {
+    "authorities_count": 29,
+    "libraries_count": 23,
+    "countries_count": 7,
+    "top_categories": {
+      "cuts_and_finance": 13,
+      "events_and_activities": 10,
+      "closures_and_threats": 9,
+      "staffing_and_unions": 9,
+      "opening_hours": 6,
+      "volunteers_and_community": 5,
+      "mobile_and_outreach": 4,
+      "refurbishment_and_new_builds": 4,
+      "governance_and_trusts": 4,
+      "book_bans_and_challenges": 2,
+      "co_location": 2,
+      "campaigns_and_protests": 1,
+      "digital_and_technology": 1
+    }
+  },
   "attribution": {
     "source": "Public Libraries News",
     "source_url": "https://www.publiclibrariesnews.com/",

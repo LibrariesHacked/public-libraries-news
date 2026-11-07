@@ -1,0 +1,74 @@
+{
+  "id": "pln-post-14852",
+  "source_id": 14852,
+  "url": "https://www.publiclibrariesnews.com/2019/04/the-library-book-the-public-and-the-mighty-ducks.html",
+  "slug": "the-library-book-the-public-and-the-mighty-ducks",
+  "title": "The Library Book, The Public and the Mighty Ducks",
+  "date_published": "2019-04-07T15:30:13",
+  "date_modified": "2019-09-20T15:45:22",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I’m a sucker for books and films telling me how great libraries are. One of the best books I’ve read recently is The Library Book by Susan Orlean, due to a number of factors. The first is, of course, the fact that the author clearly loves libraries but also there is the ongoing whodunnit thread of who burnt the library as well as it being an introduction to the US library system both now and the past. For this reason also, I’m looking forward to watching The Public. Mind you, I’ve always liked Emilio Estevez, even in the Mighty Ducks. You can always tell it’s been quiet news week (Brexit? Local elections?) when I slip in a film or a book in the editorial. Don’t tell anyone …",
+    "html": "<p>I’m a sucker for books and films telling me how great libraries are. One of the best books I’ve read recently is <a href=\"https://www.goodreads.com/book/show/39507318-the-library-book\">The Library Book by Susan Orlean</a>, due to a number of factors. The first is, of course, the fact that the author clearly loves libraries but also there is the ongoing whodunnit thread of who burnt the library as well as it being an introduction to the US library system both now and the past. For this reason also, I’m looking forward to watching The Public. Mind you, I’ve always liked Emilio Estevez, <a href=\"https://www.imdb.com/title/tt3294746/\">even in the Mighty Ducks</a>. You can always tell it’s been quiet news week (Brexit? Local elections?) when I slip in a film or a book in the editorial. Don’t tell anyone …</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 25,
+  "story_ids": [
+    "pln-story-14852-changes-001",
+    "pln-story-14852-changes-002",
+    "pln-story-14852-local-001",
+    "pln-story-14852-local-002",
+    "pln-story-14852-local-003",
+    "pln-story-14852-local-004",
+    "pln-story-14852-local-005",
+    "pln-story-14852-local-006",
+    "pln-story-14852-local-007",
+    "pln-story-14852-local-008",
+    "pln-story-14852-local-009",
+    "pln-story-14852-local-010",
+    "pln-story-14852-local-011",
+    "pln-story-14852-local-012",
+    "pln-story-14852-local-013",
+    "pln-story-14852-local-014",
+    "pln-story-14852-intl-001",
+    "pln-story-14852-intl-002",
+    "pln-story-14852-intl-003",
+    "pln-story-14852-intl-004",
+    "pln-story-14852-intl-005",
+    "pln-story-14852-intl-006",
+    "pln-story-14852-natl-001",
+    "pln-story-14852-natl-002",
+    "pln-story-14852-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 14,
+    "libraries_count": 10,
+    "countries_count": 6,
+    "top_categories": {
+      "events_and_activities": 7,
+      "staffing_and_unions": 6,
+      "closures_and_threats": 3,
+      "campaigns_and_protests": 3,
+      "refurbishment_and_new_builds": 2,
+      "opening_hours": 2,
+      "volunteers_and_community": 1,
+      "cuts_and_finance": 1,
+      "co_location": 1,
+      "digital_and_technology": 1,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

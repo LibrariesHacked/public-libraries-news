@@ -1,0 +1,77 @@
+{
+  "id": "pln-post-9714",
+  "source_id": 9714,
+  "url": "https://www.publiclibrariesnews.com/2015/09/kirklees-look-to-lose-two-thirds-staffs-takeovers-a-bibliocommons-draft-report.html",
+  "slug": "kirklees-look-to-lose-two-thirds-staffs-takeovers-a-bibliocommons-draft-report",
+  "title": "Kirklees look to lose two-thirds, Staffs takeovers + a Bibliocommons draft report",
+  "date_published": "2015-09-15T21:38:24",
+  "date_modified": "2015-09-20T20:07:21",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Kirklees has given more thought to what it is doing with its libraries: two-thirds of them will close or pass to volunteers and all six mobiles will end. This is actually slightly better than the proposals last year but few library users, or the 100+ staff whose jobs may be lost, will be celebrating that. In other news, Staffordshire has started describing which groups will be taking over libraries it is withdrawing from. The NHS are taking over three and it’ll be interesting to see how that works – there’s actually much to be said for closer health/library co-operation, although I’m not sure if that is what will happen. Even more interesting, and something to think over the implications of, is a Baptist church is taking over the running of another one. We’ll see who takes over the others soon. Elsewhere, Sutton is considering cuts of around a quarter and Thurrock is reducing opening hours. Those who follow lis-pub-libs will see that a draft of a Bibliocommons / SCL report on public libraries “digital offer” was released before it had finally been agreed. I of course had a look but, because it is a draft, won’t comment much here, other observing that there’s an inherent issue with having a library computer company recommending solutions that they may then bid for themselves. More when the report comes out for real.",
+    "html": "<p style=\"text-align: justify;\">Kirklees has given more thought to what it is doing with its libraries: two-thirds of them will close or pass to volunteers and all six mobiles will end. This is actually slightly better than the proposals last year but few library users, or the 100+ staff whose jobs may be lost, will be celebrating that. In other news, Staffordshire has started describing which groups will be taking over libraries it is withdrawing from. The NHS are taking over three and it&#8217;ll be interesting to see how that works &#8211; there&#8217;s actually much to be said for closer health/library co-operation, although I&#8217;m not sure if that is what will happen. Even more interesting, and something to think over the implications of, is a Baptist church is taking over the running of another one. We&#8217;ll see who takes over the others soon. Elsewhere, Sutton is considering cuts of around a quarter and Thurrock is reducing opening hours.</p> <p style=\"text-align: justify;\">Those who follow <a href=\"https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=LIS-PUB-LIBS\">lis-pub-libs</a> will see that a draft of a Bibliocommons / SCL report on public libraries &#8220;digital offer&#8221; was released before it had finally been agreed. I of course had a look but, because it is a draft, won&#8217;t comment much here, other observing that there&#8217;s an inherent issue with having a library computer company recommending solutions that they may then bid for themselves. More when the report comes out for real.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 26,
+  "story_ids": [
+    "pln-story-9714-changes-001",
+    "pln-story-9714-changes-002",
+    "pln-story-9714-changes-003",
+    "pln-story-9714-changes-004",
+    "pln-story-9714-local-001",
+    "pln-story-9714-local-002",
+    "pln-story-9714-local-003",
+    "pln-story-9714-local-004",
+    "pln-story-9714-local-005",
+    "pln-story-9714-local-006",
+    "pln-story-9714-local-007",
+    "pln-story-9714-local-008",
+    "pln-story-9714-local-009",
+    "pln-story-9714-local-010",
+    "pln-story-9714-local-011",
+    "pln-story-9714-local-012",
+    "pln-story-9714-local-013",
+    "pln-story-9714-local-014",
+    "pln-story-9714-local-015",
+    "pln-story-9714-local-016",
+    "pln-story-9714-intl-001",
+    "pln-story-9714-natl-001",
+    "pln-story-9714-natl-002",
+    "pln-story-9714-natl-003",
+    "pln-story-9714-natl-004",
+    "pln-story-9714-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 25,
+    "countries_count": 2,
+    "top_categories": {
+      "cuts_and_finance": 12,
+      "closures_and_threats": 11,
+      "volunteers_and_community": 7,
+      "opening_hours": 7,
+      "mobile_and_outreach": 6,
+      "staffing_and_unions": 6,
+      "book_bans_and_challenges": 4,
+      "governance_and_trusts": 3,
+      "campaigns_and_protests": 3,
+      "refurbishment_and_new_builds": 1,
+      "events_and_activities": 1,
+      "co_location": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

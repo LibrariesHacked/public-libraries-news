@@ -1,0 +1,74 @@
+{
+  "id": "pln-post-15168",
+  "source_id": 15168,
+  "url": "https://www.publiclibrariesnews.com/2019/11/consultation-in-bradford-and-transfer-delay-in-hertfordshire.html",
+  "slug": "consultation-in-bradford-and-transfer-delay-in-hertfordshire",
+  "title": "Consultation in Bradford and transfer delay in Hertfordshire",
+  "date_published": "2019-11-17T19:40:43",
+  "date_modified": "2019-11-19T19:54:20",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Purdah, that strangely colonial term for councils not being political during an election campaign, is kicking in but there are a few things still happening in library-land. Two local stories. The first is that Hertfordshire are having to postpone the transfer of their library service to a mutual because of how complicated it is. Something that needs bearing in mind with those wanting to transfer their service out of direct council control is the complexity. Think of it as a mini-Brexit but, thankfully, without Farage. Unless you’re doing it really wrong. Secondly, Bradford are finally consulting on the deep cuts it is proposing for its library service which has already resulted in strike action. Bradford’s entry on this website chronicling the last ten years is a long and terrible one and to add this injury on top is horrible. I hope the people of the city let them know how bad. Finally, Libraries are starting to be mentioned in articles concerning the General Election, notably of course in the Guardian – ever the official newspaper of public services – but also a smattering in the local press too. While this is very much a one-issue election, it would be good to see some more mentions so politicians are reminded of how important the service is.",
+    "html": "<p class=\"wp-block-paragraph\">Purdah, that strangely colonial term for councils not being political during an election campaign, is kicking in but there are a few things still happening in library-land.</p> <p class=\"wp-block-paragraph\">Two local stories. The first is that Hertfordshire are having to postpone the transfer of their library service to a mutual because of how complicated it is. Something that needs bearing in mind with those wanting to transfer their service out of direct council control is the complexity. Think of it as a mini-Brexit but, thankfully, without Farage. Unless you&#8217;re doing it really wrong. Secondly, Bradford are finally consulting on the deep cuts it is proposing for its library service which has already resulted in strike action. <a href=\"https://www.publiclibrariesnews.com/about-public-libraries-news/information/changes-by-local-authority-a-to-fife/bedfordshire-to-bradford\">Bradford&#8217;s entry on this website chronicling the last ten years</a> is a long and terrible one and to add this injury on top is horrible. I hope the people of the city let them know how bad.</p> <p class=\"wp-block-paragraph\">Finally, Libraries are starting to be mentioned in articles concerning the General Election, notably of course in the Guardian &#8211; ever the official newspaper of public services &#8211; but also a smattering in the local press too. While this is very much a one-issue election, it would be good to see some more mentions so politicians are reminded of how important the service is.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 25,
+  "story_ids": [
+    "pln-story-15168-changes-001",
+    "pln-story-15168-changes-002",
+    "pln-story-15168-changes-003",
+    "pln-story-15168-changes-004",
+    "pln-story-15168-local-001",
+    "pln-story-15168-local-002",
+    "pln-story-15168-local-003",
+    "pln-story-15168-local-004",
+    "pln-story-15168-local-005",
+    "pln-story-15168-local-006",
+    "pln-story-15168-local-007",
+    "pln-story-15168-local-008",
+    "pln-story-15168-local-009",
+    "pln-story-15168-local-010",
+    "pln-story-15168-local-011",
+    "pln-story-15168-local-012",
+    "pln-story-15168-local-013",
+    "pln-story-15168-local-014",
+    "pln-story-15168-local-015",
+    "pln-story-15168-local-016",
+    "pln-story-15168-local-017",
+    "pln-story-15168-intl-001",
+    "pln-story-15168-intl-002",
+    "pln-story-15168-intl-003",
+    "pln-story-15168-natl-001"
+  ],
+  "stats": {
+    "authorities_count": 17,
+    "libraries_count": 12,
+    "countries_count": 6,
+    "top_categories": {
+      "staffing_and_unions": 9,
+      "cuts_and_finance": 7,
+      "closures_and_threats": 5,
+      "governance_and_trusts": 3,
+      "refurbishment_and_new_builds": 2,
+      "events_and_activities": 2,
+      "campaigns_and_protests": 2,
+      "opening_hours": 1,
+      "book_bans_and_challenges": 1,
+      "volunteers_and_community": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "pln-post-8628",
+  "source_id": 8628,
+  "url": "https://www.publiclibrariesnews.com/2015/01/news-for-28th-29th-january.html",
+  "slug": "news-for-28th-29th-january",
+  "title": "News for 28th-29th January",
+  "date_published": "2015-01-29T21:16:03",
+  "date_modified": "2015-02-01T23:17:35",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 30,
+  "story_ids": [
+    "pln-story-8628-changes-001",
+    "pln-story-8628-intl-001",
+    "pln-story-8628-intl-002",
+    "pln-story-8628-intl-003",
+    "pln-story-8628-intl-004",
+    "pln-story-8628-intl-005",
+    "pln-story-8628-intl-006",
+    "pln-story-8628-intl-007",
+    "pln-story-8628-intl-008",
+    "pln-story-8628-intl-009",
+    "pln-story-8628-intl-010",
+    "pln-story-8628-intl-011",
+    "pln-story-8628-intl-012",
+    "pln-story-8628-intl-013",
+    "pln-story-8628-intl-014",
+    "pln-story-8628-intl-015",
+    "pln-story-8628-intl-016",
+    "pln-story-8628-intl-017",
+    "pln-story-8628-intl-018",
+    "pln-story-8628-intl-019",
+    "pln-story-8628-intl-020",
+    "pln-story-8628-intl-021",
+    "pln-story-8628-natl-001",
+    "pln-story-8628-natl-002",
+    "pln-story-8628-natl-003",
+    "pln-story-8628-natl-004",
+    "pln-story-8628-natl-005",
+    "pln-story-8628-natl-006",
+    "pln-story-8628-ideas-001",
+    "pln-story-8628-ideas-002"
+  ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 15,
+    "countries_count": 3,
+    "top_categories": {
+      "closures_and_threats": 9,
+      "staffing_and_unions": 7,
+      "cuts_and_finance": 7,
+      "volunteers_and_community": 5,
+      "campaigns_and_protests": 4,
+      "digital_and_technology": 3,
+      "events_and_activities": 3,
+      "refurbishment_and_new_builds": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

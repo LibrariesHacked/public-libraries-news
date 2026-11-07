@@ -1,0 +1,56 @@
+{
+  "id": "pln-post-479",
+  "source_id": 479,
+  "url": "https://www.publiclibrariesnews.com/2011/07/bad-news-in-bolton.html",
+  "slug": "bad-news-in-bolton",
+  "title": "Bad News in Bolton",
+  "date_published": "2011-07-28T22:55:00",
+  "date_modified": "2011-07-28T22:55:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Comment Continuing what is definitely a Bad News Week, Bolton have confirmed they wish to go ahead with closing five libraries. There is an interesting article in the Local Government Chronicle that may give some councils pause for thought in the national head-long rush against free access to books, suggesting that divesting/dumping libraries onto volunteers may create a long term risk to their reputation. 405 libraries (325 buildings and 80 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4612 in the UK, complete list below. Librarian professional body CILIP forecasts 600 libraries under threat (inc. 20% of English libraries). The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day. News Local libraries – community risk or reward? – Local Government Chronicle. Councils are under pressure to close libraries, one of the best ways to do this is to pass them to volunteers – but the council will suffer a long-term risk to its reputation if this is not managed well or the volunteers run into trouble. Once upon a time in libraryland – There she goes (Australia, blog) – Summarises situation campaiging to save libraries in Victoria. Santa Clarita Library opens its doors to LSSI as Toronto gears up for an outsourcing fight – Library Journal (USA). “The number of professional librarians at Santa Clarita has been reduced from 14 to nine. Overall, LSSI has budgeted for 59 positions, or about 48-50 FTEs for the three branches, compared to the 99 positions that the county had budgeted for in FY10, or about 60 FTEs… The library workforce is no longer represented by a union… Ebook availability is more constrained under the new system…when asked to disclose salaries, for example, the company declined to release any information…",
+    "html": "<b>Comment</b> Continuing what is definitely a Bad News Week, Bolton have confirmed they wish to go ahead with closing five libraries. There is an interesting article in the Local Government Chronicle that may give some councils pause for thought in the national head-long rush against free access to books, suggesting that divesting/dumping libraries onto volunteers<b> </b>may create a long term risk to their reputation. <b>405 libraries (325 buildings and 80 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.<a href=\"http://www.cilip.org.uk/get-involved/advocacy/public-libraries/Documents/Public_libraries_briefing_CILIP_March2011.pdf\">4612</a> in the UK, complete list below</b><b>. Librarian professional body CILIP forecasts 600 libraries under threat (inc. 20% of English libraries). </b>The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day.<b> </b> <b>News</b> <ul style=\"text-align: justify;\"> <li><b><a href=\"http://www.lgcplus.com/local-libraries-community-risk-or-reward/5033161.blog\">Local libraries &#8211; community risk or reward?</a> &#8211; </b>Local Government Chronicle. Councils are under pressure to close libraries, one of the best ways to do this is to pass them to volunteers &#8211; but the council will suffer a long-term risk to its reputation if this is not managed well or the volunteers run into trouble.</li> <li><b><a href=\"http://bookgrrl.wordpress.com/2011/07/27/once-upon-a-time-in-libraryland/\">Once upon a time in libraryland</a> &#8211; </b>There she goes (Australia, blog) &#8211; <b> </b>Summarises situation campaiging to save libraries in Victoria.</li> <li><b><a href=\"http://www.libraryjournal.com/lj/home/891415-264/santa_clarita_library_opens_its.html.csp\">Santa Clarita Library opens its doors to LSSI as Toronto gears up for an outsourcing fight</a> &#8211; </b>Library Journal (USA). <b> </b>&#8220;The number of professional librarians at Santa Clarita has been reduced from 14 to nine. Overall, LSSI has budgeted for 59 positions, or about 48-50 FTEs for the three branches, compared to the 99 positions that the county had budgeted for in FY10, or about 60 FTEs&#8230; The library workforce is no longer represented by a union&#8230; Ebook availability is more constrained under the new system&#8230;when asked to disclose salaries, for example, the company declined to release any information&#8230;<b> </b></li>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 13,
+  "story_ids": [
+    "pln-story-479-changes-001",
+    "pln-story-479-local-001",
+    "pln-story-479-local-002",
+    "pln-story-479-local-003",
+    "pln-story-479-local-004",
+    "pln-story-479-local-005",
+    "pln-story-479-local-006",
+    "pln-story-479-local-007",
+    "pln-story-479-local-008",
+    "pln-story-479-local-009",
+    "pln-story-479-local-010",
+    "pln-story-479-local-011",
+    "pln-story-479-local-012"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 11,
+    "countries_count": 2,
+    "top_categories": {
+      "closures_and_threats": 8,
+      "campaigns_and_protests": 5,
+      "cuts_and_finance": 4,
+      "staffing_and_unions": 2,
+      "opening_hours": 2,
+      "refurbishment_and_new_builds": 2,
+      "volunteers_and_community": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

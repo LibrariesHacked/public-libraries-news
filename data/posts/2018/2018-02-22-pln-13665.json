@@ -1,0 +1,75 @@
+{
+  "id": "pln-post-13665",
+  "source_id": 13665,
+  "url": "https://www.publiclibrariesnews.com/2018/02/portmsmouth-goes-fine-free-a-couple-of-new-libraries-and-surrey-ends-newspapers.html",
+  "slug": "portmsmouth-goes-fine-free-a-couple-of-new-libraries-and-surrey-ends-newspapers",
+  "title": "Portsmouth goes fine-free, a couple of new libraries … and Surrey ends newspapers",
+  "date_published": "2018-02-22T21:57:16",
+  "date_modified": "2018-02-25T20:17:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Well, well, well. To be honest, I was watching the trend in other countries towards removing library fines and thinking that it would never happen here due to austerity … and. well, it’s happening. Portsmouth has joined four others in the UK (it’s the third in England) and announced it the move. Gosh. It’s a good news story for them and I hope others take it up as well. I’m also loving seeing stories about the new Colliers Wood Library and the official opening of Oxford Central (did you ever get the lift fixed?). But, hey, before we get too upbeat, let’s walk over to Surrey where there’s now no newspapers other than the “I”, their online provision and what the public feel like donating. Well, at least it means no taxpayers money there is going to the Mail.",
+    "html": "<p style=\"text-align: justify;\">Well, well, well. To be honest, I was watching the trend in other countries towards removing library fines and thinking that it would never happen here due to austerity &#8230; and. well, it&#8217;s happening. Portsmouth has joined four others in the UK (it&#8217;s the third in England) and announced it the move. Gosh. It&#8217;s a good news story for them and I hope others take it up as well. I&#8217;m also loving seeing stories about the new <a href=\"https://arena.yourlondonlibrary.net/web/merton/colliers-wood-library\" target=\"_blank\">Colliers Wood Library </a>and the official opening of Oxford Central (<a href=\"http://www.oxfordmail.co.uk/News/15985906.Disabled_hit_by___39_poor_planning__39__and_lack_of_taxi_rank_at_Westgate_shopping_centre/\" target=\"_blank\">did you ever get the lift fixed</a>?). But, hey, before we get too upbeat, let&#8217;s walk over to Surrey where there&#8217;s now no newspapers other than the &#8220;I&#8221;, their online provision and what the public feel like donating. Well, at least it means no taxpayers money there is going to the <em>Mail</em>.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 25,
+  "story_ids": [
+    "pln-story-13665-changes-001",
+    "pln-story-13665-changes-002",
+    "pln-story-13665-changes-003",
+    "pln-story-13665-local-001",
+    "pln-story-13665-local-002",
+    "pln-story-13665-local-003",
+    "pln-story-13665-local-004",
+    "pln-story-13665-local-005",
+    "pln-story-13665-local-006",
+    "pln-story-13665-local-007",
+    "pln-story-13665-local-008",
+    "pln-story-13665-local-009",
+    "pln-story-13665-local-010",
+    "pln-story-13665-local-011",
+    "pln-story-13665-local-012",
+    "pln-story-13665-local-013",
+    "pln-story-13665-local-014",
+    "pln-story-13665-local-015",
+    "pln-story-13665-local-016",
+    "pln-story-13665-local-017",
+    "pln-story-13665-intl-001",
+    "pln-story-13665-natl-001",
+    "pln-story-13665-natl-002",
+    "pln-story-13665-natl-003",
+    "pln-story-13665-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 16,
+    "libraries_count": 10,
+    "countries_count": 4,
+    "top_categories": {
+      "cuts_and_finance": 5,
+      "staffing_and_unions": 5,
+      "closures_and_threats": 4,
+      "opening_hours": 4,
+      "governance_and_trusts": 3,
+      "refurbishment_and_new_builds": 2,
+      "campaigns_and_protests": 2,
+      "events_and_activities": 2,
+      "digital_and_technology": 2,
+      "co_location": 1,
+      "mobile_and_outreach": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

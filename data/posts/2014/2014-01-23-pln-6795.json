@@ -1,0 +1,66 @@
+{
+  "id": "pln-post-6795",
+  "source_id": 6795,
+  "url": "https://www.publiclibrariesnews.com/2014/01/get-over-it-the-library-is-about-books-celebrate-it-exploit-it-dont-abandon-it.html",
+  "slug": "get-over-it-the-library-is-about-books-celebrate-it-exploit-it-dont-abandon-it",
+  "title": "“Get over it. The library is about books. Celebrate it. Exploit it. Don’t abandon it.”",
+  "date_published": "2014-01-23T22:07:50",
+  "date_modified": "2014-01-26T20:43:24",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 17,
+  "story_ids": [
+    "pln-story-6795-changes-001",
+    "pln-story-6795-changes-002",
+    "pln-story-6795-changes-003",
+    "pln-story-6795-intl-001",
+    "pln-story-6795-intl-002",
+    "pln-story-6795-intl-003",
+    "pln-story-6795-intl-004",
+    "pln-story-6795-intl-005",
+    "pln-story-6795-intl-006",
+    "pln-story-6795-intl-007",
+    "pln-story-6795-intl-008",
+    "pln-story-6795-intl-009",
+    "pln-story-6795-intl-010",
+    "pln-story-6795-intl-011",
+    "pln-story-6795-intl-012",
+    "pln-story-6795-intl-013",
+    "pln-story-6795-natl-001"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 10,
+    "countries_count": 4,
+    "top_categories": {
+      "cuts_and_finance": 7,
+      "staffing_and_unions": 7,
+      "closures_and_threats": 5,
+      "events_and_activities": 4,
+      "refurbishment_and_new_builds": 3,
+      "opening_hours": 3,
+      "book_bans_and_challenges": 2,
+      "volunteers_and_community": 2,
+      "campaigns_and_protests": 1,
+      "digital_and_technology": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

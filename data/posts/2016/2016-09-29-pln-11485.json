@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-11485",
+  "source_id": 11485,
+  "url": "https://www.publiclibrariesnews.com/2016/09/viciously-reducing-bookfunds.html",
+  "slug": "viciously-reducing-bookfunds",
+  "title": "Viciously reducing bookfunds",
+  "date_published": "2016-09-29T20:40:00",
+  "date_modified": "2016-10-02T19:01:10",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "There’s a chicken and the egg thing going on with bookfund and book issues. Or rather, a vicious circle. Councils are reducing bookfund claiming that fewer books are being read and then claiming that being that there are lower book issues they can cut bookfund more. And then, when things get really bad, they can close libraries too. But, of course, if you have fewer books in the first place, you’re going to see declines in usage. It’s hard to borrow something that isn’t there. The fact that it is always easier to reduce bookfund than staffing is a contributory factor in the popularity of this strategy. Lancashire, who close 20 libraries this week, reduced their bookfund from £2,423,923 in 2011-12 to £1,554,814 in 2014/15 (source: Cipfa). That’s a huge reduction of 35.8%. Warrington LiveWire, in the news for wanting to close seven branches, including the oldest public library in England (which they will try to move into a, I kid you not, ex shoe shop) have cut their bookfund from £231,496 in 2012/13 to £103,944 in 2016/17. Look, book issues (but not booksales) may be falling but they’re not falling that much. A council can admit that they’re reducing libraries because of reduced budgets – like Lancashire, to be somewhat fair, has – but to claim that you’re cutting libraries because no-one is using them after you have annihilated their bookfunds – should be no-one’s idea of a valid argument.",
+    "html": "<p style=\"text-align: justify;\">There&#8217;s a chicken and the egg thing going on with bookfund and book issues. Or rather, a vicious circle. Councils are reducing bookfund claiming that fewer books are being read and then claiming that being that there are lower book issues they can cut bookfund more. And then, when things get really bad, they can close libraries too. But, of course, if you have fewer books in the first place, you&#8217;re going to see declines in usage. It&#8217;s hard to borrow something that isn&#8217;t there. The fact that it is always easier to reduce bookfund than staffing is a contributory factor in the popularity of this strategy.</p> <p style=\"text-align: justify;\">Lancashire, who close 20 libraries this week, reduced their bookfund from £2,423,923 in 2011-12 to £1,554,814 in 2014/15 (source: Cipfa). That&#8217;s a huge reduction of 35.8%. Warrington LiveWire, in the news for wanting to close seven branches, including the oldest public library in England (which they will try to move into a, I kid you not, ex shoe shop) have cut their bookfund from £231,496 in 2012/13 to £103,944 in 2016/17.</p> <p style=\"text-align: justify;\">Look, book issues (but not booksales) may be falling but they&#8217;re not falling that much. A council can admit that they&#8217;re reducing libraries because of reduced budgets &#8211; like Lancashire, to be somewhat fair, has &#8211; but to claim that you&#8217;re cutting libraries because no-one is using them <em>after you have annihilated their bookfunds</em> &#8211; should be no-one&#8217;s idea of a valid argument.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 28,
+  "story_ids": [
+    "pln-story-11485-changes-001",
+    "pln-story-11485-local-001",
+    "pln-story-11485-local-002",
+    "pln-story-11485-local-003",
+    "pln-story-11485-local-004",
+    "pln-story-11485-local-005",
+    "pln-story-11485-local-006",
+    "pln-story-11485-local-007",
+    "pln-story-11485-local-008",
+    "pln-story-11485-local-009",
+    "pln-story-11485-local-010",
+    "pln-story-11485-local-011",
+    "pln-story-11485-local-012",
+    "pln-story-11485-local-013",
+    "pln-story-11485-local-014",
+    "pln-story-11485-local-015",
+    "pln-story-11485-local-016",
+    "pln-story-11485-intl-001",
+    "pln-story-11485-intl-002",
+    "pln-story-11485-intl-003",
+    "pln-story-11485-intl-004",
+    "pln-story-11485-intl-005",
+    "pln-story-11485-intl-006",
+    "pln-story-11485-intl-007",
+    "pln-story-11485-intl-008",
+    "pln-story-11485-intl-009",
+    "pln-story-11485-natl-001",
+    "pln-story-11485-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 13,
+    "countries_count": 6,
+    "top_categories": {
+      "closures_and_threats": 9,
+      "staffing_and_unions": 7,
+      "cuts_and_finance": 5,
+      "events_and_activities": 4,
+      "opening_hours": 3,
+      "digital_and_technology": 3,
+      "refurbishment_and_new_builds": 2,
+      "campaigns_and_protests": 2,
+      "book_bans_and_challenges": 1,
+      "mobile_and_outreach": 1,
+      "volunteers_and_community": 1,
+      "unstaffed_open_plus": 1,
+      "governance_and_trusts": 1,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

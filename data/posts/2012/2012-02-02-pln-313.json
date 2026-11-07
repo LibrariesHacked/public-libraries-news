@@ -1,0 +1,69 @@
+{
+  "id": "pln-post-313",
+  "source_id": 313,
+  "url": "https://www.publiclibrariesnews.com/2012/02/crisis-what-crisis-libraries-minister-sees-no-crisis.html",
+  "slug": "crisis-what-crisis-libraries-minister-sees-no-crisis",
+  "title": "Crisis? What Crisis? Libraries Minister Sees No Crisis",
+  "date_published": "2012-02-02T23:22:00",
+  "date_modified": "2012-02-02T23:22:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "408 libraries (318 buildings and 90 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4612 in the UK, complete list below. Librarian professional body CILIP forecasts 600 libraries under threat (inc. 20% of English libraries). The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day. Can you help…? Attend the Speak Up for Libraries lobbying event on 2.30pm 13th March at Central Hall, Westminster, London. #librarieslobby hashtag. Beforehand there will be a rally from 12 – 2pm at Central Methodist Hall featuring keynote speakers, films and entertainment. There will also be a ‘pop up’ library on display to demonstrate the range of services offered in a modern library.",
+    "html": "<b>408 libraries (318 buildings and 90 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.<a href=\"http://www.cilip.org.uk/get-involved/advocacy/public-libraries/Documents/Public_libraries_briefing_CILIP_March2011.pdf\">4612</a> in the UK, complete list below</b><b>. Librarian professional body CILIP forecasts 600 libraries under threat (inc. 20% of English libraries). </b>The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day. </p> <p><b>Can you help&#8230;?</b></p> <li><a href=\"http://www.thebookseller.com/news/library-supporters-unite-13th-march-rally.html#.TxAn8i5XvpM.email\">Attend the <b>Speak Up for Libraries</b> lobbying event on 2.30pm 13th March at Central Hall, Westminster, London</a>. #librarieslobby hashtag. Beforehand there will be a rally from 12 – 2pm at Central Methodist Hall featuring keynote speakers, films and entertainment. There will also be a ‘pop up’ library on display to demonstrate the range of services offered in a modern library.</li>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-313-changes-001",
+    "pln-story-313-local-001",
+    "pln-story-313-local-002",
+    "pln-story-313-local-003",
+    "pln-story-313-local-004",
+    "pln-story-313-local-005",
+    "pln-story-313-local-006",
+    "pln-story-313-local-007",
+    "pln-story-313-local-008",
+    "pln-story-313-local-009",
+    "pln-story-313-local-010",
+    "pln-story-313-local-011",
+    "pln-story-313-local-012",
+    "pln-story-313-local-013",
+    "pln-story-313-local-014",
+    "pln-story-313-natl-001",
+    "pln-story-313-natl-002",
+    "pln-story-313-natl-003",
+    "pln-story-313-natl-004",
+    "pln-story-313-natl-005",
+    "pln-story-313-natl-006",
+    "pln-story-313-natl-007",
+    "pln-story-313-natl-008",
+    "pln-story-313-natl-009"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 9,
+    "countries_count": 3,
+    "top_categories": {
+      "cuts_and_finance": 4,
+      "mobile_and_outreach": 3,
+      "governance_and_trusts": 3,
+      "campaigns_and_protests": 3,
+      "closures_and_threats": 2,
+      "digital_and_technology": 2,
+      "opening_hours": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "pln-post-7284",
+  "source_id": 7284,
+  "url": "https://www.publiclibrariesnews.com/2014/04/uk-libraries-spending-reduced-by-up-to-29-in-just-three-years.html",
+  "slug": "uk-libraries-spending-reduced-by-up-to-29-in-just-three-years",
+  "title": "UK libraries spending reduced by up to 29% in just three years",
+  "date_published": "2014-04-06T22:35:41",
+  "date_modified": "2014-04-07T22:03:12",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Tim Coates put in the comments section a few days ago the total expenditure on libraries in the UK over the last ten years. He is, amongst other things, a key holder of library statistics, with the ones cited coming from Cipfa. I had a play with them and came up with the following graphs that may be useful (and added them on the statistics page too). The figures below show a drop in spending of 29% from its peak in 2009/10 if one takes in to account inflation. This is likely to be an exaggeration, however, as spending on staff salaries has been frozen (or nearly so: it was 1% last year) for the last three years and staffing represents a large percentage of overall library costs. If one ignores inflation completely, the decline from peak is more than halved at 13.8%. The true answer will likely be somewhere between the two figures. Source: Cipfa figures. Percentage calculated using Bank of England calculator at http://www.bankofengland.co.uk/education/Pages/inflation/calculator/flash/default.aspx If we accept the inflation adjustments, we can see that spending is fallen by around a fifth compared to the average of the good times before. We can also see that the drop has been 10% per year since the coalition government took over, which is really quite something to think about. If one is being optimistic and completely ignores inflation, libraries are back to same level as the decade before. Aren’t statistics fun? Total annual expenditure inflation adjusted as percentage of 2012 spending Well, no, they’re not. These statistics are a tragedy, marking the sorrowful ripping apart of the false dawn of public libraries whose final glories have only just finished in the opening of Manchester Central Library (admittedly, though, some of the money could have been better spend – for example at the Library of Birmingham). Just look at that precipitous drop, which even the non-inflation adjusted chart below is showing. Bear in mind also that some authorities, notably in England, are doing markedly worse than others. The figures are improved by showing that of the other constituent parts of the UK.",
+    "html": "<p style=\"text-align: justify;\"><a title=\"PLN\" href=\"https://www.publiclibrariesnews.com/2014/04/really-a-library-card-and-a-pin-to-take-out-a-book.html\">Tim Coates put in the comments section a few days ago the total expenditure on libraries in the UK over the last ten years</a>. He is, <a title=\"BookSeller\" href=\"http://www.thebookseller.com/news/bilbary-closes-london-office-premises.html\">amongst other things</a>, a key holder of library statistics, with the ones cited coming from Cipfa. I had a play with them and came up with the following graphs that may be useful (and added them on the statistics page too).</p> <p style=\"text-align: justify;\">The figures below show a drop in spending of 29% from its peak in 2009/10 if one takes in to account inflation. This is likely to be an exaggeration, however, as spending on staff salaries has been frozen (or nearly so: it was 1% last year) for the last three years and staffing represents a large percentage of overall library costs. If one ignores inflation completely, the decline from peak is more than halved at 13.8%. The true answer will likely be somewhere between the two figures.</p> <p id=\"caption-attachment-7273\" class=\"wp-caption-text\">Source: Cipfa figures. Percentage calculated using Bank of England calculator at http://www.bankofengland.co.uk/education/Pages/inflation/calculator/flash/default.aspx</p> <p style=\"text-align: justify;\">If we accept the inflation adjustments, we can see that spending is fallen by around a fifth compared to the average of the good times before. We can also see that the drop has been 10% <em>per year</em> since the coalition government took over, which is really quite something to think about. If one is being optimistic and completely ignores inflation, libraries are back to same level as the decade before. Aren&#8217;t statistics fun?</p> <p id=\"caption-attachment-7275\" class=\"wp-caption-text\">Total annual expenditure inflation adjusted as percentage of 2012 spending</p> <p style=\"text-align: justify;\">Well, no, they&#8217;re not. These statistics are a tragedy, marking the sorrowful ripping apart of the false dawn of public libraries whose final glories have only just finished in the opening of Manchester Central Library (admittedly, though, some of the money could have been better spend &#8211; for example at <a title=\"Metro\" href=\"http://metro.co.uk/2014/04/03/190m-library-where-books-are-off-limits-new-building-unfit-for-purpose-because-shelves-are-too-high-4688335/\">the Library of Birmingham</a>). Just look at that precipitous drop, which even the non-inflation adjusted chart below is showing. Bear in mind also that some authorities, notably in England, are doing markedly worse than others. The figures are improved by showing that of the other constituent parts of the UK.<em> </em></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "national_news"
+  ],
+  "stories_count": 18,
+  "story_ids": [
+    "pln-story-7284-changes-001",
+    "pln-story-7284-changes-002",
+    "pln-story-7284-changes-003",
+    "pln-story-7284-natl-001",
+    "pln-story-7284-natl-002",
+    "pln-story-7284-natl-003",
+    "pln-story-7284-natl-004",
+    "pln-story-7284-natl-005",
+    "pln-story-7284-natl-006",
+    "pln-story-7284-natl-007",
+    "pln-story-7284-natl-008",
+    "pln-story-7284-natl-009",
+    "pln-story-7284-natl-010",
+    "pln-story-7284-natl-011",
+    "pln-story-7284-natl-012",
+    "pln-story-7284-natl-013",
+    "pln-story-7284-natl-014",
+    "pln-story-7284-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 10,
+    "countries_count": 2,
+    "top_categories": {
+      "cuts_and_finance": 4,
+      "closures_and_threats": 4,
+      "volunteers_and_community": 3,
+      "events_and_activities": 3,
+      "opening_hours": 2,
+      "staffing_and_unions": 2,
+      "co_location": 1,
+      "book_bans_and_challenges": 1,
+      "refurbishment_and_new_builds": 1,
+      "digital_and_technology": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

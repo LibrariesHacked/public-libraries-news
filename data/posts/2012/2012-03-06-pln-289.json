@@ -1,0 +1,63 @@
+{
+  "id": "pln-post-289",
+  "source_id": 289,
+  "url": "https://www.publiclibrariesnews.com/2012/03/500-books-is-a-library.html",
+  "slug": "500-books-is-a-library",
+  "title": "500 books is a library",
+  "date_published": "2012-03-06T22:21:00",
+  "date_modified": "2012-03-06T22:21:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "399 libraries (309 buildings and 90 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4612 in the UK, complete list below. Librarian professional body CILIP forecasts 600 libraries under threat (inc. 20% of English libraries). The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day.",
+    "html": "<b>399 libraries (309 buildings and 90 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.<a href=\"http://www.cilip.org.uk/get-involved/advocacy/public-libraries/Documents/Public_libraries_briefing_CILIP_March2011.pdf\">4612</a> in the UK, complete list below</b><b>. Librarian professional body CILIP forecasts 600 libraries under threat (inc. 20% of English libraries). </b>The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day.</p> <a href=\"http://www.speakupforlibraries.org/%20\" style=\"margin-left: 1em; margin-right: 1em;\"><img decoding=\"async\" border=\"0\" src=\"http://4.bp.blogspot.com/-z51hDwm-yYE/Tz-ugfy2GNI/AAAAAAAAAYo/2s_2SIKVDzQ/s1600/speakup.jpeg\" /></a>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 15,
+  "story_ids": [
+    "pln-story-289-changes-001",
+    "pln-story-289-local-001",
+    "pln-story-289-local-002",
+    "pln-story-289-local-003",
+    "pln-story-289-local-004",
+    "pln-story-289-local-005",
+    "pln-story-289-local-006",
+    "pln-story-289-local-007",
+    "pln-story-289-local-008",
+    "pln-story-289-local-009",
+    "pln-story-289-local-010",
+    "pln-story-289-natl-001",
+    "pln-story-289-natl-002",
+    "pln-story-289-natl-003",
+    "pln-story-289-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 11,
+    "libraries_count": 9,
+    "countries_count": 1,
+    "top_categories": {
+      "closures_and_threats": 4,
+      "staffing_and_unions": 4,
+      "opening_hours": 4,
+      "cuts_and_finance": 4,
+      "digital_and_technology": 3,
+      "volunteers_and_community": 2,
+      "campaigns_and_protests": 2,
+      "mobile_and_outreach": 1,
+      "co_location": 1,
+      "book_bans_and_challenges": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "id": "pln-post-6429",
+  "source_id": 6429,
+  "url": "https://www.publiclibrariesnews.com/2013/11/moray-partially-back-down-on-closures-bristol-southampton-cuts-portsmouth-new-mobile.html",
+  "slug": "moray-partially-back-down-on-closures-bristol-southampton-cuts-portsmouth-new-mobile",
+  "title": "Moray partially back down on closures: Bristol + Southampton cuts: Portsmouth new mobile",
+  "date_published": "2013-11-18T23:22:45",
+  "date_modified": "2013-11-19T22:35:02",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The decision by Moray Council to save save three out of seven libraries from closure shows the importance of paying attention to the law. Councillors had been warned by their own officers that closing these three would be questionable under equalities legislation but it took an actual move to court action for them to actually do the right thing. That they even thought of such action is being put down to the scale of the budget cuts imposed. In a development not seen elsewhere so far in the UK, library technology company Bibliotecha have put forward (what else?) library technology as an alternative to closing libraries. The idea of self-service machines and key card access to libraries instead of closing them is reminiscent of what has been happening in some European countries. The company argues that machines can keep the library open all the time while volunteers keep it open only some of the time. In neither vision do paid library staff get much of a look in but the library itself is still there … and that is an option that may be attractive to cash-strapped councils.",
+    "html": "<p style=\"text-align: justify;\"><a title=\"Inside Moray\" href=\"http://insidemoray.co.uk/?p=1350\">The decision by Moray Council to save save three out of seven libraries from closure shows the importance of paying attention to the law. </a> Councillors had been warned by their own officers that closing these three would be questionable under equalities legislation but it took an actual move to court action for them to actually do the right thing. That they even thought of such action is being put down to the scale of the budget cuts imposed.</p> <p style=\"text-align: justify;\"><a title=\"Lincolnite\" href=\"http://thelincolnite.co.uk/2013/11/saving-lincolnshire-libraries-with-technology/\">In a development not seen elsewhere so far in the UK, library technology company Bibliotecha have put forward (what else?) library technology as an alternative to closing libraries. </a>The idea of self-service machines and key card access to libraries instead of closing them is reminiscent of what has been happening in some European countries. The company argues that machines can keep the library open all the time while volunteers keep it open only some of the time. In neither vision do paid library staff get much of a look in but the library itself is still there &#8230; and that is an option that may be attractive to cash-strapped councils.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial"
+  ],
+  "stories_count": 20,
+  "story_ids": [
+    "pln-story-6429-changes-001",
+    "pln-story-6429-changes-002",
+    "pln-story-6429-changes-003",
+    "pln-story-6429-changes-004",
+    "pln-story-6429-changes-005",
+    "pln-story-6429-changes-006",
+    "pln-story-6429-changes-007",
+    "pln-story-6429-changes-008",
+    "pln-story-6429-changes-009",
+    "pln-story-6429-changes-010",
+    "pln-story-6429-changes-011",
+    "pln-story-6429-changes-012",
+    "pln-story-6429-changes-013",
+    "pln-story-6429-changes-014",
+    "pln-story-6429-changes-015",
+    "pln-story-6429-changes-016",
+    "pln-story-6429-changes-017",
+    "pln-story-6429-changes-018",
+    "pln-story-6429-changes-019",
+    "pln-story-6429-changes-020"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 3,
+    "countries_count": 2,
+    "top_categories": {
+      "closures_and_threats": 7,
+      "cuts_and_finance": 7,
+      "mobile_and_outreach": 5,
+      "volunteers_and_community": 4,
+      "book_bans_and_challenges": 3,
+      "staffing_and_unions": 3,
+      "campaigns_and_protests": 2,
+      "digital_and_technology": 2,
+      "events_and_activities": 2,
+      "opening_hours": 2,
+      "co_location": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,83 @@
+{
+  "id": "pln-post-5254",
+  "source_id": 5254,
+  "url": "https://www.publiclibrariesnews.com/2013/06/unison-surveys-the-damage.html",
+  "slug": "unison-surveys-the-damage",
+  "title": "Unison surveys the damage",
+  "date_published": "2013-06-18T21:00:32",
+  "date_modified": "2013-06-19T21:42:49",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A large-scale survey of library worker attitudes and budget/service changes has been produced by Unison. It is a detailed look into what is happening in the sector. The point picked up by the Mirror from it is the lack of free online access available in some libraries, linking this to the need for such a facility due to the Digital By Default agenda. Cuts to services being shown in the report is more than mirrored in a report from Sunderland showing that the budget for libraries there had been cut from nearly 7.2m in 2009/10 to a proposed budget of what appears to be barely £4m this year.In other news, the rumours of the dismantling of the DCMS has apparently been firmly dismissed by the Prime Minister.",
+    "html": "<p style=\"text-align: justify;\"><a title=\"Unison\" href=\"https://www.unison.org.uk/upload/sharepoint/On%20line%20Catalogue/21589.pdf\" target=\"_blank\">A large-scale survey of library worker attitudes and budget/service changes has been produced by Unison</a>. It is a detailed look into what is happening in the sector. T<a title=\"Mirror\" href=\"http://www.mirror.co.uk/news/uk-news/jobless-forced-pay-library-internet-1959330?utm_medium=twitter&amp;utm_source=twitterfeed\">he point picked up by the Mirror from it is</a> the lack of free online access available in some libraries, linking this to the need for such a facility due to the Digital By Default agenda. C<a title=\"Sunderland Echo\" href=\"http://www.sunderlandecho.com/news/local/all-news/sunderland-library-spending-had-fallen-by-2-5million-even-before-closure-plans-announced-1-5775185\" target=\"_blank\">uts to services being shown in the report is more than mirrored in a report from Sunderland showing that the budget for libraries there had been cut from nearly 7.2m in 2009/10 to a proposed budget of what appears to be barely £4m this year</a>.In other news, the rumours of the dismantling of the DCMS has apparently been firmly dismissed by the Prime Minister.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "local_news"
+  ],
+  "stories_count": 36,
+  "story_ids": [
+    "pln-story-5254-changes-001",
+    "pln-story-5254-changes-002",
+    "pln-story-5254-changes-003",
+    "pln-story-5254-local-001",
+    "pln-story-5254-local-002",
+    "pln-story-5254-local-003",
+    "pln-story-5254-local-004",
+    "pln-story-5254-local-005",
+    "pln-story-5254-local-006",
+    "pln-story-5254-local-007",
+    "pln-story-5254-local-008",
+    "pln-story-5254-local-009",
+    "pln-story-5254-local-010",
+    "pln-story-5254-local-011",
+    "pln-story-5254-local-012",
+    "pln-story-5254-local-013",
+    "pln-story-5254-local-014",
+    "pln-story-5254-ideas-001",
+    "pln-story-5254-ideas-002",
+    "pln-story-5254-ideas-003",
+    "pln-story-5254-ideas-004",
+    "pln-story-5254-ideas-005",
+    "pln-story-5254-ideas-006",
+    "pln-story-5254-ideas-007",
+    "pln-story-5254-ideas-008",
+    "pln-story-5254-ideas-009",
+    "pln-story-5254-ideas-010",
+    "pln-story-5254-ideas-011",
+    "pln-story-5254-ideas-012",
+    "pln-story-5254-ideas-013",
+    "pln-story-5254-ideas-014",
+    "pln-story-5254-ideas-015",
+    "pln-story-5254-ideas-016",
+    "pln-story-5254-ideas-017",
+    "pln-story-5254-ideas-018",
+    "pln-story-5254-ideas-019"
+  ],
+  "stats": {
+    "authorities_count": 15,
+    "libraries_count": 10,
+    "countries_count": 4,
+    "top_categories": {
+      "staffing_and_unions": 7,
+      "cuts_and_finance": 6,
+      "events_and_activities": 6,
+      "closures_and_threats": 5,
+      "opening_hours": 4,
+      "mobile_and_outreach": 3,
+      "book_bans_and_challenges": 3,
+      "digital_and_technology": 3,
+      "refurbishment_and_new_builds": 2,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

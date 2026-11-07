@@ -1,0 +1,77 @@
+{
+  "id": "pln-post-13050",
+  "source_id": 13050,
+  "url": "https://www.publiclibrariesnews.com/2017/09/volunteer-library-report-plus-libraries-as-the-mind-of-the-city.html",
+  "slug": "volunteer-library-report-plus-libraries-as-the-mind-of-the-city",
+  "title": "Volunteer library report plus “libraries as the mind of the city”",
+  "date_published": "2017-09-05T20:10:56",
+  "date_modified": "2017-09-07T19:57:29",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Some new research has come out form the DDCMS / Task Force on volunteer libraries. This is much needed as it has been apparent for a while this is a part of the sector with an ever increasing impact but very little research. The report itself is notable for several inconvenient truths for both sides in the debate. For those who believe volunteers are a fine alternative to paid staff – and there are such people – then there are many problems listed, not least of which in the long term. For those who refuse to accept that volunteer libraries can be anywhere near as good as paid staff, there’s some evidence to the contrary here. The truth of course, as in so many things, lies between the extremes. There are some brilliant volunteer libraries and there are some dire ones. Some will be continue doing well in the long term, some will not. Such a patchwork should not be acceptable for an important public service in a wealthy country but that is what we have. Austerity and localism see to that. More research (and this was a pretty self-selecting sample) and evidence is needed, and quickly, to inform the debate.",
+    "html": "<p style=\"text-align: justify;\">Some new research has come out form the DDCMS / Task Force on volunteer libraries. This is much needed as it has been apparent for a while this is a part of the sector with an ever increasing impact but very little research. The report itself is notable for several inconvenient truths for both sides in the debate. For those who believe volunteers are a fine alternative to paid staff &#8211; and there are such people &#8211; then there are many problems listed, not least of which in the long term. For those who refuse to accept that volunteer libraries can be anywhere near as good as paid staff, there&#8217;s some evidence to the contrary here. The truth of course, as in so many things, lies between the extremes. There are some brilliant volunteer libraries and there are some dire ones. Some will be continue doing well in the long term, some will not. Such a patchwork should not be acceptable for an important public service in a wealthy country but that is what we have. Austerity and localism see to that. More research (and this was a pretty self-selecting sample) and evidence is needed, and quickly, to inform the debate.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 30,
+  "story_ids": [
+    "pln-story-13050-local-001",
+    "pln-story-13050-local-002",
+    "pln-story-13050-local-003",
+    "pln-story-13050-local-004",
+    "pln-story-13050-local-005",
+    "pln-story-13050-local-006",
+    "pln-story-13050-local-007",
+    "pln-story-13050-local-008",
+    "pln-story-13050-local-009",
+    "pln-story-13050-local-010",
+    "pln-story-13050-local-011",
+    "pln-story-13050-local-012",
+    "pln-story-13050-local-013",
+    "pln-story-13050-local-014",
+    "pln-story-13050-local-015",
+    "pln-story-13050-intl-001",
+    "pln-story-13050-intl-002",
+    "pln-story-13050-intl-003",
+    "pln-story-13050-intl-004",
+    "pln-story-13050-intl-005",
+    "pln-story-13050-intl-006",
+    "pln-story-13050-natl-001",
+    "pln-story-13050-natl-002",
+    "pln-story-13050-natl-003",
+    "pln-story-13050-natl-004",
+    "pln-story-13050-natl-005",
+    "pln-story-13050-natl-006",
+    "pln-story-13050-natl-007",
+    "pln-story-13050-natl-008",
+    "pln-story-13050-natl-009"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 9,
+    "countries_count": 8,
+    "top_categories": {
+      "cuts_and_finance": 8,
+      "volunteers_and_community": 8,
+      "staffing_and_unions": 6,
+      "governance_and_trusts": 4,
+      "closures_and_threats": 3,
+      "events_and_activities": 3,
+      "digital_and_technology": 3,
+      "campaigns_and_protests": 2,
+      "opening_hours": 2,
+      "mobile_and_outreach": 2
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

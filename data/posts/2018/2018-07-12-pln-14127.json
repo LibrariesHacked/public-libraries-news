@@ -1,0 +1,66 @@
+{
+  "id": "pln-post-14127",
+  "source_id": 14127,
+  "url": "https://www.publiclibrariesnews.com/2018/07/enough-money-for-trump.html",
+  "slug": "enough-money-for-trump",
+  "title": "Enough money for Trump",
+  "date_published": "2018-07-12T19:34:31",
+  "date_modified": "2018-07-15T18:48:07",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Further from my last editorial on the new DCMS Secretary of State, none other than the great Bob Usherwood emailed in to point out Jeremy Wright MP defended the so-called “ban” on prisoners buying books. See this. Yay. On the plus side, in the same article the MP does advocate for using the prison library instead so it’s not all bad. In other news, well done to Lancashire who has reopened its twelfth library after the change in controlling party there. As a reminder, and somewhat confusingly for some, it’s the Conservatives who are in control there now. In addition, one notes that Ealing are looking to close down a recently refurbished library and change it to a volunteer one, perhaps in a local church. Not that, it seems, they’ve actually asked the local church yet. And Ealing is Labour. And Labour are as likely to cut libraries as the Conservatives, with both fine with volunteers (although Labour perhaps more hesitantly). What’s clear is that the overall political environment in England is austerity and so whoever is in charge looks around to make cuts. It’s not that the world is turned upside down – it’s just you have to zoom up a little to see the real cause, which is a continued national deep cut in spending on local services. There’s still enough UK money for Trump (who must be the anti-librarian in so many ways) to have at least £5 million set aside for his golf trip to Scotland. As ever, when it comes down to it, spending is a political choice. But that choice is more forcibly made in central rather than at local level. Note: I described Nominet as a private company yesterday in my coverage of Two free guides for small businesses: Why get online, and How to get online. It is effectively a non-profit trust. My thanks to the Libraries Taskforce for pointing this out.",
+    "html": "<p style=\"text-align: justify;\">Further from my last editorial on the new DCMS Secretary of State, none other than the great Bob Usherwood emailed in to point out Jeremy Wright MP defended the so-called &#8220;ban&#8221; on prisoners buying books. See <a href=\"https://www.theguardian.com/society/2014/mar/24/ban-books-prisoners-england-wales-authors\">this</a>. Yay. On the plus side, in the same article the MP does advocate for using the prison library instead so it&#8217;s not all bad.</p> <p style=\"text-align: justify;\">In other news, well done to Lancashire who has reopened its twelfth library after the change in controlling party there. As a reminder, and somewhat confusingly for some, it&#8217;s the Conservatives who are in control there now. In addition, one notes that Ealing are looking to close down a recently refurbished library and change it to a volunteer one, perhaps in a local church. Not that, it seems, they&#8217;ve actually asked the local church yet. And Ealing is Labour. And Labour are as likely to cut libraries as the Conservatives, with both fine with volunteers (although Labour perhaps more hesitantly). What&#8217;s clear is that the overall political environment in England is austerity and so whoever is in charge looks around to make cuts. It&#8217;s not that the world is turned upside down &#8211; it&#8217;s just you have to zoom up a little to see the real cause, which is a continued national deep cut in spending on local services. There&#8217;s still enough UK money for Trump (who must be the anti-librarian in so many ways) to have at least £5 million set aside for his golf trip to Scotland. As ever, when it comes down to it, spending is a political choice. But that choice is more forcibly made in central rather than at local level.</p> <p><em>Note: I described Nominet as a private company yesterday in my coverage of <a href=\"https://librariestaskforce.blog.gov.uk/2018/07/10/two-free-guides-for-small-businesses-why-get-online-and-how-to-get-online/\"><strong>Two free guides for small businesses: Why get online, and How to get online</strong></a>. It is effectively a non-profit trust. My thanks to the Libraries Taskforce for pointing this out.</em></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news"
+  ],
+  "stories_count": 19,
+  "story_ids": [
+    "pln-story-14127-changes-001",
+    "pln-story-14127-changes-002",
+    "pln-story-14127-changes-003",
+    "pln-story-14127-changes-004",
+    "pln-story-14127-changes-005",
+    "pln-story-14127-changes-006",
+    "pln-story-14127-local-001",
+    "pln-story-14127-local-002",
+    "pln-story-14127-local-003",
+    "pln-story-14127-local-004",
+    "pln-story-14127-local-005",
+    "pln-story-14127-local-006",
+    "pln-story-14127-local-007",
+    "pln-story-14127-local-008",
+    "pln-story-14127-local-009",
+    "pln-story-14127-intl-001",
+    "pln-story-14127-intl-002",
+    "pln-story-14127-intl-003",
+    "pln-story-14127-intl-004"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 8,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 7,
+      "volunteers_and_community": 3,
+      "events_and_activities": 3,
+      "refurbishment_and_new_builds": 3,
+      "cuts_and_finance": 2,
+      "book_bans_and_challenges": 2,
+      "co_location": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "staffing_and_unions": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

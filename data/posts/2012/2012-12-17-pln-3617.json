@@ -1,0 +1,49 @@
+{
+  "id": "pln-post-3617",
+  "source_id": 3617,
+  "url": "https://www.publiclibrariesnews.com/2012/12/one-upon-a-time-newcastle-before-the-cuts.html",
+  "slug": "one-upon-a-time-newcastle-before-the-cuts",
+  "title": "“One upon a time” – Newcastle before the cuts.",
+  "date_published": "2012-12-17T22:30:06",
+  "date_modified": "2012-12-18T21:59:55",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A look into the past with Newcastle libraries chief explaining the strategy before the cuts hit and a challenge on library RFID are the two notable items today. News Attention public and community libraries – EIFL. $1500 prize “The award for services that contribute to open government is the fourth call in our exciting innovation awards programme for public and community libraries in developing and transition countries.” Library RFID, best practice and the Society of Chief Librarians – RFID: Changing Libraries for Good? / Mick Fortune. Looks at the need for a proper approach to RFID in UK public libraries and lays down the gauntlet to the SCL. #Save Libraries – Once upon a time – Youtube. Sad, seasonal and contemplative video on public libraries.",
+    "html": "<p>A look into the past with Newcastle libraries chief explaining the strategy before the cuts hit and a challenge on library RFID are the two notable items today.</p> <p><strong>News</strong></p> <li style=\"text-align: justify;\"><a title=\"EIFL\" href=\"http://www.eifl.net/eifl-plip-innovation-awards\"><strong>Attention public and community libraries </strong></a>&#8211; EIFL. $1500 prize &#8220;The award for services that contribute to open government is the fourth call in our exciting innovation awards programme for public and community libraries in developing and transition countries.&#8221;</li> <li style=\"text-align: justify;\"><a title=\"RFID\" href=\"http://www.mickfortune.com/Wordpress/?p=987\"><strong>Library RFID, best practice and the Society of Chief Librarians </strong></a>&#8211; RFID: Changing Libraries for Good? / Mick Fortune. Looks at the need for a proper approach to RFID in UK public libraries and lays down the gauntlet to the SCL.</li> <p><strong><a title=\"Youtube\" href=\"http://www.youtube.com/watch?v=RRqsk4pf0pg&amp;feature=player_embedded\">#Save Libraries &#8211; Once upon a time</a> &#8211; </strong>Youtube. Sad, seasonal and contemplative video on public libraries.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 8,
+  "story_ids": [
+    "pln-story-3617-local-001",
+    "pln-story-3617-local-002",
+    "pln-story-3617-local-003",
+    "pln-story-3617-local-004",
+    "pln-story-3617-local-005",
+    "pln-story-3617-local-006",
+    "pln-story-3617-local-007",
+    "pln-story-3617-local-008"
+  ],
+  "stats": {
+    "authorities_count": 6,
+    "libraries_count": 5,
+    "countries_count": 2,
+    "top_categories": {
+      "cuts_and_finance": 3,
+      "campaigns_and_protests": 3,
+      "closures_and_threats": 2,
+      "refurbishment_and_new_builds": 1,
+      "events_and_activities": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

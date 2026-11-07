@@ -1,0 +1,59 @@
+{
+  "id": "pln-post-4400",
+  "source_id": 4400,
+  "url": "https://www.publiclibrariesnews.com/2013/03/southend-and-trafford-will-have-more-volunteers-derby-will-have-a-new-library.html",
+  "slug": "southend-and-trafford-will-have-more-volunteers-derby-will-have-a-new-library",
+  "title": "Southend and Trafford will have more volunteers, Derby will have a new library.",
+  "date_published": "2013-03-11T23:23:19",
+  "date_modified": "2013-03-12T22:31:18",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Plans in Southend and Trafford will lead to more volunteers, although the latter council is at pains to say that all libraries will have at least one paid member of staff. This will presumably have something to do with the large protests last year against turning some libraries entirely to the unpaid. Southend is aiming for a large central library, jointly inhabited with the local college and university and two “hubs” while the rest are offered to volunteers or closed. A different approach is evident in Derby where a new local library building is opened. News Library as Publisher: A Massachusetts Public Library Will Soon Begin Publishing eBooks – Library Journal / Info Docket (USA). “Under the new Provincetown Public Press digital publishing imprint, a dozen or so writers and artists will learn this year how to create a digital book of their work and market it on the Internet, library officials announced Thursday.” Reading groups chosen for The Bell Jar 50th anniversary celebration project – Reading Agency (press release) Five groups win copies. Sandeep Mahal of the Reading Agency says: “The groups will be looking at the writer, the text and the potency of its subject matter, and talking about them online, alongside a real time, physical reading experience in their local library.” Shona Thoma, Masters Library and Information Science student, Dublin – Voices for the Library / Twitter Takeover. “I am looking forward to being a part of the Voices for the Library project so that I can engage with others about the evolving opportunities for Information Professionals and how LIS programmes can best support students, whether at the beginning of their career or returning to education to obtain a formal qualification.”",
+    "html": "<p style=\"text-align: justify;\">Plans in Southend and Trafford will lead to more volunteers, although the latter council is at pains to say that all libraries will have at least one paid member of staff. This will presumably have something to do <a title=\"Mancunian Matters\" href=\"http://mancunianmatters.co.uk/content/06022262-battlelines-drawn-fight-old-trafford-library\">with the large protests last year</a> against turning some libraries entirely to the unpaid. Southend is aiming for a large central library, jointly inhabited with the local college and university and two &#8220;hubs&#8221; while the rest are offered to volunteers or closed. A different approach is evident in Derby where a new local library building is opened.</p> <p><strong>News</strong></p> <li style=\"text-align: justify;\"><a title=\"Library Journal\" href=\"http://www.infodocket.com/2013/03/11/library-as-publisher-a-massachusetts-public-library-will-soon-begin-publishing-ebooks/\"><strong>Library as Publisher: A Massachusetts Public Library Will Soon Begin Publishing eBooks</strong></a> &#8211; Library Journal / Info Docket (USA). &#8220;Under the new Provincetown Public Press digital publishing imprint, a dozen or so writers and artists will learn this year how to create a digital book of their work and market it on the Internet, library officials announced Thursday.&#8221;</li> <li style=\"text-align: justify;\"><strong>Readin</strong><strong>g groups chosen for The Bell Jar 50<sup>th</sup> anniversary celebration project </strong>&#8211; Reading Agency (press release) Five groups win copies. Sandeep Mahal of the Reading Agency says: &#8220;The groups will be looking at the writer, the text and the potency of its subject matter, and talking about them online, alongside a real time, physical reading experience in their local library.&#8221;</li> <li style=\"text-align: justify;\"><strong><a title=\"Permanent Link to Shona Thoma, Masters Library and Information Science student, Dublin\" href=\"http://www.voicesforthelibrary.org.uk/wordpress/?p=2941\" rel=\"bookmark\">Shona Thoma, Masters Library and Information Science student, Dublin </a></strong>&#8211; Voices for the Library / Twitter Takeover. &#8220;I am looking forward to being a part of the Voices for the Library project so that I can engage with others about the evolving opportunities for Information Professionals and how LIS programmes can best support students, whether at the beginning of their career or returning to education to obtain a formal qualification.&#8221;</li>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 16,
+  "story_ids": [
+    "pln-story-4400-changes-001",
+    "pln-story-4400-changes-002",
+    "pln-story-4400-changes-003",
+    "pln-story-4400-changes-004",
+    "pln-story-4400-local-001",
+    "pln-story-4400-local-002",
+    "pln-story-4400-local-003",
+    "pln-story-4400-local-004",
+    "pln-story-4400-local-005",
+    "pln-story-4400-local-006",
+    "pln-story-4400-local-007",
+    "pln-story-4400-local-008",
+    "pln-story-4400-local-009",
+    "pln-story-4400-local-010",
+    "pln-story-4400-local-011",
+    "pln-story-4400-local-012"
+  ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 5,
+    "countries_count": 2,
+    "top_categories": {
+      "closures_and_threats": 4,
+      "volunteers_and_community": 4,
+      "cuts_and_finance": 4,
+      "staffing_and_unions": 4,
+      "refurbishment_and_new_builds": 3,
+      "campaigns_and_protests": 2,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

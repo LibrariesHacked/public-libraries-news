@@ -1,0 +1,69 @@
+{
+  "id": "pln-post-4058",
+  "source_id": 4058,
+  "url": "https://www.publiclibrariesnews.com/2013/02/a-happy-coincidence-national-libraries-day-and-plr-figures-combine-in-the-media.html",
+  "slug": "a-happy-coincidence-national-libraries-day-and-plr-figures-combine-in-the-media",
+  "title": "A happy coincidence? National Libraries Day and PLR figures combine in the media",
+  "date_published": "2013-02-08T23:02:50",
+  "date_modified": "2013-02-10T22:30:43",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A media double-whammy today as the media had the National Libraries Day story to run with as well as the release of the Public Lending Right figures. The two in combination probably meant public libraries had more national media coverage today than at any point in the last year.",
+    "html": "<p>A media double-whammy today as the media had the National Libraries Day story to run with as well as the release of the Public Lending Right figures. The two in combination probably meant public libraries had more national media coverage today than at any point in the last year.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 25,
+  "story_ids": [
+    "pln-story-4058-local-001",
+    "pln-story-4058-local-002",
+    "pln-story-4058-natl-001",
+    "pln-story-4058-natl-002",
+    "pln-story-4058-natl-003",
+    "pln-story-4058-natl-004",
+    "pln-story-4058-natl-005",
+    "pln-story-4058-natl-006",
+    "pln-story-4058-natl-007",
+    "pln-story-4058-natl-008",
+    "pln-story-4058-natl-009",
+    "pln-story-4058-natl-010",
+    "pln-story-4058-natl-011",
+    "pln-story-4058-natl-012",
+    "pln-story-4058-natl-013",
+    "pln-story-4058-natl-014",
+    "pln-story-4058-natl-015",
+    "pln-story-4058-natl-016",
+    "pln-story-4058-natl-017",
+    "pln-story-4058-natl-018",
+    "pln-story-4058-natl-019",
+    "pln-story-4058-natl-020",
+    "pln-story-4058-natl-021",
+    "pln-story-4058-natl-022",
+    "pln-story-4058-natl-023"
+  ],
+  "stats": {
+    "authorities_count": 3,
+    "libraries_count": 0,
+    "countries_count": 1,
+    "top_categories": {
+      "closures_and_threats": 4,
+      "digital_and_technology": 4,
+      "staffing_and_unions": 3,
+      "cuts_and_finance": 3,
+      "events_and_activities": 3,
+      "book_bans_and_challenges": 3,
+      "campaigns_and_protests": 2,
+      "volunteers_and_community": 2
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

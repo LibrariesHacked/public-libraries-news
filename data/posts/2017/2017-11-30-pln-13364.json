@@ -1,0 +1,75 @@
+{
+  "id": "pln-post-13364",
+  "source_id": 13364,
+  "url": "https://www.publiclibrariesnews.com/2017/11/trustees-and-updates.html",
+  "slug": "trustees-and-updates",
+  "title": "Trustees and updates",
+  "date_published": "2017-11-30T21:17:37",
+  "date_modified": "2017-12-03T21:15:38",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Congratulations to those voted in as Trustees for CILIP, especially public libraries blogger Leon Bolton whose blogging career I have watched with great interest. There’s a few ongoing fights in various library services, including an interesting suggestion from Warrington’s auditors about the need to consider other bidders for library services. The deep cuts to Northamptonshire libraries are again in the news too (and I’d like to point out they only had 36 branches to begin with, not the bigger number I have accidentally given them in previous posts), as are the final dates for some of Bury libraries to close. The long-running legal fight in Darlington will continue, with the judge saying there’s just enough evidence to move the review on to the next level.",
+    "html": "<p style=\"text-align: justify;\">Congratulations to those voted in as Trustees for CILIP, especially public libraries blogger Leon Bolton<a href=\"http://starwars.wikia.com/wiki/Wookieepedia:Quote_of_the_Day/Archive/Palpatine\"> whose blogging career I have watched with great interest</a>. There&#8217;s a few ongoing fights in various library services, including an interesting suggestion from Warrington&#8217;s auditors about the need to consider other bidders for library services. The deep cuts to Northamptonshire libraries are again in the news too (and I&#8217;d like to point out they only had 36 branches to begin with, not the bigger number I have accidentally given them in previous posts), as are the final dates for some of Bury libraries to close. The long-running legal fight in Darlington will continue, with the judge saying there&#8217;s just enough evidence to move the review on to the next level.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 25,
+  "story_ids": [
+    "pln-story-13364-changes-001",
+    "pln-story-13364-changes-002",
+    "pln-story-13364-local-001",
+    "pln-story-13364-local-002",
+    "pln-story-13364-local-003",
+    "pln-story-13364-local-004",
+    "pln-story-13364-local-005",
+    "pln-story-13364-local-006",
+    "pln-story-13364-local-007",
+    "pln-story-13364-local-008",
+    "pln-story-13364-local-009",
+    "pln-story-13364-local-010",
+    "pln-story-13364-local-011",
+    "pln-story-13364-local-012",
+    "pln-story-13364-local-013",
+    "pln-story-13364-local-014",
+    "pln-story-13364-local-015",
+    "pln-story-13364-local-016",
+    "pln-story-13364-local-017",
+    "pln-story-13364-local-018",
+    "pln-story-13364-intl-001",
+    "pln-story-13364-natl-001",
+    "pln-story-13364-natl-002",
+    "pln-story-13364-natl-003",
+    "pln-story-13364-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 15,
+    "libraries_count": 14,
+    "countries_count": 3,
+    "top_categories": {
+      "cuts_and_finance": 10,
+      "closures_and_threats": 7,
+      "opening_hours": 4,
+      "refurbishment_and_new_builds": 4,
+      "campaigns_and_protests": 3,
+      "events_and_activities": 2,
+      "digital_and_technology": 2,
+      "staffing_and_unions": 2,
+      "book_bans_and_challenges": 2,
+      "governance_and_trusts": 1,
+      "volunteers_and_community": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

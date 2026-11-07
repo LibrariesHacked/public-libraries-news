@@ -56,8 +56,10 @@ class TestPostParser(unittest.TestCase):
         self.assertEqual(barnsley_story["id"], "pln-story-99999-changes-001")
         self.assertEqual(len(barnsley_story["links"]), 1)
         self.assertEqual(barnsley_story["links"][0]["url"], "https://example.com/barnsley")
+        self.assertEqual(barnsley_story["links"][0]["domain"], "example.com")
         self.assertEqual(barnsley_story["resolution"]["library_service"]["name"], "Barnsley")
         self.assertEqual(barnsley_story["resolution"]["library_service"]["gss_code"], "E08000016")
+        self.assertIn("opening_hours", barnsley_story["classification"]["categories"])
 
         # Check International News
         usa_story = next(s for s in stories if s["entity_raw"] == "USA")

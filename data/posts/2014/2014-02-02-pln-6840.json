@@ -1,0 +1,82 @@
+{
+  "id": "pln-post-6840",
+  "source_id": 6840,
+  "url": "https://www.publiclibrariesnews.com/2014/02/big-questions.html",
+  "slug": "big-questions",
+  "title": "Big Questions",
+  "date_published": "2014-02-02T23:19:01",
+  "date_modified": "2014-02-08T23:28:48",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The “Changes” section shows a few different trends. The first and most positive is a bit of a “no brainer” but has a corollary that politicians do not seem to understand. That is, that if you build a new library, or upgrade an older one, then usage goes up (see South Lanarkshire and Stapleford for this). Pretty obvious. However, the corollary is that if you do not upgrade libraries then usage falls. So, failing to invest in libraries and then blaming decline in usage for further reductions in investment stands the danger of becoming a self-fulfilling and vicious circle. The question is whether in the current financial climate whether libraries will be given a decent chance to break the circle. Then we have outsourcing with two stories today suggesting that (some at least) private companies may not be an entirely good thing for a library service. Carillion’s very first action when it bought the library services of four London authorities (without any apparent link to democracy by the way) last year was to announce job losses. Those are now starting with eight in Croydon. Elsewhere, Birmingham’s contract with Capita somehow allowed it to spend more than one million pounds on the website for the new central library. The council is now reported as reviewing how to get out of the contract but they may not be able to. The question here is whether outsourcing delivers the benefits that the glossy brochures suggest it will. Then we have the most seemingly constant of all recent library news: volunteers. Windsor and Maidenhead appear to be approaching things a different way than most, by using them to increase opening hours rather than replacing paid staff. This is unlike Lincolnshire where it appears thirty libraries will be taken over by volunteers who prefer that as an alternative to seeing their buildings closed. The questions with this one are so many that I’ll stop it here.",
+    "html": "<p style=\"text-align: justify;\">The &#8220;Changes&#8221; section shows a few different trends. The first and most positive is a bit of a &#8220;no brainer&#8221; but has a corollary that politicians do not seem to understand. That is, that if you build a new library, or upgrade an older one, then usage goes up (see South Lanarkshire and Stapleford for this). Pretty obvious. However, the corollary is that if <em>you do not</em> upgrade libraries then usage falls. So, failing to invest in libraries and then blaming decline in usage for further reductions in investment stands the danger of becoming a self-fulfilling and vicious circle. The question is whether in the current financial climate whether libraries will be given a decent chance to break the circle.</p> <p style=\"text-align: justify;\">Then we have outsourcing with two stories today suggesting that (some at least) private companies may not be an entirely good thing for a library service. Carillion&#8217;s very first action when it bought the library services of four London authorities (without any apparent link to democracy by the way) last year was to announce job losses. Those are now starting with eight in Croydon. Elsewhere, Birmingham&#8217;s contract with Capita somehow allowed it to spend <em>more than </em><em>one million pounds</em> on the website for the new central library. The council is now reported as reviewing how to get out of the contract but they may not be able to. The question here is whether outsourcing delivers the benefits that the glossy brochures suggest it will.</p> <p style=\"text-align: justify;\">Then we have the most seemingly constant of all recent library news: volunteers. Windsor and Maidenhead appear to be approaching things a different way than most, by using them to increase opening hours rather than replacing paid staff. This is unlike Lincolnshire where it appears thirty libraries will be taken over by volunteers who prefer that as an alternative to seeing their buildings closed. The questions with this one are so many that I&#8217;ll stop it here.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 34,
+  "story_ids": [
+    "pln-story-6840-changes-001",
+    "pln-story-6840-changes-002",
+    "pln-story-6840-changes-003",
+    "pln-story-6840-changes-004",
+    "pln-story-6840-changes-005",
+    "pln-story-6840-changes-006",
+    "pln-story-6840-changes-007",
+    "pln-story-6840-changes-008",
+    "pln-story-6840-changes-009",
+    "pln-story-6840-intl-001",
+    "pln-story-6840-intl-002",
+    "pln-story-6840-intl-003",
+    "pln-story-6840-intl-004",
+    "pln-story-6840-intl-005",
+    "pln-story-6840-intl-006",
+    "pln-story-6840-intl-007",
+    "pln-story-6840-intl-008",
+    "pln-story-6840-intl-009",
+    "pln-story-6840-intl-010",
+    "pln-story-6840-intl-011",
+    "pln-story-6840-intl-012",
+    "pln-story-6840-intl-013",
+    "pln-story-6840-intl-014",
+    "pln-story-6840-intl-015",
+    "pln-story-6840-intl-016",
+    "pln-story-6840-intl-017",
+    "pln-story-6840-intl-018",
+    "pln-story-6840-intl-019",
+    "pln-story-6840-intl-020",
+    "pln-story-6840-intl-021",
+    "pln-story-6840-intl-022",
+    "pln-story-6840-intl-023",
+    "pln-story-6840-intl-024",
+    "pln-story-6840-intl-025"
+  ],
+  "stats": {
+    "authorities_count": 16,
+    "libraries_count": 22,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 12,
+      "cuts_and_finance": 10,
+      "staffing_and_unions": 7,
+      "campaigns_and_protests": 7,
+      "volunteers_and_community": 6,
+      "refurbishment_and_new_builds": 5,
+      "opening_hours": 5,
+      "mobile_and_outreach": 4,
+      "digital_and_technology": 3,
+      "events_and_activities": 1,
+      "co_location": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

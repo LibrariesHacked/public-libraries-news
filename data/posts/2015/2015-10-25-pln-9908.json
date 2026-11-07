@@ -1,0 +1,75 @@
+{
+  "id": "pln-post-9908",
+  "source_id": 9908,
+  "url": "https://www.publiclibrariesnews.com/2015/10/when-library-branding-fails.html",
+  "slug": "when-library-branding-fails",
+  "title": "When library branding fails",
+  "date_published": "2015-10-25T11:58:57",
+  "date_modified": "2015-10-27T21:15:38",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "We’re always told that library brands and marketing are important keys to the public library library service but we also need to make sure that they’re done right. When Seattle announced a rebranding, full of management speak, the public there were unimpressed and have given it a resolute thumbs down, with the reputation of the library heavily damaged and the possibility of future budget increases reduced. It is too easy for library staff, in our bubbles, to speak in terms that make sense to us in our world without remembering the people that really matter: the public … and forgetting that can be dangerous, as the US example shows. Marketing and promotion, like all library activities, should always start first with considering the user.",
+    "html": "<p style=\"text-align: justify;\">We&#8217;re always told that library brands and marketing are important keys to the public library library service but we also need to make sure that they&#8217;re done right. When Seattle announced a rebranding, full of management speak, the public there were unimpressed and have given it a resolute thumbs down, with the reputation of the library heavily damaged and the possibility of future budget increases reduced. It is too easy for library staff, in our bubbles, to speak in terms that make sense to us in our world without remembering the people that really matter: the public &#8230; and forgetting that can be dangerous, as the US example shows. Marketing and promotion, like all library activities, should always start first with considering the user.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-9908-changes-001",
+    "pln-story-9908-changes-002",
+    "pln-story-9908-local-001",
+    "pln-story-9908-local-002",
+    "pln-story-9908-local-003",
+    "pln-story-9908-local-004",
+    "pln-story-9908-local-005",
+    "pln-story-9908-local-006",
+    "pln-story-9908-local-007",
+    "pln-story-9908-local-008",
+    "pln-story-9908-local-009",
+    "pln-story-9908-local-010",
+    "pln-story-9908-local-011",
+    "pln-story-9908-local-012",
+    "pln-story-9908-local-013",
+    "pln-story-9908-local-014",
+    "pln-story-9908-intl-001",
+    "pln-story-9908-intl-002",
+    "pln-story-9908-intl-003",
+    "pln-story-9908-intl-004",
+    "pln-story-9908-intl-005",
+    "pln-story-9908-ideas-001",
+    "pln-story-9908-ideas-002",
+    "pln-story-9908-ideas-003"
+  ],
+  "stats": {
+    "authorities_count": 11,
+    "libraries_count": 16,
+    "countries_count": 5,
+    "top_categories": {
+      "staffing_and_unions": 13,
+      "cuts_and_finance": 7,
+      "closures_and_threats": 6,
+      "volunteers_and_community": 4,
+      "mobile_and_outreach": 4,
+      "opening_hours": 2,
+      "campaigns_and_protests": 2,
+      "events_and_activities": 2,
+      "digital_and_technology": 1,
+      "governance_and_trusts": 1,
+      "refurbishment_and_new_builds": 1,
+      "co_location": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "id": "pln-post-254",
+  "source_id": 254,
+  "url": "https://www.publiclibrariesnews.com/2012/04/cuts-in-stoke-and-worcestershire-qr-codes-in-bournemouth.html",
+  "slug": "cuts-in-stoke-and-worcestershire-qr-codes-in-bournemouth",
+  "title": "Cuts in Stoke and Worcestershire, QR codes in Bournemouth",
+  "date_published": "2012-04-16T21:46:00",
+  "date_modified": "2012-04-16T21:46:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "News Favourite stories about libraries and librarians – Reading Rockets. “Meet Tomás who is introduced to the world of books by the local librarian during harvest season, ‘that book woman’ who delivers stories by horseback to children in the Appalachian hills, and a lion who one day decides to walk right into the library. These books will remind you of the many reasons why our libraries — in all their forms — are such special places.” Libraries lobby, by Amber and Poppy Ash – MyVoice. Two teenagers report on the Speak Up for Libraries day, including talking to an MP or two. Excellent summary of the day. “The one thing that all of the people attending had in common was that they valued their local libraries, libraries in general and the benefits they can bring for those who can’t afford books and those who just love to read or need access to information and learning.” A library self-service machine that will take payments for council tax, rents and the congestion charge. London – Siobhan Benita, an independent London mayoral candidate whose agenda includes unifying all of the libraries in the capital is visiting Upper Norwood Library on Thursday 19th April. She is bringing with her local press and television and, interestingly, the New York Times. What the library means to you – Save the Women’s Library. Reports of users from the threatened but much loved specialist London Met University library.",
+    "html": "<b>News</b></p> <ul style=\"text-align: justify;\"> <li><b><a href=\"http://www.readingrockets.org/articles/books/c1167/\">Favourite stories about libraries and librarians</a> </b>&#8211; Reading Rockets. &#8220;Meet Tomás who is introduced to the world of books by the local librarian during harvest season, &#8216;that book woman&#8217; who delivers stories by horseback to children in the Appalachian hills, and a lion who one day decides to walk right into the library. These books will remind you of the many reasons why our libraries — in all their forms — are such special places.&#8221; </li> <li><b><a href=\"http://www.myvoice.org.uk/croydon/the-libraries-lobby-amber-and-poppy-ash.html\">Libraries lobby, by Amber and Poppy Ash</a> </b>&#8211; MyVoice. Two teenagers report on the Speak Up for Libraries day, including talking to an MP or two. Excellent summary of the day. &#8220;The one thing that all of the people attending had in common was that they valued their local libraries, libraries in general and the benefits they can bring for those who can&#8217;t afford books and those who just love to read or need access to information and learning.&#8221;</li> <a href=\"http://4.bp.blogspot.com/-pyQLkbab8N0/T4x0ce8Y-pI/AAAAAAAAAc4/26qq6FKhfeE/s1600/ECO+ws+lrge+doc.jpg\" style=\"margin-left: 1em; margin-right: 1em;\"><img loading=\"lazy\" decoding=\"async\" border=\"0\" height=\"320\" src=\"http://4.bp.blogspot.com/-pyQLkbab8N0/T4x0ce8Y-pI/AAAAAAAAAc4/26qq6FKhfeE/s320/ECO+ws+lrge+doc.jpg\" width=\"280\" /></a> <a href=\"http://www.d-techdirect.com/2012/04/d-tech-rfid-links-to-council-services/\">A <b>library self-service machine that will</b></a><b> </b> <b><a href=\"http://www.d-techdirect.com/2012/04/d-tech-rfid-links-to-council-services/\">take payments for council tax, rents and the congestion charge</a></b>. <ul style=\"text-align: justify;\"> <li><b>London &#8211; </b>Siobhan Benita, <a href=\"http://www.independent.co.uk/news/people/profiles/siobhan-benita-nhs-backlash-fuels-independent-bid-for-london-mayor-7645956.html\">an independent London mayoral candidate</a> whose agenda includes unifying all of the libraries in the capital is visiting <a href=\"http://www.unlc.org.uk/\">Upper Norwood Library</a> on <a href=\"http://www.facebook.com/groups/269577509754920/\">Thursday 19th April</a>. She is bringing with her local press and television and, interestingly, the New York Times.<b> </b></li> <li><b><a href=\"http://savethewomenslibrary.blogspot.co.uk/p/what-library-means-to-you.html?spref=tw\">What the library means to you</a> </b>&#8211; Save the Women&#8217;s Library. Reports of users from the threatened but much loved specialist London Met University library.</li>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 10,
+  "story_ids": [
+    "pln-story-254-changes-001",
+    "pln-story-254-changes-002",
+    "pln-story-254-changes-003",
+    "pln-story-254-local-001",
+    "pln-story-254-local-002",
+    "pln-story-254-local-003",
+    "pln-story-254-local-004",
+    "pln-story-254-local-005",
+    "pln-story-254-local-006",
+    "pln-story-254-local-007"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 11,
+    "countries_count": 1,
+    "top_categories": {
+      "cuts_and_finance": 5,
+      "staffing_and_unions": 4,
+      "closures_and_threats": 3,
+      "opening_hours": 2,
+      "campaigns_and_protests": 1,
+      "volunteers_and_community": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

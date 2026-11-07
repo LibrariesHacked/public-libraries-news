@@ -1,0 +1,71 @@
+{
+  "id": "pln-post-18284",
+  "source_id": 18284,
+  "url": "https://www.publiclibrariesnews.com/2021/11/waiting-for-the-new-equilibrium.html",
+  "slug": "waiting-for-the-new-equilibrium",
+  "title": "Waiting for the new equilibrium",
+  "date_published": "2021-11-14T18:47:12",
+  "date_modified": "2021-11-14T18:47:20",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A reasonably quiet week this one, with the most stand out thing for me being Arts Council England producing some nice videos publicising public libraries. Sadly, the other news is more information on the proposed cuts to Slough, which have been fleshed out as being a reasonably massive 33% cut, with the book fund being especially punished apparently because it is too good. Go figure. Meanwhile, the USA, the move towards Fahrenheit 451 becoming a reality moves ever closer with two library board members seriously suggesting books they don’t like should be burnt – never a good look. But here in the UK the ever present question is not which book to burn but rather at what level and when will library usage settle post-Covid. Will the new equilibrium be at 90%? Only an optimist I think would go for 100. And a pessimist may go lower. But it’s still too early to tell, with Covid very much still being around and some library services still not having opened all libraries or even starting events again.",
+    "html": "<p class=\"wp-block-paragraph\">A reasonably quiet week this one, with the most stand out thing for me being Arts Council England producing some nice videos publicising public libraries. Sadly, the other news is more information on the proposed cuts to Slough, which have been fleshed out as being a reasonably massive 33% cut, with the book fund being especially punished apparently because it is too good. Go figure. Meanwhile, the USA, the move towards Fahrenheit 451 becoming a reality moves ever closer with two library board members seriously suggesting books they don&#8217;t like should be burnt &#8211; never a good look. But here in the UK the ever present question is not which book to burn but rather at what level and when will library usage settle post-Covid. Will the new equilibrium be at 90%? Only an optimist I think would go for 100. And a pessimist may go lower. But it&#8217;s still too early to tell, with Covid very much still being around and some library services still not having opened all libraries or even starting events again. </p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 23,
+  "story_ids": [
+    "pln-story-18284-changes-001",
+    "pln-story-18284-local-001",
+    "pln-story-18284-local-002",
+    "pln-story-18284-local-003",
+    "pln-story-18284-local-004",
+    "pln-story-18284-local-005",
+    "pln-story-18284-local-006",
+    "pln-story-18284-local-007",
+    "pln-story-18284-local-008",
+    "pln-story-18284-local-009",
+    "pln-story-18284-local-010",
+    "pln-story-18284-local-011",
+    "pln-story-18284-local-012",
+    "pln-story-18284-local-013",
+    "pln-story-18284-local-014",
+    "pln-story-18284-intl-001",
+    "pln-story-18284-intl-002",
+    "pln-story-18284-intl-003",
+    "pln-story-18284-intl-004",
+    "pln-story-18284-natl-001",
+    "pln-story-18284-natl-002",
+    "pln-story-18284-natl-003",
+    "pln-story-18284-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 15,
+    "countries_count": 3,
+    "top_categories": {
+      "closures_and_threats": 7,
+      "cuts_and_finance": 3,
+      "events_and_activities": 3,
+      "staffing_and_unions": 3,
+      "refurbishment_and_new_builds": 2,
+      "opening_hours": 1,
+      "campaigns_and_protests": 1,
+      "digital_and_technology": 1,
+      "volunteers_and_community": 1,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

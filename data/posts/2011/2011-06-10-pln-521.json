@@ -1,0 +1,44 @@
+{
+  "id": "pln-post-521",
+  "source_id": 521,
+  "url": "https://www.publiclibrariesnews.com/2011/06/521.html",
+  "slug": "521",
+  "title": "",
+  "date_published": "2011-06-10T17:30:00",
+  "date_modified": "2011-06-10T17:30:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Librarian professional body CILIP forecasts 600 libraries under threat (inc. 20% of English libraries) Donaldson backs National Libraries Day – BookSeller. “Hooray for National Libraries Day! So many wonderful things go on in libraries—not just reading, browsing and borrowing, but storytelling, rhyme times, book clubs, activity days, author events and holiday reading challenges—and this special day will be a celebration of them all.” Future Library – BookSeller. New “Library of Birmingham” biggest public library project in Europe, “shop window for the city and culture of the city”. Birmingham Council says it will not close any libraries. Women’s Institutes joins battle to save libraries – Guardian. ““It’s fabulous news for the millions of people across the UK that love their libraries. Libraries are an essential education and information resource. They are at the heart of communities across the country and are too important to lose,” (Annie Mauger, CILIP).",
+    "html": "<b>Librarian professional body CILIP forecasts 600 libraries under threat (inc. 20% of English libraries)</b></p> <p><a href=\"http://www.blogger.com/goog_520484011\"></a><br /><a href=\"http://www.thebookseller.com/news/donaldson-backs-national-library-day.html\"><b>Donaldson backs National Libraries Day</b></a> &#8211; BookSeller. &#8220;Hooray for National Libraries Day! So many wonderful things go on in libraries—not just reading, browsing and borrowing, but storytelling, rhyme times, book clubs, activity days, author events and holiday reading challenges—and this special day will be a celebration of them all.&#8221;<br /><b><a href=\"http://www.thebookseller.com/feature/future-library.html\">Future Library</a> </b>&#8211; BookSeller. New &#8220;Library of Birmingham&#8221; biggest public library project in Europe, &#8220;shop window for the city and culture of the city&#8221;. Birmingham Council says it will not close any libraries.<br /><b><a href=\"http://www.guardian.co.uk/books/2011/jun/10/women-s-institute-battle-save-libraries\">Women&#8217;s Institutes joins battle to save libraries</a> </b>&#8211; Guardian. <b>&#8220;</b>&#8220;It&#8217;s fabulous news for the millions of people across the UK that love their libraries. Libraries are an essential education and information resource. They are at the heart of communities across the country and are too important to lose,&#8221; (Annie Mauger, CILIP).</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 2,
+  "story_ids": [
+    "pln-story-521-changes-001",
+    "pln-story-521-local-001"
+  ],
+  "stats": {
+    "authorities_count": 2,
+    "libraries_count": 0,
+    "countries_count": 1,
+    "top_categories": {
+      "cuts_and_finance": 2,
+      "mobile_and_outreach": 2,
+      "closures_and_threats": 1,
+      "staffing_and_unions": 1,
+      "opening_hours": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

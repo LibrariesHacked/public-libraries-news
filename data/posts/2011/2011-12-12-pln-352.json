@@ -1,0 +1,56 @@
+{
+  "id": "pln-post-352",
+  "source_id": 352,
+  "url": "https://www.publiclibrariesnews.com/2011/12/we-cannot-imagine-a-fair-just-world-for-all-without-public-access-to-libraries.html",
+  "slug": "we-cannot-imagine-a-fair-just-world-for-all-without-public-access-to-libraries",
+  "title": "We cannot imagine a fair, just world for all without public access to libraries”",
+  "date_published": "2011-12-12T22:53:00",
+  "date_modified": "2011-12-12T22:53:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "412 libraries (323 buildings and 89 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4612 in the UK, complete list below. Librarian professional body CILIP forecasts 600 libraries are under threat (inc. 20% of English libraries). The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day. News Machias supervisor says, library’s cats have to go – Neighbour to Neighbour News. “According to library personnel present, programs involving cats began in a library near Syracuse. The idea expanded and libraries are using cats as part of their learning and enrichment programs. They conveyed their disappointment to the board, and attempted to figure out a way to continue to keep their cats.”",
+    "html": "<b>412 libraries (323 buildings and 89 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.<a href=\"http://www.cilip.org.uk/get-involved/advocacy/public-libraries/Documents/Public_libraries_briefing_CILIP_March2011.pdf\">4612</a> in the UK, complete list below</b><b>. Librarian professional body CILIP forecasts 600 libraries are under threat (inc. 20% of English libraries). </b>The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day. <b>News</b> <ul style=\"text-align: justify;\"> <li><b><a href=\"http://www.arcadeherald.com/articles/2011/12/08/news/doc4ee10621c642d471922080.txt\">Machias supervisor says, library&#8217;s cats have to go </a>&#8211; </b>Neighbour to Neighbour News. <b> &#8220;</b>According to library personnel present, programs involving cats began in a library near Syracuse. The idea expanded and libraries are using cats as part of their learning and enrichment programs. They conveyed their disappointment to the board, and attempted to figure out a way to continue to keep their cats.&#8221;</li>"
+  },
+  "sections_found": [
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 13,
+  "story_ids": [
+    "pln-story-352-local-001",
+    "pln-story-352-local-002",
+    "pln-story-352-local-003",
+    "pln-story-352-local-004",
+    "pln-story-352-local-005",
+    "pln-story-352-local-006",
+    "pln-story-352-local-007",
+    "pln-story-352-local-008",
+    "pln-story-352-local-009",
+    "pln-story-352-local-010",
+    "pln-story-352-natl-001",
+    "pln-story-352-natl-002",
+    "pln-story-352-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 7,
+    "countries_count": 1,
+    "top_categories": {
+      "volunteers_and_community": 5,
+      "cuts_and_finance": 5,
+      "campaigns_and_protests": 4,
+      "closures_and_threats": 2,
+      "staffing_and_unions": 2,
+      "opening_hours": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

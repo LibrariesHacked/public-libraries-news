@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-19515",
+  "source_id": 19515,
+  "url": "https://www.publiclibrariesnews.com/2024/04/not-a-ban.html",
+  "slug": "not-a-ban",
+  "title": "Not a ban",
+  "date_published": "2024-04-21T15:59:02",
+  "date_modified": "2024-04-21T15:59:12",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Not a big week for news with, sadly, the main theme being the continued issue of difficulties in American libraries. There’s continued pressure in many states to make librarians accountable for the books that children can access, up to an including fines and prison sentences. Not that this is apparently banning books according a large comment free-to-access piece in the pay-to-view Telegraph this week, which is perhaps an unsurprising indication of how that newspaper feels about the subject. Another article, not in a right-wing national newspaper, argues that such banning (of events as well as books) does exist and is showing signs of spreading to the UK. Unconnected with this, perhaps , is the news that there’s also a sign (or rather, no longer a sign) that Norfolk Libraries are not quite the “safe space” for Trans people that they were once advertised as being.",
+    "html": "<p class=\"wp-block-paragraph\">Not a big week for news with, sadly, the main theme being the continued issue of difficulties in American libraries. There&#8217;s continued pressure in many states to make librarians accountable for the books that children can access, up to an including fines and prison sentences. Not that this is apparently banning books according a large comment free-to-access piece in the pay-to-view Telegraph this week, which is perhaps an unsurprising indication of how that newspaper feels about the subject. Another article, not in a right-wing national newspaper, argues that such banning (of events as well as books) does exist and is showing signs of spreading to the UK. Unconnected with this, perhaps , is the news that there&#8217;s also a sign (or rather, no longer a sign) that Norfolk Libraries are not quite the &#8220;safe space&#8221; for Trans people that they were once advertised as being. </p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 29,
+  "story_ids": [
+    "pln-story-19515-local-001",
+    "pln-story-19515-local-002",
+    "pln-story-19515-local-003",
+    "pln-story-19515-local-004",
+    "pln-story-19515-local-005",
+    "pln-story-19515-local-006",
+    "pln-story-19515-local-007",
+    "pln-story-19515-local-008",
+    "pln-story-19515-local-009",
+    "pln-story-19515-local-010",
+    "pln-story-19515-local-011",
+    "pln-story-19515-local-012",
+    "pln-story-19515-local-013",
+    "pln-story-19515-local-014",
+    "pln-story-19515-local-015",
+    "pln-story-19515-local-016",
+    "pln-story-19515-local-017",
+    "pln-story-19515-local-018",
+    "pln-story-19515-local-019",
+    "pln-story-19515-local-020",
+    "pln-story-19515-local-021",
+    "pln-story-19515-local-022",
+    "pln-story-19515-intl-001",
+    "pln-story-19515-intl-002",
+    "pln-story-19515-intl-003",
+    "pln-story-19515-intl-004",
+    "pln-story-19515-intl-005",
+    "pln-story-19515-natl-001",
+    "pln-story-19515-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 19,
+    "libraries_count": 9,
+    "countries_count": 7,
+    "top_categories": {
+      "cuts_and_finance": 8,
+      "closures_and_threats": 6,
+      "staffing_and_unions": 5,
+      "campaigns_and_protests": 4,
+      "book_bans_and_challenges": 4,
+      "events_and_activities": 4,
+      "volunteers_and_community": 3,
+      "digital_and_technology": 3,
+      "governance_and_trusts": 2,
+      "refurbishment_and_new_builds": 2,
+      "opening_hours": 1,
+      "mobile_and_outreach": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

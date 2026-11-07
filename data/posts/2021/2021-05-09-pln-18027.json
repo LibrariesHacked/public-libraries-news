@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-18027",
+  "source_id": 18027,
+  "url": "https://www.publiclibrariesnews.com/2021/05/scottish-independence-and-public-libraries.html",
+  "slug": "scottish-independence-and-public-libraries",
+  "title": "Scottish independence and public libraries",
+  "date_published": "2021-05-09T19:18:42",
+  "date_modified": "2021-05-09T19:19:15",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The local elections have shown a couple of things. The first is that the Conservatives are likely to win the next election, leading to the possibility of another decade of policies likely to minimise funding for local government, and thus library spending. The other is, as pointed out in coverage of Glasgow last week, how different things are Scotland. Libraries up there are in a different environment – although it may not feel like it in Glasgow – and may look forward, if independence happens, to funding on another level to that south of the border. However, if Scotland does go its own way then that’s a whole bunch of anti-Conservative MPs disappearing from the English parliament … and then heaven knows when the governing party will change down here.",
+    "html": "<p class=\"wp-block-paragraph\">The local elections have shown a couple of things. The first is that the Conservatives are likely to win the next election, leading to the possibility of another decade of policies likely to minimise funding for local government, and thus library spending. The other is, as pointed out in coverage of Glasgow last week, how different things are Scotland. Libraries up there are in a different environment &#8211; although it may not feel like it in Glasgow &#8211; and may look forward, if independence happens, to funding on another level to that south of the border. However, if Scotland does go its own way then that&#8217;s a whole bunch of anti-Conservative MPs disappearing from the English parliament &#8230; and then heaven knows when the governing party will change down here.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 32,
+  "story_ids": [
+    "pln-story-18027-local-001",
+    "pln-story-18027-local-002",
+    "pln-story-18027-local-003",
+    "pln-story-18027-local-004",
+    "pln-story-18027-local-005",
+    "pln-story-18027-local-006",
+    "pln-story-18027-local-007",
+    "pln-story-18027-local-008",
+    "pln-story-18027-local-009",
+    "pln-story-18027-local-010",
+    "pln-story-18027-local-011",
+    "pln-story-18027-local-012",
+    "pln-story-18027-local-013",
+    "pln-story-18027-local-014",
+    "pln-story-18027-local-015",
+    "pln-story-18027-local-016",
+    "pln-story-18027-local-017",
+    "pln-story-18027-local-018",
+    "pln-story-18027-local-019",
+    "pln-story-18027-local-020",
+    "pln-story-18027-local-021",
+    "pln-story-18027-local-022",
+    "pln-story-18027-local-023",
+    "pln-story-18027-intl-001",
+    "pln-story-18027-intl-002",
+    "pln-story-18027-intl-003",
+    "pln-story-18027-intl-004",
+    "pln-story-18027-intl-005",
+    "pln-story-18027-intl-006",
+    "pln-story-18027-natl-001",
+    "pln-story-18027-natl-002",
+    "pln-story-18027-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 23,
+    "libraries_count": 11,
+    "countries_count": 8,
+    "top_categories": {
+      "refurbishment_and_new_builds": 6,
+      "digital_and_technology": 4,
+      "book_bans_and_challenges": 3,
+      "events_and_activities": 3,
+      "staffing_and_unions": 3,
+      "closures_and_threats": 3,
+      "opening_hours": 2,
+      "volunteers_and_community": 2,
+      "campaigns_and_protests": 1,
+      "governance_and_trusts": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

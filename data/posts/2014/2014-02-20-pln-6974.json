@@ -1,0 +1,66 @@
+{
+  "id": "pln-post-6974",
+  "source_id": 6974,
+  "url": "https://www.publiclibrariesnews.com/2014/02/two-new-libraries-for-cambridgeshire.html",
+  "slug": "two-new-libraries-for-cambridgeshire",
+  "title": "Two new libraries for Cambridgeshire",
+  "date_published": "2014-02-20T22:11:53",
+  "date_modified": "2014-02-23T23:11:55",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 19,
+  "story_ids": [
+    "pln-story-6974-changes-001",
+    "pln-story-6974-local-001",
+    "pln-story-6974-local-002",
+    "pln-story-6974-local-003",
+    "pln-story-6974-local-004",
+    "pln-story-6974-local-005",
+    "pln-story-6974-local-006",
+    "pln-story-6974-local-007",
+    "pln-story-6974-intl-001",
+    "pln-story-6974-intl-002",
+    "pln-story-6974-intl-003",
+    "pln-story-6974-intl-004",
+    "pln-story-6974-intl-005",
+    "pln-story-6974-natl-001",
+    "pln-story-6974-natl-002",
+    "pln-story-6974-natl-003",
+    "pln-story-6974-natl-004",
+    "pln-story-6974-natl-005",
+    "pln-story-6974-natl-006"
+  ],
+  "stats": {
+    "authorities_count": 4,
+    "libraries_count": 3,
+    "countries_count": 3,
+    "top_categories": {
+      "digital_and_technology": 3,
+      "cuts_and_finance": 2,
+      "closures_and_threats": 2,
+      "staffing_and_unions": 2,
+      "events_and_activities": 2,
+      "warm_spaces_and_wellbeing": 1,
+      "co_location": 1,
+      "volunteers_and_community": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

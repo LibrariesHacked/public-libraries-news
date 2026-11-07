@@ -1,0 +1,65 @@
+{
+  "id": "pln-post-8406",
+  "source_id": 8406,
+  "url": "https://www.publiclibrariesnews.com/2014/11/liverpool-east-renfrewshire-and-an-a-to-z.html",
+  "slug": "liverpool-east-renfrewshire-and-an-a-to-z",
+  "title": "Liverpool, East Renfrewshire and an A to Z",
+  "date_published": "2014-11-10T21:43:15",
+  "date_modified": "2014-11-18T22:00:30",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Two significant events: the first is that the Mayor of Liverpool has declared that he can keep all his libraries open after all. Budgets have been got from various places, there’ll be some co-locations, some opening hour cuts … but none will be closed. The Mayor points to the hard work of his council, the campaigners point to them not letting the council forget how important libraries are. The answer, as always, probably lies somewhere in between. The second event is that, as if to put the damper on things, East Renfrewshire is going to go all English and force 6 of its 10 libraries to be volunteer or co-located or close. Bet you wish you voted the other way in the referendum now, Scottish folks. And so the cycle starts all over again. By the way, I’m in Spain the rest of this week, talking to Spanish librarians (and probably people on the plane – I do that, it’s annoying) about the situation there and here. I expect to learn much and, if I’m very lucky, I will come back with different views (however slightly) than when I went. I’ll tell you about it on my return. Adios.",
+    "html": "<p style=\"text-align: justify;\">Two significant events: the first is that the Mayor of Liverpool has declared that he can keep all his libraries open after all. Budgets have been got from various places, there&#8217;ll be some co-locations, some opening hour cuts &#8230; but none will be closed. The Mayor points to the hard work of his council, the campaigners point to them not letting the council forget how important libraries are. The answer, as always, probably lies somewhere in between. The second event is that, as if to put the damper on things, East Renfrewshire is going to go all English and force 6 of its 10 libraries to be volunteer or co-located or close. Bet you wish you voted the other way in the referendum now, Scottish folks. And so the cycle starts all over again.</p> <p style=\"text-align: justify;\">By the way, I&#8217;m in Spain the rest of this week, talking to Spanish librarians (and probably people on the plane &#8211; I do that, it&#8217;s annoying) about the situation there and here. I expect to learn much and, if I&#8217;m very lucky, I will come back with different views (however slightly) than when I went. I&#8217;ll tell you about it on my return. Adios.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "national_news"
+  ],
+  "stories_count": 20,
+  "story_ids": [
+    "pln-story-8406-changes-001",
+    "pln-story-8406-changes-002",
+    "pln-story-8406-natl-001",
+    "pln-story-8406-natl-002",
+    "pln-story-8406-natl-003",
+    "pln-story-8406-natl-004",
+    "pln-story-8406-natl-005",
+    "pln-story-8406-natl-006",
+    "pln-story-8406-natl-007",
+    "pln-story-8406-natl-008",
+    "pln-story-8406-natl-009",
+    "pln-story-8406-natl-010",
+    "pln-story-8406-natl-011",
+    "pln-story-8406-natl-012",
+    "pln-story-8406-natl-013",
+    "pln-story-8406-natl-014",
+    "pln-story-8406-natl-015",
+    "pln-story-8406-natl-016",
+    "pln-story-8406-natl-017",
+    "pln-story-8406-natl-018"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 15,
+    "countries_count": 2,
+    "top_categories": {
+      "cuts_and_finance": 9,
+      "volunteers_and_community": 5,
+      "closures_and_threats": 5,
+      "campaigns_and_protests": 4,
+      "opening_hours": 3,
+      "events_and_activities": 1,
+      "digital_and_technology": 1,
+      "governance_and_trusts": 1,
+      "staffing_and_unions": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

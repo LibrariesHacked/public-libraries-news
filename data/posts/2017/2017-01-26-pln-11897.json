@@ -1,0 +1,83 @@
+{
+  "id": "pln-post-11897",
+  "source_id": 11897,
+  "url": "https://www.publiclibrariesnews.com/2017/01/campaigning-for-libraries-before-theyre-under-threat.html",
+  "slug": "campaigning-for-libraries-before-theyre-under-threat",
+  "title": "Campaigning for libraries before they’re under threat",
+  "date_published": "2017-01-26T21:30:56",
+  "date_modified": "2017-01-29T15:22:10",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A quiet couple of days when it comes to library news and, actually, I quite like that. I’m tracking quite a lot of protest though. Here’s some examples. In Plymouth, there’s a large amount of love being expressed for the threatened libraries there – I’ve just been speaking to a journalist there who was if anything unhappier than I am about cuts to libraries. Warrington has not gone entirely quiet either – there’s some concern that news that all libraries have been saved there is not quite what it seems. Finally, the good people of Darlington are getting really quite upset about the projected loss of their central library. So, there’s all this energy for libraries but it’s all after the cuts happen. But i many ways that’s too late. What we need is preparation beforehand and enough support that councils don’t reach for the axe so much in the first place. It’s therefore great to see the advocacy/campaigning and lobbying being discussed by EveryLIbrary in the USA. Closer to home, I’m delighted to see a very timely post from Irvine Welsh about Scottish libraries (in good time for their elections) and also a new chair, ex-librarian Sheffield MP Gill Furniss for the All-Party Parliamentary Group for libraries. It seem we are learning, slowly and painfully, that placards are not as good as avoiding the need for protest in the first place.",
+    "html": "<p style=\"text-align: justify;\">A quiet couple of days when it comes to library news and, actually, I quite like that. I&#8217;m tracking quite a lot of protest though. Here&#8217;s some examples. In Plymouth, there&#8217;s a large amount of love being expressed for the threatened libraries there &#8211; I&#8217;ve just been speaking to a journalist there who was if anything unhappier than I am about cuts to libraries. Warrington has not gone entirely quiet either &#8211; there&#8217;s some concern that news that all libraries have been saved there is not quite what it seems. Finally, the good people of Darlington are getting really quite upset about the projected loss of their central library. So, there&#8217;s all this energy for libraries but it&#8217;s all <em>after</em> the cuts happen. But i many ways that&#8217;s too late. What we need is preparation beforehand and enough support that councils don&#8217;t reach for the axe so much in the first place. It&#8217;s therefore great to see the advocacy/campaigning and lobbying being discussed by EveryLIbrary in the USA. Closer to home, I&#8217;m delighted to see a very timely post from Irvine Welsh about Scottish libraries (in good time for their elections) and also a new chair, ex-librarian Sheffield MP Gill Furniss for the All-Party Parliamentary Group for libraries. It seem we are learning, slowly and painfully, that placards are not as good as avoiding the need for protest in the first place.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 32,
+  "story_ids": [
+    "pln-story-11897-changes-001",
+    "pln-story-11897-local-001",
+    "pln-story-11897-local-002",
+    "pln-story-11897-local-003",
+    "pln-story-11897-local-004",
+    "pln-story-11897-local-005",
+    "pln-story-11897-local-006",
+    "pln-story-11897-local-007",
+    "pln-story-11897-local-008",
+    "pln-story-11897-local-009",
+    "pln-story-11897-local-010",
+    "pln-story-11897-local-011",
+    "pln-story-11897-local-012",
+    "pln-story-11897-local-013",
+    "pln-story-11897-local-014",
+    "pln-story-11897-local-015",
+    "pln-story-11897-local-016",
+    "pln-story-11897-intl-001",
+    "pln-story-11897-intl-002",
+    "pln-story-11897-intl-003",
+    "pln-story-11897-intl-004",
+    "pln-story-11897-intl-005",
+    "pln-story-11897-intl-006",
+    "pln-story-11897-natl-001",
+    "pln-story-11897-natl-002",
+    "pln-story-11897-natl-003",
+    "pln-story-11897-natl-004",
+    "pln-story-11897-natl-005",
+    "pln-story-11897-natl-006",
+    "pln-story-11897-natl-007",
+    "pln-story-11897-natl-008",
+    "pln-story-11897-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 17,
+    "libraries_count": 29,
+    "countries_count": 5,
+    "top_categories": {
+      "closures_and_threats": 10,
+      "staffing_and_unions": 6,
+      "events_and_activities": 6,
+      "cuts_and_finance": 5,
+      "volunteers_and_community": 4,
+      "co_location": 4,
+      "campaigns_and_protests": 3,
+      "refurbishment_and_new_builds": 2,
+      "governance_and_trusts": 2,
+      "opening_hours": 2,
+      "digital_and_technology": 2,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

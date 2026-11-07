@@ -1,0 +1,74 @@
+{
+  "id": "pln-post-9927",
+  "source_id": 9927,
+  "url": "https://www.publiclibrariesnews.com/2015/10/all-the-library-news-that-we-know-about-it.html",
+  "slug": "all-the-library-news-that-we-know-about-it",
+  "title": "All the library news that we know about",
+  "date_published": "2015-10-27T21:13:44",
+  "date_modified": "2015-10-29T22:03:10",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Good news today about money for wifi from Arts Council England and there’s also an interesting piece or two on volunteer libraries as well as the normal mix of local, national and international news. However, I am aware that this is not the whole story. Indeed, I sometimes get people asking me how come Public Libraries News doesn’t cover cuts in their authority, that affected a load of staff and has caused great problems. The answer is that, unless it makes the newspapers, I often don’t know about it. There is a ton of hollowing out going on in the UK that is below the surface and what an anonymous source from Leeds tells us today could be happening in a load of other authorities as well.",
+    "html": "<p style=\"text-align: justify;\">Good news today about money for wifi from Arts Council England and there&#8217;s also an interesting piece or two on volunteer libraries as well as the normal mix of local, national and international news. However, I am aware that this is not the whole story. Indeed, I sometimes get people asking me how come <em>Public Libraries News</em> doesn&#8217;t cover cuts in their authority, that affected a load of staff and has caused great problems. The answer is that, unless it makes the newspapers, I often don&#8217;t know about it. There is a ton of hollowing out going on in the UK that is below the surface and what an anonymous source from Leeds tells us today could be happening in a load of other authorities as well.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 25,
+  "story_ids": [
+    "pln-story-9927-changes-001",
+    "pln-story-9927-changes-002",
+    "pln-story-9927-changes-003",
+    "pln-story-9927-changes-004",
+    "pln-story-9927-local-001",
+    "pln-story-9927-local-002",
+    "pln-story-9927-local-003",
+    "pln-story-9927-local-004",
+    "pln-story-9927-local-005",
+    "pln-story-9927-local-006",
+    "pln-story-9927-local-007",
+    "pln-story-9927-local-008",
+    "pln-story-9927-local-009",
+    "pln-story-9927-local-010",
+    "pln-story-9927-local-011",
+    "pln-story-9927-intl-001",
+    "pln-story-9927-natl-001",
+    "pln-story-9927-natl-002",
+    "pln-story-9927-natl-003",
+    "pln-story-9927-natl-004",
+    "pln-story-9927-natl-005",
+    "pln-story-9927-natl-006",
+    "pln-story-9927-natl-007",
+    "pln-story-9927-natl-008",
+    "pln-story-9927-natl-009"
+  ],
+  "stats": {
+    "authorities_count": 11,
+    "libraries_count": 12,
+    "countries_count": 3,
+    "top_categories": {
+      "cuts_and_finance": 11,
+      "volunteers_and_community": 5,
+      "closures_and_threats": 5,
+      "opening_hours": 3,
+      "staffing_and_unions": 3,
+      "mobile_and_outreach": 2,
+      "co_location": 2,
+      "campaigns_and_protests": 2,
+      "digital_and_technology": 2,
+      "events_and_activities": 2,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "id": "pln-post-7730",
+  "source_id": 7730,
+  "url": "https://www.publiclibrariesnews.com/2014/06/polarised-enough-already-unison-votes-to-strike.html",
+  "slug": "polarised-enough-already-unison-votes-to-strike",
+  "title": "Polarised enough already? Unison votes to strike",
+  "date_published": "2014-06-23T22:22:58",
+  "date_modified": "2014-06-24T22:19:19",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The UNISON strike ballot over pay has resulted in a 3:2 vote in favour of action. The average salary of a local government worker was frozen 2010 to 2013 and then went up only 1% in 2013. This means that, due to inflation, workers – including public librarians – have experienced a cut in theirs spending power of 15% or so. Which, in case if you’re in any doubt, is pretty majorly life changing. That sort of cut means that many (especially in a household where there is no other income or both work in local government) will be not only forgetting such things as holidays but starting to be worried about mortgage payments. Indeed, taken in that context, that margin of 3:2 is looking surprisingly small, probably because of a combination of worries over (a) losing yet more pay if one strikes (b) a strong doubt the Government will back down and (c) a feeling that such a move may backfire and cause a loss of sympathy. Certainly, the Government and the majority of the media seem to positively enjoy strikes from the point of view of showing how militant and greedy unions are. It’s also true that others are suffering equally as much and many of those cannot strike. Strikes are polarising things, therefore, but those who vote yes may feel – with the rich getting richer and the poor being seemingly penalised – that things are polarised enough.",
+    "html": "<p style=\"text-align: justify;\"><a title=\"Unison\" href=\"http://www.unison.org.uk/media-centre/local-government-workers-vote-for-strike-action\">The UNISON strike ballot over pay has resulted in a 3:2 vote in favour of action</a>. The average salary of a local government worker was frozen 2010 to 2013 and then went up only 1% in 2013. This means that, due to inflation, workers &#8211; including public librarians &#8211; have experienced a cut in theirs spending power of 15% or so. Which, in case if you&#8217;re in any doubt, is pretty majorly life changing. That sort of cut means that many (especially in a household where there is no other income or both work in local government) will be not only forgetting such things as holidays but starting to be worried about mortgage payments. Indeed, taken in that context, that margin of 3:2 is looking surprisingly small, probably because of a combination of worries over (a) <em>losing yet more pay</em><em> if one strikes </em>(b) a strong doubt the Government will back down and (c) a feeling that such a move may backfire and cause a loss of sympathy. Certainly, the Government and the majority of the media seem to positively enjoy strikes from the point of view of showing how militant and greedy unions are. It&#8217;s also true that others are suffering equally as much and many of those cannot strike. Strikes are polarising things, therefore, but those who vote yes may feel &#8211; with the rich getting richer and the poor being seemingly penalised &#8211; that things are polarised enough.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 10,
+  "story_ids": [
+    "pln-story-7730-intl-001",
+    "pln-story-7730-intl-002",
+    "pln-story-7730-intl-003",
+    "pln-story-7730-intl-004",
+    "pln-story-7730-intl-005",
+    "pln-story-7730-intl-006",
+    "pln-story-7730-natl-001",
+    "pln-story-7730-natl-002",
+    "pln-story-7730-natl-003",
+    "pln-story-7730-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 3,
+    "libraries_count": 4,
+    "countries_count": 3,
+    "top_categories": {
+      "digital_and_technology": 4,
+      "staffing_and_unions": 3,
+      "campaigns_and_protests": 2,
+      "mobile_and_outreach": 1,
+      "cuts_and_finance": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

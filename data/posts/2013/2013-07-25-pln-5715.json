@@ -1,0 +1,65 @@
+{
+  "id": "pln-post-5715",
+  "source_id": 5715,
+  "url": "https://www.publiclibrariesnews.com/2013/07/different-motivations-and-zombie-lego-librarians.html",
+  "slug": "different-motivations-and-zombie-lego-librarians",
+  "title": "Different motivations … and zombie / lego librarians",
+  "date_published": "2013-07-25T22:32:17",
+  "date_modified": "2013-07-27T22:14:51",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "There is some discontent in Birmingham as the board of trustees for the big new city Library appears packed with businessmen. This has raised the ire of those who think it needs to be more diverse. It comes down to different views of who is best to run a public library: someone well-connected with money and a knowledge of business / how things work? Who can perhaps raise some money for it in these tough times? Or someone closer to the ground who understands local communities and ensures the library stays relevant to those people who need it the most? It’s clear which way the council has voted. The big cuts in Lincolnshire continue to make the news, with the ire now being directed against the council for choosing to hold the consultations sometimes ten miles or more from the libraries that may actually close. The council argues this is to provide more space and that more meetings will be held if necessary. Local users suspect darker motives.",
+    "html": "<p style=\"text-align: justify;\">There is some discontent in Birmingham as the board of trustees for the big new city Library appears packed with businessmen. This has raised the ire of those who think it needs to be more diverse. It comes down to different views of who is best to run a public library: someone well-connected with money and a knowledge of business / how things work? Who can perhaps raise some money for it in these tough times? Or someone closer to the ground who understands local communities and ensures the library stays relevant to those people who need it the most? It&#8217;s clear which way the council has voted.</p> <p style=\"text-align: justify;\">The big cuts in Lincolnshire continue to make the news, with the ire now being directed against the council for choosing to hold the consultations sometimes ten miles or more from the libraries that may actually close. The council argues this is to provide more space and that more meetings will be held if necessary. Local users suspect darker motives.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 18,
+  "story_ids": [
+    "pln-story-5715-changes-001",
+    "pln-story-5715-changes-002",
+    "pln-story-5715-changes-003",
+    "pln-story-5715-changes-004",
+    "pln-story-5715-changes-005",
+    "pln-story-5715-changes-006",
+    "pln-story-5715-changes-007",
+    "pln-story-5715-changes-008",
+    "pln-story-5715-changes-009",
+    "pln-story-5715-local-001",
+    "pln-story-5715-local-002",
+    "pln-story-5715-local-003",
+    "pln-story-5715-local-004",
+    "pln-story-5715-local-005",
+    "pln-story-5715-local-006",
+    "pln-story-5715-local-007",
+    "pln-story-5715-local-008",
+    "pln-story-5715-local-009"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 9,
+    "countries_count": 1,
+    "top_categories": {
+      "digital_and_technology": 4,
+      "staffing_and_unions": 4,
+      "cuts_and_finance": 4,
+      "governance_and_trusts": 2,
+      "refurbishment_and_new_builds": 2,
+      "campaigns_and_protests": 2,
+      "closures_and_threats": 2,
+      "events_and_activities": 2,
+      "book_bans_and_challenges": 1,
+      "mobile_and_outreach": 1,
+      "opening_hours": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

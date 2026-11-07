@@ -1,0 +1,73 @@
+{
+  "id": "pln-post-9298",
+  "source_id": 9298,
+  "url": "https://www.publiclibrariesnews.com/2015/06/so-if-its-going-so-well-over-there.html",
+  "slug": "so-if-its-going-so-well-over-there",
+  "title": "So if it’s going so well over there …",
+  "date_published": "2015-06-21T19:21:46",
+  "date_modified": "2015-06-24T21:29:17",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "One for the things I notice scanning the library press is how different the situation is in different countries. Reports today show libraries are booming in the US and Australia yet here they are not doing so well. There is more than one answer to why that is the case there but not so much here. Libraries have more independence in those countries to campaign and do long-term planning for a start. In the US, also, the divide in society is such that so many more people don’t have access to the internet or indeed space that the library is vital, especially in a country that does not appear to have Job Centres or the other paraphernalia of a caring state that we are (still) familiar with. In Australia, adult literacy is seen as a big thing for libraries and they get funding for that. In some places in the US like Columbus it’s educating children outside of school that is key. In the UK, none of these, not even internet access, are such big deals and thus the libraries have less leverage for the final big over-arching factor. That other big difference is, of course, money. The other countries have cuts to be sure but nothing, apparently, in the same league as the UK. To keep the sporting allusion going, therefore, we need that strategy quickly if we are not to get demoted yet another division.",
+    "html": "<p style=\"text-align: justify;\">One for the things I notice scanning the library press is how different the situation is in different countries. Reports today show libraries are booming in the US and Australia yet here they are not doing so well. There is more than one answer to why that is the case there but not so much here. Libraries have more independence in those countries to campaign and do long-term planning for a start. In the US, also, the divide in society is such that so many more people don&#8217;t have access to the internet or indeed space that the library is vital, especially in a country that does not appear to have Job Centres or the other paraphernalia of a caring state that we are (still) familiar with. In Australia, adult literacy is seen as a big thing for libraries and they get funding for that. In some places in the US like Columbus it&#8217;s educating children outside of school that is key. In the UK, none of these, not even internet access, are such big deals and thus the libraries have less leverage for the final big over-arching factor. That other big difference is, of course, money. The other countries have cuts to be sure but nothing, apparently, in the same league as the UK. To keep the sporting allusion going, therefore, we need that strategy quickly if we are not to get demoted yet another division.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-9298-changes-001",
+    "pln-story-9298-changes-002",
+    "pln-story-9298-changes-003",
+    "pln-story-9298-changes-004",
+    "pln-story-9298-local-001",
+    "pln-story-9298-local-002",
+    "pln-story-9298-local-003",
+    "pln-story-9298-local-004",
+    "pln-story-9298-local-005",
+    "pln-story-9298-local-006",
+    "pln-story-9298-local-007",
+    "pln-story-9298-local-008",
+    "pln-story-9298-local-009",
+    "pln-story-9298-local-010",
+    "pln-story-9298-local-011",
+    "pln-story-9298-local-012",
+    "pln-story-9298-local-013",
+    "pln-story-9298-local-014",
+    "pln-story-9298-local-015",
+    "pln-story-9298-intl-001",
+    "pln-story-9298-intl-002",
+    "pln-story-9298-intl-003",
+    "pln-story-9298-natl-001",
+    "pln-story-9298-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 10,
+    "libraries_count": 8,
+    "countries_count": 3,
+    "top_categories": {
+      "closures_and_threats": 9,
+      "governance_and_trusts": 7,
+      "campaigns_and_protests": 6,
+      "refurbishment_and_new_builds": 5,
+      "events_and_activities": 4,
+      "staffing_and_unions": 4,
+      "cuts_and_finance": 4,
+      "book_bans_and_challenges": 3,
+      "co_location": 1,
+      "volunteers_and_community": 1,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,71 @@
+{
+  "id": "pln-post-7615",
+  "source_id": 7615,
+  "url": "https://www.publiclibrariesnews.com/2014/06/what-does-it-mean-if-your-library-has-a-book-in-it-unloaned-since-1997.html",
+  "slug": "what-does-it-mean-if-your-library-has-a-book-in-it-unloaned-since-1997",
+  "title": "What does it mean if your library has a book in it unloaned since 1997?",
+  "date_published": "2014-06-01T20:20:42",
+  "date_modified": "2014-06-03T22:24:30",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A newspaper reports that a book in Sheffield has not been loaned since 1997 and is still on the shelf: other books noted have been similarly friendless since 2000 and 2001. Other reports I’ve seen from there suggest that this isn’t due to poor stock management in the city but rather lack of new books over the last few years. After all, it’s easy to weed books – quite apart from going through each shelf by hand, you can just get a printout of all the books that haven’t been taken out for x number of years and remove them from the shelves and then automatically delete off the computer any you can’t find. Generally, if a book has been on the shelf since 1997 and not been taken out, it means there’s not enough money and books have been left on the shelves to make them look full … or there simply has not been enough staff to take them off. There’s also a small chance that the book has been left on the shelf because it fills a vital stock gap of course but that does not appear to be the case here. For more information on this, see the PLN page Stock management – A complete beginners guide. Please send any news or comments to ianlibrarian@live.co.uk",
+    "html": "<p style=\"text-align: justify;\">A newspaper reports that a book in Sheffield has not been loaned since 1997 and is still on the shelf: other books noted have been similarly friendless since 2000 and 2001. Other reports I&#8217;ve seen from there suggest that this isn&#8217;t due to poor stock management in the city but rather lack of new books over the last few years. After all, it&#8217;s easy to weed books &#8211; quite apart from going through each shelf by hand, you can just get a printout of all the books that haven&#8217;t been taken out for x number of years and remove them from the shelves and then automatically delete off the computer any you can&#8217;t find. Generally, if a book has been on the shelf since 1997 and not been taken out, it means there&#8217;s <em>not enough money </em>and books have been left on the shelves to make them look full &#8230; or there simply has not been enough staff to take them off. There&#8217;s also a small chance that the book has been left on the shelf because it fills a vital stock gap of course but that does not appear to be the case here. For more information on this, see the PLN page <a title=\"PLN\" href=\"https://www.publiclibrariesnews.com/practitioners/promotional-techniques-and-marketing/stock-management-a-complete-beginners-guide\"><strong>Stock management – A complete beginners guide</strong></a>.</p> <p style=\"text-align: justify;\"><em>Please send any news or comments to ianlibrarian@live.co.uk</em></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 22,
+  "story_ids": [
+    "pln-story-7615-changes-001",
+    "pln-story-7615-intl-001",
+    "pln-story-7615-intl-002",
+    "pln-story-7615-intl-003",
+    "pln-story-7615-intl-004",
+    "pln-story-7615-intl-005",
+    "pln-story-7615-intl-006",
+    "pln-story-7615-intl-007",
+    "pln-story-7615-intl-008",
+    "pln-story-7615-intl-009",
+    "pln-story-7615-intl-010",
+    "pln-story-7615-intl-011",
+    "pln-story-7615-intl-012",
+    "pln-story-7615-intl-013",
+    "pln-story-7615-intl-014",
+    "pln-story-7615-intl-015",
+    "pln-story-7615-intl-016",
+    "pln-story-7615-intl-017",
+    "pln-story-7615-natl-001",
+    "pln-story-7615-natl-002",
+    "pln-story-7615-ideas-001",
+    "pln-story-7615-ideas-002"
+  ],
+  "stats": {
+    "authorities_count": 10,
+    "libraries_count": 5,
+    "countries_count": 6,
+    "top_categories": {
+      "cuts_and_finance": 6,
+      "staffing_and_unions": 6,
+      "closures_and_threats": 5,
+      "opening_hours": 4,
+      "digital_and_technology": 4,
+      "campaigns_and_protests": 4,
+      "book_bans_and_challenges": 3,
+      "volunteers_and_community": 2,
+      "governance_and_trusts": 2,
+      "refurbishment_and_new_builds": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

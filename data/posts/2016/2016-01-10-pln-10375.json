@@ -1,0 +1,76 @@
+{
+  "id": "pln-post-10375",
+  "source_id": 10375,
+  "url": "https://www.publiclibrariesnews.com/2016/01/hereford-and-the-library-of-things.html",
+  "slug": "hereford-and-the-library-of-things",
+  "title": "Hereford and the Library of Things.",
+  "date_published": "2016-01-10T23:06:18",
+  "date_modified": "2016-01-12T22:16:20",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Good to see Herefordshire finally ordering the removal of asbestos at Hereford Central Library. It has been closed since September and, combined with the proposed other cuts to the service, the council was beginning to strain any credible definition of a “comprehensive and efficient” library service. The council is now working with a library user group to work out plans for the library. The “library of things” idea, where one can borrow all sorts of items (from lawn mowers to pictures to fishing rods) seems to be, if not fully accepted, in the USA then at least at the stage that Maker Spaces were two or three years ago there. See the article in the international section below. And, like with Maker Spaces at the same time, UK public libraries haven’t touched the idea yet, with those examples I’ve seen not being in public libraries. We will see whether it is a flash in the pan or a trend that we should be picking up on in due course, and hopefully not too late.",
+    "html": "<p style=\"text-align: justify;\">Good to see Herefordshire finally ordering the removal of asbestos at Hereford Central Library. It has been closed since September and, combined with the proposed other cuts to the service, the council was beginning to strain any credible definition of a &#8220;comprehensive and efficient&#8221; library service. The council is now working with a library user group to work out plans for the library.</p> <p style=\"text-align: justify;\">The &#8220;library of things&#8221; idea, where one can borrow all sorts of items (from lawn mowers to pictures to fishing rods) seems to be, if not fully accepted, in the USA then at least at the stage that Maker Spaces were two or three years ago there. See the article in the international section below. And, like with Maker Spaces at the same time, UK public libraries haven&#8217;t touched the idea yet, <a href=\"http://www.libraryofthings.co.uk/how-it-works/\">with those examples I&#8217;ve seen not being in public libraries</a>. We will see whether it is a flash in the pan or a trend that we should be picking up on in due course, and hopefully not too late.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 25,
+  "story_ids": [
+    "pln-story-10375-local-001",
+    "pln-story-10375-local-002",
+    "pln-story-10375-local-003",
+    "pln-story-10375-local-004",
+    "pln-story-10375-local-005",
+    "pln-story-10375-local-006",
+    "pln-story-10375-local-007",
+    "pln-story-10375-local-008",
+    "pln-story-10375-local-009",
+    "pln-story-10375-local-010",
+    "pln-story-10375-local-011",
+    "pln-story-10375-local-012",
+    "pln-story-10375-local-013",
+    "pln-story-10375-local-014",
+    "pln-story-10375-local-015",
+    "pln-story-10375-local-016",
+    "pln-story-10375-local-017",
+    "pln-story-10375-intl-001",
+    "pln-story-10375-intl-002",
+    "pln-story-10375-natl-001",
+    "pln-story-10375-natl-002",
+    "pln-story-10375-natl-003",
+    "pln-story-10375-natl-004",
+    "pln-story-10375-natl-005",
+    "pln-story-10375-natl-006"
+  ],
+  "stats": {
+    "authorities_count": 15,
+    "libraries_count": 10,
+    "countries_count": 4,
+    "top_categories": {
+      "cuts_and_finance": 11,
+      "staffing_and_unions": 6,
+      "closures_and_threats": 5,
+      "campaigns_and_protests": 5,
+      "events_and_activities": 4,
+      "digital_and_technology": 4,
+      "volunteers_and_community": 3,
+      "opening_hours": 3,
+      "warm_spaces_and_wellbeing": 2,
+      "co_location": 1,
+      "governance_and_trusts": 1,
+      "mobile_and_outreach": 1,
+      "refurbishment_and_new_builds": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,76 @@
+{
+  "id": "pln-post-10948",
+  "source_id": 10948,
+  "url": "https://www.publiclibrariesnews.com/2016/04/more-remote-controlled-libraries-and-digital-trends.html",
+  "slug": "more-remote-controlled-libraries-and-digital-trends",
+  "title": "More remote-controlled libraries and digital trends",
+  "date_published": "2016-04-21T21:28:59",
+  "date_modified": "2016-04-24T19:43:28",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Axiell have jumped on the remote-controlled libraries technology offer (for the pros and cons of which see here) meaning that the majority of library system suppliers in the UK offer something in this field. For councils, this is quite tempting – increase your hours while cutting costs – but there’s down sides to it as well, as those locked out due to IT problems or those under 16 are discovering. In other news, by coincidence, the same company Axiell has sent me a guest blog which includes somethings I’ve not come across before (“Internet of Relations” anyone?).",
+    "html": "<p style=\"text-align: justify;\">Axiell have jumped on the remote-controlled libraries technology offer (<a href=\"https://www.publiclibrariesnews.com/about-public-libraries-news/unstaffed-libraries\">for the pros and cons of which see here</a>) meaning that the majority of library system suppliers in the UK offer something in this field. For councils, this is quite tempting &#8211; increase your hours while cutting costs &#8211; but there&#8217;s down sides to it as well, as those locked out due to IT problems or those under 16 are discovering. In other news, by coincidence, the same company Axiell has sent me a guest blog which includes somethings I&#8217;ve not come across before (&#8220;Internet of Relations&#8221; anyone?).</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 27,
+  "story_ids": [
+    "pln-story-10948-changes-001",
+    "pln-story-10948-changes-002",
+    "pln-story-10948-changes-003",
+    "pln-story-10948-changes-004",
+    "pln-story-10948-changes-005",
+    "pln-story-10948-changes-006",
+    "pln-story-10948-changes-007",
+    "pln-story-10948-changes-008",
+    "pln-story-10948-local-001",
+    "pln-story-10948-local-002",
+    "pln-story-10948-local-003",
+    "pln-story-10948-local-004",
+    "pln-story-10948-local-005",
+    "pln-story-10948-local-006",
+    "pln-story-10948-local-007",
+    "pln-story-10948-local-008",
+    "pln-story-10948-local-009",
+    "pln-story-10948-local-010",
+    "pln-story-10948-intl-001",
+    "pln-story-10948-intl-002",
+    "pln-story-10948-intl-003",
+    "pln-story-10948-intl-004",
+    "pln-story-10948-natl-001",
+    "pln-story-10948-natl-002",
+    "pln-story-10948-natl-003",
+    "pln-story-10948-natl-004",
+    "pln-story-10948-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 10,
+    "libraries_count": 13,
+    "countries_count": 5,
+    "top_categories": {
+      "cuts_and_finance": 5,
+      "events_and_activities": 5,
+      "digital_and_technology": 5,
+      "closures_and_threats": 5,
+      "opening_hours": 4,
+      "refurbishment_and_new_builds": 4,
+      "mobile_and_outreach": 3,
+      "staffing_and_unions": 3,
+      "unstaffed_open_plus": 2,
+      "campaigns_and_protests": 2,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

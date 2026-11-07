@@ -1,0 +1,68 @@
+{
+  "id": "pln-post-8000",
+  "source_id": 8000,
+  "url": "https://www.publiclibrariesnews.com/2014/08/apart-from-being-vomited-on-the-job-is-not-without-its-challenges.html",
+  "slug": "apart-from-being-vomited-on-the-job-is-not-without-its-challenges",
+  "title": "“Apart from being vomited on, the job is not without its challenges”",
+  "date_published": "2014-08-19T20:49:26",
+  "date_modified": "2014-08-21T20:02:53",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news"
+  ],
+  "stories_count": 21,
+  "story_ids": [
+    "pln-story-8000-changes-001",
+    "pln-story-8000-intl-001",
+    "pln-story-8000-intl-002",
+    "pln-story-8000-intl-003",
+    "pln-story-8000-intl-004",
+    "pln-story-8000-intl-005",
+    "pln-story-8000-intl-006",
+    "pln-story-8000-intl-007",
+    "pln-story-8000-intl-008",
+    "pln-story-8000-intl-009",
+    "pln-story-8000-intl-010",
+    "pln-story-8000-intl-011",
+    "pln-story-8000-intl-012",
+    "pln-story-8000-intl-013",
+    "pln-story-8000-intl-014",
+    "pln-story-8000-intl-015",
+    "pln-story-8000-ideas-001",
+    "pln-story-8000-ideas-002",
+    "pln-story-8000-ideas-003",
+    "pln-story-8000-ideas-004",
+    "pln-story-8000-ideas-005"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 9,
+    "countries_count": 4,
+    "top_categories": {
+      "staffing_and_unions": 8,
+      "cuts_and_finance": 4,
+      "campaigns_and_protests": 3,
+      "digital_and_technology": 3,
+      "closures_and_threats": 2,
+      "events_and_activities": 2,
+      "volunteers_and_community": 2,
+      "mobile_and_outreach": 2,
+      "opening_hours": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

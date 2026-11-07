@@ -1,0 +1,42 @@
+{
+  "id": "pln-post-661",
+  "source_id": 661,
+  "url": "https://www.publiclibrariesnews.com/2010/12/protests-in-oxford-street.html",
+  "slug": "protests-in-oxford-street",
+  "title": "Protests in Oxford Street",
+  "date_published": "2010-12-18T21:34:00",
+  "date_modified": "2010-12-18T21:34:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "354 libraries plus 26 mobiles currently under threat or recently closed (List below “News”) Being the list below represents around a third of authorities in the UK, the final figure could be from 800 to 1000.",
+    "html": "<p><b>354 libraries plus 26 mobiles currently under threat or recently closed</b> (<b>List below &#8220;News&#8221;</b>)<br />Being the list below represents around a third of authorities in the UK, the final figure could be from 800 to 1000.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial"
+  ],
+  "stories_count": 1,
+  "story_ids": [
+    "pln-story-661-changes-001"
+  ],
+  "stats": {
+    "authorities_count": 1,
+    "libraries_count": 1,
+    "countries_count": 1,
+    "top_categories": {
+      "closures_and_threats": 1,
+      "cuts_and_finance": 1,
+      "opening_hours": 1,
+      "refurbishment_and_new_builds": 1,
+      "book_bans_and_challenges": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

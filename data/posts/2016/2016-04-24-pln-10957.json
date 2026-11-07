@@ -1,0 +1,67 @@
+{
+  "id": "pln-post-10957",
+  "source_id": 10957,
+  "url": "https://www.publiclibrariesnews.com/2016/04/a-few-good-nights-to-be-a-librarian.html",
+  "slug": "a-few-good-nights-to-be-a-librarian",
+  "title": "A few good nights to be a librarian",
+  "date_published": "2016-04-24T19:42:39",
+  "date_modified": "2016-04-26T20:19:57",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "It’s been an interestingly varied few days – helping to host a thriller writer at a library event on Wednesday and then, three days later, helping out at a magic show in another library. The writer, Martin Edwards, is up for two awards in the USA this week but spoke a lot on how important joining the library was – the library he was speaking at, as it happens – in helping his career. The magic show was from a professional theatre company, funded by Arts Council England, and it was superb. Both were very well attended and top notch and I was proud to be part of them. But they were as nothing compared to being was master of ceremonies for a town award’s night on Friday. It was a real pleasure to realise I knew so many of the people in the audience and so many of the winners as well. I knew them because I’d simply worked in the town library for so many years. You get to know people. And people get to know you. There was a lot of smiles and laughter and an awareness, hopefully not just on my part, of the key role libraries play in the town. All in all, it was a good few nights to be a librarian.",
+    "html": "<p style=\"text-align: justify;\">It&#8217;s been an interestingly varied few days &#8211; helping to host a thriller writer at a library event on Wednesday and then, three days later, helping out at a magic show in another library. The writer, Martin Edwards, is up for two awards in the USA this week but spoke a lot on how important joining the library was &#8211; the library he was speaking at, as it happens &#8211; in helping his career. The magic show was from a professional theatre company, funded by Arts Council England, and it was superb. Both were very well attended and top notch and I was proud to be part of them. But they were as nothing compared to being was master of ceremonies for a town award&#8217;s night on Friday. It was a real pleasure to realise I knew so many of the people in the audience and so many of the winners as well. I knew them because I&#8217;d simply worked in the town library for so many years. You get to know people. And people get to know you. There was a lot of smiles and laughter and an awareness, hopefully not just on my part, of the key role libraries play in the town. All in all, it was a good few nights to be a librarian.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 18,
+  "story_ids": [
+    "pln-story-10957-local-001",
+    "pln-story-10957-local-002",
+    "pln-story-10957-local-003",
+    "pln-story-10957-local-004",
+    "pln-story-10957-local-005",
+    "pln-story-10957-local-006",
+    "pln-story-10957-local-007",
+    "pln-story-10957-local-008",
+    "pln-story-10957-local-009",
+    "pln-story-10957-local-010",
+    "pln-story-10957-intl-001",
+    "pln-story-10957-intl-002",
+    "pln-story-10957-intl-003",
+    "pln-story-10957-natl-001",
+    "pln-story-10957-natl-002",
+    "pln-story-10957-natl-003",
+    "pln-story-10957-natl-004",
+    "pln-story-10957-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 11,
+    "libraries_count": 9,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 5,
+      "staffing_and_unions": 5,
+      "opening_hours": 4,
+      "cuts_and_finance": 3,
+      "digital_and_technology": 2,
+      "events_and_activities": 1,
+      "governance_and_trusts": 1,
+      "volunteers_and_community": 1,
+      "unstaffed_open_plus": 1,
+      "co_location": 1,
+      "campaigns_and_protests": 1,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

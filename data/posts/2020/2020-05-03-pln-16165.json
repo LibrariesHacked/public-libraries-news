@@ -1,0 +1,81 @@
+{
+  "id": "pln-post-16165",
+  "source_id": 16165,
+  "url": "https://www.publiclibrariesnews.com/2020/05/looking-forward.html",
+  "slug": "looking-forward",
+  "title": "Looking forward",
+  "date_published": "2020-05-03T19:56:23",
+  "date_modified": "2020-05-04T20:39:07",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "This emergency will end sooner or later and, when it does, public libraries better be ready. This is both in terms of safety – we don’t want to infect anyone – and in terms of adjusting to the changes in society over the last few months. One imagines there will be a huge demand for visits to libraries at least initially but as well as that there will be a heightened expectation for our digital offering, which will need to be maintained. This is not going to be easy but it will be necessary. On a more national scale, the post by Nick Poole below looks at the future of public libraries and how they should be positioned in the future. There is also an update on the much delayed Single Digital Presence – basically a national website for public libraries which would have been superb to have two months ago but looks like still being in pre-development, after at least ten years of research papers and discussion. I don’t blame the British Library for this – they’re doing their best in a systematic way to develop a top quality product – but rather the only people who could realistically pull it off, which is whoever happens to be the libraries minister. They’re the one who needs to bang heads and put money in to get it sorted and I’m not seeing much of that happening now or indeed during this last decade. Hopefully it will be different looking forward.",
+    "html": "<p class=\"wp-block-paragraph\">This emergency will end sooner or later and, when it does, public libraries better be ready. This is both in terms of safety &#8211; we don&#8217;t want to infect anyone &#8211; and in terms of adjusting to the changes in society over the last few months. One imagines there will be a huge demand for visits to libraries at least initially but as well as that there will be a heightened expectation for our digital offering, which will need to be maintained. This is not going to be easy but it will be necessary. </p> <p class=\"wp-block-paragraph\">On a more national scale, the post by Nick Poole below looks at the future of public libraries and how they should be positioned in the future. There is also an update on the much delayed Single Digital Presence &#8211; basically a national website for public libraries which would have been superb to have two months ago but looks like still being in pre-development, after at least ten years of research papers and discussion. I don&#8217;t blame the British Library for this &#8211; they&#8217;re doing their best in a systematic way to develop a top quality product &#8211; but rather the only people who could realistically pull it off, which is whoever happens to be the libraries minister. They&#8217;re the one who needs to bang heads and put money in to get it sorted and I&#8217;m not seeing much of that happening now or indeed during this last decade. Hopefully it will be different looking forward.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 33,
+  "story_ids": [
+    "pln-story-16165-local-001",
+    "pln-story-16165-local-002",
+    "pln-story-16165-local-003",
+    "pln-story-16165-local-004",
+    "pln-story-16165-local-005",
+    "pln-story-16165-local-006",
+    "pln-story-16165-local-007",
+    "pln-story-16165-local-008",
+    "pln-story-16165-local-009",
+    "pln-story-16165-local-010",
+    "pln-story-16165-local-011",
+    "pln-story-16165-local-012",
+    "pln-story-16165-local-013",
+    "pln-story-16165-local-014",
+    "pln-story-16165-local-015",
+    "pln-story-16165-local-016",
+    "pln-story-16165-local-017",
+    "pln-story-16165-local-018",
+    "pln-story-16165-local-019",
+    "pln-story-16165-local-020",
+    "pln-story-16165-local-021",
+    "pln-story-16165-local-022",
+    "pln-story-16165-local-023",
+    "pln-story-16165-local-024",
+    "pln-story-16165-local-025",
+    "pln-story-16165-intl-001",
+    "pln-story-16165-intl-002",
+    "pln-story-16165-intl-003",
+    "pln-story-16165-intl-004",
+    "pln-story-16165-natl-001",
+    "pln-story-16165-natl-002",
+    "pln-story-16165-natl-003",
+    "pln-story-16165-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 23,
+    "libraries_count": 9,
+    "countries_count": 7,
+    "top_categories": {
+      "digital_and_technology": 8,
+      "events_and_activities": 6,
+      "closures_and_threats": 6,
+      "staffing_and_unions": 6,
+      "refurbishment_and_new_builds": 2,
+      "campaigns_and_protests": 2,
+      "opening_hours": 2,
+      "governance_and_trusts": 1,
+      "mobile_and_outreach": 1,
+      "cuts_and_finance": 1,
+      "volunteers_and_community": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "id": "pln-post-574",
+  "source_id": 574,
+  "url": "https://www.publiclibrariesnews.com/2011/04/liking-your-library-is-not-a-party-political-statement.html",
+  "slug": "liking-your-library-is-not-a-party-political-statement",
+  "title": "Liking your library is not a party political statement",
+  "date_published": "2011-04-04T22:02:00",
+  "date_modified": "2011-04-04T22:02:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "495 libraries (428 buildings and 67 mobiles) currently under threat or recently closed/left council control out of 4517 in the UK (click on link on right for full list by authority).",
+    "html": "495 libraries (428 buildings and 67 mobiles) currently under threat or recently closed/left council control out of 4517 in the UK (click on link on right for full list by authority).</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial"
+  ],
+  "stories_count": 2,
+  "story_ids": [
+    "pln-story-574-changes-001",
+    "pln-story-574-changes-002"
+  ],
+  "stats": {
+    "authorities_count": 1,
+    "libraries_count": 0,
+    "countries_count": 1,
+    "top_categories": {
+      "closures_and_threats": 2,
+      "cuts_and_finance": 2,
+      "staffing_and_unions": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

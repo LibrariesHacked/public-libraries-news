@@ -1,0 +1,60 @@
+{
+  "id": "pln-post-3128",
+  "source_id": 3128,
+  "url": "https://www.publiclibrariesnews.com/2012/11/make-it-one-to-remember-national-libraries-day-saturday-9th-february-2013.html",
+  "slug": "make-it-one-to-remember-national-libraries-day-saturday-9th-february-2013",
+  "title": "Make it one to remember: National Libraries Day, Saturday 9th February 2013",
+  "date_published": "2012-11-16T22:21:24",
+  "date_modified": "2012-11-19T23:29:05",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "It’s good news that the date of National Libraries Day has finally been formally confirmed. It gives libraries, and supporters, just enough time to get something prepared. Everyone in libraries should have no problem getting behind the Day. CILIP and others have gone out of their way to ensure that the Day is not about campaigning and fighting cuts but rather about celebrating these wonderful institutions in our midst. Campaigners and library users will find no problem in getting on board. Nor will library staff. Those authorities who are cutting libraries in one way or another (which is the great majority of them) should not feel threatened by a day promoting their services as, after all, no council has gone on record to say they dislike libraries, it’s just that the money is tight. Also, as was vividly shown last year, those authorities who do decide not to support the Day (as Kent found out) are likely not to come out of the affair smelling of roses. For good or ill – definitely to the good in my book – NLD is here to stay and all should get with the programme and make it a tremendous success. We need a day to celebrate more than ever. Well, this is the day. Let’s make it one to remember.",
+    "html": "<p style=\"text-align: justify;\">It&#8217;s good news that the date of National Libraries Day has finally been formally confirmed. It gives libraries, and supporters, just enough time to get something prepared. Everyone in libraries should have no problem getting behind the Day. CILIP and others have gone out of their way to ensure that the Day is <em>not </em>about campaigning and fighting cuts but rather about celebrating these wonderful institutions in our midst. Campaigners and library users will find no problem in getting on board. Nor will library staff. Those authorities who are cutting libraries in one way or another (which is the great majority of them) should not feel threatened by a day promoting their services as, after all, no council has gone on record to say they <em>dislike</em> libraries, it&#8217;s just that the money is tight. Also, as was vividly shown last year, those authorities who do decide <em>not</em> to support the Day (as Kent found out) are likely not to come out of the affair smelling of roses. For good or ill &#8211; definitely to the good in my book &#8211; NLD is here to stay and all should get with the programme and make it a tremendous success. We need a day to celebrate more than ever. Well, this is the day. Let&#8217;s make it one to remember.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 14,
+  "story_ids": [
+    "pln-story-3128-local-001",
+    "pln-story-3128-local-002",
+    "pln-story-3128-local-003",
+    "pln-story-3128-local-004",
+    "pln-story-3128-local-005",
+    "pln-story-3128-local-006",
+    "pln-story-3128-local-007",
+    "pln-story-3128-natl-001",
+    "pln-story-3128-natl-002",
+    "pln-story-3128-natl-003",
+    "pln-story-3128-natl-004",
+    "pln-story-3128-natl-005",
+    "pln-story-3128-natl-006",
+    "pln-story-3128-natl-007"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 5,
+    "countries_count": 1,
+    "top_categories": {
+      "staffing_and_unions": 5,
+      "digital_and_technology": 5,
+      "closures_and_threats": 3,
+      "campaigns_and_protests": 3,
+      "cuts_and_finance": 3,
+      "opening_hours": 1,
+      "refurbishment_and_new_builds": 1,
+      "volunteers_and_community": 1,
+      "book_bans_and_challenges": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

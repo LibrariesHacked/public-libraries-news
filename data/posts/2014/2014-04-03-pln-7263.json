@@ -1,0 +1,71 @@
+{
+  "id": "pln-post-7263",
+  "source_id": 7263,
+  "url": "https://www.publiclibrariesnews.com/2014/04/dcms-powys-northern-ireland-and-a-whole-ton-of-maps.html",
+  "slug": "dcms-powys-northern-ireland-and-a-whole-ton-of-maps",
+  "title": "DCMS, Powys, Northern Ireland and a whole ton of maps",
+  "date_published": "2014-04-03T21:58:05",
+  "date_modified": "2014-04-06T22:36:31",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A parliamentary question by Helen Goodman has revealed that libraries will received £93 million in grant in aid from the DCMS in 2015/16. This appears to compares to £111 million in 2012/13. Another day and another news items suggesting deep cuts in a council’s library service: this time in Powys where two-thirds of their libraries are now considered under threat. Gone are the days when Wales was seen as being more protected than England when it came to cuts. Over in Northern Ireland, though, well done to a nice animated feature tooting the fact all libraries there have WiFi. To round off this survey of one news item from each part of the UK, I was delighted to see that the Scottish are providing free online access to many thousands of old English and Welsh maps. That’s going to be really useful for a whole load of people. Thank you kindly.",
+    "html": "<p style=\"text-align: justify;\">A parliamentary question by Helen Goodman has revealed that libraries will received £93 million in grant in aid from the DCMS in 2015/16. <a title=\"NAO\" href=\"http://www.nao.org.uk/wp-content/uploads/2014/03/The-performance-of-the-department-for-culture-media-and-sport-2012-13.pdf\">This appears to compares to £111 million in 2012/13</a>. Another day and another news items suggesting deep cuts in a council&#8217;s library service: this time in Powys where two-thirds of their libraries are now considered under threat. Gone are the days when Wales was seen as being more protected than England when it came to cuts. Over in Northern Ireland, though, well done to a nice animated feature tooting the fact all libraries there have WiFi. To round off this survey of one news item from each part of the UK, I was delighted to see that the Scottish are providing free online access to many thousands of old English and Welsh maps. That&#8217;s going to be really useful for a whole load of people. Thank you kindly.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 23,
+  "story_ids": [
+    "pln-story-7263-changes-001",
+    "pln-story-7263-changes-002",
+    "pln-story-7263-changes-003",
+    "pln-story-7263-changes-004",
+    "pln-story-7263-changes-005",
+    "pln-story-7263-changes-006",
+    "pln-story-7263-changes-007",
+    "pln-story-7263-changes-008",
+    "pln-story-7263-changes-009",
+    "pln-story-7263-intl-001",
+    "pln-story-7263-intl-002",
+    "pln-story-7263-intl-003",
+    "pln-story-7263-intl-004",
+    "pln-story-7263-intl-005",
+    "pln-story-7263-intl-006",
+    "pln-story-7263-intl-007",
+    "pln-story-7263-intl-008",
+    "pln-story-7263-intl-009",
+    "pln-story-7263-intl-010",
+    "pln-story-7263-intl-011",
+    "pln-story-7263-intl-012",
+    "pln-story-7263-intl-013",
+    "pln-story-7263-intl-014"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 2,
+    "countries_count": 7,
+    "top_categories": {
+      "cuts_and_finance": 5,
+      "closures_and_threats": 4,
+      "staffing_and_unions": 4,
+      "events_and_activities": 3,
+      "digital_and_technology": 2,
+      "opening_hours": 2,
+      "campaigns_and_protests": 2,
+      "volunteers_and_community": 1,
+      "mobile_and_outreach": 1,
+      "book_bans_and_challenges": 1,
+      "governance_and_trusts": 1,
+      "unstaffed_open_plus": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

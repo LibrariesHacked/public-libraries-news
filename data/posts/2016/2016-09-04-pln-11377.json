@@ -1,0 +1,82 @@
+{
+  "id": "pln-post-11377",
+  "source_id": 11377,
+  "url": "https://www.publiclibrariesnews.com/2016/09/staffordshire-sunderland-bedford-and-ping-pong.html",
+  "slug": "staffordshire-sunderland-bedford-and-ping-pong",
+  "title": "Staffordshire, Sunderland, Bedford and … Ping Pong",
+  "date_published": "2016-09-04T20:00:18",
+  "date_modified": "2016-09-06T18:41:36",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Staffordshire have started passing several libraries to volunteers while Sunderland have just started a consultation on cutting the library budget. At the other end of the consulting process, Bedford has announced that all libraries will stay open but, perhaps worryingly, have not said what shape that form will take. Councils can mean all sorts of things by “no libraries will close” including the traditional pre-2010 meaning of no change and more recent meanings like retired people staffing them in their spare time or the installation of remote-control technology. Meanwhile, in Wales, Ystrad Mynach (l’ve always loved that name) Library is having a refurb, Malta is experiencing a lending surge and some USA libraries have installed table tennis tables.",
+    "html": "<p style=\"text-align: justify;\">Staffordshire have started passing several libraries to volunteers while Sunderland have just started a consultation on cutting the library budget. At the other end of the consulting process, Bedford has announced that all libraries will stay open but, perhaps worryingly, have not said what shape that form will take. Councils can mean all sorts of things by &#8220;no libraries will close&#8221; including the traditional pre-2010 meaning of no change and more recent meanings like retired people staffing them in their spare time or the installation of remote-control technology. Meanwhile, in Wales, Ystrad Mynach (l&#8217;ve always loved that name) Library is having a refurb, Malta is experiencing a lending surge and some USA libraries have installed table tennis tables.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 30,
+  "story_ids": [
+    "pln-story-11377-changes-001",
+    "pln-story-11377-changes-002",
+    "pln-story-11377-changes-003",
+    "pln-story-11377-changes-004",
+    "pln-story-11377-local-001",
+    "pln-story-11377-local-002",
+    "pln-story-11377-local-003",
+    "pln-story-11377-local-004",
+    "pln-story-11377-local-005",
+    "pln-story-11377-local-006",
+    "pln-story-11377-local-007",
+    "pln-story-11377-local-008",
+    "pln-story-11377-local-009",
+    "pln-story-11377-local-010",
+    "pln-story-11377-local-011",
+    "pln-story-11377-local-012",
+    "pln-story-11377-local-013",
+    "pln-story-11377-local-014",
+    "pln-story-11377-local-015",
+    "pln-story-11377-intl-001",
+    "pln-story-11377-intl-002",
+    "pln-story-11377-intl-003",
+    "pln-story-11377-intl-004",
+    "pln-story-11377-intl-005",
+    "pln-story-11377-intl-006",
+    "pln-story-11377-natl-001",
+    "pln-story-11377-natl-002",
+    "pln-story-11377-natl-003",
+    "pln-story-11377-natl-004",
+    "pln-story-11377-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 15,
+    "countries_count": 6,
+    "top_categories": {
+      "cuts_and_finance": 8,
+      "staffing_and_unions": 7,
+      "closures_and_threats": 5,
+      "volunteers_and_community": 4,
+      "campaigns_and_protests": 3,
+      "digital_and_technology": 3,
+      "refurbishment_and_new_builds": 2,
+      "events_and_activities": 2,
+      "warm_spaces_and_wellbeing": 2,
+      "co_location": 1,
+      "mobile_and_outreach": 1,
+      "opening_hours": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

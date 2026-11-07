@@ -1,0 +1,82 @@
+{
+  "id": "pln-post-10624",
+  "source_id": 10624,
+  "url": "https://www.publiclibrariesnews.com/2016/02/temple-of-literacy-and-the-citys-heart.html",
+  "slug": "temple-of-literacy-and-the-citys-heart",
+  "title": "Temple of literacy and the city’s heart",
+  "date_published": "2016-02-16T21:19:37",
+  "date_modified": "2016-02-18T22:33:16",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Three library closures confirmed in East Ayrshire (following on from three more last year there) and a proposed co-location in Greenwich are the main physical changes. In other news, there appears to be a combined response to library cuts in northeast England. There are also, unusually, two positive stories about volunteer libraries, although I know from campaigners to take the one about Walcot Library in Swindon with a large dose of salt. Going abroad, there’s a lovely story about a Greek library – inspired by bustling British ones – that shows what’s possible in austerity, even if that austerity is in Greece and not in England.",
+    "html": "<p style=\"text-align: justify;\">Three library closures confirmed in East Ayrshire (following on from three more last year there) and a proposed co-location in Greenwich are the main physical changes. In other news, there appears to be a combined response to library cuts in northeast England. There are also, unusually, two positive stories about volunteer libraries, although I know from campaigners to take the one about Walcot Library in Swindon with a large dose of salt. Going abroad, there&#8217;s a lovely story about a Greek library &#8211; inspired by bustling British ones &#8211; that shows what&#8217;s possible in austerity, even if that austerity is in Greece and not in England.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 33,
+  "story_ids": [
+    "pln-story-10624-changes-001",
+    "pln-story-10624-changes-002",
+    "pln-story-10624-local-001",
+    "pln-story-10624-local-002",
+    "pln-story-10624-local-003",
+    "pln-story-10624-local-004",
+    "pln-story-10624-local-005",
+    "pln-story-10624-local-006",
+    "pln-story-10624-local-007",
+    "pln-story-10624-local-008",
+    "pln-story-10624-local-009",
+    "pln-story-10624-local-010",
+    "pln-story-10624-local-011",
+    "pln-story-10624-local-012",
+    "pln-story-10624-local-013",
+    "pln-story-10624-local-014",
+    "pln-story-10624-local-015",
+    "pln-story-10624-local-016",
+    "pln-story-10624-local-017",
+    "pln-story-10624-local-018",
+    "pln-story-10624-local-019",
+    "pln-story-10624-local-020",
+    "pln-story-10624-local-021",
+    "pln-story-10624-intl-001",
+    "pln-story-10624-intl-002",
+    "pln-story-10624-intl-003",
+    "pln-story-10624-intl-004",
+    "pln-story-10624-intl-005",
+    "pln-story-10624-natl-001",
+    "pln-story-10624-natl-002",
+    "pln-story-10624-natl-003",
+    "pln-story-10624-natl-004",
+    "pln-story-10624-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 21,
+    "libraries_count": 15,
+    "countries_count": 7,
+    "top_categories": {
+      "cuts_and_finance": 13,
+      "closures_and_threats": 10,
+      "staffing_and_unions": 8,
+      "campaigns_and_protests": 7,
+      "events_and_activities": 7,
+      "volunteers_and_community": 5,
+      "digital_and_technology": 4,
+      "opening_hours": 3,
+      "mobile_and_outreach": 3,
+      "refurbishment_and_new_builds": 2,
+      "book_bans_and_challenges": 2
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,58 @@
+{
+  "id": "pln-post-6948",
+  "source_id": 6948,
+  "url": "https://www.publiclibrariesnews.com/2014/02/goodbye-advisory-council-on-libraries.html",
+  "slug": "goodbye-advisory-council-on-libraries",
+  "title": "Goodbye Advisory Council on Libraries",
+  "date_published": "2014-02-17T22:51:23",
+  "date_modified": "2014-02-18T20:46:46",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "After effectively abolishing the Advisory Council on Libraries (ACL) a couple of years ago, the government has finally got around (several months later than was promised) to formally consult on the subject. This is something which the DCMS are required to do by law and it is clear that they’re not happy about it: the report makes very clear that they don’t want the ACL to be reconvened. The view is that the ACL’s only job is to advise the DCMS on whether it should intervene in local councils and, being that they were not consulted the first and only time this happened, there’s no need for them. Never mind that they presumably jolly well should have been. Moreover, the report states that other bodies (such as ACE, the SCL, LGA and CILIP) provide this consultation and so the ACL is not needed. This means that £2,500 (yes: just two and a half thousand pounds) per year it cost in terms of expenses etc can be saved. Critics of the abolition have pointed out in the past that the ACL provided a relatively independent and expert view at almost no cost. However, this does not appear to matter – the Minister decided during the Bonfire of the Quangoes that it had to go and so it has effectively already gone. Anyone is welcome to put their own views on the subject during the consultation but the clear subtext is that this will be politely ignored. The ACL, barely noticed during its lifetime but providing an effectively free, expert and independent service nonetheless, is seen as a mildly embarrassing heirloom to be junked.",
+    "html": "<p style=\"text-align: justify;\">After effectively abolishing the Advisory Council on Libraries (ACL) a couple of years ago, the government has finally got around (several months later than was promised) to formally consult on the subject. This is something which the DCMS are required to do by law and it is clear that they&#8217;re not happy about it: the report makes very clear that they don&#8217;t want the ACL to be reconvened. The view is that the ACL&#8217;s only job is to advise the DCMS on whether it should intervene in local councils and, being that they were not consulted the first and only time this happened, there&#8217;s no need for them. Never mind that they presumably jolly well should have been.</p> <p style=\"text-align: justify;\">Moreover, the report states that other bodies (such as ACE, the SCL, LGA and CILIP) provide this consultation and so the ACL is not needed. This means that £2,500 (yes: just two and a half thousand pounds) per year it cost in terms of expenses etc can be saved. Critics of the abolition have pointed out in the past that the ACL provided a relatively independent and expert view at almost no cost. However, this does not appear to matter &#8211; the Minister decided during the Bonfire of the Quangoes that it had to go and so it has effectively already gone. Anyone is welcome to put their own views on the subject during the consultation but the clear subtext is that this will be politely ignored. The ACL, barely noticed during its lifetime but providing an effectively free, expert and independent service nonetheless, is seen as a mildly embarrassing heirloom to be junked.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 14,
+  "story_ids": [
+    "pln-story-6948-changes-001",
+    "pln-story-6948-intl-001",
+    "pln-story-6948-intl-002",
+    "pln-story-6948-intl-003",
+    "pln-story-6948-intl-004",
+    "pln-story-6948-intl-005",
+    "pln-story-6948-intl-006",
+    "pln-story-6948-intl-007",
+    "pln-story-6948-natl-001",
+    "pln-story-6948-natl-002",
+    "pln-story-6948-natl-003",
+    "pln-story-6948-natl-004",
+    "pln-story-6948-natl-005",
+    "pln-story-6948-natl-006"
+  ],
+  "stats": {
+    "authorities_count": 4,
+    "libraries_count": 7,
+    "countries_count": 4,
+    "top_categories": {
+      "staffing_and_unions": 7,
+      "cuts_and_finance": 4,
+      "closures_and_threats": 3,
+      "digital_and_technology": 2,
+      "volunteers_and_community": 1,
+      "events_and_activities": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

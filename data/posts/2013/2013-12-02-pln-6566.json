@@ -1,0 +1,52 @@
+{
+  "id": "pln-post-6566",
+  "source_id": 6566,
+  "url": "https://www.publiclibrariesnews.com/2013/12/100k-to-north-yorkshire-for-arts-projects.html",
+  "slug": "100k-to-north-yorkshire-for-arts-projects",
+  "title": "£100k to North Yorkshire for Arts projects",
+  "date_published": "2013-12-02T22:39:55",
+  "date_modified": "2013-12-04T23:39:38",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 10,
+  "story_ids": [
+    "pln-story-6566-changes-001",
+    "pln-story-6566-changes-002",
+    "pln-story-6566-changes-003",
+    "pln-story-6566-changes-004",
+    "pln-story-6566-changes-005",
+    "pln-story-6566-changes-006",
+    "pln-story-6566-local-001",
+    "pln-story-6566-local-002",
+    "pln-story-6566-local-003",
+    "pln-story-6566-local-004"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 5,
+    "countries_count": 1,
+    "top_categories": {
+      "cuts_and_finance": 3,
+      "events_and_activities": 2,
+      "staffing_and_unions": 2,
+      "digital_and_technology": 1,
+      "book_bans_and_challenges": 1,
+      "closures_and_threats": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

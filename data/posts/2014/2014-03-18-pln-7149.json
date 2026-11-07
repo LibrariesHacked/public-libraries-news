@@ -1,0 +1,72 @@
+{
+  "id": "pln-post-7149",
+  "source_id": 7149,
+  "url": "https://www.publiclibrariesnews.com/2014/03/your-last-chance-to-have-a-say-on-english-public-libraries.html",
+  "slug": "your-last-chance-to-have-a-say-on-english-public-libraries",
+  "title": "Your last chance to have a say on English public libraries",
+  "date_published": "2014-03-18T22:33:44",
+  "date_modified": "2014-03-19T22:19:24",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 26,
+  "story_ids": [
+    "pln-story-7149-changes-001",
+    "pln-story-7149-changes-002",
+    "pln-story-7149-changes-003",
+    "pln-story-7149-changes-004",
+    "pln-story-7149-changes-005",
+    "pln-story-7149-changes-006",
+    "pln-story-7149-changes-007",
+    "pln-story-7149-changes-008",
+    "pln-story-7149-changes-009",
+    "pln-story-7149-changes-010",
+    "pln-story-7149-changes-011",
+    "pln-story-7149-changes-012",
+    "pln-story-7149-intl-001",
+    "pln-story-7149-intl-002",
+    "pln-story-7149-intl-003",
+    "pln-story-7149-intl-004",
+    "pln-story-7149-intl-005",
+    "pln-story-7149-intl-006",
+    "pln-story-7149-intl-007",
+    "pln-story-7149-intl-008",
+    "pln-story-7149-intl-009",
+    "pln-story-7149-intl-010",
+    "pln-story-7149-intl-011",
+    "pln-story-7149-intl-012",
+    "pln-story-7149-intl-013",
+    "pln-story-7149-intl-014"
+  ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 8,
+    "countries_count": 5,
+    "top_categories": {
+      "staffing_and_unions": 7,
+      "cuts_and_finance": 5,
+      "opening_hours": 4,
+      "closures_and_threats": 4,
+      "digital_and_technology": 4,
+      "volunteers_and_community": 3,
+      "mobile_and_outreach": 2,
+      "refurbishment_and_new_builds": 2,
+      "campaigns_and_protests": 2,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

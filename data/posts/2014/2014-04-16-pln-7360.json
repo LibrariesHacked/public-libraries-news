@@ -1,0 +1,63 @@
+{
+  "id": "pln-post-7360",
+  "source_id": 7360,
+  "url": "https://www.publiclibrariesnews.com/2014/04/probably-the-librarians-would-like-tea-or-chocolates-or-a-reliable-source-of-funding.html",
+  "slug": "probably-the-librarians-would-like-tea-or-chocolates-or-a-reliable-source-of-funding",
+  "title": "“Probably the librarians would like tea. Or chocolates. Or a reliable source of funding”",
+  "date_published": "2014-04-16T20:22:22",
+  "date_modified": "2014-04-17T21:34:06",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 16,
+  "story_ids": [
+    "pln-story-7360-changes-001",
+    "pln-story-7360-changes-002",
+    "pln-story-7360-changes-003",
+    "pln-story-7360-intl-001",
+    "pln-story-7360-intl-002",
+    "pln-story-7360-intl-003",
+    "pln-story-7360-intl-004",
+    "pln-story-7360-intl-005",
+    "pln-story-7360-intl-006",
+    "pln-story-7360-intl-007",
+    "pln-story-7360-intl-008",
+    "pln-story-7360-natl-001",
+    "pln-story-7360-natl-002",
+    "pln-story-7360-natl-003",
+    "pln-story-7360-natl-004",
+    "pln-story-7360-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 4,
+    "libraries_count": 1,
+    "countries_count": 2,
+    "top_categories": {
+      "cuts_and_finance": 6,
+      "staffing_and_unions": 5,
+      "volunteers_and_community": 3,
+      "digital_and_technology": 3,
+      "mobile_and_outreach": 2,
+      "closures_and_threats": 2,
+      "refurbishment_and_new_builds": 1,
+      "campaigns_and_protests": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

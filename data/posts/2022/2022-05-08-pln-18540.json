@@ -1,0 +1,73 @@
+{
+  "id": "pln-post-18540",
+  "source_id": 18540,
+  "url": "https://www.publiclibrariesnews.com/2022/05/local-elections.html",
+  "slug": "local-elections",
+  "title": "Local elections",
+  "date_published": "2022-05-08T15:21:21",
+  "date_modified": "2022-05-08T15:21:28",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Local elections have resulted in a several changes of control, with perhaps the most significant one for libraries being in Barnet, which has experienced a lot of cuts over the years, has changed from Conservative to Labour. It will be interesting to see if this results on any changed to libraries. Pulling back to see the bigger picture, the results suggest that the Conservatives are increasingly vulnerable, making possible a Labour (and thus higher spending on public services) government is at least possible this decade. Change-wise, one more library service going fines-free, with 38 now not charge any late fees in the UK, two branches have had an extension of opening hours, one had had a refurbishment and a last library is moving into a new co-location. So on the face of it no bad news there. Across the water, the campaign by some to turn the USA into something close to The Handmaid’s Tale continues with moves to censor what library users are allowed to read.",
+    "html": "<p class=\"wp-block-paragraph\">Local elections have resulted in a several changes of control, with perhaps the most significant one for libraries being in Barnet, which has experienced a lot of cuts over the years, has changed from Conservative to Labour. It will be interesting to see if this results on any changed to libraries. Pulling back to see the bigger picture, the results suggest that the Conservatives are increasingly vulnerable, making possible a Labour (and thus higher spending on public services) government is at least possible this decade. </p> <p class=\"wp-block-paragraph\">Change-wise, one more library service going fines-free, with 38 now not charge any late fees in the UK, two branches have had an extension of opening hours, one had had a refurbishment and a last library is moving into a new co-location. So on the face of it no bad news there. Across the water, the campaign by some to turn the USA into something close to The Handmaid&#8217;s Tale continues with moves to censor what library users are allowed to read.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 26,
+  "story_ids": [
+    "pln-story-18540-changes-001",
+    "pln-story-18540-changes-002",
+    "pln-story-18540-changes-003",
+    "pln-story-18540-local-001",
+    "pln-story-18540-local-002",
+    "pln-story-18540-local-003",
+    "pln-story-18540-local-004",
+    "pln-story-18540-local-005",
+    "pln-story-18540-local-006",
+    "pln-story-18540-local-007",
+    "pln-story-18540-local-008",
+    "pln-story-18540-local-009",
+    "pln-story-18540-local-010",
+    "pln-story-18540-local-011",
+    "pln-story-18540-local-012",
+    "pln-story-18540-local-013",
+    "pln-story-18540-local-014",
+    "pln-story-18540-local-015",
+    "pln-story-18540-local-016",
+    "pln-story-18540-local-017",
+    "pln-story-18540-local-018",
+    "pln-story-18540-local-019",
+    "pln-story-18540-intl-001",
+    "pln-story-18540-intl-002",
+    "pln-story-18540-intl-003",
+    "pln-story-18540-natl-001"
+  ],
+  "stats": {
+    "authorities_count": 19,
+    "libraries_count": 11,
+    "countries_count": 5,
+    "top_categories": {
+      "campaigns_and_protests": 5,
+      "events_and_activities": 4,
+      "closures_and_threats": 4,
+      "refurbishment_and_new_builds": 3,
+      "warm_spaces_and_wellbeing": 3,
+      "co_location": 2,
+      "cuts_and_finance": 2,
+      "staffing_and_unions": 1,
+      "opening_hours": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

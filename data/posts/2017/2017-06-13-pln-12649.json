@@ -1,0 +1,72 @@
+{
+  "id": "pln-post-12649",
+  "source_id": 12649,
+  "url": "https://www.publiclibrariesnews.com/2017/06/desmond-clarke.html",
+  "slug": "desmond-clarke",
+  "title": "Desmond Clarke",
+  "date_published": "2017-06-13T20:34:02",
+  "date_modified": "2017-06-15T20:41:44",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I was so sorry to see that Desmond Clarke has passed away. We started exchanging emails almost back when I started PLN, back in 2010. He was a campaigning veteran long before then of course. We did not always agree on the solution to the problems that public libraries found themselves in but I never doubted his good intentions and, also, his gentle influence. He was one of the few campaigners that Ed Vaizey listened to, although of course that did not unfortunately translate much into action. There’s not many people outside the library world, when all is said and done, that spent so much time on working for their betterment. I’ll miss his emails and I’ll miss him. The news that Bristol may close up to 17 branches is not unexpected. Back in January I’d reported that up to 19 were under threat and it looks like a similar number indeed are. The city library service has had a tough time over the last few years, the opening of Junction 3 excepted, and it’s not over yet.",
+    "html": "<p style=\"text-align: justify;\">I was so sorry to see that Desmond Clarke has passed away. We started exchanging emails almost back when I started PLN, back in 2010. He was a campaigning veteran long before then of course. We did not always agree on the solution to the problems that public libraries found themselves in but I never doubted his good intentions and, also, his gentle influence. He was one of the few campaigners that Ed Vaizey listened to, although of course that did not unfortunately translate much into action. There&#8217;s not many people outside the library world, when all is said and done, that spent so much time on working for their betterment. I&#8217;ll miss his emails and I&#8217;ll miss him.</p> <p style=\"text-align: justify;\">The news that Bristol may close up to 17 branches is not unexpected. Back in January I&#8217;d reported that up to 19 were under threat and it looks like a similar number indeed are. The city library service <a href=\"https://www.publiclibrariesnews.com/about-public-libraries-news/information/changes-by-local-authority-a-to-fife/brent-to-cambridgeshire\">has had a tough time over the last few years</a>, the opening of<a href=\"http://www.bbc.co.uk/news/uk-england-bristol-21850512\"> Junction 3</a> excepted, and it&#8217;s not over yet.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 23,
+  "story_ids": [
+    "pln-story-12649-changes-001",
+    "pln-story-12649-changes-002",
+    "pln-story-12649-local-001",
+    "pln-story-12649-local-002",
+    "pln-story-12649-local-003",
+    "pln-story-12649-local-004",
+    "pln-story-12649-local-005",
+    "pln-story-12649-local-006",
+    "pln-story-12649-local-007",
+    "pln-story-12649-local-008",
+    "pln-story-12649-local-009",
+    "pln-story-12649-local-010",
+    "pln-story-12649-intl-001",
+    "pln-story-12649-intl-002",
+    "pln-story-12649-intl-003",
+    "pln-story-12649-intl-004",
+    "pln-story-12649-intl-005",
+    "pln-story-12649-natl-001",
+    "pln-story-12649-natl-002",
+    "pln-story-12649-natl-003",
+    "pln-story-12649-natl-004",
+    "pln-story-12649-natl-005",
+    "pln-story-12649-natl-006"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 5,
+    "countries_count": 5,
+    "top_categories": {
+      "closures_and_threats": 6,
+      "campaigns_and_protests": 5,
+      "events_and_activities": 4,
+      "opening_hours": 3,
+      "digital_and_technology": 3,
+      "cuts_and_finance": 2,
+      "refurbishment_and_new_builds": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "volunteers_and_community": 1,
+      "co_location": 1,
+      "staffing_and_unions": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

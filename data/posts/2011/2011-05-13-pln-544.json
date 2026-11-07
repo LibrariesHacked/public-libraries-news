@@ -1,0 +1,55 @@
+{
+  "id": "pln-post-544",
+  "source_id": 544,
+  "url": "https://www.publiclibrariesnews.com/2011/05/brent-campaigners-need-you.html",
+  "slug": "brent-campaigners-need-you",
+  "title": "Brent campaigners NEED YOU",
+  "date_published": "2011-05-13T19:11:00",
+  "date_modified": "2011-05-13T19:11:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "451 libraries (383 buildings and 68 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4517 in the UK – see tally by local authority link on right for the full picture.",
+    "html": "</p> <b>451 </b><b>libraries (383 buildings and 68 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4517 in the UK &#8211; see tally by local authority link on right for the full picture.</b>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial"
+  ],
+  "stories_count": 9,
+  "story_ids": [
+    "pln-story-544-changes-001",
+    "pln-story-544-changes-002",
+    "pln-story-544-changes-003",
+    "pln-story-544-changes-004",
+    "pln-story-544-changes-005",
+    "pln-story-544-changes-006",
+    "pln-story-544-changes-007",
+    "pln-story-544-changes-008",
+    "pln-story-544-changes-009"
+  ],
+  "stats": {
+    "authorities_count": 6,
+    "libraries_count": 5,
+    "countries_count": 1,
+    "top_categories": {
+      "closures_and_threats": 7,
+      "cuts_and_finance": 5,
+      "volunteers_and_community": 5,
+      "campaigns_and_protests": 5,
+      "staffing_and_unions": 4,
+      "mobile_and_outreach": 4,
+      "opening_hours": 3,
+      "digital_and_technology": 2,
+      "refurbishment_and_new_builds": 1,
+      "book_bans_and_challenges": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

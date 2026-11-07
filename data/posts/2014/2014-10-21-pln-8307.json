@@ -1,0 +1,81 @@
+{
+  "id": "pln-post-8307",
+  "source_id": 8307,
+  "url": "https://www.publiclibrariesnews.com/2014/10/poster-child-chester-cuts-in-barnet-and-walsall.html",
+  "slug": "poster-child-chester-cuts-in-barnet-and-walsall",
+  "title": "“Poster child” Chester: cuts in Barnet and Walsall",
+  "date_published": "2014-10-21T21:20:15",
+  "date_modified": "2014-10-23T20:38:28",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The Arts Council England chief, Sir Peter Bazalgette, visited the site of a new combined library/theatre/cinema in Chester and called it a “poster child” for showing what Arts and Culture can do to “turbo-charge” its neighbourhood. He also points out the synergy of having all the Arts users, including library members in one place with all the cross-selling that that implies. I’ve noted interest in the project from around the world in the past. It’s a strange one for me as it’s in my own library authority (and I don’t like reporting on that for obvious reasons) but it does look like something which could have national implications. Not least because Sir Peter holds quite a large budget and has libraries under his remit. Major cuts in Barnet are being proposed with several options listed that could close or turn volunteer half of the branches. Two items of note on this one: the first is that the report notes that they have less volunteers than other councils and it’s time to catch up and the second is the suggestion that they rent out library car park spaces. Both have some interesting implications. Walsall have also announced major cuts but, I guess, car parking spaces are less of a premium there.",
+    "html": "<p style=\"text-align: justify;\">The Arts Council England chief, Sir Peter Bazalgette, visited the site of a new combined library/theatre/cinema in Chester and called it a &#8220;poster child&#8221; for showing what Arts and Culture can do to &#8220;turbo-charge&#8221; its neighbourhood. He also points out the synergy of having all the Arts users, including library members in one place with all the cross-selling that that implies. I&#8217;ve noted interest in the project from around the world in the past. It&#8217;s a strange one for me as it&#8217;s in my own library authority (and I don&#8217;t like reporting on that for obvious reasons) but it does look like something which could have national implications. Not least because Sir Peter holds quite a large budget and has libraries under his remit.</p> <p style=\"text-align: justify;\">Major cuts in Barnet are being proposed with several options listed that could close or turn volunteer half of the branches. Two items of note on this one: the first is that the report notes that they have less volunteers than other councils and it&#8217;s time to catch up and the second is the suggestion that they rent out library car park spaces. Both have some interesting implications. Walsall have also announced major cuts but, I guess, car parking spaces are less of a premium there.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 31,
+  "story_ids": [
+    "pln-story-8307-changes-001",
+    "pln-story-8307-changes-002",
+    "pln-story-8307-changes-003",
+    "pln-story-8307-intl-001",
+    "pln-story-8307-intl-002",
+    "pln-story-8307-intl-003",
+    "pln-story-8307-intl-004",
+    "pln-story-8307-intl-005",
+    "pln-story-8307-intl-006",
+    "pln-story-8307-intl-007",
+    "pln-story-8307-intl-008",
+    "pln-story-8307-intl-009",
+    "pln-story-8307-intl-010",
+    "pln-story-8307-intl-011",
+    "pln-story-8307-intl-012",
+    "pln-story-8307-intl-013",
+    "pln-story-8307-intl-014",
+    "pln-story-8307-intl-015",
+    "pln-story-8307-intl-016",
+    "pln-story-8307-intl-017",
+    "pln-story-8307-intl-018",
+    "pln-story-8307-intl-019",
+    "pln-story-8307-intl-020",
+    "pln-story-8307-intl-021",
+    "pln-story-8307-intl-022",
+    "pln-story-8307-intl-023",
+    "pln-story-8307-intl-024",
+    "pln-story-8307-natl-001",
+    "pln-story-8307-natl-002",
+    "pln-story-8307-natl-003",
+    "pln-story-8307-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 17,
+    "libraries_count": 12,
+    "countries_count": 6,
+    "top_categories": {
+      "closures_and_threats": 10,
+      "staffing_and_unions": 10,
+      "volunteers_and_community": 8,
+      "cuts_and_finance": 8,
+      "campaigns_and_protests": 4,
+      "book_bans_and_challenges": 2,
+      "digital_and_technology": 2,
+      "events_and_activities": 2,
+      "governance_and_trusts": 1,
+      "opening_hours": 1,
+      "mobile_and_outreach": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

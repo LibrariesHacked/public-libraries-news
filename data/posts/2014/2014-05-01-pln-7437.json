@@ -1,0 +1,65 @@
+{
+  "id": "pln-post-7437",
+  "source_id": 7437,
+  "url": "https://www.publiclibrariesnews.com/2014/05/libraries-have-never-been-just-about-the-books-wales-lincolnshire-therapy.html",
+  "slug": "libraries-have-never-been-just-about-the-books-wales-lincolnshire-therapy",
+  "title": "Libraries “have never been just about the books”: Wales, Lincolnshire + therapy",
+  "date_published": "2014-05-01T22:34:48",
+  "date_modified": "2014-05-05T19:45:19",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A few obvious key stories today. The first is that Wales has launches its new set of standards: they’re more qualitative than before but not necessarily easier than the previous ones. Why is this notable? Well, because Wales is starting to feel the touch of austerity, with big cuts affecting such places as the Vale of Glamorgan and Rhondda Cynon Taff and it will be interesting to see what impact, if any, the presence of standards have. I get the feel that they had previously shamed a few councils into improving but now Wales is in a tougher climate and this will be the real test. At least Wales has standards, though, which is not the case in England or, more specifically, Lincolnshire where the Council has made clear it is going through with major cuts despite an ongoing judicial review. The council has made clear that it’s determined to cut £2 million mainly by removing 100 paid staff. It has also made clear that even if the review does count against them then they will simply sort out the technical process side and keep the staff cut … which shows that, when it comes down to it, English law is not an emphatically strong tool for library campaigners. Finally, a just plain good story about academic research which shows the importance of library buildings (note, not the books or the service) as therapeutic places. The mere fact that they offer a quiet, neutral, non-judgemental and publicly owned space is enough. As the article notes, libraries “have never been just about the books”.",
+    "html": "<p style=\"text-align: justify;\">A few obvious key stories today. <a title=\"Welsh Government\" href=\"http://libalyson.wordpress.com/2014/05/01/new-standards-for-welsh-public-libraries/\">The first is that Wales has launches its new set of standards: they&#8217;re more qualitative than before but not necessarily easier than the previous ones</a>. Why is this notable? Well, because Wales is starting to feel the touch of austerity, with big cuts affecting such places as the Vale of Glamorgan and Rhondda Cynon Taff and it will be interesting to see what impact, if any, the presence of standards have. I get the feel that they had previously shamed a few councils into improving but now Wales is in a tougher climate and this will be the real test.</p> <p style=\"text-align: justify;\">At least Wales has standards, though, which is not the case in England or, more specifically, Lincolnshire where the Council has made clear it is going through with major cuts despite an ongoing judicial review. The council has made clear that it&#8217;s determined to cut £2 million mainly by removing 100 paid staff. It has also made clear that even if the review does count against them then they will simply sort out the technical process side and keep the staff cut &#8230; which shows that, when it comes down to it, English law is not an emphatically strong tool for library campaigners.</p> <p style=\"text-align: justify;\">Finally, <a title=\"Next City\" href=\"http://nextcity.org/daily/entry/public-libraries-mental-illness-america\">a just plain good story about academic research which shows the importance of library buildings (note, <em>not</em> the books or the service) as therapeutic places</a>. The mere fact that they offer a quiet, neutral, non-judgemental and publicly owned space is enough. As the article notes, libraries &#8220;have never been just about the books&#8221;.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 19,
+  "story_ids": [
+    "pln-story-7437-intl-001",
+    "pln-story-7437-intl-002",
+    "pln-story-7437-intl-003",
+    "pln-story-7437-intl-004",
+    "pln-story-7437-intl-005",
+    "pln-story-7437-intl-006",
+    "pln-story-7437-intl-007",
+    "pln-story-7437-intl-008",
+    "pln-story-7437-intl-009",
+    "pln-story-7437-natl-001",
+    "pln-story-7437-natl-002",
+    "pln-story-7437-natl-003",
+    "pln-story-7437-natl-004",
+    "pln-story-7437-natl-005",
+    "pln-story-7437-natl-006",
+    "pln-story-7437-natl-007",
+    "pln-story-7437-natl-008",
+    "pln-story-7437-natl-009",
+    "pln-story-7437-natl-010"
+  ],
+  "stats": {
+    "authorities_count": 1,
+    "libraries_count": 2,
+    "countries_count": 2,
+    "top_categories": {
+      "cuts_and_finance": 4,
+      "opening_hours": 3,
+      "digital_and_technology": 2,
+      "volunteers_and_community": 2,
+      "staffing_and_unions": 2,
+      "book_bans_and_challenges": 2,
+      "campaigns_and_protests": 1,
+      "co_location": 1,
+      "closures_and_threats": 1,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

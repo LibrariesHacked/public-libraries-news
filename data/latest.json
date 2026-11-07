@@ -104,6 +104,27 @@
       "pln-story-20275-natl-009",
       "pln-story-20275-natl-010"
     ],
+    "stats": {
+      "authorities_count": 43,
+      "libraries_count": 35,
+      "countries_count": 19,
+      "top_categories": {
+        "events_and_activities": 16,
+        "refurbishment_and_new_builds": 12,
+        "digital_and_technology": 10,
+        "closures_and_threats": 8,
+        "warm_spaces_and_wellbeing": 5,
+        "book_bans_and_challenges": 5,
+        "staffing_and_unions": 5,
+        "opening_hours": 4,
+        "volunteers_and_community": 4,
+        "co_location": 4,
+        "campaigns_and_protests": 4,
+        "cuts_and_finance": 3,
+        "unstaffed_open_plus": 1,
+        "governance_and_trusts": 1
+      }
+    },
     "attribution": {
       "source": "Public Libraries News",
       "source_url": "https://www.publiclibrariesnews.com/",
@@ -125,7 +146,8 @@
       "links": [
         {
           "url": "https://www.dorsetcouncil.gov.uk/news/more-than-just-words-dorset-council-delivers-on-extended-access-service-at-sherborne-library",
-          "text": "Sherborne Library adds staffless opening hours."
+          "text": "Sherborne Library adds staffless opening hours.",
+          "domain": "dorsetcouncil.gov.uk"
         }
       ],
       "resolution": {
@@ -153,8 +175,19 @@
           "longitude": -2.4385
         }
       },
+      "classification": {
+        "categories": [
+          "opening_hours",
+          "unstaffed_open_plus"
+        ],
+        "primary_category": "unstaffed_open_plus",
+        "change_type": "unstaffed_open_plus",
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
-        "opening_hours"
+        "opening_hours",
+        "unstaffed_open_plus"
       ]
     },
     {
@@ -168,7 +201,8 @@
       "links": [
         {
           "url": "https://www.northwaleschronicle.co.uk/news/26682126.caernarfon-library-temporarily-relocate-upgrade/",
-          "text": "£1m refurbishment of Caernarfon Library"
+          "text": "£1m refurbishment of Caernarfon Library",
+          "domain": "northwaleschronicle.co.uk"
         }
       ],
       "resolution": {
@@ -196,8 +230,19 @@
           "longitude": -3.8833
         }
       },
+      "classification": {
+        "categories": [
+          "refurbishment_and_new_builds"
+        ],
+        "primary_category": "refurbishment_and_new_builds",
+        "change_type": "investment_or_expansion",
+        "sector_bodies_mentioned": [],
+        "financial_mentions": [
+          "£1m"
+        ]
+      },
       "tags": [
-        "refurbishment"
+        "refurbishment_and_new_builds"
       ]
     },
     {
@@ -211,7 +256,8 @@
       "links": [
         {
           "url": "https://www.nelincs.gov.uk/got-a-passion-for-local-library-services-this-role-could-be-for-you/",
-          "text": "Volunteers appointed for Libraries Advisory Board"
+          "text": "Volunteers appointed for Libraries Advisory Board",
+          "domain": "nelincs.gov.uk"
         }
       ],
       "resolution": {
@@ -229,8 +275,17 @@
           "longitude": -0.0739
         }
       },
+      "classification": {
+        "categories": [
+          "volunteers_and_community"
+        ],
+        "primary_category": "volunteers_and_community",
+        "change_type": "community_handover",
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
-        "volunteers"
+        "volunteers_and_community"
       ]
     },
     {
@@ -244,7 +299,8 @@
       "links": [
         {
           "url": "https://www.northantstelegraph.co.uk/news/people/new-chapter-for-rothwell-library-as-refurbishment-project-announced-9318371",
-          "text": "Rothwell Library will reopen, after being taken over by town council"
+          "text": "Rothwell Library will reopen, after being taken over by town council",
+          "domain": "northantstelegraph.co.uk"
         }
       ],
       "resolution": {
@@ -262,7 +318,18 @@
           "longitude": -0.7259
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "refurbishment_and_new_builds"
+        ],
+        "primary_category": "refurbishment_and_new_builds",
+        "change_type": "investment_or_expansion",
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "refurbishment_and_new_builds"
+      ]
     },
     {
       "id": "pln-story-20275-changes-005",
@@ -275,7 +342,8 @@
       "links": [
         {
           "url": "https://n-somerset.gov.uk/news/winscombe-sandford-parish-council-take-management-winscombe-library-april-2027",
-          "text": "Winscombe and Sandford Parish Council take over Winscombe Library."
+          "text": "Winscombe and Sandford Parish Council take over Winscombe Library.",
+          "domain": "n-somerset.gov.uk"
         }
       ],
       "resolution": {
@@ -303,6 +371,13 @@
           "longitude": -2.977
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": "other",
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -316,7 +391,8 @@
       "links": [
         {
           "url": "https://www.bolton.gov.uk/news/article/2143/bolton-opens-first-live-well-centre",
-          "text": "Bolton – Bolton opens first Live Well centre"
+          "text": "Bolton – Bolton opens first Live Well centre",
+          "domain": "bolton.gov.uk"
         }
       ],
       "resolution": {
@@ -344,7 +420,18 @@
           "longitude": -2.4282
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "warm_spaces_and_wellbeing"
+        ],
+        "primary_category": "warm_spaces_and_wellbeing",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "warm_spaces_and_wellbeing"
+      ]
     },
     {
       "id": "pln-story-20275-local-002",
@@ -357,7 +444,8 @@
       "links": [
         {
           "url": "https://www.bridgend.gov.uk/news/help-make-christmas-special-for-local-children-by-supporting-the-santa-appeal/",
-          "text": "Bridgend – Help make Christmas special for local children by supporting the Santa Appeal"
+          "text": "Bridgend – Help make Christmas special for local children by supporting the Santa Appeal",
+          "domain": "bridgend.gov.uk"
         }
       ],
       "resolution": {
@@ -385,6 +473,13 @@
           "longitude": -3.5784
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -398,11 +493,13 @@
       "links": [
         {
           "url": "https://www.camden.gov.uk/libraries-strategy-libraries-do",
-          "text": "Camden – Camden Libraries Strategy 2026-31: Libraries Do! Explore Read Learn Connect"
+          "text": "Camden – Camden Libraries Strategy 2026-31: Libraries Do! Explore Read Learn Connect",
+          "domain": "camden.gov.uk"
         },
         {
           "url": "https://news.camden.gov.uk/nearly-5000-books-borrowed-by-children-over-the-summer-holidays/",
-          "text": "Nearly 5,000 books borrowed by children over the summer holidays"
+          "text": "Nearly 5,000 books borrowed by children over the summer holidays",
+          "domain": "news.camden.gov.uk"
         }
       ],
       "resolution": {
@@ -420,7 +517,22 @@
           "longitude": -0.1255
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "book_bans_and_challenges",
+          "events_and_activities",
+          "digital_and_technology"
+        ],
+        "primary_category": "book_bans_and_challenges",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "book_bans_and_challenges",
+        "events_and_activities",
+        "digital_and_technology"
+      ]
     },
     {
       "id": "pln-story-20275-local-004",
@@ -433,7 +545,8 @@
       "links": [
         {
           "url": "https://www.cardiffnewsroom.co.uk/releases/c25/38053.html",
-          "text": "Cardiff – Cardiff libraries and hubs helping residents stay well this winter"
+          "text": "Cardiff – Cardiff libraries and hubs helping residents stay well this winter",
+          "domain": "cardiffnewsroom.co.uk"
         }
       ],
       "resolution": {
@@ -451,6 +564,13 @@
           "longitude": -3.1791
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -464,11 +584,13 @@
       "links": [
         {
           "url": "https://www.dee1063.com/news/local-news/agatha-christie-display-opens-at-neston-library-before-touring-cheshire-west-libraries/",
-          "text": "Cheshire West and Chester – Agatha Christie display opens at Neston Library before touring Cheshire West libraries"
+          "text": "Cheshire West and Chester – Agatha Christie display opens at Neston Library before touring Cheshire West libraries",
+          "domain": "dee1063.com"
         },
         {
           "url": "https://www.dee1063.com/news/local-news/22-women/",
-          "text": "22 Women"
+          "text": "22 Women",
+          "domain": "dee1063.com"
         }
       ],
       "resolution": {
@@ -496,7 +618,18 @@
           "longitude": -2.8916
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "events_and_activities"
+        ],
+        "primary_category": "events_and_activities",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "events_and_activities"
+      ]
     },
     {
       "id": "pln-story-20275-local-006",
@@ -509,7 +642,8 @@
       "links": [
         {
           "url": "https://www.themoorlander.co.uk/news/tavistock-library-welcomes-former-soldier-turned-author-for-free-event-this-friday-9315763",
-          "text": "Devon – Tavistock Library welcomes former soldier turned author for free event this Friday"
+          "text": "Devon – Tavistock Library welcomes former soldier turned author for free event this Friday",
+          "domain": "themoorlander.co.uk"
         }
       ],
       "resolution": {
@@ -537,7 +671,18 @@
           "longitude": -3.5309
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "events_and_activities"
+        ],
+        "primary_category": "events_and_activities",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "events_and_activities"
+      ]
     },
     {
       "id": "pln-story-20275-local-007",
@@ -550,7 +695,8 @@
       "links": [
         {
           "url": "https://www.doncasterfreepress.co.uk/news/politics/significant-repairs-needed-to-library-building-doncaster-council-confirms-9309935",
-          "text": "Doncaster – ‘Significant repairs’ needed to library building, Doncaster Council confirms"
+          "text": "Doncaster – ‘Significant repairs’ needed to library building, Doncaster Council confirms",
+          "domain": "doncasterfreepress.co.uk"
         }
       ],
       "resolution": {
@@ -578,9 +724,14 @@
           "longitude": -1.1312
         }
       },
-      "tags": [
-        "consultation"
-      ]
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": []
     },
     {
       "id": "pln-story-20275-local-008",
@@ -593,7 +744,8 @@
       "links": [
         {
           "url": "https://www.dorsetcouncil.gov.uk/news/more-than-just-words-dorset-council-delivers-on-extended-access-service-at-sherborne-library",
-          "text": "Dorset – More than just words: Dorset Council delivers on Extended Access service at Sherborne Library"
+          "text": "Dorset – More than just words: Dorset Council delivers on Extended Access service at Sherborne Library",
+          "domain": "dorsetcouncil.gov.uk"
         }
       ],
       "resolution": {
@@ -648,14 +800,27 @@
           "longitude": -2.4385
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "cuts_and_finance"
+        ],
+        "primary_category": "cuts_and_finance",
+        "change_type": null,
+        "sector_bodies_mentioned": [
+          "Arts Council England"
+        ],
+        "financial_mentions": []
+      },
+      "tags": [
+        "cuts_and_finance"
+      ]
     },
     {
       "id": "pln-story-20275-local-009",
       "post_id": "pln-post-20275",
       "post_date": "2026-11-01",
       "section": "local_news",
-      "entity_raw": "Dudley &#8211; Frontman Jonn Penney at Stourbridge Library",
+      "entity_raw": "Dudley – Frontman Jonn Penney at Stourbridge Library",
       "text": "Dudley Libraries (press release). “Ned’s Atomic Dustbin frontman Jonn Penney will be talking about his new book Self-ish at 7pm on Tuesday 17 November at Stourbridge Library.”",
       "text_html": "Dudley Libraries (press release). &#8220;Ned’s Atomic Dustbin frontman Jonn Penney will be talking about his new book <em>Self-ish</em> at 7pm on Tuesday 17 November at Stourbridge Library.&#8221;</li>",
       "links": [],
@@ -693,6 +858,13 @@
           "longitude": -2.0811
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -706,7 +878,8 @@
       "links": [
         {
           "url": "https://www.eastdunbarton.gov.uk/news/2026/october/scottish-libraries-set-to-help-borrowers-check-out-brighter-days-this-winter/",
-          "text": "East Dunbartonshire – Scottish libraries set to help borrowers check out brighter days this winter"
+          "text": "East Dunbartonshire – Scottish libraries set to help borrowers check out brighter days this winter",
+          "domain": "eastdunbarton.gov.uk"
         }
       ],
       "resolution": {
@@ -724,6 +897,13 @@
           "longitude": -4.2
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -737,7 +917,8 @@
       "links": [
         {
           "url": "https://www.greatbritishlife.co.uk/magazines/yorkshire/26684660.new-booked-events-programme-coming-east-riding-libraries/",
-          "text": "East Riding – New “Booked!” programme coming to East Riding libraries"
+          "text": "East Riding – New “Booked!” programme coming to East Riding libraries",
+          "domain": "greatbritishlife.co.uk"
         }
       ],
       "resolution": {
@@ -755,6 +936,13 @@
           "longitude": -0.4287
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -768,7 +956,8 @@
       "links": [
         {
           "url": "https://nen.press/new-library-opening-hours-to-be-introduced-next-month/",
-          "text": "Edinburgh – New library opening hours to be introduced next month"
+          "text": "Edinburgh – New library opening hours to be introduced next month",
+          "domain": "nen.press"
         }
       ],
       "resolution": {
@@ -786,10 +975,19 @@
           "longitude": -3.1883
         }
       },
+      "classification": {
+        "categories": [
+          "opening_hours",
+          "refurbishment_and_new_builds"
+        ],
+        "primary_category": "opening_hours",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
         "opening_hours",
-        "consultation",
-        "refurbishment"
+        "refurbishment_and_new_builds"
       ]
     },
     {
@@ -803,11 +1001,13 @@
       "links": [
         {
           "url": "https://www.leaderlive.co.uk/news/26678894.demolition-flintshires-shire-hall-library-approved/",
-          "text": "Flintshire – Demolition of Flintshire’s Shire Hall and library approved"
+          "text": "Flintshire – Demolition of Flintshire’s Shire Hall and library approved",
+          "domain": "leaderlive.co.uk"
         },
         {
           "url": "https://www.leaderlive.co.uk/topics/flintshire-county-council/?ref=au",
-          "text": "Flintshire County Council"
+          "text": "Flintshire County Council",
+          "domain": "leaderlive.co.uk"
         }
       ],
       "resolution": {
@@ -825,6 +1025,15 @@
           "longitude": -3.1414
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": [
+          "£4.9m"
+        ]
+      },
       "tags": []
     },
     {
@@ -838,7 +1047,8 @@
       "links": [
         {
           "url": "https://www.northwaleschronicle.co.uk/news/26682126.caernarfon-library-temporarily-relocate-upgrade/",
-          "text": "Gwynedd – Caernarfon Library to temporarily relocate during upgrade"
+          "text": "Gwynedd – Caernarfon Library to temporarily relocate during upgrade",
+          "domain": "northwaleschronicle.co.uk"
         }
       ],
       "resolution": {
@@ -866,8 +1076,21 @@
           "longitude": -3.8833
         }
       },
+      "classification": {
+        "categories": [
+          "cuts_and_finance",
+          "refurbishment_and_new_builds"
+        ],
+        "primary_category": "cuts_and_finance",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": [
+          "£1m"
+        ]
+      },
       "tags": [
-        "refurbishment"
+        "cuts_and_finance",
+        "refurbishment_and_new_builds"
       ]
     },
     {
@@ -881,7 +1104,8 @@
       "links": [
         {
           "url": "https://www.bbc.co.uk/news/articles/c574pn7gg0w9o",
-          "text": "Herefordshire – Tiny details and big ambitions for railway model of town’s past"
+          "text": "Herefordshire – Tiny details and big ambitions for railway model of town’s past",
+          "domain": "bbc.co.uk"
         }
       ],
       "resolution": {
@@ -909,7 +1133,18 @@
           "longitude": -2.716
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "events_and_activities"
+        ],
+        "primary_category": "events_and_activities",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "events_and_activities"
+      ]
     },
     {
       "id": "pln-story-20275-local-016",
@@ -922,7 +1157,8 @@
       "links": [
         {
           "url": "https://www.bbc.co.uk/news/articles/cw33x2r7zy22o",
-          "text": "Kent – Thermal imaging cameras on loan from libraries"
+          "text": "Kent – Thermal imaging cameras on loan from libraries",
+          "domain": "bbc.co.uk"
         }
       ],
       "resolution": {
@@ -940,6 +1176,13 @@
           "longitude": 0.5217
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -953,7 +1196,8 @@
       "links": [
         {
           "url": "https://kirkleestogether.co.uk/2026/10/28/unravel-the-mysteries-of-agatha-christie-as-exhibition-arrives-at-huddersfield-library-hub/amp/",
-          "text": "Kirklees – Unravel the mysteries of Agatha Christie as exhibition arrives at Huddersfield Library Hub"
+          "text": "Kirklees – Unravel the mysteries of Agatha Christie as exhibition arrives at Huddersfield Library Hub",
+          "domain": "kirkleestogether.co.uk"
         }
       ],
       "resolution": {
@@ -990,7 +1234,20 @@
           "longitude": -1.785
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "events_and_activities",
+          "co_location"
+        ],
+        "primary_category": "co_location",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "events_and_activities",
+        "co_location"
+      ]
     },
     {
       "id": "pln-story-20275-local-018",
@@ -1003,7 +1260,8 @@
       "links": [
         {
           "url": "https://www.brixtonbuzz.com/2026/10/highlights-of-lambeth-libraries-programme-of-events-for-november-2026/amp/",
-          "text": "Lambeth – Highlights of Lambeth Libraries’ programme of events for November 2026"
+          "text": "Lambeth – Highlights of Lambeth Libraries’ programme of events for November 2026",
+          "domain": "brixtonbuzz.com"
         }
       ],
       "resolution": {
@@ -1031,7 +1289,18 @@
           "longitude": -0.1163
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "events_and_activities"
+        ],
+        "primary_category": "events_and_activities",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "events_and_activities"
+      ]
     },
     {
       "id": "pln-story-20275-local-019",
@@ -1044,7 +1313,8 @@
       "links": [
         {
           "url": "https://www.ilkleygazette.co.uk/news/26674709.horsforth-community-hub-library-close-temporarily-refurb/",
-          "text": "Leeds – Horsforth Community Hub and Library to close temporarily for refurb"
+          "text": "Leeds – Horsforth Community Hub and Library to close temporarily for refurb",
+          "domain": "ilkleygazette.co.uk"
         }
       ],
       "resolution": {
@@ -1072,7 +1342,20 @@
           "longitude": -1.5491
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "closures_and_threats",
+          "co_location"
+        ],
+        "primary_category": "closures_and_threats",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "closures_and_threats",
+        "co_location"
+      ]
     },
     {
       "id": "pln-story-20275-local-020",
@@ -1085,11 +1368,13 @@
       "links": [
         {
           "url": "https://secretmanchester.com/warm-welcome-spaces-manchester-winter-october-to-february/",
-          "text": "Manchester – The “living rooms of Manchester”: All 22 Manchester libraries open as free heated warm spaces this winter, offering complimentary hot drinks, Wi-Fi and weekly story sessions until February 2027"
+          "text": "Manchester – The “living rooms of Manchester”: All 22 Manchester libraries open as free heated warm spaces this winter, offering complimentary hot drinks, Wi-Fi and weekly story sessions until February 2027",
+          "domain": "secretmanchester.com"
         },
         {
           "url": "https://secretmanchester.com/portico-library-history-manchester-mosley-street/",
-          "text": "In 1806, 400 subscribers funded Manchester’s Portico Library; 220 years later, the Greek Revival sanctuary holds 25,000 rare volumes and is free to visit"
+          "text": "In 1806, 400 subscribers funded Manchester’s Portico Library; 220 years later, the Greek Revival sanctuary holds 25,000 rare volumes and is free to visit",
+          "domain": "secretmanchester.com"
         }
       ],
       "resolution": {
@@ -1107,7 +1392,24 @@
           "longitude": -2.2426
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "events_and_activities",
+          "digital_and_technology",
+          "warm_spaces_and_wellbeing"
+        ],
+        "primary_category": "digital_and_technology",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": [
+          "£12m"
+        ]
+      },
+      "tags": [
+        "events_and_activities",
+        "digital_and_technology",
+        "warm_spaces_and_wellbeing"
+      ]
     },
     {
       "id": "pln-story-20275-local-021",
@@ -1120,11 +1422,13 @@
       "links": [
         {
           "url": "https://newsroom.moray.gov.uk/news/elgin-library-ranked-second-best-in-uk-and-top-in-scotland",
-          "text": "Moray – Elgin Library ranked second best in UK and top in Scotland"
+          "text": "Moray – Elgin Library ranked second best in UK and top in Scotland",
+          "domain": "newsroom.moray.gov.uk"
         },
         {
           "url": "https://singlemothersgrants.org/",
-          "text": "singlemothersgrants.org"
+          "text": "singlemothersgrants.org",
+          "domain": "singlemothersgrants.org"
         }
       ],
       "resolution": {
@@ -1152,6 +1456,13 @@
           "longitude": -3.3182
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -1165,7 +1476,8 @@
       "links": [
         {
           "url": "https://www.eveningnews24.co.uk/news/26662073.mystery-remains-taking-old-library/",
-          "text": "Norfolk – Mystery remains over who is taking over the Old Library"
+          "text": "Norfolk – Mystery remains over who is taking over the Old Library",
+          "domain": "eveningnews24.co.uk"
         }
       ],
       "resolution": {
@@ -1183,6 +1495,13 @@
           "longitude": 1.2974
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -1196,7 +1515,8 @@
       "links": [
         {
           "url": "https://www.nelincs.gov.uk/got-a-passion-for-local-library-services-this-role-could-be-for-you/",
-          "text": "North East Lincolnshire – Got a passion for local library services? This role could be for you"
+          "text": "North East Lincolnshire – Got a passion for local library services? This role could be for you",
+          "domain": "nelincs.gov.uk"
         }
       ],
       "resolution": {
@@ -1214,6 +1534,13 @@
           "longitude": -0.0739
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -1227,7 +1554,8 @@
       "links": [
         {
           "url": "https://www.northantstelegraph.co.uk/news/people/new-chapter-for-rothwell-library-as-refurbishment-project-announced-9318371",
-          "text": "North Northamptonshire – New chapter for Rothwell Library as refurbishment project announced"
+          "text": "North Northamptonshire – New chapter for Rothwell Library as refurbishment project announced",
+          "domain": "northantstelegraph.co.uk"
         }
       ],
       "resolution": {
@@ -1245,8 +1573,19 @@
           "longitude": -0.7259
         }
       },
+      "classification": {
+        "categories": [
+          "closures_and_threats",
+          "refurbishment_and_new_builds"
+        ],
+        "primary_category": "closures_and_threats",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
-        "refurbishment"
+        "closures_and_threats",
+        "refurbishment_and_new_builds"
       ]
     },
     {
@@ -1260,7 +1599,8 @@
       "links": [
         {
           "url": "https://n-somerset.gov.uk/news/winscombe-sandford-parish-council-take-management-winscombe-library-april-2027",
-          "text": "North Somerset – Winscombe and Sandford Parish Council to take on management of Winscombe Library from April 2027"
+          "text": "North Somerset – Winscombe and Sandford Parish Council to take on management of Winscombe Library from April 2027",
+          "domain": "n-somerset.gov.uk"
         }
       ],
       "resolution": {
@@ -1288,6 +1628,13 @@
           "longitude": -2.977
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -1301,7 +1648,8 @@
       "links": [
         {
           "url": "https://www.hexham-courant.co.uk/news/26681362.jazz-artist-greg-abate-perform-hexham-library/",
-          "text": "Northumberland – Jazz artist Greg Abate to perform at Hexham Library"
+          "text": "Northumberland – Jazz artist Greg Abate to perform at Hexham Library",
+          "domain": "hexham-courant.co.uk"
         }
       ],
       "resolution": {
@@ -1329,6 +1677,13 @@
           "longitude": -1.68
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -1342,7 +1697,8 @@
       "links": [
         {
           "url": "https://www.chad.co.uk/news/people/warsop-residents-share-their-memories-of-library-as-it-celebrates-70th-anniversary-9320747",
-          "text": "Nottingham – Warsop residents share their memories of library as it celebrates 70th anniversary"
+          "text": "Nottingham – Warsop residents share their memories of library as it celebrates 70th anniversary",
+          "domain": "chad.co.uk"
         }
       ],
       "resolution": {
@@ -1360,6 +1716,13 @@
           "longitude": -1.1581
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -1373,7 +1736,8 @@
       "links": [
         {
           "url": "https://www.nottinghampost.com/news/local-news/date-set-nottinghamshire-towns-library-11218493",
-          "text": "Nottinghamshire – Date set for Nottinghamshire town’s library reopening after six-week closure"
+          "text": "Nottinghamshire – Date set for Nottinghamshire town’s library reopening after six-week closure",
+          "domain": "nottinghampost.com"
         }
       ],
       "resolution": {
@@ -1401,9 +1765,21 @@
           "longitude": -1.0253
         }
       },
+      "classification": {
+        "categories": [
+          "closures_and_threats",
+          "refurbishment_and_new_builds",
+          "warm_spaces_and_wellbeing"
+        ],
+        "primary_category": "closures_and_threats",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
-        "closures",
-        "refurbishment"
+        "closures_and_threats",
+        "refurbishment_and_new_builds",
+        "warm_spaces_and_wellbeing"
       ]
     },
     {
@@ -1417,11 +1793,13 @@
       "links": [
         {
           "url": "https://www.theoldhamtimes.co.uk/news/26665612.sex-offender-used-oldham-library-computer-breach-order/",
-          "text": "Oldham – Sex offender used Oldham Library computer to breach order"
+          "text": "Oldham – Sex offender used Oldham Library computer to breach order",
+          "domain": "theoldhamtimes.co.uk"
         },
         {
           "url": "https://saddind.co.uk/delph-library-urgently-appeals-for-volunteers-to-keep-village-service-running/",
-          "text": "Delph Library urgently appeals for volunteers to keep village service running"
+          "text": "Delph Library urgently appeals for volunteers to keep village service running",
+          "domain": "saddind.co.uk"
         }
       ],
       "resolution": {
@@ -1449,9 +1827,21 @@
           "longitude": -2.1114
         }
       },
+      "classification": {
+        "categories": [
+          "volunteers_and_community",
+          "opening_hours",
+          "digital_and_technology"
+        ],
+        "primary_category": "volunteers_and_community",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
+        "volunteers_and_community",
         "opening_hours",
-        "volunteers"
+        "digital_and_technology"
       ]
     },
     {
@@ -1465,11 +1855,13 @@
       "links": [
         {
           "url": "https://www.bbc.co.uk/news/articles/cmy834q0816qo",
-          "text": "Peterborough – Prisoners make little library book boxes for city"
+          "text": "Peterborough – Prisoners make little library book boxes for city",
+          "domain": "bbc.co.uk"
         },
         {
           "url": "https://www.peterboroughtoday.co.uk/news/people/peterborough-central-library-to-go-out-on-loan-to-new-building-this-week-9313539",
-          "text": "Peterborough Central Library to go out on loan to new building this week"
+          "text": "Peterborough Central Library to go out on loan to new building this week",
+          "domain": "peterboroughtoday.co.uk"
         }
       ],
       "resolution": {
@@ -1497,7 +1889,22 @@
           "longitude": -0.2405
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "closures_and_threats",
+          "volunteers_and_community",
+          "refurbishment_and_new_builds"
+        ],
+        "primary_category": "closures_and_threats",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "closures_and_threats",
+        "volunteers_and_community",
+        "refurbishment_and_new_builds"
+      ]
     },
     {
       "id": "pln-story-20275-local-031",
@@ -1510,7 +1917,8 @@
       "links": [
         {
           "url": "https://en.powys.gov.uk/article/23627/Powys-libraries-help-residents-to-winter-well",
-          "text": "Powys – Powys libraries help residents to ‘winter well’"
+          "text": "Powys – Powys libraries help residents to ‘winter well’",
+          "domain": "en.powys.gov.uk"
         }
       ],
       "resolution": {
@@ -1528,7 +1936,18 @@
           "longitude": -3.4
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "warm_spaces_and_wellbeing"
+        ],
+        "primary_category": "warm_spaces_and_wellbeing",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "warm_spaces_and_wellbeing"
+      ]
     },
     {
       "id": "pln-story-20275-local-032",
@@ -1541,7 +1960,8 @@
       "links": [
         {
           "url": "https://media.reading.gov.uk/news/new-central-library-welcomes-its-100-000th-visitor",
-          "text": "Reading – New Central Library welcomes its 100,000th visitor"
+          "text": "Reading – New Central Library welcomes its 100,000th visitor",
+          "domain": "media.reading.gov.uk"
         }
       ],
       "resolution": {
@@ -1569,8 +1989,19 @@
           "longitude": -0.9781
         }
       },
+      "classification": {
+        "categories": [
+          "refurbishment_and_new_builds",
+          "co_location"
+        ],
+        "primary_category": "refurbishment_and_new_builds",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
-        "refurbishment"
+        "refurbishment_and_new_builds",
+        "co_location"
       ]
     },
     {
@@ -1584,7 +2015,8 @@
       "links": [
         {
           "url": "https://standupforsouthport.com/ainsdale-library-and-hesketh-park-conservatory-among-landmarks-community-groups-could-run/",
-          "text": "Sefton – Ainsdale Library and Hesketh Park Conservatory among landmarks community groups could run"
+          "text": "Sefton – Ainsdale Library and Hesketh Park Conservatory among landmarks community groups could run",
+          "domain": "standupforsouthport.com"
         }
       ],
       "resolution": {
@@ -1621,6 +2053,13 @@
           "longitude": -2.9833
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -1634,7 +2073,8 @@
       "links": [
         {
           "url": "https://www.ayradvertiser.com/news/26677870.children-make-tam-o-shanter-crafts-library-event/#google_vignette",
-          "text": "South Ayrshire – Children make Tam o’ Shanter crafts at library event"
+          "text": "South Ayrshire – Children make Tam o’ Shanter crafts at library event",
+          "domain": "ayradvertiser.com"
         }
       ],
       "resolution": {
@@ -1662,7 +2102,18 @@
           "longitude": -4.6292
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "events_and_activities"
+        ],
+        "primary_category": "events_and_activities",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "events_and_activities"
+      ]
     },
     {
       "id": "pln-story-20275-local-035",
@@ -1675,7 +2126,8 @@
       "links": [
         {
           "url": "https://www.echo-news.co.uk/news/26670857.southend-councillor-apology-library-email-typo/",
-          "text": "Southend – Southend councillor apology for library email ‘typo’"
+          "text": "Southend – Southend councillor apology for library email ‘typo’",
+          "domain": "echo-news.co.uk"
         }
       ],
       "resolution": {
@@ -1703,9 +2155,17 @@
           "longitude": 0.7077
         }
       },
+      "classification": {
+        "categories": [
+          "refurbishment_and_new_builds"
+        ],
+        "primary_category": "refurbishment_and_new_builds",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
-        "consultation",
-        "refurbishment"
+        "refurbishment_and_new_builds"
       ]
     },
     {
@@ -1719,15 +2179,18 @@
       "links": [
         {
           "url": "https://lichfieldlive.co.uk/county-councils-library-policy-sparks-debate-over-black-history-month-and-pride-displays/",
-          "text": "Staffordshire – County council’s library policy sparks debate over Black History Month and Pride displays"
+          "text": "Staffordshire – County council’s library policy sparks debate over Black History Month and Pride displays",
+          "domain": "lichfieldlive.co.uk"
         },
         {
           "url": "https://www.expressandstar.com/news/new-staffordshire-library-policy-sparks-questions-on-whether-holocaust-memorial-day-will-be-marked-9307395",
-          "text": "New Staffordshire library policy sparks questions on whether Holocaust Memorial Day will be marked"
+          "text": "New Staffordshire library policy sparks questions on whether Holocaust Memorial Day will be marked",
+          "domain": "expressandstar.com"
         },
         {
           "url": "https://www.staffordshire.gov.uk/newsroom/2026/stafford-library-celebrates-local-writing-talent-short-story-competition-success",
-          "text": "Stafford Library celebrates local writing talent with short story competition success"
+          "text": "Stafford Library celebrates local writing talent with short story competition success",
+          "domain": "staffordshire.gov.uk"
         }
       ],
       "resolution": {
@@ -1773,7 +2236,20 @@
           "longitude": -2.1167
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "book_bans_and_challenges",
+          "events_and_activities"
+        ],
+        "primary_category": "book_bans_and_challenges",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "book_bans_and_challenges",
+        "events_and_activities"
+      ]
     },
     {
       "id": "pln-story-20275-local-037",
@@ -1786,7 +2262,8 @@
       "links": [
         {
           "url": "https://swanseabaynews.com/swansea-seven-libraries-are-lending-out-daylight-lamps-to-get-you-through-the-winter/",
-          "text": "Swansea – Seven libraries are lending out daylight lamps to get you through the winter"
+          "text": "Swansea – Seven libraries are lending out daylight lamps to get you through the winter",
+          "domain": "swanseabaynews.com"
         }
       ],
       "resolution": {
@@ -1804,6 +2281,13 @@
           "longitude": -3.9436
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -1817,7 +2301,8 @@
       "links": [
         {
           "url": "https://www.tameside.gov.uk/w/make-every-penny-count-with-tameside-libraries-new-helping-hand-workshops",
-          "text": "Tameside – Make every penny count with Tameside libraries new Helping Hand workshops"
+          "text": "Tameside – Make every penny count with Tameside libraries new Helping Hand workshops",
+          "domain": "tameside.gov.uk"
         }
       ],
       "resolution": {
@@ -1845,7 +2330,18 @@
           "longitude": -2.0911
         }
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "events_and_activities"
+        ],
+        "primary_category": "events_and_activities",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "events_and_activities"
+      ]
     },
     {
       "id": "pln-story-20275-local-039",
@@ -1858,7 +2354,8 @@
       "links": [
         {
           "url": "https://www.westsussex.gov.uk/news/free-library-packs-help-families-prepare-for-school-all-year-round/",
-          "text": "West Sussex – Free library packs help families prepare for school all year round"
+          "text": "West Sussex – Free library packs help families prepare for school all year round",
+          "domain": "westsussex.gov.uk"
         }
       ],
       "resolution": {
@@ -1876,6 +2373,13 @@
           "longitude": -0.7792
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -1889,7 +2393,8 @@
       "links": [
         {
           "url": "https://www.wirraltoday.co.uk/wirrals-five-year-library-strategy-approved-by-councillors/",
-          "text": "Wirral – Wirral’s five-year library strategy approved by councillors"
+          "text": "Wirral – Wirral’s five-year library strategy approved by councillors",
+          "domain": "wirraltoday.co.uk"
         }
       ],
       "resolution": {
@@ -1907,6 +2412,13 @@
           "longitude": -3.05
         }
       },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": []
     },
     {
@@ -1920,7 +2432,8 @@
       "links": [
         {
           "url": "https://www.bracknellnews.co.uk/news/26661984.say-new-wokingham-draft-library-strategy/",
-          "text": "Wokingham – Have your say on new Wokingham draft library strategy"
+          "text": "Wokingham – Have your say on new Wokingham draft library strategy",
+          "domain": "bracknellnews.co.uk"
         }
       ],
       "resolution": {
@@ -1957,9 +2470,14 @@
           "longitude": -0.835
         }
       },
-      "tags": [
-        "consultation"
-      ]
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": []
     },
     {
       "id": "pln-story-20275-local-042",
@@ -1972,7 +2490,8 @@
       "links": [
         {
           "url": "https://www.wolverhampton.gov.uk/news/childrens-library-close-temporarily-refurbishment",
-          "text": "Wolverhampton – Children’s Library to close temporarily for refurbishment"
+          "text": "Wolverhampton – Children’s Library to close temporarily for refurbishment",
+          "domain": "wolverhampton.gov.uk"
         }
       ],
       "resolution": {
@@ -1990,8 +2509,21 @@
           "longitude": -2.1288
         }
       },
+      "classification": {
+        "categories": [
+          "closures_and_threats",
+          "refurbishment_and_new_builds",
+          "events_and_activities"
+        ],
+        "primary_category": "closures_and_threats",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
-        "refurbishment"
+        "closures_and_threats",
+        "refurbishment_and_new_builds",
+        "events_and_activities"
       ]
     },
     {
@@ -2005,11 +2537,13 @@
       "links": [
         {
           "url": "https://worcestercitizen.substack.com/p/beyond-worcester-evesham-library",
-          "text": "Worcestershire – Beyond Worcester: Evesham Library reopens with a week of half-term fun"
+          "text": "Worcestershire – Beyond Worcester: Evesham Library reopens with a week of half-term fun",
+          "domain": "worcestercitizen.substack.com"
         },
         {
           "url": "https://worcestercitizen.substack.com/p/essential-it-maintenance-to-disrupt",
-          "text": "Essential IT maintenance to disrupt Worcester library services"
+          "text": "Essential IT maintenance to disrupt Worcester library services",
+          "domain": "worcestercitizen.substack.com"
         }
       ],
       "resolution": {
@@ -2037,8 +2571,19 @@
           "longitude": -2.22
         }
       },
+      "classification": {
+        "categories": [
+          "refurbishment_and_new_builds",
+          "events_and_activities"
+        ],
+        "primary_category": "refurbishment_and_new_builds",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
-        "refurbishment"
+        "refurbishment_and_new_builds",
+        "events_and_activities"
       ]
     },
     {
@@ -2052,19 +2597,31 @@
       "links": [
         {
           "url": "https://clarivate.com/pulse-of-the-library/",
-          "text": "Pulse of the Library 2026: Global library trends report"
+          "text": "Pulse of the Library 2026: Global library trends report",
+          "domain": "clarivate.com"
         }
       ],
       "resolution": {
-        "entity_type": "general",
-        "country": null,
-        "country_code": null,
+        "entity_type": "international",
+        "country": "Global",
+        "country_code": "GLOBAL",
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
       },
+      "classification": {
+        "categories": [
+          "book_bans_and_challenges",
+          "digital_and_technology"
+        ],
+        "primary_category": "book_bans_and_challenges",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
-        "consultation"
+        "book_bans_and_challenges",
+        "digital_and_technology"
       ]
     },
     {
@@ -2078,7 +2635,8 @@
       "links": [
         {
           "url": "https://councilmagazine.com.au/vote-to-celebrate-library-innovation/",
-          "text": "Australia – Vote to celebrate library innovation"
+          "text": "Australia – Vote to celebrate library innovation",
+          "domain": "councilmagazine.com.au"
         }
       ],
       "resolution": {
@@ -2089,8 +2647,20 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
+      "classification": {
+        "categories": [
+          "campaigns_and_protests"
+        ],
+        "primary_category": "campaigns_and_protests",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": [
+          "$3",
+          "$1"
+        ]
+      },
       "tags": [
-        "campaign"
+        "campaigns_and_protests"
       ]
     },
     {
@@ -2104,11 +2674,13 @@
       "links": [
         {
           "url": "https://todaysnorthumberland.ca/2026/10/25/joan-stover-speaks-out-about-four-year-library-board-ordeal-more-than-90000-in-combined-costs-at-issue/amp/",
-          "text": "Canada – Ontario – Joan Stover Speaks Out About Four-Year Library Board Ordeal, More Than $90,000 in Combined Costs at Issue"
+          "text": "Canada – Ontario – Joan Stover Speaks Out About Four-Year Library Board Ordeal, More Than $90,000 in Combined Costs at Issue",
+          "domain": "todaysnorthumberland.ca"
         },
         {
           "url": "https://www.rebelnews.com/calgary_pastor_derek_reimer_sentenced_to_12_months_probation_over_drag_queen_storytime_protest#google_vignette",
-          "text": "Calgary pastor Derek Reimer sentenced to 12 months probation over drag queen storytime protest"
+          "text": "Calgary pastor Derek Reimer sentenced to 12 months probation over drag queen storytime protest",
+          "domain": "rebelnews.com"
         }
       ],
       "resolution": {
@@ -2119,8 +2691,21 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
+      "classification": {
+        "categories": [
+          "campaigns_and_protests",
+          "events_and_activities"
+        ],
+        "primary_category": "campaigns_and_protests",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": [
+          "$90,000"
+        ]
+      },
       "tags": [
-        "campaign"
+        "campaigns_and_protests",
+        "events_and_activities"
       ]
     },
     {
@@ -2134,16 +2719,24 @@
       "links": [
         {
           "url": "https://www.cbc.ca/news/canada/montreal/community/libraries-media-literacy-9.7399586",
-          "text": "Calling All Public Libraries: Let’s Team Up on Media Literacy"
+          "text": "Calling All Public Libraries: Let’s Team Up on Media Literacy",
+          "domain": "cbc.ca"
         }
       ],
       "resolution": {
-        "entity_type": "general",
-        "country": null,
-        "country_code": null,
+        "entity_type": "country",
+        "country": "Canada",
+        "country_code": "CA",
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
+      },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
       },
       "tags": []
     },
@@ -2158,16 +2751,24 @@
       "links": [
         {
           "url": "https://www.thestandard.com.hk/news/article/346769/Security-Bureau-launches-national-security-picture-books-for-kindergartens#google_vignette",
-          "text": "China / Hong Kong – Security Bureau launches national security picture books for kindergartens"
+          "text": "China / Hong Kong – Security Bureau launches national security picture books for kindergartens",
+          "domain": "thestandard.com.hk"
         }
       ],
       "resolution": {
-        "entity_type": "general",
-        "country": null,
-        "country_code": null,
+        "entity_type": "country",
+        "country": "China",
+        "country_code": "CN",
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
+      },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
       },
       "tags": []
     },
@@ -2182,7 +2783,8 @@
       "links": [
         {
           "url": "https://pragmatika.media/en/news/mvrdv-peretvoryla-kolyshnij-univermah-v-esseni-na-tsentralnu-biblioteku/",
-          "text": "Germany – MVRDV transformed a former department store in Essen into a central library"
+          "text": "Germany – MVRDV transformed a former department store in Essen into a central library",
+          "domain": "pragmatika.media"
         }
       ],
       "resolution": {
@@ -2192,6 +2794,13 @@
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
+      },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
       },
       "tags": []
     },
@@ -2212,8 +2821,17 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
+      "classification": {
+        "categories": [
+          "campaigns_and_protests"
+        ],
+        "primary_category": "campaigns_and_protests",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
-        "campaign"
+        "campaigns_and_protests"
       ]
     },
     {
@@ -2227,18 +2845,32 @@
       "links": [
         {
           "url": "https://www.ruv.is/english/2026-10-26-value-of-libraries-cannot-be-measured-by-loans-and-visitor-numbers-490909",
-          "text": "Iceland – Value of libraries cannot be measured by ‘loans and visitor numbers’"
+          "text": "Iceland – Value of libraries cannot be measured by ‘loans and visitor numbers’",
+          "domain": "ruv.is"
         }
       ],
       "resolution": {
-        "entity_type": "general",
-        "country": null,
-        "country_code": null,
+        "entity_type": "country",
+        "country": "Iceland",
+        "country_code": "IS",
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "staffing_and_unions",
+          "events_and_activities"
+        ],
+        "primary_category": "staffing_and_unions",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "staffing_and_unions",
+        "events_and_activities"
+      ]
     },
     {
       "id": "pln-story-20275-intl-009",
@@ -2251,7 +2883,8 @@
       "links": [
         {
           "url": "https://scroll.in/article/1096671/a-new-book-revisits-the-years-when-bombays-working-class-libraries-were-flourishing",
-          "text": "India – A new book revisits the years when Bombay’s working-class libraries were flourishing"
+          "text": "India – A new book revisits the years when Bombay’s working-class libraries were flourishing",
+          "domain": "scroll.in"
         }
       ],
       "resolution": {
@@ -2262,7 +2895,18 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "volunteers_and_community"
+        ],
+        "primary_category": "volunteers_and_community",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "volunteers_and_community"
+      ]
     },
     {
       "id": "pln-story-20275-intl-010",
@@ -2275,11 +2919,13 @@
       "links": [
         {
           "url": "https://dublingazette.com/dublinlocalmatters/library-borrowing-tops-1-2m-in-south-dublin/",
-          "text": "Ireland – Library borrowing tops 1.2m in South Dublin"
+          "text": "Ireland – Library borrowing tops 1.2m in South Dublin",
+          "domain": "dublingazette.com"
         },
         {
           "url": "https://www.gov.ie/en/department-of-rural-and-community-development-and-the-gaeltacht/press-releases/eu-presidency-conference-highlights-the-vital-role-of-public-libraries-in-europe/",
-          "text": "EU Presidency conference highlights the vital role of public libraries in Europe"
+          "text": "EU Presidency conference highlights the vital role of public libraries in Europe",
+          "domain": "gov.ie"
         }
       ],
       "resolution": {
@@ -2290,7 +2936,20 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "cuts_and_finance",
+          "digital_and_technology"
+        ],
+        "primary_category": "cuts_and_finance",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "cuts_and_finance",
+        "digital_and_technology"
+      ]
     },
     {
       "id": "pln-story-20275-intl-011",
@@ -2303,16 +2962,24 @@
       "links": [
         {
           "url": "https://kclr96fm.com/president-of-ireland-visits-newly-opened-thomastown-library/",
-          "text": "Kilkenny – President of Ireland visits newly opened Thomastown Library"
+          "text": "Kilkenny – President of Ireland visits newly opened Thomastown Library",
+          "domain": "kclr96fm.com"
         }
       ],
       "resolution": {
-        "entity_type": "general",
-        "country": null,
-        "country_code": null,
+        "entity_type": "country",
+        "country": "Ireland",
+        "country_code": "IE",
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
+      },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
       },
       "tags": []
     },
@@ -2327,7 +2994,8 @@
       "links": [
         {
           "url": "https://www.ifla.org/news/libraries-my-love-an-impact-report-of-milan-public-libraries/",
-          "text": "Italy – Libraries my love, an Impact Report of Milan Public Libraries"
+          "text": "Italy – Libraries my love, an Impact Report of Milan Public Libraries",
+          "domain": "ifla.org"
         }
       ],
       "resolution": {
@@ -2337,6 +3005,13 @@
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
+      },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
       },
       "tags": []
     },
@@ -2351,7 +3026,8 @@
       "links": [
         {
           "url": "https://www.chrislynchmedia.com/news-items/new-chapter-for-beckenham-as-rebuilt-library-sets-opening-date/",
-          "text": "New Zealand – New chapter for Beckenham as rebuilt library sets opening date"
+          "text": "New Zealand – New chapter for Beckenham as rebuilt library sets opening date",
+          "domain": "chrislynchmedia.com"
         }
       ],
       "resolution": {
@@ -2362,7 +3038,20 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "events_and_activities",
+          "co_location"
+        ],
+        "primary_category": "co_location",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "events_and_activities",
+        "co_location"
+      ]
     },
     {
       "id": "pln-story-20275-intl-014",
@@ -2375,11 +3064,13 @@
       "links": [
         {
           "url": "https://www.zaobao.com.sg/en/news/singapore/13-public-libraries-open-earlier-admitting-visitors-9am",
-          "text": "Singapore – 13 public libraries open earlier, admitting visitors from 9am"
+          "text": "Singapore – 13 public libraries open earlier, admitting visitors from 9am",
+          "domain": "zaobao.com.sg"
         },
         {
           "url": "https://www.straitstimes.com/singapore/environment/project-wolbachia-now-covers-more-than-half-of-all-households-in-singapore",
-          "text": "Project Wolbachia now covers more than half of all households in Singapore"
+          "text": "Project Wolbachia now covers more than half of all households in Singapore",
+          "domain": "straitstimes.com"
         }
       ],
       "resolution": {
@@ -2390,7 +3081,18 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
+      "classification": {
+        "categories": [
+          "staffing_and_unions",
+          "opening_hours"
+        ],
+        "primary_category": "staffing_and_unions",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
+        "staffing_and_unions",
         "opening_hours"
       ]
     },
@@ -2405,7 +3107,8 @@
       "links": [
         {
           "url": "https://www.asiae.co.kr/en/article/2026102817524627763",
-          "text": "South Korea – Library Produces 4,193 Authors… Incheon Seo-gu Library Wins Presidential Citation"
+          "text": "South Korea – Library Produces 4,193 Authors… Incheon Seo-gu Library Wins Presidential Citation",
+          "domain": "asiae.co.kr"
         }
       ],
       "resolution": {
@@ -2416,7 +3119,18 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "events_and_activities"
+        ],
+        "primary_category": "events_and_activities",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "events_and_activities"
+      ]
     },
     {
       "id": "pln-story-20275-intl-016",
@@ -2429,23 +3143,34 @@
       "links": [
         {
           "url": "https://www.hurriyetdailynews.com/edirne-unveils-major-library-and-restored-ottoman-era-lodge-228567",
-          "text": "Turkiye – Edirne unveils major library and restored Ottoman-era lodge"
+          "text": "Turkiye – Edirne unveils major library and restored Ottoman-era lodge",
+          "domain": "hurriyetdailynews.com"
         },
         {
           "url": "https://www.turkiyetoday.com/lifestyle/turkiyes-2027-plan-calls-for-10-new-libraries-digitizing-20000-manuscripts-3231182",
-          "text": "Türkiye’s 2027 plan calls for 10 new libraries, digitizing 20,000 manuscripts"
+          "text": "Türkiye’s 2027 plan calls for 10 new libraries, digitizing 20,000 manuscripts",
+          "domain": "turkiyetoday.com"
         }
       ],
       "resolution": {
-        "entity_type": "general",
-        "country": null,
-        "country_code": null,
+        "entity_type": "country",
+        "country": "Turkey",
+        "country_code": "TR",
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
       },
+      "classification": {
+        "categories": [
+          "refurbishment_and_new_builds"
+        ],
+        "primary_category": "refurbishment_and_new_builds",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
-        "refurbishment"
+        "refurbishment_and_new_builds"
       ]
     },
     {
@@ -2458,12 +3183,19 @@
       "text_html": "</ul> </li> </ul> <figure class=\"wp-block-embed alignleft is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"> <iframe loading=\"lazy\" class=\"youtube-player\" title=\"YouTube video player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/UrK8K_0QlaI?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-GB&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe> <figcaption class=\"wp-element-caption\">Florida: Some amazing stuff on show. But they don&#8217;t have any books so &#8230; meh.</figcaption></figure> <ul class=\"wp-block-list\">",
       "links": [],
       "resolution": {
-        "entity_type": "general",
-        "country": null,
-        "country_code": null,
+        "entity_type": "country",
+        "country": "United States",
+        "country_code": "US",
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
+      },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
       },
       "tags": []
     },
@@ -2478,11 +3210,13 @@
       "links": [
         {
           "url": "https://hechingerreport.org/opinion-americans-are-losing-faith-in-shared-institutions-but-public-libraries-are-one-of-the-few-we-still-trust/",
-          "text": "USA – Americans are losing faith in shared institutions, but public libraries are one of the few we still trust"
+          "text": "USA – Americans are losing faith in shared institutions, but public libraries are one of the few we still trust",
+          "domain": "hechingerreport.org"
         },
         {
           "url": "https://dig.watch/updates/microsoft-us-public-libraries-ai-literacy",
-          "text": "Microsoft and US public libraries launch AI literacy initiative"
+          "text": "Microsoft and US public libraries launch AI literacy initiative",
+          "domain": "dig.watch"
         }
       ],
       "resolution": {
@@ -2493,7 +3227,20 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "digital_and_technology",
+          "governance_and_trusts"
+        ],
+        "primary_category": "governance_and_trusts",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "digital_and_technology",
+        "governance_and_trusts"
+      ]
     },
     {
       "id": "pln-story-20275-intl-019",
@@ -2506,7 +3253,8 @@
       "links": [
         {
           "url": "https://www.independent.com/2026/10/25/why-the-long-wait-for-your-library-e-book/",
-          "text": "Why the Long Wait for Your Library E-Book?"
+          "text": "Why the Long Wait for Your Library E-Book?",
+          "domain": "independent.com"
         }
       ],
       "resolution": {
@@ -2517,7 +3265,23 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "book_bans_and_challenges",
+          "digital_and_technology"
+        ],
+        "primary_category": "book_bans_and_challenges",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": [
+          "$13",
+          "$55"
+        ]
+      },
+      "tags": [
+        "book_bans_and_challenges",
+        "digital_and_technology"
+      ]
     },
     {
       "id": "pln-story-20275-intl-020",
@@ -2529,12 +3293,19 @@
       "text_html": "</ul> </li> </ul> <figure class=\"wp-block-embed alignleft is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"> <iframe loading=\"lazy\" class=\"youtube-player\" title=\"YouTube video player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/KRIzNoLiQwM?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-GB&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe> <figcaption class=\"wp-element-caption\">California &#8211; An LA library is home to the world&#8217;s largest pop-up book, which takes ten people to turn a single page</figcaption></figure> <ul class=\"wp-block-list\">",
       "links": [],
       "resolution": {
-        "entity_type": "general",
-        "country": null,
-        "country_code": null,
+        "entity_type": "country",
+        "country": "United States",
+        "country_code": "US",
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
+      },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
       },
       "tags": []
     },
@@ -2549,23 +3320,36 @@
       "links": [
         {
           "url": "https://www.cbsnews.com/colorado/news/adams-county-residents-get-new-express-library/",
-          "text": "Colorado – Adams County residents get new express library"
+          "text": "Colorado – Adams County residents get new express library",
+          "domain": "cbsnews.com"
         },
         {
           "url": "https://www.dotnews.com/2026/10/27/neighbors-stepping-in-to-fill-the-void-as-fields-corner-library-rehab-is-ongoing/",
-          "text": "Massachusetts – Neighbors stepping in to fill the void as Fields Corner library rehab is ongoing"
+          "text": "Massachusetts – Neighbors stepping in to fill the void as Fields Corner library rehab is ongoing",
+          "domain": "dotnews.com"
         }
       ],
       "resolution": {
-        "entity_type": "general",
-        "country": null,
-        "country_code": null,
+        "entity_type": "country",
+        "country": "United States",
+        "country_code": "US",
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
       },
+      "classification": {
+        "categories": [
+          "closures_and_threats",
+          "staffing_and_unions"
+        ],
+        "primary_category": "closures_and_threats",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
-        "closures"
+        "closures_and_threats",
+        "staffing_and_unions"
       ]
     },
     {
@@ -2578,12 +3362,19 @@
       "text_html": "</ul> </li> </ul> <figure class=\"wp-block-embed alignleft is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"> <iframe loading=\"lazy\" class=\"youtube-player\" title=\"YouTube video player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/YjM22jSHU0s?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-GB&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe> <figcaption class=\"wp-element-caption\">Indiana &#8211; Library offers tools, with handy labels to take off wall, with a typical one being &#8220;Hand Truck&#8221; plus photo and basic information</figcaption></figure> <ul class=\"wp-block-list\">",
       "links": [],
       "resolution": {
-        "entity_type": "general",
-        "country": null,
-        "country_code": null,
+        "entity_type": "country",
+        "country": "United States",
+        "country_code": "US",
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
+      },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
       },
       "tags": []
     },
@@ -2598,19 +3389,31 @@
       "links": [
         {
           "url": "https://www.wnem.com/2026/10/28/library-says-person-threw-box-cockroaches-staff-member-prompting-closure/",
-          "text": "Ohio – Library says person threw box of cockroaches at a staff member, prompting closure"
+          "text": "Ohio – Library says person threw box of cockroaches at a staff member, prompting closure",
+          "domain": "wnem.com"
         }
       ],
       "resolution": {
-        "entity_type": "general",
-        "country": null,
-        "country_code": null,
+        "entity_type": "country",
+        "country": "United States",
+        "country_code": "US",
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
       },
+      "classification": {
+        "categories": [
+          "closures_and_threats",
+          "staffing_and_unions"
+        ],
+        "primary_category": "closures_and_threats",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
       "tags": [
-        "closures"
+        "closures_and_threats",
+        "staffing_and_unions"
       ]
     },
     {
@@ -2624,16 +3427,24 @@
       "links": [
         {
           "url": "https://www.fox7austin.com/news/daniel-vasquez-murder-charge-austin-central-library-assault",
-          "text": "Texas – Man accused of stomping on another’s head at Austin Central Library now charged with his murder"
+          "text": "Texas – Man accused of stomping on another’s head at Austin Central Library now charged with his murder",
+          "domain": "fox7austin.com"
         }
       ],
       "resolution": {
-        "entity_type": "general",
-        "country": null,
-        "country_code": null,
+        "entity_type": "country",
+        "country": "United States",
+        "country_code": "US",
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
+      },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
       },
       "tags": []
     },
@@ -2648,7 +3459,8 @@
       "links": [
         {
           "url": "https://scottishlibraries.org/annual-review-2026/",
-          "text": "Annual Review"
+          "text": "Annual Review",
+          "domain": "scottishlibraries.org"
         }
       ],
       "resolution": {
@@ -2659,7 +3471,20 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "digital_and_technology"
+        ],
+        "primary_category": "digital_and_technology",
+        "change_type": null,
+        "sector_bodies_mentioned": [
+          "Scottish Library and Information Council"
+        ],
+        "financial_mentions": []
+      },
+      "tags": [
+        "digital_and_technology"
+      ]
     },
     {
       "id": "pln-story-20275-natl-002",
@@ -2672,7 +3497,8 @@
       "links": [
         {
           "url": "https://members.librariesconnected.org.uk/events/6acce30e60c16f0008782f5e/description?ticket=6acce30e60c16f0008782f5d",
-          "text": "Building Better Comics Collections: A Buyers’ Guide for Libraries"
+          "text": "Building Better Comics Collections: A Buyers’ Guide for Libraries",
+          "domain": "members.librariesconnected.org.uk"
         }
       ],
       "resolution": {
@@ -2683,7 +3509,22 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "staffing_and_unions",
+          "book_bans_and_challenges"
+        ],
+        "primary_category": "book_bans_and_challenges",
+        "change_type": null,
+        "sector_bodies_mentioned": [
+          "Libraries Connected"
+        ],
+        "financial_mentions": []
+      },
+      "tags": [
+        "staffing_and_unions",
+        "book_bans_and_challenges"
+      ]
     },
     {
       "id": "pln-story-20275-natl-003",
@@ -2696,7 +3537,8 @@
       "links": [
         {
           "url": "https://www.gov.uk/government/statistics/community-and-engagement-survey-202526-summary-report",
-          "text": "Community and Engagement Survey 2025/26: summary report"
+          "text": "Community and Engagement Survey 2025/26: summary report",
+          "domain": "gov.uk"
         }
       ],
       "resolution": {
@@ -2707,7 +3549,20 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "digital_and_technology"
+        ],
+        "primary_category": "digital_and_technology",
+        "change_type": null,
+        "sector_bodies_mentioned": [
+          "DCMS"
+        ],
+        "financial_mentions": []
+      },
+      "tags": [
+        "digital_and_technology"
+      ]
     },
     {
       "id": "pln-story-20275-natl-004",
@@ -2720,7 +3575,8 @@
       "links": [
         {
           "url": "https://www.telegraph.co.uk/news/2026/10/29/council-libraries-share-pro-migration-bookmarks/",
-          "text": "Council libraries share pro-migration bookmarks"
+          "text": "Council libraries share pro-migration bookmarks",
+          "domain": "telegraph.co.uk"
         }
       ],
       "resolution": {
@@ -2730,6 +3586,13 @@
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
+      },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
       },
       "tags": []
     },
@@ -2744,11 +3607,13 @@
       "links": [
         {
           "url": "https://designinglibraries.org.uk/perspectives/",
-          "text": "News articles"
+          "text": "News articles",
+          "domain": "designinglibraries.org.uk"
         },
         {
           "url": "https://designinglibraries.org.uk/perspectives/how-libraries-are-tackling-anti-social-behaviour-ayub-khan/",
-          "text": "How Libraries Are Tackling Anti-Social Behaviour"
+          "text": "How Libraries Are Tackling Anti-Social Behaviour",
+          "domain": "designinglibraries.org.uk"
         }
       ],
       "resolution": {
@@ -2758,6 +3623,13 @@
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
+      },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
       },
       "tags": []
     },
@@ -2772,19 +3644,23 @@
       "links": [
         {
           "url": "https://designinglibraries.org.uk/resources/",
-          "text": "Various resources"
+          "text": "Various resources",
+          "domain": "designinglibraries.org.uk"
         },
         {
           "url": "https://designinglibraries.org.uk/resources/covid-19-safer-libraries-guide/",
-          "text": "Covid-19 Safer Libraries Guide"
+          "text": "Covid-19 Safer Libraries Guide",
+          "domain": "designinglibraries.org.uk"
         },
         {
           "url": "https://designinglibraries.org.uk/resources/a-warm-welcome-guide-setting-up-a-warm-space-in-your-community/",
-          "text": "Warm Welcome"
+          "text": "Warm Welcome",
+          "domain": "designinglibraries.org.uk"
         },
         {
           "url": "https://designinglibraries.org.uk/resources/green-libraries/",
-          "text": "Green Libraries"
+          "text": "Green Libraries",
+          "domain": "designinglibraries.org.uk"
         }
       ],
       "resolution": {
@@ -2795,7 +3671,18 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "warm_spaces_and_wellbeing"
+        ],
+        "primary_category": "warm_spaces_and_wellbeing",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "warm_spaces_and_wellbeing"
+      ]
     },
     {
       "id": "pln-story-20275-natl-007",
@@ -2808,7 +3695,8 @@
       "links": [
         {
           "url": "https://www.london-now.co.uk/young-reporter/37092/",
-          "text": "Do libraries still matter?"
+          "text": "Do libraries still matter?",
+          "domain": "london-now.co.uk"
         }
       ],
       "resolution": {
@@ -2819,7 +3707,20 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "digital_and_technology"
+        ],
+        "primary_category": "digital_and_technology",
+        "change_type": null,
+        "sector_bodies_mentioned": [
+          "Arts Council England"
+        ],
+        "financial_mentions": []
+      },
+      "tags": [
+        "digital_and_technology"
+      ]
     },
     {
       "id": "pln-story-20275-natl-008",
@@ -2838,7 +3739,18 @@
         "libraries_mentioned": [],
         "coordinates": null
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "campaigns_and_protests"
+        ],
+        "primary_category": "campaigns_and_protests",
+        "change_type": null,
+        "sector_bodies_mentioned": [],
+        "financial_mentions": []
+      },
+      "tags": [
+        "campaigns_and_protests"
+      ]
     },
     {
       "id": "pln-story-20275-natl-009",
@@ -2851,18 +3763,32 @@
       "links": [
         {
           "url": "https://www.librariesconnected.org.uk/libraries-connected-awards-2027",
-          "text": "Libraries Connected Awards 2027"
+          "text": "Libraries Connected Awards 2027",
+          "domain": "librariesconnected.org.uk"
         }
       ],
       "resolution": {
-        "entity_type": "general",
-        "country": null,
-        "country_code": null,
+        "entity_type": "national",
+        "country": "United Kingdom",
+        "country_code": "GB",
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
       },
-      "tags": []
+      "classification": {
+        "categories": [
+          "closures_and_threats"
+        ],
+        "primary_category": "closures_and_threats",
+        "change_type": null,
+        "sector_bodies_mentioned": [
+          "Libraries Connected"
+        ],
+        "financial_mentions": []
+      },
+      "tags": [
+        "closures_and_threats"
+      ]
     },
     {
       "id": "pln-story-20275-natl-010",
@@ -2880,6 +3806,15 @@
         "library_service": null,
         "libraries_mentioned": [],
         "coordinates": null
+      },
+      "classification": {
+        "categories": [],
+        "primary_category": null,
+        "change_type": null,
+        "sector_bodies_mentioned": [
+          "Libraries Connected"
+        ],
+        "financial_mentions": []
       },
       "tags": []
     }

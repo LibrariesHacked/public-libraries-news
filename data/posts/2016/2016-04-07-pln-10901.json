@@ -1,0 +1,77 @@
+{
+  "id": "pln-post-10901",
+  "source_id": 10901,
+  "url": "https://www.publiclibrariesnews.com/2016/04/the-other-11-are-misinformed-89-say-public-libraries-are-crucial.html",
+  "slug": "the-other-11-are-misinformed-89-say-public-libraries-are-crucial",
+  "title": "The other 11% are misinformed: 89% say public libraries are crucial",
+  "date_published": "2016-04-07T18:48:53",
+  "date_modified": "2016-04-10T20:19:30",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "After an impressive 24,000 votes were cast in a Money Saving Expert Poll, 89% said that libraries were crucial. That’s pretty impressive and shows that politicians – and certain media (I’m looking at you Jeremy Vine) – may not be entirely with the public when they question the role of the public library in the modern age. I’d also recommend them watch, an excellent TedX talk by Laurinda Thomas, former president of LIANZA in New Zealand, which demolishes such superficial shows and points out how important libraries are for communities. Perhaps Shropshire also need to have a look (and perhaps even more of a look at what constitutes as legal), being it took local users going to the courts to stop them moving Church Stretton Library where the locals did not want it moved. The worrying thing here is, like in West Berkshire, it looks like the council failed to do its legal homework properly before trying to cut costs. Obey the law, guys, it’s kind of expensive otherwise. Finally, our colleagues school libraries were feeling the media focus as unions asked for them to be included in OFSTED inspections in order to protect them. Finally? Well, perhaps not quite, as I recommend to you the continuing twitter feud between Orkney and Shetland Libraries. It’s the social media gift that keeps giving.",
+    "html": "<p style=\"text-align: justify;\"><a href=\"http://www.moneysavingexpert.com/poll/05-04-2016/will-you-miss-your-local-library-if-its-shut-down\">After an impressive 24,000 votes were cast in a Money Saving Expert Poll, 89% said that libraries were crucial</a>. That&#8217;s pretty impressive and shows that politicians &#8211; and certain media (<a href=\"http://www.southwales-eveningpost.co.uk/8203-Chat-host-Jeremy-Vine-told-shelve-library/story-29048765-detail/story.html\">I&#8217;m looking at you Jeremy Vine</a>) &#8211; may not be entirely with the public when they question the role of the public library in the modern age.<a href=\"https://www.youtube.com/watch?v=sdQwrhxw8LM&amp;app=desktop\"> I&#8217;d also recommend them watch, an excellent TedX talk by Laurinda Thomas</a>, former president of LIANZA in New Zealand, which demolishes such superficial shows and points out how important libraries are for communities. Perhaps Shropshire also need to have a look (and perhaps even more of a look at what constitutes as legal), being it took local users going to the courts to stop them moving Church Stretton Library where the locals did not want it moved. The worrying thing here is, like in West Berkshire, it looks like the council failed to do its legal homework properly before trying to cut costs. Obey the law, guys, it&#8217;s kind of expensive otherwise. Finally, our colleagues school libraries were feeling the media focus as unions asked for them to be included in OFSTED inspections in order to protect them. Finally? Well, perhaps not quite, as I recommend to you the <a href=\"http://www.telegraph.co.uk/news/2016/04/05/incredible-twitter-feud-between-remote-scottish-libraries-reigni/\">continuing twitter feud between Orkney and Shetland Libraries</a>. It&#8217;s the social media gift that keeps giving.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 27,
+  "story_ids": [
+    "pln-story-10901-changes-001",
+    "pln-story-10901-changes-002",
+    "pln-story-10901-changes-003",
+    "pln-story-10901-local-001",
+    "pln-story-10901-local-002",
+    "pln-story-10901-local-003",
+    "pln-story-10901-local-004",
+    "pln-story-10901-local-005",
+    "pln-story-10901-local-006",
+    "pln-story-10901-local-007",
+    "pln-story-10901-local-008",
+    "pln-story-10901-local-009",
+    "pln-story-10901-local-010",
+    "pln-story-10901-local-011",
+    "pln-story-10901-local-012",
+    "pln-story-10901-local-013",
+    "pln-story-10901-intl-001",
+    "pln-story-10901-intl-002",
+    "pln-story-10901-intl-003",
+    "pln-story-10901-intl-004",
+    "pln-story-10901-natl-001",
+    "pln-story-10901-natl-002",
+    "pln-story-10901-natl-003",
+    "pln-story-10901-natl-004",
+    "pln-story-10901-natl-005",
+    "pln-story-10901-natl-006",
+    "pln-story-10901-natl-007"
+  ],
+  "stats": {
+    "authorities_count": 11,
+    "libraries_count": 11,
+    "countries_count": 5,
+    "top_categories": {
+      "closures_and_threats": 11,
+      "staffing_and_unions": 9,
+      "cuts_and_finance": 6,
+      "opening_hours": 5,
+      "campaigns_and_protests": 5,
+      "volunteers_and_community": 3,
+      "digital_and_technology": 3,
+      "unstaffed_open_plus": 2,
+      "governance_and_trusts": 2,
+      "mobile_and_outreach": 1,
+      "book_bans_and_challenges": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

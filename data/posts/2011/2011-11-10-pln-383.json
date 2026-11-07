@@ -1,0 +1,44 @@
+{
+  "id": "pln-post-383",
+  "source_id": 383,
+  "url": "https://www.publiclibrariesnews.com/2011/11/383.html",
+  "slug": "383",
+  "title": "",
+  "date_published": "2011-11-10T21:18:00",
+  "date_modified": "2011-11-10T21:18:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "News Calculating the value of a community’s library use – Swiss Army Librarian. Type in usage statistics in left-hand box, provides the value to comunity in right-hand box. Needs to be converted from dollars to pounds and some of the formulae may be different in the UK but a very useful.",
+    "html": "<p><b>News</b></p> <p><a href=\"http://www.swissarmylibrarian.net/2011/11/08/calculating-the-value-of-a-communitys-library-use/\"><b>Calculating the value of a community&#8217;s library use </b></a>&#8211; Swiss Army Librarian. Type in usage statistics in left-hand box, provides the value to comunity in right-hand box. Needs to be converted from dollars to pounds and some of the formulae may be different in the UK but a very useful.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 2,
+  "story_ids": [
+    "pln-story-383-changes-001",
+    "pln-story-383-local-001"
+  ],
+  "stats": {
+    "authorities_count": 2,
+    "libraries_count": 3,
+    "countries_count": 1,
+    "top_categories": {
+      "closures_and_threats": 2,
+      "staffing_and_unions": 1,
+      "volunteers_and_community": 1,
+      "refurbishment_and_new_builds": 1,
+      "campaigns_and_protests": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

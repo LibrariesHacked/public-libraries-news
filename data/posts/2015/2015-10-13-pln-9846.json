@@ -1,0 +1,68 @@
+{
+  "id": "pln-post-9846",
+  "source_id": 9846,
+  "url": "https://www.publiclibrariesnews.com/2015/10/lament-for-lambeth.html",
+  "slug": "lament-for-lambeth",
+  "title": "Lament for Lambeth",
+  "date_published": "2015-10-13T20:50:20",
+  "date_modified": "2015-10-15T20:33:21",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Lambeth council’s decision to cut libraries dominates the news today, with even a Labour MP coming out against the decision of her own party’s councillors. The decision to keep some libraries open by installing “gyms” – GLL-run mini leisure centres – within them has not gone down well but the main ire is against the council for cutting libraries at all.",
+    "html": "<p style=\"text-align: justify;\">Lambeth council&#8217;s decision to cut libraries dominates the news today, with even a Labour MP coming out against the decision of her own party&#8217;s councillors. The decision to keep some libraries open by installing &#8220;gyms&#8221; &#8211; GLL-run mini leisure centres &#8211; within them has not gone down well but the main ire is against the council for cutting libraries at all.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 22,
+  "story_ids": [
+    "pln-story-9846-local-001",
+    "pln-story-9846-local-002",
+    "pln-story-9846-local-003",
+    "pln-story-9846-local-004",
+    "pln-story-9846-local-005",
+    "pln-story-9846-local-006",
+    "pln-story-9846-local-007",
+    "pln-story-9846-local-008",
+    "pln-story-9846-local-009",
+    "pln-story-9846-local-010",
+    "pln-story-9846-local-011",
+    "pln-story-9846-local-012",
+    "pln-story-9846-local-013",
+    "pln-story-9846-local-014",
+    "pln-story-9846-intl-001",
+    "pln-story-9846-intl-002",
+    "pln-story-9846-intl-003",
+    "pln-story-9846-natl-001",
+    "pln-story-9846-natl-002",
+    "pln-story-9846-natl-003",
+    "pln-story-9846-natl-004",
+    "pln-story-9846-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 10,
+    "countries_count": 5,
+    "top_categories": {
+      "campaigns_and_protests": 6,
+      "staffing_and_unions": 6,
+      "closures_and_threats": 6,
+      "cuts_and_finance": 5,
+      "digital_and_technology": 3,
+      "events_and_activities": 2,
+      "book_bans_and_challenges": 2,
+      "volunteers_and_community": 1,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

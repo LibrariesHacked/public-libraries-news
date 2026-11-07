@@ -1,0 +1,53 @@
+{
+  "id": "pln-post-6356",
+  "source_id": 6356,
+  "url": "https://www.publiclibrariesnews.com/2013/11/the-new-social-workers.html",
+  "slug": "the-new-social-workers",
+  "title": "The new social workers",
+  "date_published": "2013-11-06T23:16:01",
+  "date_modified": "2013-11-07T23:18:20",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "UK news £6.31 an hour – Tom Roper’s Weblog. “The national minimum wage is £6.31 an hour. That’s what is offered for a graduate trainee job advertised in CILIP’s Lisjobnet, placed by Florida State University. By contrast, where I work, outside London, a notice on a board outside the library offers students £8 an hour for causal work. Is this what we think new entrants to the profession are worth? “ Austerity measures make libraries vital as more needy people use them – Guardian / Public sector cuts. “It seems that public library assistants are the new social workers. Or should that be babysitters, jobsearch trainers, befrienders, English language teachers, IT experts and general mental health and community workers?” ” what has struck me most is how vital – now more than ever – libraries are to communities in which local authority cuts to other services are washing up rising numbers of walking wounded, many of whom stumble into our library for help.” … “A noted change is the numbers of people who expect IT help. Some demand step-by-step assistance to send job applications. Much of this is traffic from Jobcentre Plus, which now expects benefits recipients to apply for work online through its Universal Jobmatch website.” Sam Darian (pseudonym) “I honestly think that rather than a church, mosque or temple, the library is the actual heart and soul of the community.” Comment “gone are the days of having an actual librarian in the building! The person dealing with you at the counter is most likely a library assistant, most of whom will have a degree or will have been in the job for more than two decades. You wouldn’t believe the trust people invest in you, comparable to a doctor or lawyer, purely because you work in a library. And the expectations are sky high.” Comment British Library Newspaper Moves – British Library. “In 2013-14 the British Library will move the national newspaper collection from its current home in Colindale, north London, to a purpose-built Newspaper Storage Building (NSB) in Boston Spa, West Yorkshire.”",
+    "html": "<p><strong style=\"font-size: 13px;\">UK news</strong></p> <li style=\"text-align: justify;\"><strong><a title=\"Tom Roper's Weblog\" href=\"http://www.roper.org.uk/tr/2013/11/631-an-hour.html\">£6.31 an hour</a> </strong>&#8211; Tom Roper&#8217;s Weblog. &#8220;The national minimum wage is £6.31 an hour. That’s what is offered for a graduate trainee job advertised in CILIP’s Lisjobnet, placed by Florida State University. By contrast, where I work, outside London, a notice on a board outside the library offers students £8 an hour for causal work. Is this what we think new entrants to the profession are worth? &#8220;</li> <li style=\"text-align: justify;\"><a title=\"Guardian\" href=\"http://www.theguardian.com/society/2013/nov/06/austerity-measures-libraries-vital-needy-people\"><strong>Austerity measures make libraries vital as more needy people use them</strong></a> &#8211; Guardian / Public sector cuts. &#8220;It seems that public library assistants are the new social workers. Or should that be babysitters, jobsearch trainers, befrienders, English language teachers, IT experts and general mental health and community workers?&#8221;</li> <p itemprop=\"name headline \" style=\"text-align: justify;\">&#8221; what has struck me most is how vital – now more than ever – <a title=\"More from the Guardian on Libraries\" href=\"http://www.theguardian.com/books/libraries\">libraries</a> are to communities in which local authority cuts to other services are washing up rising numbers of walking wounded, many of whom stumble into our library for help.&#8221; &#8230; &#8220;A noted change is the numbers of people who expect IT help. Some demand step-by-step assistance to send job applications. Much of this is traffic from Jobcentre Plus, which now expects benefits recipients to apply for work online through its Universal Jobmatch website.&#8221; <strong>Sam Darian </strong>(pseudonym)</p> <p itemprop=\"name headline \" style=\"text-align: justify;\">&#8220;I honestly think that rather than a church, mosque or temple, the library is the actual heart and soul of the community.&#8221; <strong>Comment</strong></p> <p itemprop=\"name headline \" style=\"text-align: justify;\">&#8220;gone are the days of having an actual librarian in the building! The person dealing with you at the counter is most likely a library assistant, most of whom will have a degree or will have been in the job for more than two decades. You wouldn&#8217;t believe the trust people invest in you, comparable to a doctor or lawyer, purely because you work in a library. And the expectations are sky high.&#8221; <strong>Comment</strong></p> <li style=\"text-align: justify;\"><a title=\"British Library\" href=\"http://www.bl.uk/reshelp/findhelprestype/news/newspapermoves/index.html\"><strong>British Library Newspaper Moves</strong></a> &#8211; British Library. &#8220;In 2013-14 the British Library will move the national newspaper collection from its current home in Colindale, north London, to a purpose-built Newspaper Storage Building (NSB) in Boston Spa, West Yorkshire.&#8221;</li>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 10,
+  "story_ids": [
+    "pln-story-6356-intl-001",
+    "pln-story-6356-intl-002",
+    "pln-story-6356-intl-003",
+    "pln-story-6356-intl-004",
+    "pln-story-6356-intl-005",
+    "pln-story-6356-intl-006",
+    "pln-story-6356-intl-007",
+    "pln-story-6356-intl-008",
+    "pln-story-6356-intl-009",
+    "pln-story-6356-intl-010"
+  ],
+  "stats": {
+    "authorities_count": 4,
+    "libraries_count": 1,
+    "countries_count": 5,
+    "top_categories": {
+      "cuts_and_finance": 3,
+      "closures_and_threats": 3,
+      "digital_and_technology": 1,
+      "refurbishment_and_new_builds": 1,
+      "staffing_and_unions": 1,
+      "book_bans_and_challenges": 1,
+      "mobile_and_outreach": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,37 @@
+{
+  "id": "pln-post-461",
+  "source_id": 461,
+  "url": "https://www.publiclibrariesnews.com/2011/08/461.html",
+  "slug": "461",
+  "title": "",
+  "date_published": "2011-08-25T19:48:00",
+  "date_modified": "2011-08-25T19:48:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial"
+  ],
+  "stories_count": 1,
+  "story_ids": [
+    "pln-story-461-changes-001"
+  ],
+  "stats": {
+    "authorities_count": 1,
+    "libraries_count": 0,
+    "countries_count": 1,
+    "top_categories": {
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

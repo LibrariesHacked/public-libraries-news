@@ -48,7 +48,8 @@
         "type": "object",
         "properties": {
           "url": { "type": "string", "format": "uri" },
-          "text": { "type": "string" }
+          "text": { "type": "string" },
+          "domain": { "type": ["string", "null"] }
         },
         "required": ["url", "text"]
       }
@@ -58,7 +59,7 @@
       "properties": {
         "entity_type": {
           "type": "string",
-          "enum": ["local_authority", "country", "national", "general"]
+          "enum": ["local_authority", "country", "national", "international", "general"]
         },
         "country": { "type": ["string", "null"] },
         "country_code": { "type": ["string", "null"] },
@@ -66,7 +67,7 @@
           "type": ["object", "null"],
           "properties": {
             "name": { "type": "string" },
-            "gss_code": { "type": "string" },
+            "gss_code": { "type": ["string", "null"] },
             "confidence": { "type": "string", "enum": ["exact", "alias", "fuzzy", "unmatched"] }
           },
           "required": ["name", "confidence"]
@@ -98,6 +99,41 @@
       },
       "required": ["entity_type", "libraries_mentioned"]
     },
+    "classification": {
+      "type": "object",
+      "properties": {
+        "categories": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "primary_category": { "type": ["string", "null"] },
+        "change_type": {
+          "type": ["string", "null"],
+          "enum": [
+            "closure",
+            "reduction_or_cut",
+            "unstaffed_open_plus",
+            "community_handover",
+            "investment_or_expansion",
+            "other",
+            null
+          ]
+        },
+        "sector_bodies_mentioned": {
+          "type": "array",
+          "items": { "type": "string" }
+        },
+        "financial_mentions": {
+          "type": "array",
+          "items": { "type": "string" }
+        }
+      },
+      "required": [
+        "categories",
+        "sector_bodies_mentioned",
+        "financial_mentions"
+      ]
+    },
     "tags": {
       "type": "array",
       "items": { "type": "string" }
@@ -112,6 +148,7 @@
     "text",
     "text_html",
     "links",
-    "resolution"
+    "resolution",
+    "classification"
   ]
 }

@@ -1,0 +1,65 @@
+{
+  "id": "pln-post-11654",
+  "source_id": 11654,
+  "url": "https://www.publiclibrariesnews.com/2016/11/coding-clubs-triple-in-libraries-linking-library-books-to-amazon-and-a-really-quick-survey.html",
+  "slug": "coding-clubs-triple-in-libraries-linking-library-books-to-amazon-and-a-really-quick-survey",
+  "title": "Coding clubs triple in libraries, linking library books to Amazon … and a really quick survey",
+  "date_published": "2016-11-08T20:40:23",
+  "date_modified": "2016-11-10T22:25:18",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I’m doing a survey on what public libraries charge for things like craft sessions and for drinks for events. It’s to get some idea of what’s happening nationally as well as seeing if these are extra bits of income that can be made without affecting usage (or not). The survey is tiny (only four questions) and will take you less than a minute if you don’t put any comments in. So, do me (and possibly yourself as I will be publicising the results) a favour by completing the survey here. The survey is entirely anonymous. Thank you.",
+    "html": "<p>I&#8217;m doing a survey on what public libraries charge for things like craft sessions and for drinks for events. It&#8217;s to get some idea of what&#8217;s happening nationally as well as seeing if these are extra bits of income that can be made without affecting usage (or not). The survey is tiny (only four questions) and will take you less than a minute if you don&#8217;t put any comments in. So, <a href=\"https://www.surveymonkey.co.uk/r/D89V9M7\">do me (and possibly yourself as I will be publicising the results) a favour by completing the survey here</a>. The survey is entirely anonymous. Thank you.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 17,
+  "story_ids": [
+    "pln-story-11654-local-001",
+    "pln-story-11654-local-002",
+    "pln-story-11654-local-003",
+    "pln-story-11654-local-004",
+    "pln-story-11654-local-005",
+    "pln-story-11654-local-006",
+    "pln-story-11654-local-007",
+    "pln-story-11654-local-008",
+    "pln-story-11654-local-009",
+    "pln-story-11654-local-010",
+    "pln-story-11654-intl-001",
+    "pln-story-11654-intl-002",
+    "pln-story-11654-natl-001",
+    "pln-story-11654-natl-002",
+    "pln-story-11654-natl-003",
+    "pln-story-11654-ideas-001",
+    "pln-story-11654-ideas-002"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 15,
+    "countries_count": 3,
+    "top_categories": {
+      "campaigns_and_protests": 5,
+      "staffing_and_unions": 4,
+      "cuts_and_finance": 4,
+      "closures_and_threats": 3,
+      "volunteers_and_community": 2,
+      "events_and_activities": 2,
+      "digital_and_technology": 2,
+      "mobile_and_outreach": 1,
+      "opening_hours": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,81 @@
+{
+  "id": "pln-post-13063",
+  "source_id": 13063,
+  "url": "https://www.publiclibrariesnews.com/2017/09/austerity-localism.html",
+  "slug": "austerity-localism",
+  "title": "Austerity + Localism =",
+  "date_published": "2017-09-07T19:56:21",
+  "date_modified": "2017-09-09T19:55:29",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I was talking to someone else concerned about public libraries the other day. She asked (a) what could be done to prevent major cuts to libraries and (b) how come other countries are not undergoing the crises of the UK. My answer to the first was, simply, government intervention. One decision to intervene by a minister due a council reducing the budget too much would do it. After all, library budgets are tiny compared to other services the council provides and are only really worth attacking, given the public support for them, if it’s clear there’s going to no statutory response. The reason the government does not intervene is likewise simple: austerity is their decision in the first place (albeit one shared by many) and secondly localism – allowing the local councils to decide where to cut – is part of the unspoken deal that stops councils rebelling more than they are. The answer to why other countries are not undergoing the UK crisis is closely allied to what I have already said. An organisation can cope with one major crisis at a time but UK libraries are coping with two: massive technological change and deep budget cuts. Places like Canada, Australia and New Zealand are faced with one but (largely) not the other, and generally have far superior library usage because of it.",
+    "html": "<p style=\"text-align: justify;\">I was talking to someone else concerned about public libraries the other day. She asked (a) what could be done to prevent major cuts to libraries and (b) how come other countries are not undergoing the crises of the UK. My answer to the first was, simply, government intervention. One decision to intervene by a minister due a council reducing the budget too much would do it. After all, library budgets are tiny compared to other services the council provides and are only really worth attacking, given the public support for them, if it&#8217;s clear there&#8217;s going to no statutory response. The reason the government does not intervene is likewise simple: austerity is their decision in the first place (albeit one shared by many) and secondly<a href=\"https://en.wikipedia.org/wiki/Localism_(politics)\"> localism </a>&#8211; allowing the local councils to decide where to cut &#8211; is part of the unspoken deal that stops councils rebelling more than they are.</p> <p style=\"text-align: justify;\">The answer to why other countries are not undergoing the UK crisis is closely allied to what I have already said. An organisation can cope with one major crisis at a time but UK libraries are coping with two: massive technological change and deep budget cuts. Places like Canada, Australia and New Zealand are faced with one but (largely) not the other, and generally have far superior library usage because of it.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 30,
+  "story_ids": [
+    "pln-story-13063-changes-001",
+    "pln-story-13063-changes-002",
+    "pln-story-13063-changes-003",
+    "pln-story-13063-changes-004",
+    "pln-story-13063-changes-005",
+    "pln-story-13063-local-001",
+    "pln-story-13063-local-002",
+    "pln-story-13063-local-003",
+    "pln-story-13063-local-004",
+    "pln-story-13063-local-005",
+    "pln-story-13063-local-006",
+    "pln-story-13063-local-007",
+    "pln-story-13063-local-008",
+    "pln-story-13063-local-009",
+    "pln-story-13063-local-010",
+    "pln-story-13063-local-011",
+    "pln-story-13063-local-012",
+    "pln-story-13063-local-013",
+    "pln-story-13063-intl-001",
+    "pln-story-13063-intl-002",
+    "pln-story-13063-intl-003",
+    "pln-story-13063-intl-004",
+    "pln-story-13063-intl-005",
+    "pln-story-13063-intl-006",
+    "pln-story-13063-intl-007",
+    "pln-story-13063-intl-008",
+    "pln-story-13063-natl-001",
+    "pln-story-13063-natl-002",
+    "pln-story-13063-natl-003",
+    "pln-story-13063-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 8,
+    "countries_count": 6,
+    "top_categories": {
+      "closures_and_threats": 8,
+      "refurbishment_and_new_builds": 6,
+      "volunteers_and_community": 6,
+      "staffing_and_unions": 6,
+      "events_and_activities": 5,
+      "cuts_and_finance": 4,
+      "opening_hours": 2,
+      "campaigns_and_protests": 2,
+      "mobile_and_outreach": 2,
+      "digital_and_technology": 2,
+      "co_location": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "id": "pln-post-325",
+  "source_id": 325,
+  "url": "https://www.publiclibrariesnews.com/2012/01/because-thats-the-problem.html",
+  "slug": "because-thats-the-problem",
+  "title": "Because that’s the problem",
+  "date_published": "2012-01-19T22:18:00",
+  "date_modified": "2012-01-19T22:18:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "414 libraries (325 buildings and 89 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4612 in the UK, complete list below. The librarian professional body CILIP forecasts 600 libraries could be under threat (inc. 20% of English libraries). The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day. Can you help by…? Attending the Lobby for Libraries event on 2.30pm 13th March at Central Hall, Westminster, London. #librarieslobby hashtag. Beforehand there will be a rally from 12 – 2pm at Central Methodist Hall featuring keynote speakers, films and entertainment. There will also be a ‘pop up’ library on display to demonstrate the range of services offered in a modern library. Book the singer of the “We Need Libraries” song to promote the cause at a place near you.",
+    "html": "<b>414 libraries (325 buildings and 89 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.<a href=\"http://www.cilip.org.uk/get-involved/advocacy/public-libraries/Documents/Public_libraries_briefing_CILIP_March2011.pdf\">4612</a> in the UK, complete list below</b><b>. The librarian professional body <a href=\"http://www.cilip.org.uk/Pages/default.aspx\">CILIP</a> forecasts <a href=\"http://www.cilip.org.uk/news-media/pages/news110207.aspx\">600 libraries could be under threat</a> (inc. 20% of English libraries). </b>The Public Libraries News figure is obtained from counting up all reports about public libraries in the media each day.</p> <p><b>Can you help by&#8230;?</b> </p> <li><a href=\"http://www.thebookseller.com/news/library-supporters-unite-13th-march-rally.html#.TxAn8i5XvpM.email\">Attending the <b>Lobby for Libraries</b> event on 2.30pm 13th March at Central Hall, Westminster, London</a>. #librarieslobby hashtag. Beforehand there will be a rally from 12 – 2pm at Central Methodist Hall featuring keynote speakers, films and entertainment. There will also be a ‘pop up’ library on display to demonstrate the range of services offered in a modern library.</li> <li>Book <a href=\"http://www.facebook.com/events/171994056235998/\">the singer of the <b>&#8220;We Need Libraries&#8221; song</b> to promote the cause</a> at a place near you.</li>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 23,
+  "story_ids": [
+    "pln-story-325-changes-001",
+    "pln-story-325-changes-002",
+    "pln-story-325-changes-003",
+    "pln-story-325-changes-004",
+    "pln-story-325-changes-005",
+    "pln-story-325-changes-006",
+    "pln-story-325-local-001",
+    "pln-story-325-local-002",
+    "pln-story-325-local-003",
+    "pln-story-325-local-004",
+    "pln-story-325-local-005",
+    "pln-story-325-local-006",
+    "pln-story-325-local-007",
+    "pln-story-325-local-008",
+    "pln-story-325-local-009",
+    "pln-story-325-local-010",
+    "pln-story-325-local-011",
+    "pln-story-325-local-012",
+    "pln-story-325-local-013",
+    "pln-story-325-natl-001",
+    "pln-story-325-natl-002",
+    "pln-story-325-natl-003",
+    "pln-story-325-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 16,
+    "countries_count": 3,
+    "top_categories": {
+      "cuts_and_finance": 8,
+      "opening_hours": 8,
+      "closures_and_threats": 5,
+      "volunteers_and_community": 5,
+      "campaigns_and_protests": 5,
+      "staffing_and_unions": 3,
+      "governance_and_trusts": 2,
+      "events_and_activities": 2
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

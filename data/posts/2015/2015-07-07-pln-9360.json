@@ -1,0 +1,67 @@
+{
+  "id": "pln-post-9360",
+  "source_id": 9360,
+  "url": "https://www.publiclibrariesnews.com/2015/07/hang-on-weve-seen-this-before-isle-of-wight-north-yorkshire-go-for-round-two.html",
+  "slug": "hang-on-weve-seen-this-before-isle-of-wight-north-yorkshire-go-for-round-two",
+  "title": "Hang on, we’ve seen this before: Isle of Wight + North Yorkshire go for Round Two",
+  "date_published": "2015-07-07T21:58:14",
+  "date_modified": "2015-07-09T20:36:21",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Two councils which led the wave of cuts to libraries at the start of the coalition government have both announced or confirmed a second wave of big cuts at the start of the term of the new one. The Isle of Wight passed on five of its libraries to volunteers in 2011, more than halving paid staff over the course of one year. This time it is quoting the example of these volunteer libraries in support of transferring a further three more, although this time with a paid member of staff, computers and stock, away from council funding. Quoting austerity, the council says that otherwise it would simply close more libraries. Meanwhile, North Yorkshire, which closed or pass to volunteers 7 libraries in 2012 and 10 mobile libraries in 2011, have confirmed deep cuts, again quoting the volunteer libraries from the previous round as evidence to pass more to volunteers this time. It notes the large public response against such cuts during the consultation but, other than not cutting quite as deeply as initially suggested, has essentially gone on ahead as planned. So, will we see a re-run of 2010-15 now in 2015-20? Watch out for announcements of closures from Brent, Gloucestershire or Somerset over the next few months to see how spooky (and depressing for those involved) this is going to be.",
+    "html": "<p style=\"text-align: justify;\">Two councils which led the wave of cuts to libraries at the start of the coalition government have both announced or confirmed a second wave of big cuts at the start of the term of the new one. The Isle of Wight passed on five of its libraries to volunteers in 2011, more than halving paid staff over the course of one year. This time it is quoting the example of these volunteer libraries in support of transferring a further three more, although this time with a paid member of staff, computers and stock, away from council funding. Quoting austerity, the council says that otherwise it would simply close more libraries. Meanwhile, North Yorkshire, which closed or pass to volunteers 7 libraries in 2012 and 10 mobile libraries in 2011, have confirmed deep cuts, again quoting the volunteer libraries from the previous round as evidence to pass more to volunteers this time. It notes the large public response against such cuts during the consultation but, other than not cutting quite as deeply as initially suggested, has essentially gone on ahead as planned.</p> <p style=\"text-align: justify;\">So, will we see a re-run of 2010-15 now in 2015-20? Watch out for announcements of closures from Brent, Gloucestershire or Somerset over the next few months to see how spooky (and depressing for those involved) this is going to be.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 20,
+  "story_ids": [
+    "pln-story-9360-changes-001",
+    "pln-story-9360-changes-002",
+    "pln-story-9360-intl-001",
+    "pln-story-9360-intl-002",
+    "pln-story-9360-intl-003",
+    "pln-story-9360-intl-004",
+    "pln-story-9360-intl-005",
+    "pln-story-9360-intl-006",
+    "pln-story-9360-intl-007",
+    "pln-story-9360-intl-008",
+    "pln-story-9360-intl-009",
+    "pln-story-9360-intl-010",
+    "pln-story-9360-intl-011",
+    "pln-story-9360-intl-012",
+    "pln-story-9360-intl-013",
+    "pln-story-9360-intl-014",
+    "pln-story-9360-natl-001",
+    "pln-story-9360-natl-002",
+    "pln-story-9360-natl-003",
+    "pln-story-9360-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 10,
+    "libraries_count": 12,
+    "countries_count": 4,
+    "top_categories": {
+      "cuts_and_finance": 9,
+      "volunteers_and_community": 5,
+      "staffing_and_unions": 4,
+      "closures_and_threats": 3,
+      "digital_and_technology": 2,
+      "events_and_activities": 2,
+      "campaigns_and_protests": 2,
+      "opening_hours": 1,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

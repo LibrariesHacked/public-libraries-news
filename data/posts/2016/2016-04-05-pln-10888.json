@@ -1,0 +1,78 @@
+{
+  "id": "pln-post-10888",
+  "source_id": 10888,
+  "url": "https://www.publiclibrariesnews.com/2016/04/crazy-horses.html",
+  "slug": "crazy-horses",
+  "title": "Crazy horses?",
+  "date_published": "2016-04-05T20:00:05",
+  "date_modified": "2016-04-07T18:49:56",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "As of the time of being published, I understand that the occupation of Carnegie Library in Lambeth is still going on by protestors (“just” plain library users many of them) keen to see it not being turned into a gym. There’s even a plan to have a Carnegie Occupation march on Saturday. This is all horribly embarrassing for the council there but is it enough? There’s lots of news coverage on it below. Also this issue I have a short interview with Alan Duckworth, who sounds quite a character, about his experience of being a reference librarian for 40 years. I don’t see public libraries going the way that Alan thinks reference libraries are going: they’re far too important and wonderful for that.",
+    "html": "<p style=\"text-align: justify;\">As of the time of being published, I understand that the occupation of Carnegie Library in Lambeth is still going on by protestors (&#8220;just&#8221; plain library users many of them) keen to see it not being turned into a gym. There&#8217;s even a plan to have a Carnegie Occupation march on Saturday. This is all horribly embarrassing for the council there but is it enough? There&#8217;s lots of news coverage on it below. Also this issue I have a short interview with Alan Duckworth, who sounds quite a character, about his experience of being a reference librarian for 40 years. I don&#8217;t see public libraries going the way that Alan thinks reference libraries are going: they&#8217;re far too important and wonderful for that.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 30,
+  "story_ids": [
+    "pln-story-10888-changes-001",
+    "pln-story-10888-changes-002",
+    "pln-story-10888-changes-003",
+    "pln-story-10888-changes-004",
+    "pln-story-10888-changes-005",
+    "pln-story-10888-intl-001",
+    "pln-story-10888-intl-002",
+    "pln-story-10888-intl-003",
+    "pln-story-10888-intl-004",
+    "pln-story-10888-intl-005",
+    "pln-story-10888-intl-006",
+    "pln-story-10888-intl-007",
+    "pln-story-10888-intl-008",
+    "pln-story-10888-intl-009",
+    "pln-story-10888-intl-010",
+    "pln-story-10888-intl-011",
+    "pln-story-10888-intl-012",
+    "pln-story-10888-intl-013",
+    "pln-story-10888-intl-014",
+    "pln-story-10888-intl-015",
+    "pln-story-10888-intl-016",
+    "pln-story-10888-intl-017",
+    "pln-story-10888-intl-018",
+    "pln-story-10888-intl-019",
+    "pln-story-10888-natl-001",
+    "pln-story-10888-natl-002",
+    "pln-story-10888-natl-003",
+    "pln-story-10888-natl-004",
+    "pln-story-10888-natl-005",
+    "pln-story-10888-natl-006"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 9,
+    "countries_count": 6,
+    "top_categories": {
+      "staffing_and_unions": 8,
+      "cuts_and_finance": 6,
+      "campaigns_and_protests": 6,
+      "mobile_and_outreach": 5,
+      "digital_and_technology": 5,
+      "volunteers_and_community": 5,
+      "closures_and_threats": 4,
+      "events_and_activities": 2,
+      "governance_and_trusts": 2,
+      "opening_hours": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

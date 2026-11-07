@@ -1,0 +1,83 @@
+{
+  "id": "pln-post-13375",
+  "source_id": 13375,
+  "url": "https://www.publiclibrariesnews.com/2017/12/christmas-for-gll-london-library-property-boom-and-japanese-success.html",
+  "slug": "christmas-for-gll-london-library-property-boom-and-japanese-success",
+  "title": "Christmas for GLL, London library property boom and Japanese success",
+  "date_published": "2017-12-03T21:19:04",
+  "date_modified": "2017-12-05T21:29:43",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Some interesting news stories today. GLL have officially taken over another library service, meaning they’re now running, by my count, five. In a further sign, if any were needed, that London is an increasingly foreign city compared to the rest of the country, another library there gets a new building as part of a property deal that would not have been so possible anywhere without its insanely high property prices. And then we have Christmas creeping up on us, with a story in the Guardian of how dedicated librarians are even at Christmas. This article also mentions the large number of volunteers being used, which ties in with an advert also today for a paid PhD on volunteers, describing them as “crucial” for the library service. No mention of volunteers, though, from Japan, where a new combined bookshop/library/restaurant model is apparently going great guns.",
+    "html": "<p style=\"text-align: justify;\">Some interesting news stories today. GLL have officially taken over another library service, meaning they&#8217;re now running, <a href=\"https://www.publiclibrariesnews.com/campaigning/trusts/trusts-gll\">by my count, five</a>. In a further sign, if any were needed, that London is an increasingly foreign city compared to the rest of the country, another library there gets a new building as part of a property deal that would not have been so possible anywhere without its insanely high property prices. And then we have Christmas creeping up on us, with a story in the Guardian of how dedicated librarians are even at Christmas. This article also mentions the large number of volunteers being used, which ties in with an advert also today for a paid PhD on volunteers, describing them as &#8220;crucial&#8221; for the library service. No mention of volunteers, though, from Japan, where a new combined bookshop/library/restaurant model is apparently going great guns.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 32,
+  "story_ids": [
+    "pln-story-13375-changes-001",
+    "pln-story-13375-changes-002",
+    "pln-story-13375-changes-003",
+    "pln-story-13375-local-001",
+    "pln-story-13375-local-002",
+    "pln-story-13375-local-003",
+    "pln-story-13375-local-004",
+    "pln-story-13375-local-005",
+    "pln-story-13375-local-006",
+    "pln-story-13375-local-007",
+    "pln-story-13375-local-008",
+    "pln-story-13375-local-009",
+    "pln-story-13375-local-010",
+    "pln-story-13375-local-011",
+    "pln-story-13375-local-012",
+    "pln-story-13375-local-013",
+    "pln-story-13375-local-014",
+    "pln-story-13375-local-015",
+    "pln-story-13375-local-016",
+    "pln-story-13375-local-017",
+    "pln-story-13375-local-018",
+    "pln-story-13375-local-019",
+    "pln-story-13375-intl-001",
+    "pln-story-13375-intl-002",
+    "pln-story-13375-intl-003",
+    "pln-story-13375-intl-004",
+    "pln-story-13375-natl-001",
+    "pln-story-13375-natl-002",
+    "pln-story-13375-natl-003",
+    "pln-story-13375-natl-004",
+    "pln-story-13375-natl-005",
+    "pln-story-13375-natl-006"
+  ],
+  "stats": {
+    "authorities_count": 19,
+    "libraries_count": 25,
+    "countries_count": 4,
+    "top_categories": {
+      "staffing_and_unions": 9,
+      "volunteers_and_community": 6,
+      "closures_and_threats": 4,
+      "cuts_and_finance": 4,
+      "events_and_activities": 4,
+      "refurbishment_and_new_builds": 3,
+      "campaigns_and_protests": 3,
+      "governance_and_trusts": 2,
+      "co_location": 1,
+      "opening_hours": 1,
+      "book_bans_and_challenges": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

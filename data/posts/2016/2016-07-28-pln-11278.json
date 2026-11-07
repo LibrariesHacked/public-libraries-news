@@ -1,0 +1,72 @@
+{
+  "id": "pln-post-11278",
+  "source_id": 11278,
+  "url": "https://www.publiclibrariesnews.com/2016/07/take-advantage-of-love-to-read.html",
+  "slug": "take-advantage-of-love-to-read",
+  "title": "Take advantage of Love To Read",
+  "date_published": "2016-07-28T19:15:00",
+  "date_modified": "2016-07-31T17:05:01",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "More details on the BBC “Love To Read” promotion ae emerging. The BBC tend not to do anything by halves, as I discovered when I was lucky enough to experience a children’s book promotion at the Library of Birmingham a couple of weeks ago, which featured hordes of people, Blue Peter and top league authors. So this is going to be a good thing for reading and, by extension, libraries. Take full advantage. Other than that, it’s fairly quiet today in the UK, with a reduction in hours in Shropshire and a move of library in Staffordshire. Abroad, the article on a “secret” Syraina library is the stand out, showing how – when it comes down to it – libraries are actually pretty essential to people’s lives, especially when they have so little else.",
+    "html": "<p style=\"text-align: justify;\">More details on the BBC &#8220;Love To Read&#8221; promotion ae emerging. The BBC tend not to do anything by halves, as I discovered when I was lucky enough to experience a children&#8217;s book promotion at the Library of Birmingham a couple of weeks ago, which featured hordes of people, Blue Peter and top league authors. So this is going to be a good thing for reading and, by extension, libraries. Take full advantage. Other than that, it&#8217;s fairly quiet today in the UK, with a reduction in hours in Shropshire and a move of library in Staffordshire. Abroad, the article on a &#8220;secret&#8221; Syraina library is the stand out, showing how &#8211; when it comes down to it &#8211; libraries are actually pretty essential to people&#8217;s lives, especially when they have so little else.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 23,
+  "story_ids": [
+    "pln-story-11278-changes-001",
+    "pln-story-11278-changes-002",
+    "pln-story-11278-local-001",
+    "pln-story-11278-local-002",
+    "pln-story-11278-local-003",
+    "pln-story-11278-local-004",
+    "pln-story-11278-local-005",
+    "pln-story-11278-local-006",
+    "pln-story-11278-local-007",
+    "pln-story-11278-local-008",
+    "pln-story-11278-local-009",
+    "pln-story-11278-local-010",
+    "pln-story-11278-local-011",
+    "pln-story-11278-intl-001",
+    "pln-story-11278-intl-002",
+    "pln-story-11278-intl-003",
+    "pln-story-11278-intl-004",
+    "pln-story-11278-natl-001",
+    "pln-story-11278-natl-002",
+    "pln-story-11278-natl-003",
+    "pln-story-11278-natl-004",
+    "pln-story-11278-natl-005",
+    "pln-story-11278-natl-006"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 16,
+    "countries_count": 5,
+    "top_categories": {
+      "cuts_and_finance": 7,
+      "closures_and_threats": 5,
+      "staffing_and_unions": 5,
+      "campaigns_and_protests": 5,
+      "volunteers_and_community": 3,
+      "governance_and_trusts": 3,
+      "opening_hours": 2,
+      "digital_and_technology": 2,
+      "events_and_activities": 1,
+      "co_location": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

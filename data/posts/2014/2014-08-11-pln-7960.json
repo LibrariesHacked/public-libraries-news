@@ -1,0 +1,55 @@
+{
+  "id": "pln-post-7960",
+  "source_id": 7960,
+  "url": "https://www.publiclibrariesnews.com/2014/08/carnegie-uk-trust-says-get-your-innovation-on.html",
+  "slug": "carnegie-uk-trust-says-get-your-innovation-on",
+  "title": "Carnegie UK Trust says: Get Your Innovation On",
+  "date_published": "2014-08-11T22:11:37",
+  "date_modified": "2014-08-13T21:32:43",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Carnegie UK Trust have been having a good month or two. They recently produced the excellent “Speaking Volumes” advocacy tool and now they have announced more details of a £200,000 library innovation fund that intends to “future-proof public libraries”, develop innovative ideas and, by the by, encourage innovation and leadership skills amongst library staff. In these days of traditional funding cuts, a mass (often forced) emigration from the profession and an increased questioning of the library role by those who hold the purse strings, this is to be strongly welcomed. The challenge for those applying – and for the Trust itself – is not be distracted by glamorous but irrelevant ideas but ones which may make a real difference to the UK public library service. Don’t get distracted by the shiny, people. Think about things which have potential for the long term. We, literally, can’t afford not to.",
+    "html": "<p style=\"text-align: justify;\">Carnegie UK Trust have been having a good month or two. They recently produced the excellent<a title=\"Speaking Volumes\" href=\"http://www.carnegieuktrust.org.uk/changing-minds/knowledge---culture/the-future-of-libraries/speaking-volumes\"> &#8220;Speaking Volumes&#8221; advocacy tool </a>and now they have announced more details of a £200,000 library innovation fund that intends to &#8220;future-proof public libraries&#8221;, develop innovative ideas and, by the by, encourage innovation and leadership skills amongst library staff. In these days of traditional funding cuts, a mass (often forced) emigration from the profession and an increased questioning of the library role by those who hold the purse strings, this is to be strongly welcomed. The challenge for those applying &#8211; and for the Trust itself &#8211; is not be distracted by glamorous but irrelevant ideas but ones which may make a real difference to the UK public library service. Don&#8217;t get distracted by the shiny, people. Think about things which have potential for the long term. We, literally, can&#8217;t afford not to.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 11,
+  "story_ids": [
+    "pln-story-7960-changes-001",
+    "pln-story-7960-changes-002",
+    "pln-story-7960-changes-003",
+    "pln-story-7960-changes-004",
+    "pln-story-7960-changes-005",
+    "pln-story-7960-changes-006",
+    "pln-story-7960-intl-001",
+    "pln-story-7960-intl-002",
+    "pln-story-7960-intl-003",
+    "pln-story-7960-intl-004",
+    "pln-story-7960-intl-005"
+  ],
+  "stats": {
+    "authorities_count": 3,
+    "libraries_count": 2,
+    "countries_count": 2,
+    "top_categories": {
+      "governance_and_trusts": 3,
+      "staffing_and_unions": 3,
+      "digital_and_technology": 2,
+      "closures_and_threats": 1,
+      "campaigns_and_protests": 1,
+      "events_and_activities": 1,
+      "cuts_and_finance": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,74 @@
+{
+  "id": "pln-post-10766",
+  "source_id": 10766,
+  "url": "https://www.publiclibrariesnews.com/2016/03/embedded-job-advisors-and-thema.html",
+  "slug": "embedded-job-advisors-and-thema",
+  "title": "Embedded job advisors and Thema",
+  "date_published": "2016-03-10T20:48:56",
+  "date_modified": "2016-03-13T21:57:05",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The Department for Work and Pensions has announced that job advisors will be placed in different settings including libraries. It’s been interesting to see the negative response from some tweeters about the cost to the public library service in terms of damaged neutrality, making the service more linked, in the public mind at least, to the government. It may indeed turn off some people from coming into the library, being worried that the DWP officers will spot them doing something they shouldn’t. On the other hand, of course, supporters of the scheme would say that this will improve the service to the user – professionals being emplaced to help get people employed is not a bad thing after all. Government will also likely place more value on libraries if they see them as somewhere they can reach the hard to reach. The scheme is therefore not entirely good and not entirely bad: like so many things, it lies somewhere in the continuum between the two. We all need to be think through the implications to our own libraries. And now for something a bit more, well, librarian, than most of the news normally contained here. My thanks to Graham Bell, the executive director of EDItEUR, to agreeing to explain something I simply had no idea about: the new subject classification theme called Thema. The piece is too long for being part of this post (so it gets its own page) but I recommend it to you if have you have an interest in saving money, being international, or, actually, simply in the ordering and finding of books, which is kind of important, still, for most public librarians. See this page for the article.",
+    "html": "<p style=\"text-align: justify;\">The <a href=\"https://www.gov.uk/government/organisations/department-for-work-pensions\">Department for Work and Pensions</a> has <a href=\"http://thirdforcenews.org.uk/tfn-news/dwp-job-advisers-to-be-placed-in-libraries-and-schools\">announced that job advisors will be placed in different settings including libraries</a>. It&#8217;s been interesting to see the negative response from some tweeters about the cost to the public library service in terms of damaged neutrality, making the service more linked, in the public mind at least, to the government. It may indeed turn off some people from coming into the library, being worried that the DWP officers will spot them doing something they shouldn&#8217;t. On the other hand, of course, supporters of the scheme would say that this will improve the service to the user &#8211; professionals being emplaced to help get people employed is not a bad thing after all. Government will also likely place more value on libraries if they see them as somewhere they can reach the hard to reach. The scheme is therefore not entirely good and not entirely bad: like so many things, it lies somewhere in the continuum between the two. We all need to be think through the implications to our own libraries.</p> <p style=\"text-align: justify;\">And now for something a bit more, well, <em>librarian</em>, than most of the news normally contained here. My thanks to Graham Bell, the executive director of EDItEUR, to agreeing to explain something I simply had no idea about: the new subject classification theme called <em>Thema. </em>The piece is too long for being part of this post (so it gets its own page) but I recommend it to you if have you have an interest in saving money, being international, or, actually, simply in the ordering and finding of books, which is kind of important, still, for most public librarians. <a href=\"https://www.publiclibrariesnews.com/practitioners/thema-graham-bell-describes-thema-the-new-subject-classification-for-the-global-book-industry\">See this page for the article.</a></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 23,
+  "story_ids": [
+    "pln-story-10766-changes-001",
+    "pln-story-10766-local-001",
+    "pln-story-10766-local-002",
+    "pln-story-10766-local-003",
+    "pln-story-10766-local-004",
+    "pln-story-10766-local-005",
+    "pln-story-10766-local-006",
+    "pln-story-10766-local-007",
+    "pln-story-10766-local-008",
+    "pln-story-10766-local-009",
+    "pln-story-10766-local-010",
+    "pln-story-10766-local-011",
+    "pln-story-10766-local-012",
+    "pln-story-10766-local-013",
+    "pln-story-10766-local-014",
+    "pln-story-10766-local-015",
+    "pln-story-10766-intl-001",
+    "pln-story-10766-intl-002",
+    "pln-story-10766-natl-001",
+    "pln-story-10766-natl-002",
+    "pln-story-10766-natl-003",
+    "pln-story-10766-natl-004",
+    "pln-story-10766-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 14,
+    "libraries_count": 18,
+    "countries_count": 4,
+    "top_categories": {
+      "campaigns_and_protests": 7,
+      "closures_and_threats": 5,
+      "staffing_and_unions": 4,
+      "opening_hours": 3,
+      "volunteers_and_community": 3,
+      "cuts_and_finance": 3,
+      "events_and_activities": 3,
+      "unstaffed_open_plus": 2,
+      "governance_and_trusts": 2,
+      "co_location": 2,
+      "book_bans_and_challenges": 2,
+      "digital_and_technology": 2
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

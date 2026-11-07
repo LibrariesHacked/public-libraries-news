@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-12301",
+  "source_id": 12301,
+  "url": "https://www.publiclibrariesnews.com/2017/04/autism-friendly-does-not-mean-having-a-book-on-the-subject-on-a-shelf.html",
+  "slug": "autism-friendly-does-not-mean-having-a-book-on-the-subject-on-a-shelf",
+  "title": "Autism-friendly does not mean having a book on the subject on a shelf",
+  "date_published": "2017-04-06T20:24:32",
+  "date_modified": "2017-04-10T20:00:07",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I remember the days when I thought that a dementia-and-autism-friendly library meant having a book on both subjects available for lending. Thankfully, with the help of dementia friends and autism-friendly libraries, those days have gone. Hopefully, all library staff will soon understand what the conditions mean and how to best serve those with them and that every library will have a social story to help their usage. However, it needs to be that everyone working in those buildings understands the training. The story of the security guard from the private company who expelled a parent reading loudly to his autistic daughter needs to become one of those shocking tales of how things were in the past, like workhouses. This also needs extending to volunteers. Speaking of which, last weekend marked the start of many North Yorkshire libraries becoming fully volunteer. What that means to the community, and to the staff who have had to see it happen, can only be guessed at but this heart-rending article in the Big Issue perhaps gives a clue.",
+    "html": "<p style=\"text-align: justify;\">I remember the days when I thought that a dementia-and-autism-friendly library meant having a book on both subjects available for lending. Thankfully, with the help of <a href=\"https://www.dementiafriends.org.uk/\">dementia friends </a>and <a href=\"http://www.ascel.org.uk/news/autism-friendly-libraries\">autism-friendly libraries</a>, those days have gone. Hopefully, all library staff will soon understand what the conditions mean and how to best serve those with them and that every library will <a href=\"https://www.cheshirewestandchester.gov.uk/documents/leisure-culture-and-tourism-documents/libraries/libraries-general/Autism-friendly-guide-to-Upton-Library.pdf\">have a social story</a> to help their usage. However, it needs to be that everyone working in those buildings understands the training. The <a href=\"http://www.hackneygazette.co.uk/news/dad_kicked_out_of_hackney_central_library_for_reading_too_loudly_to_autistic_daughter_5_1_4961152\">story of the security guard from the private company who expelled a parent reading loudly to his autistic daughter </a>needs to become one of those shocking tales of how things were in the past, like workhouses. This also needs extending to volunteers. <a href=\"http://www.gazetteherald.co.uk/news/15201687.Authors_help_relaunch_community_libraries/\">Speaking of which, last weekend marked the start of many North Yorkshire libraries becoming fully volunteer</a>. What that means to the community, and to the staff who have had to see it happen, can only be guessed at but<a href=\"http://www.bigissue.com/news/librarians-speak-up/#.WOPCD677o1s.twitter\"> this heart-rending article in the <em>Big Issue</em> perhaps gives a clue. </a></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 31,
+  "story_ids": [
+    "pln-story-12301-changes-001",
+    "pln-story-12301-changes-002",
+    "pln-story-12301-changes-003",
+    "pln-story-12301-local-001",
+    "pln-story-12301-local-002",
+    "pln-story-12301-local-003",
+    "pln-story-12301-local-004",
+    "pln-story-12301-local-005",
+    "pln-story-12301-local-006",
+    "pln-story-12301-local-007",
+    "pln-story-12301-local-008",
+    "pln-story-12301-local-009",
+    "pln-story-12301-local-010",
+    "pln-story-12301-local-011",
+    "pln-story-12301-local-012",
+    "pln-story-12301-local-013",
+    "pln-story-12301-local-014",
+    "pln-story-12301-local-015",
+    "pln-story-12301-local-016",
+    "pln-story-12301-local-017",
+    "pln-story-12301-local-018",
+    "pln-story-12301-local-019",
+    "pln-story-12301-local-020",
+    "pln-story-12301-intl-001",
+    "pln-story-12301-intl-002",
+    "pln-story-12301-intl-003",
+    "pln-story-12301-intl-004",
+    "pln-story-12301-natl-001",
+    "pln-story-12301-natl-002",
+    "pln-story-12301-natl-003",
+    "pln-story-12301-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 14,
+    "libraries_count": 21,
+    "countries_count": 6,
+    "top_categories": {
+      "cuts_and_finance": 8,
+      "closures_and_threats": 8,
+      "staffing_and_unions": 8,
+      "volunteers_and_community": 6,
+      "refurbishment_and_new_builds": 6,
+      "campaigns_and_protests": 3,
+      "co_location": 3,
+      "opening_hours": 2,
+      "governance_and_trusts": 2,
+      "events_and_activities": 2,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

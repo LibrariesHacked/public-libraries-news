@@ -54,6 +54,16 @@ Each file in `data/posts/` corresponds to a single weekly edition of Public Libr
     "pln-story-12345-local-001",
     "pln-story-12345-local-002"
   ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 6,
+    "countries_count": 3,
+    "top_categories": {
+      "cuts_and_finance": 8,
+      "closures_and_threats": 5,
+      "campaigns_and_protests": 3
+    }
+  },
   "attribution": {
     "source": "Public Libraries News",
     "source_url": "https://www.publiclibrariesnews.com/",
@@ -81,7 +91,8 @@ Each item in `data/stories/` is a single news snippet extracted from a section l
   "links": [
     {
       "url": "https://www.birminghammail.co.uk/...",
-      "text": "reductions in staffing and hours"
+      "text": "reductions in staffing and hours",
+      "domain": "birminghammail.co.uk"
     }
   ],
   "resolution": {
@@ -109,9 +120,25 @@ Each item in `data/stories/` is a single news snippet extracted from a section l
       "longitude": -1.8904
     }
   },
+  "classification": {
+    "categories": [
+      "campaigns_and_protests",
+      "opening_hours",
+      "staffing_and_unions"
+    ],
+    "primary_category": "campaigns_and_protests",
+    "change_type": "reduction_or_cut",
+    "sector_bodies_mentioned": [
+      "UNISON"
+    ],
+    "financial_mentions": [
+      "£2.3m"
+    ]
+  },
   "tags": [
-    "campaign",
-    "opening_hours"
+    "campaigns_and_protests",
+    "opening_hours",
+    "staffing_and_unions"
   ]
 }
 ```

@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-5513",
+  "source_id": 5513,
+  "url": "https://www.publiclibrariesnews.com/2013/07/mail-somehow-uses-library-rebrand-to-link-librarians-with-mass-murderer.html",
+  "slug": "mail-somehow-uses-library-rebrand-to-link-librarians-with-mass-murderer",
+  "title": "Mail somehow uses library rebrand to link librarians with mass murderer",
+  "date_published": "2013-07-07T18:53:23",
+  "date_modified": "2013-07-09T22:30:47",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The CILIP rebranding has made the national newspapers with both the Times and the Mail writing pieces. Whatever happens, thankfully, after the vote the word “library” will remain in the name of the professional organisation and then, hopefully, the organisation and librarians can get behind the most powerful brand that we have. That is, as long as we don’t use the Mao link helpfully emphasised by the Mail who, if one didn’t know better, one might suspect as having some sort of agenda against public sector workers. Surely not.",
+    "html": "<p style=\"text-align: justify;\">The CILIP rebranding has made the national newspapers with both the Times and the Mail writing pieces. Whatever happens, thankfully, after the vote the word &#8220;library&#8221; will remain in the name of the professional organisation and then, hopefully, the organisation and librarians can get behind the most powerful brand that we have. <a title=\"Mail\" href=\"http://www.dailymail.co.uk/news/article-2357307/The-knowledge-people-Attempted-rebrand-gets-librarians-raising-voices-outrage.html\">That is, as long as we don&#8217;t use the Mao link helpfully emphasised by the Mail who</a>, if one didn&#8217;t know better, one might suspect as having some sort of agenda against public sector workers. Surely not.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "local_news"
+  ],
+  "stories_count": 32,
+  "story_ids": [
+    "pln-story-5513-changes-001",
+    "pln-story-5513-changes-002",
+    "pln-story-5513-changes-003",
+    "pln-story-5513-local-001",
+    "pln-story-5513-local-002",
+    "pln-story-5513-local-003",
+    "pln-story-5513-local-004",
+    "pln-story-5513-local-005",
+    "pln-story-5513-local-006",
+    "pln-story-5513-local-007",
+    "pln-story-5513-local-008",
+    "pln-story-5513-local-009",
+    "pln-story-5513-local-010",
+    "pln-story-5513-local-011",
+    "pln-story-5513-local-012",
+    "pln-story-5513-local-013",
+    "pln-story-5513-local-014",
+    "pln-story-5513-ideas-001",
+    "pln-story-5513-ideas-002",
+    "pln-story-5513-ideas-003",
+    "pln-story-5513-ideas-004",
+    "pln-story-5513-ideas-005",
+    "pln-story-5513-ideas-006",
+    "pln-story-5513-ideas-007",
+    "pln-story-5513-ideas-008",
+    "pln-story-5513-ideas-009",
+    "pln-story-5513-ideas-010",
+    "pln-story-5513-ideas-011",
+    "pln-story-5513-ideas-012",
+    "pln-story-5513-ideas-013",
+    "pln-story-5513-ideas-014",
+    "pln-story-5513-ideas-015"
+  ],
+  "stats": {
+    "authorities_count": 11,
+    "libraries_count": 7,
+    "countries_count": 3,
+    "top_categories": {
+      "closures_and_threats": 12,
+      "cuts_and_finance": 7,
+      "staffing_and_unions": 6,
+      "digital_and_technology": 5,
+      "mobile_and_outreach": 3,
+      "campaigns_and_protests": 3,
+      "refurbishment_and_new_builds": 2,
+      "volunteers_and_community": 2,
+      "co_location": 1,
+      "opening_hours": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

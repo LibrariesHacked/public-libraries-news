@@ -1,0 +1,76 @@
+{
+  "id": "pln-post-11240",
+  "source_id": 11240,
+  "url": "https://www.publiclibrariesnews.com/2016/07/wifi-digital-inclusion-nhs-public-libraries-and-a-new-culture-secretary.html",
+  "slug": "wifi-digital-inclusion-nhs-public-libraries-and-a-new-culture-secretary",
+  "title": "Wifi, digital inclusion, NHS public libraries and a new Culture Secretary",
+  "date_published": "2016-07-14T20:56:07",
+  "date_modified": "2016-07-24T13:07:31",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A couple of useful reports on public libraries – one on wifi and one on digital inclusion – to have a read through in this post. Arts Council England have also announced that the procedure for libraries to apply for their grants will soon change. In addition, there’s the amazing news that a Friend’s group in Suffolk has raised £30k for its library. That’s a lot for a support group but, of course, small scale for a council but, if the council does not have any money … There’s also an interesting article about the NHS in Staffordshire (there’s more info here by the way). Speaking of Staffs, the new Culture Secretary comes from around there and has had some dealing with libraries in the past, speaking warmly of coffee mornings and attending the transfer of Werrington Library to a wellbeing centre, staffed by volunteers, So, she has at least shown an interest but, unsurprisingly, is of the same camp as other Conservatives on the way forward for libraries in these difficult times. By the way, Ed Vaizey has, at time of writing, not been promoted (or demoted) as far as I can see but is now a member of the privy council so will now be called “The Right Honourable”.",
+    "html": "<p style=\"text-align: justify;\">A couple of useful reports on public libraries &#8211; one on wifi and one on digital inclusion &#8211; to have a read through in this post. Arts Council England have also announced that the procedure for libraries to apply for their grants will soon change. In addition, there&#8217;s the amazing news that a Friend&#8217;s group in Suffolk has raised £30k for its library. That&#8217;s a lot for a support group but, of course, small scale for a council but, if the council does not have any money &#8230; There&#8217;s also an interesting article about the NHS in Staffordshire (<a href=\"https://www.staffordshire.gov.uk/leisure/librariesnew/Help-shape-library-service/managed-libs/Community-Libraries-in-Staffordshire.aspx\">there&#8217;s more info here by the way</a>).</p> <p style=\"text-align: justify;\">Speaking of Staffs, the new Culture Secretary comes from around there and has had some dealing with libraries in the past, speaking warmly of <a href=\"http://www.karenbradley.co.uk/news/werrington-leads-way-library-reform\">coffee mornings</a> and <a href=\"http://www.karenbradley.co.uk/news/werrington-library-revitalised\">attending the transfer of Werrington Library to a wellbeing centre, staffed by volunteers</a>, So, she has at least shown an interest but, unsurprisingly, is of the same camp as other Conservatives on the way forward for libraries in these difficult times. By the way, Ed Vaizey has, at time of writing, not been promoted (or demoted) as far as I can see but is now a member of the privy council so will now be called &#8220;The Right Honourable&#8221;.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 27,
+  "story_ids": [
+    "pln-story-11240-changes-001",
+    "pln-story-11240-changes-002",
+    "pln-story-11240-local-001",
+    "pln-story-11240-local-002",
+    "pln-story-11240-local-003",
+    "pln-story-11240-local-004",
+    "pln-story-11240-local-005",
+    "pln-story-11240-local-006",
+    "pln-story-11240-local-007",
+    "pln-story-11240-local-008",
+    "pln-story-11240-local-009",
+    "pln-story-11240-local-010",
+    "pln-story-11240-local-011",
+    "pln-story-11240-local-012",
+    "pln-story-11240-local-013",
+    "pln-story-11240-local-014",
+    "pln-story-11240-local-015",
+    "pln-story-11240-intl-001",
+    "pln-story-11240-intl-002",
+    "pln-story-11240-intl-003",
+    "pln-story-11240-intl-004",
+    "pln-story-11240-natl-001",
+    "pln-story-11240-natl-002",
+    "pln-story-11240-natl-003",
+    "pln-story-11240-natl-004",
+    "pln-story-11240-natl-005",
+    "pln-story-11240-natl-006"
+  ],
+  "stats": {
+    "authorities_count": 11,
+    "libraries_count": 18,
+    "countries_count": 5,
+    "top_categories": {
+      "cuts_and_finance": 9,
+      "opening_hours": 6,
+      "closures_and_threats": 6,
+      "campaigns_and_protests": 4,
+      "refurbishment_and_new_builds": 3,
+      "staffing_and_unions": 3,
+      "volunteers_and_community": 2,
+      "events_and_activities": 2,
+      "digital_and_technology": 2,
+      "governance_and_trusts": 1,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,73 @@
+{
+  "id": "pln-post-13921",
+  "source_id": 13921,
+  "url": "https://www.publiclibrariesnews.com/2018/05/keep-on-making-the-difference.html",
+  "slug": "keep-on-making-the-difference",
+  "title": "Keep on making the difference",
+  "date_published": "2018-05-07T17:28:50",
+  "date_modified": "2018-05-13T17:24:37",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A generally quiet few days for libraries, as befits a bank holiday Monday. I hope you all enjoyed the sunshine or did something (or several somethings) fun. Now it’s back to the world of public libraries. energised hopefully from the time off. That should help you to keep on making the difference to the, oh so many, people who use your branches.",
+    "html": "<p style=\"text-align: justify;\">A generally quiet few days for libraries, as befits a bank holiday Monday. I hope you all enjoyed the sunshine or did something (or several somethings) fun. Now it&#8217;s back to the world of public libraries. energised hopefully from the time off. That should help you to keep on making the difference to the, oh so many, people who use your branches.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 25,
+  "story_ids": [
+    "pln-story-13921-changes-001",
+    "pln-story-13921-changes-002",
+    "pln-story-13921-changes-003",
+    "pln-story-13921-changes-004",
+    "pln-story-13921-local-001",
+    "pln-story-13921-local-002",
+    "pln-story-13921-local-003",
+    "pln-story-13921-local-004",
+    "pln-story-13921-local-005",
+    "pln-story-13921-local-006",
+    "pln-story-13921-local-007",
+    "pln-story-13921-local-008",
+    "pln-story-13921-local-009",
+    "pln-story-13921-local-010",
+    "pln-story-13921-local-011",
+    "pln-story-13921-local-012",
+    "pln-story-13921-local-013",
+    "pln-story-13921-local-014",
+    "pln-story-13921-local-015",
+    "pln-story-13921-intl-001",
+    "pln-story-13921-intl-002",
+    "pln-story-13921-intl-003",
+    "pln-story-13921-intl-004",
+    "pln-story-13921-intl-005",
+    "pln-story-13921-natl-001"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 11,
+    "countries_count": 8,
+    "top_categories": {
+      "closures_and_threats": 7,
+      "cuts_and_finance": 5,
+      "staffing_and_unions": 4,
+      "opening_hours": 3,
+      "campaigns_and_protests": 3,
+      "refurbishment_and_new_builds": 2,
+      "co_location": 2,
+      "volunteers_and_community": 2,
+      "digital_and_technology": 1,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

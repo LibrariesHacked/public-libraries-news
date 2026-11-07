@@ -1,0 +1,79 @@
+{
+  "id": "pln-post-18527",
+  "source_id": 18527,
+  "url": "https://www.publiclibrariesnews.com/2022/05/under-the-election-radar.html",
+  "slug": "under-the-election-radar",
+  "title": "Under the election radar",
+  "date_published": "2022-05-02T15:11:59",
+  "date_modified": "2022-05-02T15:12:09",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I’ve not heard the word “hollowed out” for a while and it’s a bit depressing to read it again. There’s an article in the Guardian on the subject, including the downright terrifying statistic that there has been a ” 52% reduction in the number of library visits per person between 2009/10 and 2019/20″. Terrifying because I suspect it is true. I’m not so sure about the statistic quoted that a third of all libraries have closed since 2009/10, though, even if one includes all the volunteer libraries and accepts that it’s the smallest libraries that are closed, but the 44% cut in funding rings true, if inflation is taken into account. So why this report now? Well, the local elections are going ahead, with not much mention of libraries. On the surface, things seem to be going OK, with there being one entirely new library this week, three moves of libraries and one library likely to close. However, Libraries Connected report that “more than one in four libraries managing cuts of between 5% and 20% this year”, which is pretty dang bad. So why the low profile of libraries in campaigns? Well, it’s only in those areas with particular threats, notably Essex, where libraries are mentioned in campaigns. Councils have learnt to cut libraries, not close them, in order to not push the public into protests.",
+    "html": "<p class=\"wp-block-paragraph\">I&#8217;ve not heard the word &#8220;hollowed out&#8221; for a while and it&#8217;s a bit depressing to read it again. There&#8217;s an article in the Guardian on the subject, including the downright terrifying statistic that there has been a &#8221; 52% reduction in the number of library visits per person between 2009/10 and 2019/20&#8243;. Terrifying because I suspect it is true. I&#8217;m not so sure about the statistic quoted that a third of all libraries have closed since 2009/10, though, even if one includes all the volunteer libraries and accepts that it&#8217;s the smallest libraries that are closed, but the 44% cut in funding rings true, if inflation is taken into account. </p> <p class=\"wp-block-paragraph\">So why this report now? Well, the local elections are going ahead, with not much mention of libraries. On the surface, things seem to be going OK, with there being one entirely new library this week, three moves of libraries and one library likely to close. However, Libraries Connected report that &#8220;more than one in four libraries managing cuts of between 5% and 20% this year&#8221;, which is pretty dang bad. So why the low profile of libraries in campaigns? Well, it&#8217;s only in those areas with particular threats, notably Essex, where libraries are mentioned in campaigns. Councils have learnt to cut libraries, not close them, in order to not push the public into protests.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 30,
+  "story_ids": [
+    "pln-story-18527-changes-001",
+    "pln-story-18527-changes-002",
+    "pln-story-18527-changes-003",
+    "pln-story-18527-changes-004",
+    "pln-story-18527-changes-005",
+    "pln-story-18527-local-001",
+    "pln-story-18527-local-002",
+    "pln-story-18527-local-003",
+    "pln-story-18527-local-004",
+    "pln-story-18527-local-005",
+    "pln-story-18527-local-006",
+    "pln-story-18527-local-007",
+    "pln-story-18527-local-008",
+    "pln-story-18527-local-009",
+    "pln-story-18527-local-010",
+    "pln-story-18527-local-011",
+    "pln-story-18527-local-012",
+    "pln-story-18527-local-013",
+    "pln-story-18527-local-014",
+    "pln-story-18527-local-015",
+    "pln-story-18527-local-016",
+    "pln-story-18527-local-017",
+    "pln-story-18527-intl-001",
+    "pln-story-18527-intl-002",
+    "pln-story-18527-intl-003",
+    "pln-story-18527-natl-001",
+    "pln-story-18527-natl-002",
+    "pln-story-18527-natl-003",
+    "pln-story-18527-natl-004",
+    "pln-story-18527-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 17,
+    "libraries_count": 22,
+    "countries_count": 4,
+    "top_categories": {
+      "events_and_activities": 8,
+      "refurbishment_and_new_builds": 4,
+      "digital_and_technology": 4,
+      "staffing_and_unions": 3,
+      "co_location": 2,
+      "closures_and_threats": 2,
+      "cuts_and_finance": 2,
+      "warm_spaces_and_wellbeing": 2,
+      "mobile_and_outreach": 1,
+      "volunteers_and_community": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

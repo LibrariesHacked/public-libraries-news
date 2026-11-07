@@ -1,0 +1,60 @@
+{
+  "id": "pln-post-6732",
+  "source_id": 6732,
+  "url": "https://www.publiclibrariesnews.com/2014/01/two-bits-of-good-news-of-ambassadors-and-south-korea.html",
+  "slug": "two-bits-of-good-news-of-ambassadors-and-south-korea",
+  "title": "Two bits of good news: Of Ambassadors and South Korea",
+  "date_published": "2014-01-14T22:17:31",
+  "date_modified": "2014-01-15T22:13:21",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Two bits of good news today. The first is that the author Lesley Pearse has become the very first National Libraries Day Ambassador. Frankly, the fact that the Day is starting to having Ambassadors is another piece of good news by itself, let alone that it is someone so well known. It shows that the national event is finally gaining full acceptance and that the fear of some authorities and others that it was somehow dirtied by association with those fighting library cuts has finally gone. Well, we can hope, anyway. The second bit of good news is that South Korea has announced that it is increasing the number of its public libraries from 828 to 1100. It says that this will mean that it will be “born anew as an advanced country of library service”. This is presumably on top of the 180 built there a couple of years back. This will help the arguments showing libraries are not a thing of the past and are needed if the UK is to be a competitive modern country.",
+    "html": "<p style=\"text-align: justify;\">Two bits of good news today. The first is that the author <a title=\"Booktrade.info\" href=\"http://www.booktrade.info/index.php/showarticle/51636#.UtTu1TZMBYE.twitter\">Lesley Pearse has become the very first National Libraries Day Ambassador</a>. Frankly, the fact that the Day is starting to having Ambassadors is another piece of good news by itself, let alone that it is someone so well known. It shows that the national event is finally gaining full acceptance and that the fear of some authorities and others that it was somehow dirtied by association with those fighting library cuts has finally gone. Well, we can hope, anyway.</p> <p style=\"text-align: justify;\">The second bit of good news is that <a title=\"Yon Hap\" href=\"http://english.yonhapnews.co.kr/culturesports/2014/01/14/98/0701000000AEN20140114004600315F.html?input=www.twitter.com\">South Korea has announced that it is increasing the number of its public libraries from 828 to 1100</a>. It says that this will mean that it will be &#8220;born anew as an advanced country of library service&#8221;. This is presumably<a title=\"Korea Herald\" href=\"http://www.koreaherald.com/view.php?ud=20110126000678\"> on top of the 180 built there a couple of years back</a>. This will help the arguments showing libraries are not a thing of the past and are needed if the UK is to be a competitive modern country.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 14,
+  "story_ids": [
+    "pln-story-6732-changes-001",
+    "pln-story-6732-changes-002",
+    "pln-story-6732-changes-003",
+    "pln-story-6732-changes-004",
+    "pln-story-6732-changes-005",
+    "pln-story-6732-intl-001",
+    "pln-story-6732-intl-002",
+    "pln-story-6732-intl-003",
+    "pln-story-6732-intl-004",
+    "pln-story-6732-intl-005",
+    "pln-story-6732-intl-006",
+    "pln-story-6732-intl-007",
+    "pln-story-6732-intl-008",
+    "pln-story-6732-intl-009"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 5,
+    "countries_count": 3,
+    "top_categories": {
+      "cuts_and_finance": 5,
+      "closures_and_threats": 4,
+      "volunteers_and_community": 4,
+      "mobile_and_outreach": 4,
+      "staffing_and_unions": 3,
+      "events_and_activities": 3,
+      "refurbishment_and_new_builds": 2,
+      "digital_and_technology": 1,
+      "co_location": 1,
+      "opening_hours": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

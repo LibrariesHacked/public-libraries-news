@@ -1,0 +1,43 @@
+{
+  "id": "pln-post-529",
+  "source_id": 529,
+  "url": "https://www.publiclibrariesnews.com/2011/05/city-of-children-who-cannot-read.html",
+  "slug": "city-of-children-who-cannot-read",
+  "title": "City of children who cannot read",
+  "date_published": "2011-05-31T20:53:00",
+  "date_modified": "2011-05-31T20:53:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "“When a teacher asked his pupils to bring in a book from home, one nine-year-old brought the Argos catalogue, saying: ‘It’s the only one we’ve got.'”City of children who cannot read – London Evening Standard. One million cannot read in London, one in four children are illiterate. 467 libraries (399 buildings and 68 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4517 in the UK (for the complete list by area see the page “Tally by local authority”) News Hay Festival: Duchess of Cornwall promotes literacy – BBC. “The duchess flew in to the book festival by helicopter to read to children… the duchess regularly visits schools and libraries and encourages reading and reading aloud.” Also reported in the Telegraph. Our libraries, a cherished national institution – Independent (Letters) Strong libraries can co-exist with new technologies – Scotsman.",
+    "html": "<p>&#8220;When a teacher asked his pupils to bring in a book from home, one nine-year-old brought the Argos catalogue, saying: &#8216;It&#8217;s the only one we&#8217;ve got.'&#8221;<a href=\"http://www.thisislondon.co.uk/standard/article-23955155-london-city-of-children-who-cannot-read.do\"><b>City of children who cannot read</b> </a>&#8211; London Evening Standard. One million cannot read in London, one in four children are illiterate.</p> <p><b>467 </b><b>libraries (399 buildings and 68 mobiles) currently under threat or closed/left council control since 1/4/11 out of c.4517 in the UK </b><b>(for the complete list by area see the page <a href=\"https://www.publiclibrariesnews.com/p/cuts-and-closures-by-local-authority.html\">&#8220;Tally by local authority&#8221;</a>)</b></p> <p><b>News </b></p> <p><a href=\"http://www.bbc.co.uk/news/uk-wales-13600091\"><b>Hay Festival: Duchess of Cornwall promotes literacy</b></a> &#8211; BBC. &#8220;The duchess flew in to the book festival by helicopter to read to children&#8230; the duchess regularly visits schools and libraries and encourages reading and reading aloud.&#8221; Also reported in the <a href=\"http://www.telegraph.co.uk/culture/hay-festival/8541668/Hay-Festival-2011-a-childhood-cause-close-to-Camillas-heart.html\"><b>Telegraph</b></a>.<br /><a href=\"http://www.independent.co.uk/opinion/letters/letters-climate-change-2290721.html\"><b>Our libraries, a cherished national institution</b></a> &#8211; Independent (Letters) <br /><b><a href=\"http://news.scotsman.com/politics/David-Gray-Strong-libraries-can.6777011.jp\">Strong libraries can co-exist with new technologies</a> </b>&#8211; Scotsman. </p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial"
+  ],
+  "stories_count": 2,
+  "story_ids": [
+    "pln-story-529-changes-001",
+    "pln-story-529-changes-002"
+  ],
+  "stats": {
+    "authorities_count": 2,
+    "libraries_count": 1,
+    "countries_count": 1,
+    "top_categories": {
+      "closures_and_threats": 2,
+      "cuts_and_finance": 2,
+      "staffing_and_unions": 2,
+      "opening_hours": 2,
+      "campaigns_and_protests": 2,
+      "volunteers_and_community": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

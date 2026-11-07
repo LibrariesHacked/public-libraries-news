@@ -1,0 +1,70 @@
+{
+  "id": "pln-post-6579",
+  "source_id": 6579,
+  "url": "https://www.publiclibrariesnews.com/2013/12/whats-your-library-doing-for-national-libraries-day.html",
+  "slug": "whats-your-library-doing-for-national-libraries-day",
+  "title": "What’s your library doing for National Libraries Day?",
+  "date_published": "2013-12-05T23:08:41",
+  "date_modified": "2013-12-08T23:15:01",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 19,
+  "story_ids": [
+    "pln-story-6579-changes-001",
+    "pln-story-6579-changes-002",
+    "pln-story-6579-intl-001",
+    "pln-story-6579-intl-002",
+    "pln-story-6579-intl-003",
+    "pln-story-6579-intl-004",
+    "pln-story-6579-intl-005",
+    "pln-story-6579-intl-006",
+    "pln-story-6579-intl-007",
+    "pln-story-6579-intl-008",
+    "pln-story-6579-intl-009",
+    "pln-story-6579-intl-010",
+    "pln-story-6579-intl-011",
+    "pln-story-6579-intl-012",
+    "pln-story-6579-intl-013",
+    "pln-story-6579-ideas-001",
+    "pln-story-6579-ideas-002",
+    "pln-story-6579-ideas-003",
+    "pln-story-6579-ideas-004"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 9,
+    "countries_count": 2,
+    "top_categories": {
+      "cuts_and_finance": 5,
+      "events_and_activities": 3,
+      "staffing_and_unions": 3,
+      "mobile_and_outreach": 3,
+      "volunteers_and_community": 3,
+      "campaigns_and_protests": 3,
+      "digital_and_technology": 2,
+      "closures_and_threats": 2,
+      "co_location": 1,
+      "refurbishment_and_new_builds": 1,
+      "opening_hours": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

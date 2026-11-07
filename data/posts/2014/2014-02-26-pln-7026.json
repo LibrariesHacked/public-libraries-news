@@ -1,0 +1,68 @@
+{
+  "id": "pln-post-7026",
+  "source_id": 7026,
+  "url": "https://www.publiclibrariesnews.com/2014/02/a-valuable-public-space-that-doesnt-make-a-profit.html",
+  "slug": "a-valuable-public-space-that-doesnt-make-a-profit",
+  "title": "A valuable public space that doesn’t make a profit",
+  "date_published": "2014-02-26T21:52:41",
+  "date_modified": "2014-02-27T22:42:42",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 21,
+  "story_ids": [
+    "pln-story-7026-changes-001",
+    "pln-story-7026-changes-002",
+    "pln-story-7026-changes-003",
+    "pln-story-7026-intl-001",
+    "pln-story-7026-intl-002",
+    "pln-story-7026-intl-003",
+    "pln-story-7026-natl-001",
+    "pln-story-7026-natl-002",
+    "pln-story-7026-natl-003",
+    "pln-story-7026-natl-004",
+    "pln-story-7026-natl-005",
+    "pln-story-7026-natl-006",
+    "pln-story-7026-natl-007",
+    "pln-story-7026-natl-008",
+    "pln-story-7026-natl-009",
+    "pln-story-7026-natl-010",
+    "pln-story-7026-natl-011",
+    "pln-story-7026-natl-012",
+    "pln-story-7026-natl-013",
+    "pln-story-7026-natl-014",
+    "pln-story-7026-natl-015"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 4,
+    "countries_count": 3,
+    "top_categories": {
+      "closures_and_threats": 5,
+      "refurbishment_and_new_builds": 4,
+      "staffing_and_unions": 4,
+      "volunteers_and_community": 3,
+      "digital_and_technology": 3,
+      "cuts_and_finance": 2,
+      "events_and_activities": 2,
+      "opening_hours": 1,
+      "campaigns_and_protests": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

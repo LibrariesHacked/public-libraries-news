@@ -65,22 +65,40 @@ The system checks these against `data/lookups/countries.json`:
 
 ---
 
-## 4. Automatic Topic Tagging
+## 4. Automatic Classification & Taxonomy
 
-To make it easy to find stories by theme, each story is scanned for common library topics:
+To make it easy to find and analyze stories across all 16 years, each story is automatically classified using a dedicated library-sector taxonomy:
 
-| Tag | Keywords Detected |
-|---|---|
-| `closures` | closure, closed, closing |
-| `cuts` | cuts, budget, savings, section 114, deficit |
-| `opening_hours` | hours, opening hours, reduced hours |
-| `consultation` | consultation, survey, feedback |
-| `unstaffed_access` | unstaffed, open+, open plus, automated access |
-| `volunteers` | volunteer, community-run, community led, handover |
-| `refurbishment` | refurbishment, renovated, reopening, new library |
-| `campaign` | campaign, protest, petition, demonstration |
-| `industrial_action`| strike, UNISON, dispute |
-| `mobile_libraries` | mobile library, mobiles |
+### The 15 Core Themes
+1. **`cuts_and_finance`**: Budgets, financial savings, Section 114 council bankruptcy notices, funding, and capital investments.
+2. **`closures_and_threats`**: Branch closures, endangered libraries, and closure threats.
+3. **`staffing_and_unions`**: Staffing cuts, redundancies, UNISON action, strikes, and professional librarian posts.
+4. **`events_and_activities`**: Author talks, workshops, Summer Reading Challenge, exhibitions, and coding clubs.
+5. **`campaigns_and_protests`**: Grassroots campaigns, petitions, demonstrations, judicial reviews, and legal challenges.
+6. **`volunteers_and_community`**: Community-managed libraries, volunteer handovers, and asset transfers.
+7. **`digital_and_technology`**: AI, ebooks, digital services, computer access, public Wi-Fi, and maker spaces.
+8. **`refurbishment_and_new_builds`**: Renovations, facility modernizations, revamps, and brand-new library openings.
+9. **`opening_hours`**: Changes to opening schedules, weekend reductions, and expanded evening access.
+10. **`book_bans_and_challenges`**: Book censorship, challenges to LGBTQ+/Pride displays or stock, and restricted access.
+11. **`mobile_and_outreach`**: Mobile library vans, home library services, and rural outreach.
+12. **`governance_and_trusts`**: Leisure trusts, charitable mutuals, in-sourcing, and alternative governance (e.g. GLL, Libraries Unlimited).
+13. **`co_location`**: Community hubs, shared civic centres, and co-located council services.
+14. **`warm_spaces_and_wellbeing`**: Warm banks, cost-of-living support hubs, food bank drop-ins, and public health hubs.
+15. **`unstaffed_open_plus`**: Technology-enabled unstaffed access ("Open+", "Open Libraries").
+
+### Change Types (for the *Changes* section)
+For stories published in the **Changes** section, the system categorizes the nature of the change into:
+* `closure`: Library buildings closing permanently or temporarily.
+* `reduction_or_cut`: Reductions in hours, mobile stops, or staffing.
+* `community_handover`: Handover of council-run branches to volunteer or community groups.
+* `investment_or_expansion`: New branches opening, major refurbishments, or expanded hours.
+* `unstaffed_open_plus`: Implementation of automated unstaffed hours.
+* `other`: Governance or general changes.
+
+### Sector Bodies & Financial Mentions
+* **Sector Bodies**: Automatically detects mentions of key organisations: DCMS, Arts Council England, CILIP, Libraries Connected, UNISON, The Reading Agency, British Library, Welsh Government, and SLIC.
+* **Financial Mentions**: Extracts specific financial figures (e.g. `£2.3m`, `£450k`) referenced in the story.
+* **Source Domains**: Extracts the clean domain name (e.g. `bbc.co.uk`, `theguardian.com`, `birminghammail.co.uk`) from every hyperlink.
 
 ---
 

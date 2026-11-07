@@ -1,0 +1,60 @@
+{
+  "id": "pln-post-6500",
+  "source_id": 6500,
+  "url": "https://www.publiclibrariesnews.com/2013/11/liverpool-central-library-beats-the-shard-to-the-prize.html",
+  "slug": "liverpool-central-library-beats-the-shard-to-the-prize",
+  "title": "Liverpool Central Library beats the Shard to the prize",
+  "date_published": "2013-11-25T23:35:20",
+  "date_modified": "2013-11-26T22:46:29",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Well done to Liverpool, whose newly revamped central library has just beaten the Shard, no less, to win the National Building Excellence Award. I’ve been there and I think the judges made the right decision. The library shows what can be achieved with vision and sufficient funding. Right, good news over, now let’s get on to a truly terrifying quote … “He thought it would be alright because others were doing it” This remark, apparently from a chief librarian, is taken from a report in Sheffield of a meeting and is about the legality of volunteer libraries lending books. There are in fact some serious concerns about this issues, as shown by this from the Society of Authors, but the reason I highlight the quote is not to embarrass the person in question – that gets us nowhere and I sympathise with their predicament – but to point out the ad hoc nature of library change at the moment. Things are happening so fast that best practice is barely even available, let alone formally grounded legal advice. This will eventually all settle down (and ACE and SCL are doing their best, perhaps, given their narrow remits and dire budgets) but it’s no way to run a national public library service. But then, of course, the Government has decided that there is no such thing as a national public library service. It has decided to let the individual authorities go their own way, with minimal supervision, to do what they will in a time of dire cuts. Yinnon Ezra and the few others left on the DCMS team are thus left with the task of herding cats, with the all the success that that phrase normally implies.",
+    "html": "<p style=\"text-align: justify;\"><a title=\"LDP\" href=\"http://www.liverpooldailypost.co.uk/news/liverpool-news/liverpools-central-library-wins-building-6330198\">Well done to Liverpool, whose newly revamped central library has just beaten the Shard, no less, to win the National Building Excellence Award</a>. <a title=\"PLN\" href=\"https://www.publiclibrariesnews.com/practitioners/big-new-libraries-liverpool\">I&#8217;ve been there and I think the judges made the right decision</a>. The library shows what can be achieved with vision and sufficient funding.</p> <p style=\"text-align: justify;\">Right, good news over, now let&#8217;s get on to a truly terrifying quote &#8230;</p> <p>&#8220;He thought it would be alright because others were doing it&#8221;</p> <p style=\"text-align: justify;\"><a title=\"Sheffield Telegraph\" href=\"http://www.sheffieldtelegraph.co.uk/news/local/library-policy-branded-poor-1-6265251\">This remark, apparently from a chief librarian, is taken from a report in Sheffield of a meeting</a> and is about the legality of volunteer libraries lending books. There are in fact some serious concerns about this issues, as shown by this from <a title=\"SoA\" href=\"http://www.societyofauthors.org/soa-news/plr-and-volunteer-run-libraries\">the Society of Authors</a>, but the reason I highlight the quote is not to embarrass the person in question &#8211; that gets us nowhere and I sympathise with their predicament &#8211; but to point out the <em>ad hoc </em>nature of library change at the moment. Things are happening so fast that best practice is barely even available, let alone formally grounded legal advice. This will eventually all settle down (and ACE and SCL are doing their best, perhaps, given their narrow remits and dire budgets) but it&#8217;s no way to run a national public library service. But then, of course, the Government has decided that there is no such thing as a national public library service. It has decided to let the individual authorities go their own way, with minimal supervision, to do what they will in a time of dire cuts. Yinnon Ezra and the few others left on the DCMS team are thus left with the task of herding cats, with the all the success that that phrase normally implies.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial"
+  ],
+  "stories_count": 16,
+  "story_ids": [
+    "pln-story-6500-changes-001",
+    "pln-story-6500-changes-002",
+    "pln-story-6500-changes-003",
+    "pln-story-6500-changes-004",
+    "pln-story-6500-changes-005",
+    "pln-story-6500-changes-006",
+    "pln-story-6500-changes-007",
+    "pln-story-6500-changes-008",
+    "pln-story-6500-changes-009",
+    "pln-story-6500-changes-010",
+    "pln-story-6500-changes-011",
+    "pln-story-6500-changes-012",
+    "pln-story-6500-changes-013",
+    "pln-story-6500-changes-014",
+    "pln-story-6500-changes-015",
+    "pln-story-6500-changes-016"
+  ],
+  "stats": {
+    "authorities_count": 6,
+    "libraries_count": 2,
+    "countries_count": 1,
+    "top_categories": {
+      "staffing_and_unions": 3,
+      "cuts_and_finance": 2,
+      "digital_and_technology": 2,
+      "campaigns_and_protests": 2,
+      "events_and_activities": 1,
+      "co_location": 1,
+      "refurbishment_and_new_builds": 1,
+      "mobile_and_outreach": 1,
+      "closures_and_threats": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

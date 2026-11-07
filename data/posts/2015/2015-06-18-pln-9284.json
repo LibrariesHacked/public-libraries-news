@@ -1,0 +1,79 @@
+{
+  "id": "pln-post-9284",
+  "source_id": 9284,
+  "url": "https://www.publiclibrariesnews.com/2015/06/strife-in-fife-library-cuts-go-further-than-expected.html",
+  "slug": "strife-in-fife-library-cuts-go-further-than-expected",
+  "title": "Strife in Fife? Library cuts go further than expected",
+  "date_published": "2015-06-18T21:35:02",
+  "date_modified": "2015-06-21T19:22:40",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "16 out of 51 libraries are under threat in Fife. That’s a lot of buildings and more than I can remember seeing in danger in Scotland, a country that has avoid the cuts better than England. Doubtless some of those branches are unsustainable in terms of usage or the state of the building (or both) but the scope of the cuts there are more than most people were expecting. Expect a whole bunch of voluntary (probably not compulsory) redundancies. This, while it sounds fairly civilized, and may well be welcomed by some in that library service will affect and worry even some others who accept it. After all, most people work in libraries because they love them (see the great Guardian article on the magic of libraries for more about this) so having to leave them will be a shock and, also, a gamble, for some involved. Working in libraries for twenty or thirty years is not uncommon and voluntary redundancy can feel like being cast adrift. This cut will not disturb the sleep of the DCMS as Scotland does not come under their responsibility so it cannot be used in the debate that Alan Gibbons confirms will go ahead with Ed Vaizey. Meanwhile. the first annual report is to be debated for Explore York, a mutual which is being seen as a possible model for libraries elsewhere in England. I look forward to reading it.",
+    "html": "<p style=\"text-align: justify;\">16 out of 51 libraries are under threat in Fife. That&#8217;s a lot of buildings and more than I can remember seeing in danger in Scotland, a country that has avoid the cuts better than England. Doubtless some of those branches are unsustainable in terms of usage or the state of the building (or both) but the scope of the cuts there are more than most people were expecting. Expect a whole bunch of voluntary (probably not compulsory) redundancies. This, while it sounds fairly civilized, and may well be welcomed by some in that library service will affect and worry even some others who accept it. After all, most people work in libraries because they love them (see the great Guardian article on the magic of libraries for more about this) so having to leave them will be a shock and, also, a gamble, for some involved. Working in libraries for twenty or thirty years is not uncommon and voluntary redundancy can feel like being cast adrift. This cut will not disturb the sleep of the DCMS as Scotland does not come under their responsibility so it cannot be used in the debate that Alan Gibbons confirms will go ahead with Ed Vaizey.</p> <p style=\"text-align: justify;\">Meanwhile. the first annual report is to be debated for Explore York, a mutual which is being seen as a possible model for libraries elsewhere in England. I look forward to reading it.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 27,
+  "story_ids": [
+    "pln-story-9284-changes-001",
+    "pln-story-9284-changes-002",
+    "pln-story-9284-changes-003",
+    "pln-story-9284-local-001",
+    "pln-story-9284-local-002",
+    "pln-story-9284-local-003",
+    "pln-story-9284-local-004",
+    "pln-story-9284-local-005",
+    "pln-story-9284-local-006",
+    "pln-story-9284-local-007",
+    "pln-story-9284-local-008",
+    "pln-story-9284-local-009",
+    "pln-story-9284-local-010",
+    "pln-story-9284-local-011",
+    "pln-story-9284-local-012",
+    "pln-story-9284-local-013",
+    "pln-story-9284-local-014",
+    "pln-story-9284-local-015",
+    "pln-story-9284-intl-001",
+    "pln-story-9284-intl-002",
+    "pln-story-9284-natl-001",
+    "pln-story-9284-natl-002",
+    "pln-story-9284-natl-003",
+    "pln-story-9284-natl-004",
+    "pln-story-9284-natl-005",
+    "pln-story-9284-natl-006",
+    "pln-story-9284-natl-007"
+  ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 13,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 10,
+      "volunteers_and_community": 6,
+      "mobile_and_outreach": 5,
+      "cuts_and_finance": 4,
+      "opening_hours": 3,
+      "governance_and_trusts": 3,
+      "campaigns_and_protests": 3,
+      "co_location": 3,
+      "staffing_and_unions": 3,
+      "refurbishment_and_new_builds": 2,
+      "book_bans_and_challenges": 2,
+      "digital_and_technology": 1,
+      "events_and_activities": 1,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

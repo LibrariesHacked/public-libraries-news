@@ -1,0 +1,83 @@
+{
+  "id": "pln-post-14547",
+  "source_id": 14547,
+  "url": "https://www.publiclibrariesnews.com/2018/12/cuts-to-cilip-and-surrey-scotland-and-libraries-connected-gain.html",
+  "slug": "cuts-to-cilip-and-surrey-scotland-and-libraries-connected-gain",
+  "title": "Cuts to CILIP and Surrey: Scotland and Libraries Connected gain",
+  "date_published": "2018-12-16T20:05:37",
+  "date_modified": "2019-01-06T15:52:36",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "CILIP are going through a major change, with 11 out of 54 posts being lost. Library services have had ample experience of that sort of thing so we all know what that feels like. Wishing them all the best for the future. Surrey are also having a major, major, major cut – with a cut in usage of 25% since 2010 being used – get this – to justify an over 50% cut in funding and ignoring all the other cuts there since 2010. So that’s not fixed in any way, no sir. There’s good news, on the other hand, from Scottish libraries, with £450k for various library projects and from Libraries Connected who have got £75k from ACE for regional work. I have no idea what the latter means but the press release makes it sound like a good thing so here’s hoping.",
+    "html": "<p>CILIP are going through a major change, with 11 out of 54 posts being lost. Library services have had ample experience of that sort of thing so we all know what that feels like. Wishing them all the best for the future. Surrey are also having a major, major, major cut &#8211; with a cut in usage of 25% since 2010 being used &#8211; get this &#8211; to justify an over 50% cut in funding and <a href=\"https://www.publiclibrariesnews.com/about-public-libraries-news/information/oxfordshire-to-yorkshire/surrey-to-torfaen\">ignoring all the other cuts there since 2010</a>. So that&#8217;s not fixed in any way, no sir. There&#8217;s good news, on the other hand, from Scottish libraries, with £450k for various library projects and from Libraries Connected who have got £75k from ACE for regional work. I have no idea what the latter means but the press release makes it sound like a good thing so here&#8217;s hoping.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 32,
+  "story_ids": [
+    "pln-story-14547-changes-001",
+    "pln-story-14547-changes-002",
+    "pln-story-14547-changes-003",
+    "pln-story-14547-local-001",
+    "pln-story-14547-local-002",
+    "pln-story-14547-local-003",
+    "pln-story-14547-local-004",
+    "pln-story-14547-local-005",
+    "pln-story-14547-local-006",
+    "pln-story-14547-local-007",
+    "pln-story-14547-local-008",
+    "pln-story-14547-local-009",
+    "pln-story-14547-local-010",
+    "pln-story-14547-local-011",
+    "pln-story-14547-local-012",
+    "pln-story-14547-local-013",
+    "pln-story-14547-local-014",
+    "pln-story-14547-local-015",
+    "pln-story-14547-local-016",
+    "pln-story-14547-local-017",
+    "pln-story-14547-local-018",
+    "pln-story-14547-local-019",
+    "pln-story-14547-local-020",
+    "pln-story-14547-local-021",
+    "pln-story-14547-intl-001",
+    "pln-story-14547-intl-002",
+    "pln-story-14547-intl-003",
+    "pln-story-14547-natl-001",
+    "pln-story-14547-natl-002",
+    "pln-story-14547-natl-003",
+    "pln-story-14547-natl-004",
+    "pln-story-14547-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 18,
+    "libraries_count": 8,
+    "countries_count": 6,
+    "top_categories": {
+      "cuts_and_finance": 13,
+      "closures_and_threats": 6,
+      "staffing_and_unions": 5,
+      "events_and_activities": 5,
+      "volunteers_and_community": 3,
+      "digital_and_technology": 3,
+      "campaigns_and_protests": 3,
+      "refurbishment_and_new_builds": 3,
+      "governance_and_trusts": 2,
+      "opening_hours": 1,
+      "mobile_and_outreach": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

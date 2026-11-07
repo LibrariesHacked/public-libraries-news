@@ -1,0 +1,70 @@
+{
+  "id": "pln-post-9532",
+  "source_id": 9532,
+  "url": "https://www.publiclibrariesnews.com/2015/08/read-on-get-on-scots-wifi-donaldson-and-the-rest-of-the-library-news.html",
+  "slug": "read-on-get-on-scots-wifi-donaldson-and-the-rest-of-the-library-news",
+  "title": "Read on Get On, Scots Wifi, Donaldson and the rest of the library news",
+  "date_published": "2015-08-11T21:40:03",
+  "date_modified": "2015-08-13T21:46:21",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Nationally, this week marks the start of the interesting “Read On Get On” Penguin Random House partnership – most libraries will have already received some (high quality) material from it, and it’s hopeful there’ll be more. More locally, it has become clear that Herefordshire will be the grounds of a major battle between the council and library users. Similarly, the cuts in Southampton are being bitterly resisted, with celebrity Chris Packham adding his voice to the fray while councillors point to the success of volunteer libraries elsewhere in the UK to justify the suggested cuts. Meanwhile, in Lincolnshire, where library campaigners have recently lost a second round of legal action, it’s full steam ahead with volunteers being encouraged to take over local branches. The lead councillor there is not exactly setting the bar high for recruitment – if you’re retired and “want to get out of the house” then you’re in. The interviews must be, presumably, pretty relaxed with that sort of qualification requirement.",
+    "html": "<p style=\"text-align: justify;\">Nationally, this week marks the start of the interesting &#8220;Read On Get On&#8221; Penguin Random House partnership &#8211; most libraries will have already received some (high quality) material from it, and it&#8217;s hopeful there&#8217;ll be more. More locally, it has become clear that Herefordshire will be the grounds of a major battle between the council and library users. Similarly, the cuts in Southampton are being bitterly resisted, with celebrity Chris Packham adding his voice to the fray while councillors point to the success of volunteer libraries elsewhere in the UK to justify the suggested cuts. Meanwhile, in Lincolnshire, where library campaigners have recently lost a second round of legal action, it&#8217;s full steam ahead with volunteers being encouraged to take over local branches. The lead councillor there is not exactly setting the bar high for recruitment &#8211; if you&#8217;re retired and &#8220;want to get out of the house&#8221; then you&#8217;re in. The interviews must be, presumably, pretty relaxed with that sort of qualification requirement.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 20,
+  "story_ids": [
+    "pln-story-9532-local-001",
+    "pln-story-9532-local-002",
+    "pln-story-9532-local-003",
+    "pln-story-9532-local-004",
+    "pln-story-9532-local-005",
+    "pln-story-9532-local-006",
+    "pln-story-9532-local-007",
+    "pln-story-9532-local-008",
+    "pln-story-9532-local-009",
+    "pln-story-9532-local-010",
+    "pln-story-9532-local-011",
+    "pln-story-9532-local-012",
+    "pln-story-9532-local-013",
+    "pln-story-9532-local-014",
+    "pln-story-9532-intl-001",
+    "pln-story-9532-natl-001",
+    "pln-story-9532-natl-002",
+    "pln-story-9532-natl-003",
+    "pln-story-9532-natl-004",
+    "pln-story-9532-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 7,
+    "countries_count": 3,
+    "top_categories": {
+      "cuts_and_finance": 7,
+      "closures_and_threats": 6,
+      "campaigns_and_protests": 4,
+      "volunteers_and_community": 4,
+      "refurbishment_and_new_builds": 2,
+      "governance_and_trusts": 2,
+      "co_location": 2,
+      "events_and_activities": 2,
+      "mobile_and_outreach": 2,
+      "digital_and_technology": 2,
+      "book_bans_and_challenges": 1,
+      "staffing_and_unions": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

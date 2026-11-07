@@ -1,0 +1,70 @@
+{
+  "id": "pln-post-11906",
+  "source_id": 11906,
+  "url": "https://www.publiclibrariesnews.com/2017/01/an-at-a-glance-heatmap-of-uk-public-libraries.html",
+  "slug": "an-at-a-glance-heatmap-of-uk-public-libraries",
+  "title": "An at-a-glance heatmap of UK public libraries",
+  "date_published": "2017-01-29T15:21:19",
+  "date_modified": "2017-02-02T22:52:58",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Library media heatmap – watch out for the red dots I’m going to be trying out a new feature for a while – making a note each post of those library authorities under the most media scrutiny. This will be done making use of the map of the UK which has been on the right hand side of the website for some time now. Made by a clever coder, this map links every “Local News By Authority” mention I make and puts them in the correct place on the United Kingdom (expect for the Isle of Man which, for some reason, ends up in Lancashire – go figure). Because every link is attached to a dot, differently coloured due to the number of media mentions, it’s easy to spot the areas under the most scrutiny. It’s worth pointing out that such mentions may theoretically be for positive reasons as well as for negative ones but I’ll keep an eye out for those and mention them if they occur. They haven’t done so yet. So, for the first one, the red “danger” areas are Lancashire, with a massive 27 mentions reflecting the sheer number of branches being cut there, and Plymouth with 13. In the still-scary orange dot category are Bath and North East Somerset, Birmingham, Darlington, Swindon, Warrington and (seemingly everpresent) North Yorkshire. I hope that by doing this I’m hoping this will give the reader an at-a-glance heatmap of the state of UK public libraries. We’ll see how it goes.",
+    "html": "<p id=\"caption-attachment-11912\" class=\"wp-caption-text\">Library media heatmap &#8211; watch out for the red dots</p> <p style=\"text-align: justify;\">I&#8217;m going to be trying out a new feature for a while &#8211; making a note each post of those library authorities under the most media scrutiny. This will be done making use of the map of the UK which has been on the right hand side of the website for some time now. Made by a clever coder, this map links every &#8220;Local News By Authority&#8221; mention I make and puts them in the correct place on the United Kingdom (expect for the Isle of Man which, for some reason, ends up in Lancashire &#8211; go figure). Because every link is attached to a dot, differently coloured due to the number of media mentions, it&#8217;s easy to spot the areas under the most scrutiny. It&#8217;s worth pointing out that such mentions may theoretically be for positive reasons as well as for negative ones but I&#8217;ll keep an eye out for those and mention them if they occur. They haven&#8217;t done so yet.</p> <p style=\"text-align: justify;\">So, for the first one, the red &#8220;danger&#8221; areas are Lancashire, with a massive 27 mentions reflecting the sheer number of branches being cut there, and Plymouth with 13. In the still-scary orange dot category are Bath and North East Somerset, Birmingham, Darlington, Swindon, Warrington and (seemingly everpresent) North Yorkshire. I hope that by doing this I&#8217;m hoping this will give the reader an at-a-glance heatmap of the state of UK public libraries. We&#8217;ll see how it goes.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 21,
+  "story_ids": [
+    "pln-story-11906-local-001",
+    "pln-story-11906-local-002",
+    "pln-story-11906-local-003",
+    "pln-story-11906-local-004",
+    "pln-story-11906-local-005",
+    "pln-story-11906-local-006",
+    "pln-story-11906-local-007",
+    "pln-story-11906-local-008",
+    "pln-story-11906-local-009",
+    "pln-story-11906-intl-001",
+    "pln-story-11906-intl-002",
+    "pln-story-11906-intl-003",
+    "pln-story-11906-intl-004",
+    "pln-story-11906-natl-001",
+    "pln-story-11906-natl-002",
+    "pln-story-11906-natl-003",
+    "pln-story-11906-natl-004",
+    "pln-story-11906-natl-005",
+    "pln-story-11906-natl-006",
+    "pln-story-11906-natl-007",
+    "pln-story-11906-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 4,
+    "countries_count": 4,
+    "top_categories": {
+      "staffing_and_unions": 6,
+      "closures_and_threats": 6,
+      "cuts_and_finance": 4,
+      "volunteers_and_community": 3,
+      "events_and_activities": 3,
+      "campaigns_and_protests": 2,
+      "mobile_and_outreach": 2,
+      "digital_and_technology": 2,
+      "refurbishment_and_new_builds": 1,
+      "book_bans_and_challenges": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

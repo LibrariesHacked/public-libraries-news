@@ -1,0 +1,60 @@
+{
+  "id": "pln-post-7397",
+  "source_id": 7397,
+  "url": "https://www.publiclibrariesnews.com/2014/04/enterprise-in-libraries-and-glamorgan-cuts.html",
+  "slug": "enterprise-in-libraries-and-glamorgan-cuts",
+  "title": "Enterprise in Libraries and Glamorgan cuts",
+  "date_published": "2014-04-24T21:26:31",
+  "date_modified": "2014-04-27T22:00:43",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Some interesting research, funded by Arts Council England, on the state of play in raising income in libraries has come out today. If you’re in charge of library services or are likely to be affected by changes then do have a look. Regardless of your views on this matter (and I think things have come to such a pass that everything needs looking at seriously) this is at least a good report in terms of seeing what is out there. Or you could end up like the Vale of Glamorgan which is cutting it’s library budget by a fifth and losing £309k in staff. For those many there who are in all likelihood now contemplating redundancy, income-generating alternatives must seem very attractive at the moment.",
+    "html": "<p style=\"text-align: justify;\">Some interesting research, funded by Arts Council England, on the state of play in raising income in libraries has come out today. If you&#8217;re in charge of library services or are likely to be affected by changes then do have a look. Regardless of your views on this matter (and I think things have come to such a pass that everything needs looking at seriously) this is at least a good report in terms of seeing what is out there. Or you could end up like the Vale of Glamorgan which is cutting it&#8217;s library budget by a fifth and losing £309k in staff. For those many there who are in all likelihood now contemplating redundancy, income-generating alternatives must seem very attractive at the moment.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 15,
+  "story_ids": [
+    "pln-story-7397-changes-001",
+    "pln-story-7397-changes-002",
+    "pln-story-7397-intl-001",
+    "pln-story-7397-intl-002",
+    "pln-story-7397-intl-003",
+    "pln-story-7397-intl-004",
+    "pln-story-7397-intl-005",
+    "pln-story-7397-intl-006",
+    "pln-story-7397-intl-007",
+    "pln-story-7397-intl-008",
+    "pln-story-7397-intl-009",
+    "pln-story-7397-natl-001",
+    "pln-story-7397-natl-002",
+    "pln-story-7397-natl-003",
+    "pln-story-7397-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 4,
+    "libraries_count": 0,
+    "countries_count": 6,
+    "top_categories": {
+      "cuts_and_finance": 4,
+      "staffing_and_unions": 2,
+      "events_and_activities": 2,
+      "mobile_and_outreach": 1,
+      "refurbishment_and_new_builds": 1,
+      "digital_and_technology": 1,
+      "governance_and_trusts": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

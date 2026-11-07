@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-19523",
+  "source_id": 19523,
+  "url": "https://www.publiclibrariesnews.com/2024/04/irish-libraries-are-smiling.html",
+  "slug": "irish-libraries-are-smiling",
+  "title": "Irish Libraries Are Smiling",
+  "date_published": "2024-04-28T08:09:32",
+  "date_modified": "2024-04-28T08:09:38",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A few news pieces catch my eye today. The first is an ex-magistrate sating in the Mail – where else – that libraries could be turned into court venues as they are under-used public buildings. Words fail me sometimes. Sadly, they don’t fail the Mail. Then we have the normal US madness of censorship, with 17 states now considering imprisoning librarians for their stock choices. There’s also a heart-rending story from that torn country about a child, are regular visitor to a library, whose parents decided to play the story-time song at the funeral. Oh my. The thing that really caught my eye though was news from Ireland. The government there is spending – get this – £21 million to provide 11 new libraries and 12 new mobiles in rural areas. That’s twice as much as the Libraries Improvement Fund right there. But then scale that up to take into account the relative populations and you’d have, if it happened in the UK, £210 million in capital expenditure with 110 new libraries and 120 new mobiles. Then lift your jaw off the floor. Ireland led the way a few years ago in national publicity and national initiatives like removing all fines and now it is apparently reaping the benefits.",
+    "html": "<p class=\"wp-block-paragraph\">A few news pieces catch my eye today. The first is an ex-magistrate sating in the Mail &#8211; where else &#8211; that libraries could be turned into court venues as they are under-used public buildings. Words fail me sometimes. Sadly, they don&#8217;t fail the Mail. Then we have the normal US madness of censorship, with 17 states now considering imprisoning librarians for their stock choices. There&#8217;s also a heart-rending story from that torn country about a child, are regular visitor to a library, whose parents decided to play the story-time song at the funeral. Oh my.</p> <p class=\"wp-block-paragraph\">The thing that really caught my eye though was news from Ireland. The government there is spending &#8211; get this &#8211; £21 million to provide 11 new libraries and 12 new mobiles in rural areas. That&#8217;s twice as much as the Libraries Improvement Fund right there. But then scale that up to take into account the relative populations and you&#8217;d have, if it happened in the UK, £210 million in capital expenditure with 110 new libraries and 120 new mobiles. Then lift your jaw off the floor. Ireland led the way a few years ago in national publicity and national initiatives like removing all fines and now it is apparently reaping the benefits.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 30,
+  "story_ids": [
+    "pln-story-19523-local-001",
+    "pln-story-19523-local-002",
+    "pln-story-19523-local-003",
+    "pln-story-19523-local-004",
+    "pln-story-19523-local-005",
+    "pln-story-19523-local-006",
+    "pln-story-19523-local-007",
+    "pln-story-19523-local-008",
+    "pln-story-19523-local-009",
+    "pln-story-19523-local-010",
+    "pln-story-19523-local-011",
+    "pln-story-19523-local-012",
+    "pln-story-19523-local-013",
+    "pln-story-19523-local-014",
+    "pln-story-19523-local-015",
+    "pln-story-19523-local-016",
+    "pln-story-19523-local-017",
+    "pln-story-19523-local-018",
+    "pln-story-19523-local-019",
+    "pln-story-19523-intl-001",
+    "pln-story-19523-intl-002",
+    "pln-story-19523-intl-003",
+    "pln-story-19523-intl-004",
+    "pln-story-19523-intl-005",
+    "pln-story-19523-intl-006",
+    "pln-story-19523-intl-007",
+    "pln-story-19523-natl-001",
+    "pln-story-19523-natl-002",
+    "pln-story-19523-natl-003",
+    "pln-story-19523-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 19,
+    "libraries_count": 9,
+    "countries_count": 9,
+    "top_categories": {
+      "events_and_activities": 7,
+      "staffing_and_unions": 7,
+      "digital_and_technology": 4,
+      "cuts_and_finance": 4,
+      "book_bans_and_challenges": 3,
+      "campaigns_and_protests": 2,
+      "opening_hours": 1,
+      "governance_and_trusts": 1,
+      "volunteers_and_community": 1,
+      "closures_and_threats": 1,
+      "refurbishment_and_new_builds": 1,
+      "co_location": 1,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

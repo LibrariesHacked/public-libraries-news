@@ -1,0 +1,66 @@
+{
+  "id": "pln-post-9051",
+  "source_id": 9051,
+  "url": "https://www.publiclibrariesnews.com/2015/04/the-bottomless-well-the-lack-of-library-standards-in-england.html",
+  "slug": "the-bottomless-well-the-lack-of-library-standards-in-england",
+  "title": "The bottomless well: the lack of Library Standards in England",
+  "date_published": "2015-04-12T20:17:47",
+  "date_modified": "2015-04-14T20:34:37",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The absence of standards for libraries in England is an increasingly glaring one but whenever I ask chief librarians or other very senior staff about it, the answer is that standards simply mean a dive to the bottom, not to the top. The idea goes that in times of cuts, councils would look at the minimum level of service required and cut their funding accordingly. The problem with using this argument is of course that councils will do that anyway, minimum standards or no. What we’re seeing at the moment is many councils (with Lincolnshire being the most obvious recently) looking at seeing what they can get away with, seeing that they can get away with a lot (at best, one library per 45,000 people at the last non-intervention by Vaizey) and going with it or perhaps pushing it a bit more. Where there are standards in other countries (like Scotland and Wales) then at least there is a minimum. We don’t even have that in England. How far can you fall when the well is bottomless? A guide to the defunct English Library Standards can be found by clicking this link",
+    "html": "<p style=\"text-align: justify;\">The absence of standards for libraries in England is an increasingly glaring one but whenever I ask chief librarians or other very senior staff about it, the answer is that standards simply mean a dive to the bottom, not to the top. The idea goes that in times of cuts, councils would look at the minimum level of service required and cut their funding accordingly. The problem with using this argument is of course that councils will do that anyway, minimum standards or no. What we&#8217;re seeing at the moment is many councils (with Lincolnshire being the most obvious recently) looking at seeing what they can get away with, seeing that they can get away with a lot (at best, one library per 45,000 people at the last non-intervention by Vaizey) and going with it or perhaps pushing it a bit more. Where there are standards in other countries (like <a title=\"Scottish Libraries\" href=\"http://www.scottishlibraries.org/activities-qse-plqim/\">Scotland </a>and <a title=\"Wales Standards\" href=\"http://gov.wales/topics/cultureandsport/museumsarchiveslibraries/cymal/libraries/wpls/libraries-making-a-difference/?lang=en\">Wales</a>) then at least there is a minimum. We don&#8217;t even have that in England. How far can you fall when the well is bottomless?</p> <p style=\"text-align: justify;\"><a title=\"PLN page\" href=\"https://www.publiclibrariesnews.com/useful/documents/public-library-standards-in-england\"><em>A guide to the defunct English Library Standards can be found by clicking this link</em></a></p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 17,
+  "story_ids": [
+    "pln-story-9051-changes-001",
+    "pln-story-9051-changes-002",
+    "pln-story-9051-local-001",
+    "pln-story-9051-local-002",
+    "pln-story-9051-local-003",
+    "pln-story-9051-local-004",
+    "pln-story-9051-local-005",
+    "pln-story-9051-local-006",
+    "pln-story-9051-local-007",
+    "pln-story-9051-local-008",
+    "pln-story-9051-local-009",
+    "pln-story-9051-local-010",
+    "pln-story-9051-intl-001",
+    "pln-story-9051-intl-002",
+    "pln-story-9051-intl-003",
+    "pln-story-9051-natl-001",
+    "pln-story-9051-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 7,
+    "countries_count": 3,
+    "top_categories": {
+      "volunteers_and_community": 7,
+      "staffing_and_unions": 4,
+      "cuts_and_finance": 3,
+      "events_and_activities": 3,
+      "co_location": 2,
+      "refurbishment_and_new_builds": 2,
+      "closures_and_threats": 2,
+      "campaigns_and_protests": 2,
+      "digital_and_technology": 2,
+      "opening_hours": 1,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -5,12 +5,12 @@ Fetches posts incrementally or in backfill mode.
 
 import json
 import time
-from typing import Dict, List, Optional, Any
+from typing import Dict, List, Optional, Any, Tuple
 import urllib.request
 import urllib.error
 from html import unescape
 
-from .models import Post, EditorialContent, Attribution
+from .models import Post, EditorialContent, Attribution, PostStats
 from .parser import PLNPostParser
 from .resolver import EntityResolver
 from .storage import PLNStorage
@@ -69,13 +69,45 @@ class PLNScraper:
 
         content_html = raw_post.get("content", {}).get("rendered", "")
 
-        editorial_dict, stories, sections_found = self.parser.parse_post(
-            source_id=source_id,
-            post_date=post_date,
-            post_html=content_html
-        )
+        try:
+            editorial_dict, stories, sections_found = self.parser.parse_post(
+                source_id=source_id,
+                post_date=post_date,
+                post_html=content_html
+            )
+        except Exception as e:
+            print(f"Warning: Exception parsing post {source_id} ({slug}): {e}")
+            editorial_dict = {"text": "", "html": ""}
+            stories = []
+            sections_found = []
 
         story_ids = [s["id"] for s in stories]
+
+        # Compute post-level statistics
+        authorities = set()
+        libraries = set()
+        countries = set()
+        cat_counts: Dict[str, int] = {}
+
+        for s in stories:
+            res = s.get("resolution", {})
+            auth = res.get("library_service")
+            if auth and auth.get("name"):
+                authorities.add(auth["name"])
+            for lib in res.get("libraries_mentioned", []):
+                libraries.add(lib["id"])
+            if res.get("country"):
+                countries.add(res["country"])
+
+            for cat in s.get("classification", {}).get("categories", []):
+                cat_counts[cat] = cat_counts.get(cat, 0) + 1
+
+        stats = PostStats(
+            authorities_count=len(authorities),
+            libraries_count=len(libraries),
+            countries_count=len(countries),
+            top_categories=dict(sorted(cat_counts.items(), key=lambda x: x[1], reverse=True))
+        )
 
         post = Post(
             id=f"pln-post-{source_id}",
@@ -93,6 +125,7 @@ class PLNScraper:
             sections_found=sections_found,
             stories_count=len(stories),
             story_ids=story_ids,
+            stats=stats,
             attribution=Attribution()
         )
 
@@ -164,6 +197,8 @@ class PLNScraper:
         index = self.storage.load_index()
         page = 1
         total_processed = 0
+        latest_post_saved = None
+        latest_stories_saved = None
 
         print(f"Starting historical backfill from page {page}...")
 
@@ -191,6 +226,10 @@ class PLNScraper:
                 post_dict, stories = self.process_raw_post(raw_post)
                 self.storage.save_post(post_dict, stories)
 
+                if latest_post_saved is None and page == 1:
+                    latest_post_saved = post_dict
+                    latest_stories_saved = stories
+
                 index[source_id] = {
                     "id": post_dict["id"],
                     "source_id": source_id,
@@ -206,6 +245,9 @@ class PLNScraper:
             self.storage.save_index(index)
             page += 1
             time.sleep(self.rate_limit_delay)
+
+        if latest_post_saved and latest_stories_saved is not None:
+            self.storage.update_latest(latest_post_saved, latest_stories_saved)
 
         print(f"Backfill complete! Processed {total_processed} posts in total.")
         return total_processed

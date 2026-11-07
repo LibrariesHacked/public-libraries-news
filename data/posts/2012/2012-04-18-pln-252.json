@@ -1,0 +1,47 @@
+{
+  "id": "pln-post-252",
+  "source_id": 252,
+  "url": "https://www.publiclibrariesnews.com/2012/04/gloucestershire-cuts-called-in.html",
+  "slug": "gloucestershire-cuts-called-in",
+  "title": "Gloucestershire cuts “called in”.",
+  "date_published": "2012-04-18T19:59:00",
+  "date_modified": "2012-04-18T19:59:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "News Consortia Conference 2012 – Event taking place on 3rd May in Bath. Looks at one of the ways that authorities are trying to save money without closing libraries. Libraries workshops: Envisioning the library of the future – Arts Council England. Your chance to give your views. ” series of workshops will take place across the country in May this year as part of Envisioning the library of the future, our programme of research and debate. The workshops will allow people to take part in a discussion that will begin to envisage what the library of the future could and should look like. At each event we will present the research into societal trends that is currently taking place as a set of possible scenarios and explore the implications of these scenarios for the delivery of library services in the future. The events will also involve open space discussions about how library services could develop. Delegates will be asked to contribute their views and take an active part in the conversation.”",
+    "html": "<b>News</b></p> <ul style=\"text-align: justify;\"> <li><b><a href=\"http://consortiaconference2012.com/\">Consortia Conference 2012</a> </b>&#8211; Event taking place on 3rd May in Bath. Looks at one of the ways that authorities are trying to save money without closing libraries.</li> <li><b><a href=\"http://www.artscouncil.org.uk/jobs-and-conferences/conferences/libraries-research-workshops/\">Libraries workshops: Envisioning the library of the future</a> </b>&#8211; Arts Council England. Your chance to give your views. &#8221; series of workshops will take place across the country in May this year as part of <em>Envisioning the library of the future</em>, our programme of research and debate. The workshops will allow people to take part in a discussion that will begin to envisage what the library of the future could and should look like. At each event we will present the research into societal trends that is currently taking place as a set of possible scenarios and explore the implications of these scenarios for the delivery of library services in the future. The events will also involve open space discussions about how library services could develop. Delegates will be asked to contribute their views and take an active part in the conversation.&#8221;</li>"
+  },
+  "sections_found": [
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 6,
+  "story_ids": [
+    "pln-story-252-local-001",
+    "pln-story-252-local-002",
+    "pln-story-252-local-003",
+    "pln-story-252-local-004",
+    "pln-story-252-local-005",
+    "pln-story-252-local-006"
+  ],
+  "stats": {
+    "authorities_count": 4,
+    "libraries_count": 4,
+    "countries_count": 1,
+    "top_categories": {
+      "cuts_and_finance": 3,
+      "campaigns_and_protests": 2,
+      "closures_and_threats": 2,
+      "book_bans_and_challenges": 1,
+      "staffing_and_unions": 1,
+      "opening_hours": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

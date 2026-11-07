@@ -1,0 +1,68 @@
+{
+  "id": "pln-post-8579",
+  "source_id": 8579,
+  "url": "https://www.publiclibrariesnews.com/2015/01/welcoming-the-homeless-in.html",
+  "slug": "welcoming-the-homeless-in",
+  "title": "Welcoming the homeless in",
+  "date_published": "2015-01-13T18:01:53",
+  "date_modified": "2015-01-18T20:26:19",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "You know them. The old chap who sits in the same spot each day, perhaps waiting by the door when you open. The lady who sleeps, with a smell of alcohol around her. The young gentleman who strides in and using your computers for as long as he can. They’re the users who come in but we do not invite in. The ones who do not talk or talk too much. They are the homeless and many libraries have them, some have a lot, but we have them like we have air: it’s a given, not a strategy. Well, one Canadian library has changed that by officially welcoming them. OK, so they do it on their website (which is not where I would start with this group) but it’s the spirit of the thing. Well done to them. Can you say your library has done so much?",
+    "html": "<p style=\"text-align: justify;\">You know them. The old chap who sits in the same spot each day, perhaps waiting by the door when you open. The lady who sleeps, with a smell of alcohol around her. The young gentleman who strides in and using your computers for as long as he can. They&#8217;re the users who come in but we do not invite in. The ones who do not talk or talk too much. They are the homeless and many libraries have them, some have a lot, but we have them like we have air: it&#8217;s a given, not a strategy. Well, one Canadian library has changed that by officially welcoming them. OK, so they do it on their website (which is not where I would start with this group) but it&#8217;s the spirit of the thing. Well done to them. Can you say your library has done so much?</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 21,
+  "story_ids": [
+    "pln-story-8579-changes-001",
+    "pln-story-8579-intl-001",
+    "pln-story-8579-intl-002",
+    "pln-story-8579-intl-003",
+    "pln-story-8579-intl-004",
+    "pln-story-8579-intl-005",
+    "pln-story-8579-intl-006",
+    "pln-story-8579-intl-007",
+    "pln-story-8579-intl-008",
+    "pln-story-8579-intl-009",
+    "pln-story-8579-intl-010",
+    "pln-story-8579-intl-011",
+    "pln-story-8579-intl-012",
+    "pln-story-8579-intl-013",
+    "pln-story-8579-intl-014",
+    "pln-story-8579-intl-015",
+    "pln-story-8579-intl-016",
+    "pln-story-8579-intl-017",
+    "pln-story-8579-natl-001",
+    "pln-story-8579-ideas-001",
+    "pln-story-8579-ideas-002"
+  ],
+  "stats": {
+    "authorities_count": 12,
+    "libraries_count": 4,
+    "countries_count": 5,
+    "top_categories": {
+      "campaigns_and_protests": 5,
+      "staffing_and_unions": 4,
+      "digital_and_technology": 4,
+      "cuts_and_finance": 4,
+      "volunteers_and_community": 3,
+      "refurbishment_and_new_builds": 1,
+      "closures_and_threats": 1,
+      "governance_and_trusts": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,77 @@
+{
+  "id": "pln-post-14859",
+  "source_id": 14859,
+  "url": "https://www.publiclibrariesnews.com/2019/05/everylibrary-and-digital-hubs.html",
+  "slug": "everylibrary-and-digital-hubs",
+  "title": "EveryLibrary and Digital Hubs",
+  "date_published": "2019-05-06T15:33:16",
+  "date_modified": "2019-09-20T15:45:04",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A quiet week locally due to the elections but two things stand out. One is the partnership with CILIP and EveryLibrary, partly ACE funded, to advocate for public libraries. EveryLibrary are a US campaign group that runs campaigns there to boost library funding, with some success. How their style will work over here is interesting. I’ve already received an email from them asking for money for the project, something which I’ve not seen in the sector before. Perhaps this is something we need. The other thing is digital health hubs. This is the NHS rolling out some services into the high street, including public libraries. The sector has been eyeing NHS cash for years and, with our neutral/welcoming and everywhere selling points, we have something to sell. Hopefully this will be the start of a nice friendship.",
+    "html": "<p style=\"text-align: justify;\">A quiet week locally due to the elections but two things stand out. One is the partnership with CILIP and EveryLibrary, partly ACE funded, to advocate for public libraries.&nbsp;EveryLibrary are a US campaign group that runs campaigns there to boost library funding, with some success. How their style will work over here is interesting. I’ve already received an email from them asking for money for the project, something which I’ve not seen in the sector before. Perhaps this is something we need. The other thing is digital health hubs. This is the NHS rolling out some services into the high street, including public libraries. The sector has been eyeing NHS cash for years and, with our neutral/welcoming and everywhere selling points, we have something to sell. Hopefully this will be the start of a nice friendship.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 29,
+  "story_ids": [
+    "pln-story-14859-changes-001",
+    "pln-story-14859-changes-002",
+    "pln-story-14859-local-001",
+    "pln-story-14859-local-002",
+    "pln-story-14859-local-003",
+    "pln-story-14859-local-004",
+    "pln-story-14859-local-005",
+    "pln-story-14859-local-006",
+    "pln-story-14859-local-007",
+    "pln-story-14859-local-008",
+    "pln-story-14859-local-009",
+    "pln-story-14859-local-010",
+    "pln-story-14859-local-011",
+    "pln-story-14859-local-012",
+    "pln-story-14859-local-013",
+    "pln-story-14859-intl-001",
+    "pln-story-14859-intl-002",
+    "pln-story-14859-intl-003",
+    "pln-story-14859-intl-004",
+    "pln-story-14859-intl-005",
+    "pln-story-14859-intl-006",
+    "pln-story-14859-natl-001",
+    "pln-story-14859-natl-002",
+    "pln-story-14859-natl-003",
+    "pln-story-14859-natl-004",
+    "pln-story-14859-natl-005",
+    "pln-story-14859-natl-006",
+    "pln-story-14859-natl-007",
+    "pln-story-14859-natl-008"
+  ],
+  "stats": {
+    "authorities_count": 11,
+    "libraries_count": 11,
+    "countries_count": 9,
+    "top_categories": {
+      "digital_and_technology": 7,
+      "staffing_and_unions": 5,
+      "volunteers_and_community": 4,
+      "refurbishment_and_new_builds": 3,
+      "cuts_and_finance": 3,
+      "events_and_activities": 3,
+      "campaigns_and_protests": 2,
+      "co_location": 2,
+      "closures_and_threats": 2,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

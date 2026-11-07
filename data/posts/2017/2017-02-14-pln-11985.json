@@ -1,0 +1,65 @@
+{
+  "id": "pln-post-11985",
+  "source_id": 11985,
+  "url": "https://www.publiclibrariesnews.com/2017/02/libraries-offer-futures-and-the-big-issue-is-for-the-future-of-libraries.html",
+  "slug": "libraries-offer-futures-and-the-big-issue-is-for-the-future-of-libraries",
+  "title": "Libraries offer futures: and the Big Issue is for the future of libraries",
+  "date_published": "2017-02-14T21:32:28",
+  "date_modified": "2017-02-16T21:48:34",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A noticeably quiet couple of days with the main thing being to me two pro library campaigns, both of which are not just local over closures. It’s good to see the CILIPS Library Matters campaign picking up some strength in Scotland before the election there, with another celebrity author on board. A very pleasant surprise was the Big Issue campaign that has just launched. It’s worth a look as it says very nice things about libraries and John Bird, now a Lord, is clearly a powerful ally. Across the water, public librarians are now turning their sense of shock over President Trump’s presidency into action. It’s going to be a tough tightrope for them. Although the political position of libraries are different there (they’re often not under direct council control whereas anyone employed in libraries getting political in the UK in working hours would presumably just plain be disciplined or dismissed) they still have to presumably be neutral. The challenge is going to be how to balance the political desire to act with the expectation that librarians remain unbiased. I simple don’t know how that will turn out in these strange times in America.",
+    "html": "<p style=\"text-align: justify;\">A noticeably quiet couple of days with the main thing being to me two pro library campaigns, both of which are not just local over closures. It&#8217;s good to see the CILIPS <em>Library Matters</em> campaign picking up some strength in Scotland before the election there, with another celebrity author on board. A very pleasant surprise was the <em>Big </em><em>Issue</em> campaign that has just launched. It&#8217;s worth a look as it says very nice things about libraries and John Bird, now a Lord, is clearly a powerful ally. Across the water, public librarians are now turning their sense of shock over President Trump&#8217;s presidency into action. It&#8217;s going to be a tough tightrope for them. Although the political position of libraries are different there (they&#8217;re often not under direct council control whereas anyone employed in libraries getting political in the UK in working hours would presumably just plain be disciplined or dismissed) they still have to presumably be neutral. The challenge is going to be how to balance the political desire to act with the expectation that librarians remain unbiased. I simple don&#8217;t know how that will turn out in these strange times in America.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 19,
+  "story_ids": [
+    "pln-story-11985-local-001",
+    "pln-story-11985-local-002",
+    "pln-story-11985-local-003",
+    "pln-story-11985-local-004",
+    "pln-story-11985-local-005",
+    "pln-story-11985-local-006",
+    "pln-story-11985-local-007",
+    "pln-story-11985-local-008",
+    "pln-story-11985-intl-001",
+    "pln-story-11985-intl-002",
+    "pln-story-11985-intl-003",
+    "pln-story-11985-intl-004",
+    "pln-story-11985-natl-001",
+    "pln-story-11985-natl-002",
+    "pln-story-11985-natl-003",
+    "pln-story-11985-natl-004",
+    "pln-story-11985-natl-005",
+    "pln-story-11985-natl-006",
+    "pln-story-11985-natl-007"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 4,
+    "countries_count": 6,
+    "top_categories": {
+      "staffing_and_unions": 6,
+      "campaigns_and_protests": 6,
+      "cuts_and_finance": 4,
+      "closures_and_threats": 2,
+      "events_and_activities": 2,
+      "refurbishment_and_new_builds": 1,
+      "volunteers_and_community": 1,
+      "opening_hours": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

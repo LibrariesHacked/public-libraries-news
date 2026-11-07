@@ -1,0 +1,71 @@
+{
+  "id": "pln-post-10783",
+  "source_id": 10783,
+  "url": "https://www.publiclibrariesnews.com/2016/03/not-one-of-the-worlds-most-literate-nations.html",
+  "slug": "not-one-of-the-worlds-most-literate-nations",
+  "title": "Not one of the world’s most literate nations",
+  "date_published": "2016-03-13T21:56:02",
+  "date_modified": "2016-03-17T21:40:49",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A new study, the The World’s Most Literate Nations, places UK low down on the list, not least because of the relatively poor showing of UK libraries compared to that of other countries. In fact, it’s very low down for libraries: 29.5 compared to 17th overall. One wonders where it would have been in 2010.",
+    "html": "<p>A new study, the <a href=\"http://www.ccsu.edu/wmln/\"><strong>The World’s Most Literate Nations</strong></a>, places UK low down on the list, not least because of the relatively poor showing of UK libraries compared to that of other countries. In fact, it&#8217;s very low down for libraries: 29.5 compared to 17th overall. One wonders where it would have been in 2010.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 22,
+  "story_ids": [
+    "pln-story-10783-changes-001",
+    "pln-story-10783-local-001",
+    "pln-story-10783-local-002",
+    "pln-story-10783-local-003",
+    "pln-story-10783-local-004",
+    "pln-story-10783-local-005",
+    "pln-story-10783-local-006",
+    "pln-story-10783-local-007",
+    "pln-story-10783-local-008",
+    "pln-story-10783-local-009",
+    "pln-story-10783-local-010",
+    "pln-story-10783-local-011",
+    "pln-story-10783-local-012",
+    "pln-story-10783-local-013",
+    "pln-story-10783-local-014",
+    "pln-story-10783-local-015",
+    "pln-story-10783-intl-001",
+    "pln-story-10783-intl-002",
+    "pln-story-10783-natl-001",
+    "pln-story-10783-natl-002",
+    "pln-story-10783-natl-003",
+    "pln-story-10783-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 14,
+    "libraries_count": 12,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 6,
+      "events_and_activities": 5,
+      "cuts_and_finance": 4,
+      "campaigns_and_protests": 4,
+      "staffing_and_unions": 3,
+      "co_location": 2,
+      "mobile_and_outreach": 2,
+      "volunteers_and_community": 2,
+      "book_bans_and_challenges": 1,
+      "opening_hours": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

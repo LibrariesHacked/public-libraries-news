@@ -1,0 +1,58 @@
+{
+  "id": "pln-post-7248",
+  "source_id": 7248,
+  "url": "https://www.publiclibrariesnews.com/2014/04/really-a-library-card-and-a-pin-to-take-out-a-book.html",
+  "slug": "really-a-library-card-and-a-pin-to-take-out-a-book",
+  "title": "Really? A library card AND a PIN to take out a book?",
+  "date_published": "2014-04-01T22:47:12",
+  "date_modified": "2014-04-02T21:41:36",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Two things that have drawn my attention. The first is that a library service is asking people for a PIN as well as a library card in order to issue items on self service machines. This surprised me so much I had to check (Thanks Mick) I’d read it right because my own authority has had self-service for three years and we don’t ask for PIN and – you know what? – it simply has not been a problem. Think about why for a moment. Like in every non-self service library in the world, the library card is enough. We don’t know everyone personally. Anyone can come in with a library card, issue an item with a member of staff and go. Why should the self-service machines be any different? Besides, I bet if I found a card in the street I could go up to a counter in that authority’s branches and ask for “my” PIN and they’d give it to me. Yeah, you’re going to put off one or two especially unintelligent and lazy thieves but you’re also going to put off a hundred times that number of honest people who can’t remember their number and are too shy/busy/why-should-I to ask. We should be removing barriers, not adding to them. Putting an extra step in the way ain’t going to help your usage, folks. Secondly, some good people from Spain have sent me a summary of what is going on in public libraries in that country. It’s very like the UK in that there are deep cuts, less staff and less bookstock. On the other hand, it’s quite different. There’s no mention of large scale library closures or volunteers. Spain has also seen a 20% increase in visits whereas English libraries have seen a decline. This mirrors an increase in foreign countries I’ve noted elsewhere, notably in the US. Why the difference in the trend? I don’t know because no-one as far as I can see has done any meaningful research on the subject. I’m just guessing, though, that it has something to do with long-term funding shortages (notable in the buildings themselves) exacerbated by short-term sharp cuts. Or perhaps it’s because they don’t ask for PINs.",
+    "html": "<p style=\"text-align: justify;\">Two things that have drawn my attention. <a title=\"This is the West Country\" href=\"http://www.thisisthewestcountry.co.uk/news/somerset_news/11114959.Self_service_technology_installed_as_part_of_Wellington_Library_revamp/\">The first is that a library service is asking people for a PIN as well as a library card in order to issue items on self service machines</a>. This surprised me so much I had to check (Thanks Mick) I&#8217;d read it right because my own authority has had self-service for three years and we don&#8217;t ask for PIN and &#8211; you know what? &#8211; it simply has not been a problem. Think about why for a moment. Like in every non-self service library in the world, the library card is enough. We <em>don&#8217;t </em>know everyone personally. Anyone can come in with a library card, issue an item with a member of staff and go. Why should the self-service machines be any different? Besides, I bet if I found a card in the street I could go up to a counter in that authority&#8217;s branches and ask for &#8220;my&#8221; PIN and they&#8217;d give it to me. Yeah, you&#8217;re going to put off one or two especially unintelligent and lazy thieves but you&#8217;re also going to put off a hundred times that number of honest people who can&#8217;t remember their number and are too shy/busy/why-should-I to ask. We should be removing barriers, not adding to them. Putting an extra step in the way ain&#8217;t going to help your usage, folks.</p> <p style=\"text-align: justify;\">Secondly, some good people from Spain have sent me a summary of what is going on in public libraries in that country. It&#8217;s very like the UK in that there are deep cuts, less staff and less bookstock. On the other hand, it&#8217;s quite different. There&#8217;s no mention of large scale library closures or volunteers. Spain has also seen a 20% increase in visits whereas English libraries have seen a decline. This mirrors an increase in foreign countries I&#8217;ve noted elsewhere, notably in the US. Why the difference in the trend? I don&#8217;t know <em>because no-one as far as I can see has done any meaningful research on the subject</em>. I&#8217;m just guessing, though, that it has something to do with long-term funding shortages (notable in the buildings themselves) exacerbated by short-term sharp cuts. Or perhaps it&#8217;s because they don&#8217;t ask for PINs.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 14,
+  "story_ids": [
+    "pln-story-7248-changes-001",
+    "pln-story-7248-changes-002",
+    "pln-story-7248-intl-001",
+    "pln-story-7248-intl-002",
+    "pln-story-7248-intl-003",
+    "pln-story-7248-intl-004",
+    "pln-story-7248-intl-005",
+    "pln-story-7248-intl-006",
+    "pln-story-7248-intl-007",
+    "pln-story-7248-intl-008",
+    "pln-story-7248-intl-009",
+    "pln-story-7248-intl-010",
+    "pln-story-7248-natl-001",
+    "pln-story-7248-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 14,
+    "countries_count": 3,
+    "top_categories": {
+      "staffing_and_unions": 6,
+      "volunteers_and_community": 4,
+      "cuts_and_finance": 4,
+      "closures_and_threats": 3,
+      "digital_and_technology": 3,
+      "refurbishment_and_new_builds": 2,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

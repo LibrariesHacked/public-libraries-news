@@ -22,6 +22,7 @@ class EditorialContent:
 class LinkItem:
     url: str
     text: str
+    domain: Optional[str] = None
 
 @dataclass
 class LibraryServiceRef:
@@ -54,6 +55,14 @@ class EntityResolution:
     coordinates: Optional[Coordinates] = None
 
 @dataclass
+class StoryClassification:
+    categories: List[str] = field(default_factory=list)
+    primary_category: Optional[str] = None
+    change_type: Optional[str] = None
+    sector_bodies_mentioned: List[str] = field(default_factory=list)
+    financial_mentions: List[str] = field(default_factory=list)
+
+@dataclass
 class StoryItem:
     id: str
     post_id: str
@@ -64,10 +73,18 @@ class StoryItem:
     text_html: str
     links: List[LinkItem] = field(default_factory=list)
     resolution: EntityResolution = field(default_factory=lambda: EntityResolution(entity_type="general"))
+    classification: StoryClassification = field(default_factory=StoryClassification)
     tags: List[str] = field(default_factory=list)
 
     def to_dict(self) -> Dict[str, Any]:
         return asdict(self)
+
+@dataclass
+class PostStats:
+    authorities_count: int = 0
+    libraries_count: int = 0
+    countries_count: int = 0
+    top_categories: Dict[str, int] = field(default_factory=dict)
 
 @dataclass
 class Post:
@@ -83,6 +100,7 @@ class Post:
     sections_found: List[str]
     stories_count: int
     story_ids: List[str]
+    stats: PostStats = field(default_factory=PostStats)
     attribution: Attribution = field(default_factory=Attribution)
 
     def to_dict(self) -> Dict[str, Any]:

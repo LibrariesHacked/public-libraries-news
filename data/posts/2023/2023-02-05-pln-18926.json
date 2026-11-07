@@ -1,0 +1,73 @@
+{
+  "id": "pln-post-18926",
+  "source_id": 18926,
+  "url": "https://www.publiclibrariesnews.com/2023/02/the-joy-of-work.html",
+  "slug": "the-joy-of-work",
+  "title": "The joy of work",
+  "date_published": "2023-02-05T15:42:21",
+  "date_modified": "2023-02-05T15:42:27",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "There is a joy to working in public libraries. I get a real up when I see a child jumping up and down in excitement because they’d found a book I remember ordering a month ago. Or when someone takes a book or two off a display that I put together. Or, the best of all, when someone thanks you or walks away obviously happy after I have answered their questions. Another satisfying thing is weeding a section of shelves because so much of my work is now on the computer, it’s great when an obvious physical difference is made. Planning and organising an event that gets sold out is pretty good too. Or planning for 13 months (yes, more than one year) for the Summer Reading Challenge and making sure lessons are learnt and there’s every chance it’ll be better for everyone than the year before. There is a real value to this which helps make up for other things which is just as well – in the words of Phil Bradley, no-one comes into this job for the money and the power.",
+    "html": "<p class=\"wp-block-paragraph\">There is a joy to working in public libraries. I get a real up when I see a child jumping up and down in excitement because they&#8217;d found a book I remember ordering a month ago. Or when someone takes a book or two off a display that I put together. Or, the best of all, when someone thanks you or walks away obviously happy after I have answered their questions. Another satisfying thing is weeding a section of shelves because so much of my work is now on the computer, it&#8217;s great when an obvious physical difference is made. Planning and organising an event that gets sold out is pretty good too. Or planning for 13 months (yes, <em>more </em>than one year) for the Summer Reading Challenge and making sure lessons are learnt and there&#8217;s every chance it&#8217;ll be better for everyone than the year before. There is a real value to this which helps make up for other things which is just as well &#8211; in the words of Phil Bradley, no-one comes into this job for the money and the power.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 21,
+  "story_ids": [
+    "pln-story-18926-changes-001",
+    "pln-story-18926-changes-002",
+    "pln-story-18926-local-001",
+    "pln-story-18926-local-002",
+    "pln-story-18926-local-003",
+    "pln-story-18926-local-004",
+    "pln-story-18926-local-005",
+    "pln-story-18926-local-006",
+    "pln-story-18926-local-007",
+    "pln-story-18926-local-008",
+    "pln-story-18926-local-009",
+    "pln-story-18926-local-010",
+    "pln-story-18926-local-011",
+    "pln-story-18926-local-012",
+    "pln-story-18926-local-013",
+    "pln-story-18926-local-014",
+    "pln-story-18926-local-015",
+    "pln-story-18926-local-016",
+    "pln-story-18926-intl-001",
+    "pln-story-18926-natl-001",
+    "pln-story-18926-natl-002"
+  ],
+  "stats": {
+    "authorities_count": 16,
+    "libraries_count": 16,
+    "countries_count": 4,
+    "top_categories": {
+      "opening_hours": 3,
+      "campaigns_and_protests": 3,
+      "events_and_activities": 3,
+      "staffing_and_unions": 3,
+      "cuts_and_finance": 2,
+      "digital_and_technology": 1,
+      "closures_and_threats": 1,
+      "mobile_and_outreach": 1,
+      "book_bans_and_challenges": 1,
+      "governance_and_trusts": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "volunteers_and_community": 1,
+      "refurbishment_and_new_builds": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

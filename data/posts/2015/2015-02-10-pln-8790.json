@@ -1,0 +1,81 @@
+{
+  "id": "pln-post-8790",
+  "source_id": 8790,
+  "url": "https://www.publiclibrariesnews.com/2015/02/glory-days.html",
+  "slug": "glory-days",
+  "title": "Glory days",
+  "date_published": "2015-02-10T21:03:59",
+  "date_modified": "2015-02-16T10:23:39",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Some positive news today. The good people of Cardiff have campaigned mightily to save seven threatened branches and the council has agreed to save them all, although it is unclear in what format. Meanwhile, in Scotland, West Dunbartonshire has not only backed down from closing Balloch Library but is going to buy it a new public toilet as well as spending a mighty £500k to improve Clydesbank Library. Meanwhile in Walsall, it has been announced that, while eight libraries will still be closed, it’s going to happen three or more months later than expected. That last one provides a bit of a hint as to what may be going on – councils may not be keen on closures in May, what with the election and all. Indeed, the next few months may be glory days for saving threatened libraries as councils realise a closed local civic building is not a votewinner. But only if people campaign.",
+    "html": "<p style=\"text-align: justify;\">Some positive news today. The good people of Cardiff have campaigned mightily to save seven threatened branches and the council has agreed to save them all, although it is unclear in what format. Meanwhile, in Scotland, West Dunbartonshire has not only backed down from closing Balloch Library but is going to buy it a new public toilet as well as spending a mighty £500k to improve Clydesbank Library. Meanwhile in Walsall, it has been announced that, while eight libraries will still be closed, it&#8217;s going to happen three or more months later than expected. That last one provides a bit of a hint as to what may be going on &#8211; councils may not be keen on closures in May, what with the election and all. Indeed, the next few months may be glory days for saving threatened libraries as councils realise a closed local civic building is not a votewinner. But only if people campaign.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 31,
+  "story_ids": [
+    "pln-story-8790-changes-001",
+    "pln-story-8790-changes-002",
+    "pln-story-8790-changes-003",
+    "pln-story-8790-changes-004",
+    "pln-story-8790-changes-005",
+    "pln-story-8790-changes-006",
+    "pln-story-8790-changes-007",
+    "pln-story-8790-changes-008",
+    "pln-story-8790-intl-001",
+    "pln-story-8790-intl-002",
+    "pln-story-8790-intl-003",
+    "pln-story-8790-intl-004",
+    "pln-story-8790-intl-005",
+    "pln-story-8790-intl-006",
+    "pln-story-8790-intl-007",
+    "pln-story-8790-intl-008",
+    "pln-story-8790-intl-009",
+    "pln-story-8790-intl-010",
+    "pln-story-8790-intl-011",
+    "pln-story-8790-intl-012",
+    "pln-story-8790-intl-013",
+    "pln-story-8790-intl-014",
+    "pln-story-8790-intl-015",
+    "pln-story-8790-intl-016",
+    "pln-story-8790-intl-017",
+    "pln-story-8790-intl-018",
+    "pln-story-8790-intl-019",
+    "pln-story-8790-intl-020",
+    "pln-story-8790-intl-021",
+    "pln-story-8790-intl-022",
+    "pln-story-8790-intl-023"
+  ],
+  "stats": {
+    "authorities_count": 16,
+    "libraries_count": 29,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 11,
+      "campaigns_and_protests": 9,
+      "cuts_and_finance": 9,
+      "volunteers_and_community": 6,
+      "events_and_activities": 6,
+      "staffing_and_unions": 5,
+      "digital_and_technology": 5,
+      "governance_and_trusts": 3,
+      "refurbishment_and_new_builds": 2,
+      "book_bans_and_challenges": 2,
+      "opening_hours": 2,
+      "unstaffed_open_plus": 1,
+      "mobile_and_outreach": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

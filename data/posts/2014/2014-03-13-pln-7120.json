@@ -1,0 +1,68 @@
+{
+  "id": "pln-post-7120",
+  "source_id": 7120,
+  "url": "https://www.publiclibrariesnews.com/2014/03/the-final-fifth-welsh-trusts-and-us-success.html",
+  "slug": "the-final-fifth-welsh-trusts-and-us-success",
+  "title": "The Final Fifth, Welsh Trusts and US success",
+  "date_published": "2014-03-13T22:22:16",
+  "date_modified": "2014-03-16T22:29:37",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Blaenau Gwent looks likely to be come the first Welsh authority I am aware of to pass control of its public libraries to a non-profit trust. Let’s hope it’s more successful than the outsourcing in Croydon where it has been confirmed that the loss of 11 library staff was among the first actions of Carillion when it took over. This has not impressed the Labour opposition there who confirm they will retake control of the library service if they win the forthcoming election. There’s a couple of interesting reports just been released. The UK one by the Carnegie UK Trust concerns British projects to get online the final one-fifth of the population. Although it mentions libraries in a positive way, it does not devote one of its case studies to a public library project. The other report is from the US Pew Research Centre which confirms the vital place that public libraries have in American life.",
+    "html": "<p style=\"text-align: justify;\">Blaenau Gwent looks likely to be come the first Welsh authority I am aware of to pass control of its public libraries to a non-profit trust. Let&#8217;s hope it&#8217;s more successful than the outsourcing in Croydon where it has been confirmed that the loss of 11 library staff was among the first actions of Carillion when it took over. This has not impressed the Labour opposition there who confirm they will retake control of the library service if they win the forthcoming election.</p> <p style=\"text-align: justify;\">There&#8217;s a couple of interesting reports just been released. The UK one by the Carnegie UK Trust concerns British projects to get online the final one-fifth of the population. Although it mentions libraries in a positive way, it does not devote one of its case studies to a public library project. The other report is from the US Pew Research Centre which confirms the vital place that public libraries have in American life.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 22,
+  "story_ids": [
+    "pln-story-7120-changes-001",
+    "pln-story-7120-changes-002",
+    "pln-story-7120-changes-003",
+    "pln-story-7120-changes-004",
+    "pln-story-7120-intl-001",
+    "pln-story-7120-intl-002",
+    "pln-story-7120-intl-003",
+    "pln-story-7120-intl-004",
+    "pln-story-7120-intl-005",
+    "pln-story-7120-intl-006",
+    "pln-story-7120-intl-007",
+    "pln-story-7120-intl-008",
+    "pln-story-7120-intl-009",
+    "pln-story-7120-intl-010",
+    "pln-story-7120-natl-001",
+    "pln-story-7120-natl-002",
+    "pln-story-7120-natl-003",
+    "pln-story-7120-natl-004",
+    "pln-story-7120-natl-005",
+    "pln-story-7120-natl-006",
+    "pln-story-7120-natl-007",
+    "pln-story-7120-natl-008"
+  ],
+  "stats": {
+    "authorities_count": 6,
+    "libraries_count": 2,
+    "countries_count": 4,
+    "top_categories": {
+      "staffing_and_unions": 5,
+      "governance_and_trusts": 4,
+      "cuts_and_finance": 4,
+      "digital_and_technology": 3,
+      "closures_and_threats": 3,
+      "mobile_and_outreach": 2,
+      "events_and_activities": 2,
+      "refurbishment_and_new_builds": 2,
+      "campaigns_and_protests": 2
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

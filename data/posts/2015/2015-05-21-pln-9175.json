@@ -1,0 +1,78 @@
+{
+  "id": "pln-post-9175",
+  "source_id": 9175,
+  "url": "https://www.publiclibrariesnews.com/2015/05/south-ayrshire-bromley-and-a-herts-attack.html",
+  "slug": "south-ayrshire-bromley-and-a-herts-attack",
+  "title": "South Ayrshire, Bromley … and a Herts Attack",
+  "date_published": "2015-05-21T20:23:17",
+  "date_modified": "2015-05-24T20:59:26",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "News includes the frightening news that South Ayrshire may be closing all their libraries. That seems like an exaggeration to me … let’s see what the real story is when it emerges. Further south, Bromley is looking at six libraries being “community-managed”. That phrase can mean a lot of things, from basically “volunteer-run” to volunteers raising funds for a mix of paid and volunteer staff. In other news, the Guardian reminds Ed Vaizey that he has agreed to debate Alan Gibbons and lists recent cuts announced. The one about Hertfordshire, though, understates the problem – it’s not just “cuts to mobile libraries” but rather closing all seven of them. Finally, my thanks to Devon for this view from one of their libraries – it may not be on the beach like Scilly but it’s still darn good. View from Ilfracombe Library – not bad, my friends, not bad",
+    "html": "<p>News includes the frightening news that South Ayrshire may be closing all their libraries. That seems like an exaggeration to me &#8230; let&#8217;s see what the real story is when it emerges. Further south, Bromley is looking at six libraries being &#8220;community-managed&#8221;. That phrase can mean a lot of things, from basically &#8220;volunteer-run&#8221; to volunteers raising funds for a mix of paid and volunteer staff. In other news, the Guardian reminds Ed Vaizey that he has agreed to debate Alan Gibbons and lists recent cuts announced. The one about Hertfordshire, though, understates the problem &#8211; it&#8217;s not just &#8220;cuts to mobile libraries&#8221; but rather <em>closing all seven of them</em>. Finally, my thanks to Devon for this view from one of their libraries &#8211; it may not be on the beach like Scilly but it&#8217;s still darn good.</p> <p id=\"caption-attachment-9182\" class=\"wp-caption-text\">View from Ilfracombe Library &#8211; not bad, my friends, not bad</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news"
+  ],
+  "stories_count": 28,
+  "story_ids": [
+    "pln-story-9175-changes-001",
+    "pln-story-9175-changes-002",
+    "pln-story-9175-changes-003",
+    "pln-story-9175-changes-004",
+    "pln-story-9175-changes-005",
+    "pln-story-9175-changes-006",
+    "pln-story-9175-changes-007",
+    "pln-story-9175-changes-008",
+    "pln-story-9175-changes-009",
+    "pln-story-9175-changes-010",
+    "pln-story-9175-local-001",
+    "pln-story-9175-local-002",
+    "pln-story-9175-local-003",
+    "pln-story-9175-local-004",
+    "pln-story-9175-local-005",
+    "pln-story-9175-local-006",
+    "pln-story-9175-local-007",
+    "pln-story-9175-local-008",
+    "pln-story-9175-local-009",
+    "pln-story-9175-local-010",
+    "pln-story-9175-local-011",
+    "pln-story-9175-local-012",
+    "pln-story-9175-local-013",
+    "pln-story-9175-local-014",
+    "pln-story-9175-local-015",
+    "pln-story-9175-intl-001",
+    "pln-story-9175-intl-002",
+    "pln-story-9175-intl-003"
+  ],
+  "stats": {
+    "authorities_count": 14,
+    "libraries_count": 22,
+    "countries_count": 6,
+    "top_categories": {
+      "closures_and_threats": 12,
+      "campaigns_and_protests": 7,
+      "cuts_and_finance": 7,
+      "staffing_and_unions": 5,
+      "book_bans_and_challenges": 4,
+      "events_and_activities": 3,
+      "governance_and_trusts": 2,
+      "co_location": 2,
+      "opening_hours": 2,
+      "digital_and_technology": 1,
+      "volunteers_and_community": 1,
+      "refurbishment_and_new_builds": 1,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

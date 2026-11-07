@@ -1,0 +1,70 @@
+{
+  "id": "pln-post-8157",
+  "source_id": 8157,
+  "url": "https://www.publiclibrariesnews.com/2014/09/steal-some-ideas-from-the-usa-why-dont-you.html",
+  "slug": "steal-some-ideas-from-the-usa-why-dont-you",
+  "title": "Steal some ideas from the USA, why don’t you?",
+  "date_published": "2014-09-23T21:27:07",
+  "date_modified": "2014-09-25T21:07:33",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Some very useful stuff is coming from a US project to look at innovative ideas in public libraries. It’s very similar to the Carnegie LibraryLab programme in the UK but, well, bigger. It’s also more open. I’ve noticed that the (many) authorities going for LibraryLab funding are being a bit cagey about what they’re developing and, possibly quite rightly, seeing other authorities as competition to be beaten to the prize. That’s the case with the Knight News Challenge too of course but there they’ve hit on the idea of making all ideas public from the time of submission. the result is a beautifully presented list / treasure trove of copyright-free ideas for libraries all around the world to dip into. Including us. So look at the pages on Inspiration (47 contributions) and the one on Submissions (67 separate ideas on there so far) and steal away. Shame so few are about books though.",
+    "html": "<p style=\"text-align: justify;\">Some very useful stuff is coming from a US project to look at innovative ideas in public libraries. It&#8217;s very similar to <a title=\"LibraryLab\" href=\"http://www.carnegieuktrust.org.uk/changing-minds/knowledge---culture/the-future-of-libraries/carnegie-library-lab\">the Carnegie LibraryLab programme in the UK </a>but, well, bigger. It&#8217;s also more open. I&#8217;ve noticed that the (many) authorities going for LibraryLab funding are being a bit cagey about what they&#8217;re developing and, possibly quite rightly, seeing other authorities as competition to be beaten to the prize. That&#8217;s the case with the Knight News Challenge too of course but there they&#8217;ve hit on the idea of making all ideas public from the time of submission. the result is a beautifully presented list / treasure trove of copyright-free ideas for libraries all around the world to dip into. Including us. So look at the pages on <a title=\"Knight Challenge\" href=\"https://www.newschallenge.org/challenge/libraries/inspiration/\"><strong>Inspiration </strong></a>(47 contributions) and the one on <a title=\"Knight Challenge\" href=\"https://www.newschallenge.org/challenge/libraries/submissions/\"><strong>Submissions </strong></a>(67 separate ideas on there so far) and steal away. Shame so few are about <em>book</em>s though.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 24,
+  "story_ids": [
+    "pln-story-8157-changes-001",
+    "pln-story-8157-changes-002",
+    "pln-story-8157-changes-003",
+    "pln-story-8157-changes-004",
+    "pln-story-8157-changes-005",
+    "pln-story-8157-changes-006",
+    "pln-story-8157-changes-007",
+    "pln-story-8157-changes-008",
+    "pln-story-8157-changes-009",
+    "pln-story-8157-changes-010",
+    "pln-story-8157-changes-011",
+    "pln-story-8157-intl-001",
+    "pln-story-8157-intl-002",
+    "pln-story-8157-intl-003",
+    "pln-story-8157-intl-004",
+    "pln-story-8157-intl-005",
+    "pln-story-8157-intl-006",
+    "pln-story-8157-intl-007",
+    "pln-story-8157-intl-008",
+    "pln-story-8157-intl-009",
+    "pln-story-8157-intl-010",
+    "pln-story-8157-intl-011",
+    "pln-story-8157-intl-012",
+    "pln-story-8157-intl-013"
+  ],
+  "stats": {
+    "authorities_count": 8,
+    "libraries_count": 7,
+    "countries_count": 5,
+    "top_categories": {
+      "closures_and_threats": 9,
+      "cuts_and_finance": 8,
+      "staffing_and_unions": 6,
+      "mobile_and_outreach": 5,
+      "opening_hours": 4,
+      "campaigns_and_protests": 3,
+      "book_bans_and_challenges": 2,
+      "volunteers_and_community": 1,
+      "digital_and_technology": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

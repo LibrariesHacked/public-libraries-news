@@ -1,0 +1,64 @@
+{
+  "id": "pln-post-13795",
+  "source_id": 13795,
+  "url": "https://www.publiclibrariesnews.com/2018/03/meanwhile-in-bookselling-amazon-takes-over.html",
+  "slug": "meanwhile-in-bookselling-amazon-takes-over",
+  "title": "Meanwhile, in bookselling, Amazon takes over",
+  "date_published": "2018-03-25T18:26:20",
+  "date_modified": "2018-03-27T19:40:44",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Something which passed by at the time, possibly because it made no mention of public libraries, was a report by Arts Council England late last year on trends in the British book market. It makes interesting companion reading to those of us (probably including everyone following this blog) who know what’s happening to public libraries. Before I get into that, though, I should say ACE are aware of libraries – I was at a meeting with them and publishers last week and libraries came up a lot, it’s just it got missed in the report. First thing is that fiction sales are down by nearly one-half since 2008, with hardback fiction price-per-book down 44% since 2001 and paperback books down 25%. The reason for the book price drop is assigned to the removal of the net book agreement (1997), the massive success of online book discounter (mainly Amazon), and a “general collapse in the price of content” due to the internet. Capping all of this off is the impact of the ebook, which from 2010/11 reached 33% of all books sold (with up to 90% of those on the Kindle, a monopoly run by Amazon). In recent years, prices have improved slightly, as have print sales, although ebooks are still officially a quarter of the market, and may be more (as a substantial part of Amazon’s ebooks are not included). So, basically, the decline in issues in public libraries is not unique to that but a general thing. Well, I think we knew that. And book issues decline is not far out of whack with the trend in book sales in the same period. But what drew my attention was something that was skirted around with in the report. Basically, the biggest impactor on book sales has been (a) book discounting, near-monopolised by Amazon and (b) ebooks,, also dominated by Amazon. Remember that the next time your finger hovers over the “buy” button on their site.",
+    "html": "<p style=\"text-align: justify;\">Something which passed by at the time, possibly because it made no mention of public libraries, was a report by Arts Council England late last year on trends in the British book market. It makes interesting companion reading to those of us (probably including everyone following this blog) who know what&#8217;s happening to public libraries. Before I get into that, though, I should say ACE are aware of libraries &#8211; I was at a meeting with them and publishers last week and libraries came up a lot, it&#8217;s just it got missed in the report.</p> <p style=\"text-align: justify;\">First thing is that fiction sales are down by nearly one-half since 2008, with hardback fiction price-per-book down 44% since 2001 and paperback books down 25%. The reason for the book price drop is assigned to the removal of the net book agreement (1997), the massive success of online book discounter (mainly Amazon), and a &#8220;general collapse in the price of content&#8221; due to the internet. Capping all of this off is the impact of the ebook, which from 2010/11 reached 33% of all books sold (with up to 90% of those on the Kindle, a monopoly run by Amazon). In recent years, prices have improved slightly, as have print sales, although ebooks are still officially a quarter of the market, and may be more (as a substantial part of Amazon&#8217;s ebooks are not included). So, basically, the decline in issues in public libraries is not unique to that but a general thing. Well, I think we knew that. And book issues decline is not far out of whack with the trend in book sales in the same period.</p> <p style=\"text-align: justify;\">But what drew my attention was something that was skirted around with in the report. Basically, the biggest impactor on book sales has been (a) book discounting, near-monopolised by Amazon and (b) ebooks,, also dominated by Amazon. Remember that the next time your finger hovers over the &#8220;buy&#8221; button on their site.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 17,
+  "story_ids": [
+    "pln-story-13795-changes-001",
+    "pln-story-13795-local-001",
+    "pln-story-13795-local-002",
+    "pln-story-13795-local-003",
+    "pln-story-13795-local-004",
+    "pln-story-13795-local-005",
+    "pln-story-13795-local-006",
+    "pln-story-13795-local-007",
+    "pln-story-13795-local-008",
+    "pln-story-13795-local-009",
+    "pln-story-13795-intl-001",
+    "pln-story-13795-intl-002",
+    "pln-story-13795-intl-003",
+    "pln-story-13795-intl-004",
+    "pln-story-13795-natl-001",
+    "pln-story-13795-natl-002",
+    "pln-story-13795-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 5,
+    "countries_count": 5,
+    "top_categories": {
+      "closures_and_threats": 6,
+      "staffing_and_unions": 3,
+      "volunteers_and_community": 2,
+      "campaigns_and_protests": 2,
+      "digital_and_technology": 2,
+      "events_and_activities": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "refurbishment_and_new_builds": 1,
+      "cuts_and_finance": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

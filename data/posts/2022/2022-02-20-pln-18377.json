@@ -1,0 +1,82 @@
+{
+  "id": "pln-post-18377",
+  "source_id": 18377,
+  "url": "https://www.publiclibrariesnews.com/2022/02/an-open-and-shut-case.html",
+  "slug": "an-open-and-shut-case",
+  "title": "An open and shut case?",
+  "date_published": "2022-02-20T17:20:33",
+  "date_modified": "2022-02-20T17:20:39",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I often see estimates of the numbers of libraries closed since 2010 or some other date. They are often represented as accurate, factual or official, which causes me to have a wry smile or slight headache depending on my mood. This is because such figures are only ever estimates. Everyone with at least some awareness of the situation knows that the most official provider of statistics for public libraries, CIPFA, is riddled with problems. This is not least because that august charging-the-public-for-year-old-plus-data body relies on councils for its figures and such councils often – can’t think why – downplay the number of closures. In addition, there is the problem of defining what a closure is. A council can pass on its library service to a town council which keeps it open or even increases hours. Is that a closure? What if it passes it on to unpaid volunteers but with a member of paid staff visiting per week? What if it’s just volunteers but the council still owns the building? What if it keeps that staff and the building but doesn’t buy new books? What if the total opening hours increases, due to library-card-recognition door sensors but has almost no staff? What if the library stays open, still run by the council but is reduced to 10% of its former size due to other services being brought in to the space? Does that represent .9 of a closure? The correct answer therefore you will get depends on the definition you have, or someone else has, or a mere guess or a hotch-potch collection from various sources. It cannot be seen as the correct answer. The public, and therefore the media, love clear facts but there is often no such thing. I gave up trying to count such closures when I realised this. Even adding up media reports, as I did for years, depends on such things being reported and noticed. And always there is the problem of definitions. Until there is a clearly accepted definition – and I suspect there never will be – in addition to a universal information gathering source – and, again, I suspect that there never will be one of those either – then please treat any airy claims of a “x number of closures” or such like with the suspicion it deserves. A far more accurate figure is the amount of council expenditure on libraries per year. But, again, I could write a whole essay on the problems with that. The number of libraries open and closed, you see, is never an open or shut case.",
+    "html": "<p class=\"wp-block-paragraph\">I often see estimates of the numbers of libraries closed since 2010 or some other date. They are often represented as accurate, factual or official, which causes me to have a wry smile or slight headache depending on my mood. This is because such figures are only ever estimates. Everyone with at least some awareness of the situation knows that the most official provider of statistics for public libraries, CIPFA, is riddled with problems. This is not least because that august charging-the-public-for-year-old-plus-data body relies on councils for its figures and such councils often &#8211; can&#8217;t think why &#8211; downplay the number of closures. </p> <p class=\"wp-block-paragraph\">In addition, there is the problem of defining what a closure is. A council can pass on its library service to a town council which keeps it open or even increases hours. Is that a closure? What if it passes it on to unpaid volunteers but with a member of paid staff visiting per week? What if it&#8217;s just volunteers but the council still owns the building? What if it keeps that staff and the building but doesn&#8217;t buy new books? What if the total opening hours increases, due to library-card-recognition door sensors but has almost no staff? What if the library stays open, still run by the council but is reduced to 10% of its former size due to other services being brought in to the space? Does that represent .9 of a closure? The correct answer therefore you will get depends on the definition you have, or someone else has, or a mere guess or a hotch-potch collection from various sources. It cannot be seen as <em>the</em> correct answer.</p> <p class=\"wp-block-paragraph\">The public, and therefore the media, love clear facts but there is often no such thing. I gave up trying to count such closures when I realised this. Even adding up media reports, as I did for years, depends on such things being reported and noticed. And always there is the problem of definitions. Until there is a clearly accepted definition &#8211; and I suspect there never will be &#8211; <em>in addition to </em>a universal information gathering source &#8211; and, again, I suspect that there never will be one of those either &#8211; then please treat any airy claims of a &#8220;x number of closures&#8221; or such like with the suspicion it deserves. A far more accurate figure is the amount of council expenditure on libraries per year. But, again, I could write a whole essay on the problems with that. The number of libraries open and closed, you see, is never an open or shut case.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 31,
+  "story_ids": [
+    "pln-story-18377-changes-001",
+    "pln-story-18377-changes-002",
+    "pln-story-18377-changes-003",
+    "pln-story-18377-changes-004",
+    "pln-story-18377-local-001",
+    "pln-story-18377-local-002",
+    "pln-story-18377-local-003",
+    "pln-story-18377-local-004",
+    "pln-story-18377-local-005",
+    "pln-story-18377-local-006",
+    "pln-story-18377-local-007",
+    "pln-story-18377-local-008",
+    "pln-story-18377-local-009",
+    "pln-story-18377-local-010",
+    "pln-story-18377-local-011",
+    "pln-story-18377-local-012",
+    "pln-story-18377-local-013",
+    "pln-story-18377-local-014",
+    "pln-story-18377-local-015",
+    "pln-story-18377-local-016",
+    "pln-story-18377-local-017",
+    "pln-story-18377-local-018",
+    "pln-story-18377-local-019",
+    "pln-story-18377-local-020",
+    "pln-story-18377-intl-001",
+    "pln-story-18377-intl-002",
+    "pln-story-18377-intl-003",
+    "pln-story-18377-intl-004",
+    "pln-story-18377-natl-001",
+    "pln-story-18377-natl-002",
+    "pln-story-18377-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 21,
+    "libraries_count": 12,
+    "countries_count": 7,
+    "top_categories": {
+      "cuts_and_finance": 7,
+      "closures_and_threats": 6,
+      "refurbishment_and_new_builds": 5,
+      "events_and_activities": 4,
+      "campaigns_and_protests": 3,
+      "staffing_and_unions": 3,
+      "co_location": 2,
+      "volunteers_and_community": 2,
+      "governance_and_trusts": 1,
+      "opening_hours": 1,
+      "mobile_and_outreach": 1,
+      "book_bans_and_challenges": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

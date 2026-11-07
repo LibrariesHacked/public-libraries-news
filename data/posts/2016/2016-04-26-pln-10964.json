@@ -1,0 +1,74 @@
+{
+  "id": "pln-post-10964",
+  "source_id": 10964,
+  "url": "https://www.publiclibrariesnews.com/2016/04/cuts-in-north-somerset-a-strike-in-bristol-and-petitions-over-library-moves.html",
+  "slug": "cuts-in-north-somerset-a-strike-in-bristol-and-petitions-over-library-moves",
+  "title": "Cuts in North Somerset, a strike in Bristol and petitions over library moves",
+  "date_published": "2016-04-26T20:18:31",
+  "date_modified": "2016-04-28T20:21:46",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "North Somerset – quiet on these pages for a few years – has announced that libraries and children’s centres will co-locate (with all the benefits and problems that implies) for an overall cut of £500k. Meanwhile, nearby in Bristol, all libraries will be closed for day while staff strike over changes to working conditions which mean, they claim, that many are effectively being paid less for working more. Over in Staffordshire, it looks like quite a few branches have had to close temporarily due to staff shortages and, in addition, the county has received over 6,000 names on a petition over the move of Lichfield Library. People in Brighton and Hove are not looking delighted over the move of Hove Library either.",
+    "html": "<p style=\"text-align: justify;\">North Somerset &#8211; quiet on these pages for a few years &#8211; has announced that libraries and children&#8217;s centres will co-locate (with all the benefits and problems that implies) for an overall cut of £500k. Meanwhile, nearby in Bristol, all libraries will be closed for day while staff strike over changes to working conditions which mean, they claim, that many are effectively being paid less for working more. Over in Staffordshire, it looks like quite a few branches have had to close temporarily due to staff shortages and, in addition, the county has received over 6,000 names on a petition over the move of Lichfield Library. People in Brighton and Hove are not looking delighted over the move of Hove Library either.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 26,
+  "story_ids": [
+    "pln-story-10964-changes-001",
+    "pln-story-10964-local-001",
+    "pln-story-10964-local-002",
+    "pln-story-10964-local-003",
+    "pln-story-10964-local-004",
+    "pln-story-10964-local-005",
+    "pln-story-10964-local-006",
+    "pln-story-10964-local-007",
+    "pln-story-10964-local-008",
+    "pln-story-10964-local-009",
+    "pln-story-10964-local-010",
+    "pln-story-10964-local-011",
+    "pln-story-10964-local-012",
+    "pln-story-10964-local-013",
+    "pln-story-10964-local-014",
+    "pln-story-10964-local-015",
+    "pln-story-10964-local-016",
+    "pln-story-10964-intl-001",
+    "pln-story-10964-intl-002",
+    "pln-story-10964-intl-003",
+    "pln-story-10964-intl-004",
+    "pln-story-10964-intl-005",
+    "pln-story-10964-intl-006",
+    "pln-story-10964-natl-001",
+    "pln-story-10964-natl-002",
+    "pln-story-10964-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 14,
+    "libraries_count": 8,
+    "countries_count": 6,
+    "top_categories": {
+      "events_and_activities": 10,
+      "cuts_and_finance": 6,
+      "staffing_and_unions": 4,
+      "campaigns_and_protests": 3,
+      "digital_and_technology": 3,
+      "closures_and_threats": 2,
+      "mobile_and_outreach": 2,
+      "volunteers_and_community": 2,
+      "co_location": 1,
+      "opening_hours": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

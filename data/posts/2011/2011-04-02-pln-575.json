@@ -1,0 +1,43 @@
+{
+  "id": "pln-post-575",
+  "source_id": 575,
+  "url": "https://www.publiclibrariesnews.com/2011/04/4-in-5-town-halls-plan-cutbacks-to-libraries.html",
+  "slug": "4-in-5-town-halls-plan-cutbacks-to-libraries",
+  "title": "4 in 5 town halls plan cutbacks to libraries",
+  "date_published": "2011-04-02T22:20:00",
+  "date_modified": "2011-04-02T22:20:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "In a letter to a constituent, Frank Field has uncovered the unwelcome news that the Government could indeed use its current review of legislation to amend or abolish the 1964 Public Libraries and Museums Act and thus remove all statutory protection from public libraries. Make sure to put your views on the government website, making sure – if you are against closures – to say that the current law is not a “burden”.",
+    "html": "In <a href=\"http://alangibbons.net/?p=8899\">a letter to a constituent, Frank Field has uncovered the unwelcome new</a>s that the Government could indeed use its <a href=\"http://www.voicesforthelibrary.org.uk/wordpress/?page_id=1365\">current review</a> of legislation to amend or abolish the 1964 Public Libraries and Museums Act and thus remove all statutory protection from public libraries. Make sure to put your views on the government website, making sure &#8211; if you are against closures &#8211; to say that the current law is not a &#8220;burden&#8221;.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial"
+  ],
+  "stories_count": 2,
+  "story_ids": [
+    "pln-story-575-changes-001",
+    "pln-story-575-changes-002"
+  ],
+  "stats": {
+    "authorities_count": 1,
+    "libraries_count": 1,
+    "countries_count": 1,
+    "top_categories": {
+      "closures_and_threats": 2,
+      "cuts_and_finance": 2,
+      "campaigns_and_protests": 2,
+      "governance_and_trusts": 1,
+      "staffing_and_unions": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,36 +1,1528 @@
 {
   "$schema": "https://json-schema.org/draft/2020-12/schema",
-  "description": "Lookup table of countries commonly mentioned in PLN International News.",
+  "description": "Lookup table of countries, states, and provinces commonly mentioned in PLN International News.",
   "countries": [
-    {"name": "United States", "code": "US", "aliases": ["USA", "US", "United States of America", "America"]},
-    {"name": "Canada", "code": "CA", "aliases": ["Ontario", "Quebec", "Toronto", "Vancouver"]},
-    {"name": "Australia", "code": "AU", "aliases": ["New South Wales", "Victoria", "Queensland", "Sydney", "Melbourne"]},
-    {"name": "New Zealand", "code": "NZ", "aliases": ["Aotearoa"]},
-    {"name": "Ireland", "code": "IE", "aliases": ["Republic of Ireland", "Eire", "Dublin"]},
-    {"name": "France", "code": "FR", "aliases": ["Paris"]},
-    {"name": "Germany", "code": "DE", "aliases": ["Deutschland", "Berlin"]},
-    {"name": "Netherlands", "code": "NL", "aliases": ["Holland", "Amsterdam"]},
-    {"name": "Sweden", "code": "SE", "aliases": ["Stockholm"]},
-    {"name": "Norway", "code": "NO", "aliases": ["Oslo"]},
-    {"name": "Denmark", "code": "DK", "aliases": ["Copenhagen"]},
-    {"name": "Finland", "code": "FI", "aliases": ["Helsinki", "Oodi"]},
-    {"name": "Spain", "code": "ES", "aliases": ["Madrid", "Barcelona"]},
-    {"name": "Italy", "code": "IT", "aliases": ["Rome", "Milan"]},
-    {"name": "Portugal", "code": "PT", "aliases": ["Lisbon"]},
-    {"name": "Poland", "code": "PL", "aliases": ["Warsaw"]},
-    {"name": "Ukraine", "code": "UA", "aliases": ["Kyiv"]},
-    {"name": "Belgium", "code": "BE", "aliases": ["Brussels"]},
-    {"name": "Switzerland", "code": "CH", "aliases": ["Geneva", "Zurich"]},
-    {"name": "Austria", "code": "AT", "aliases": ["Vienna"]},
-    {"name": "Singapore", "code": "SG", "aliases": []},
-    {"name": "Japan", "code": "JP", "aliases": ["Tokyo"]},
-    {"name": "South Korea", "code": "KR", "aliases": ["Korea", "Seoul"]},
-    {"name": "China", "code": "CN", "aliases": ["Beijing", "Shanghai"]},
-    {"name": "Hong Kong", "code": "HK", "aliases": []},
-    {"name": "India", "code": "IN", "aliases": ["Delhi", "Mumbai"]},
-    {"name": "South Africa", "code": "ZA", "aliases": ["Johannesburg", "Cape Town"]},
-    {"name": "Brazil", "code": "BR", "aliases": ["Brasil", "Sao Paulo"]},
-    {"name": "Argentina", "code": "AR", "aliases": ["Buenos Aires"]},
-    {"name": "Mexico", "code": "MX", "aliases": ["Mexico City"]}
+    {
+      "name": "United States",
+      "code": "US",
+      "aliases": [
+        "USA",
+        "US",
+        "United States of America",
+        "America",
+        "Alabama",
+        "Alaska",
+        "Arizona",
+        "Arkansas",
+        "California",
+        "Colorado",
+        "Connecticut",
+        "Delaware",
+        "Florida",
+        "Georgia",
+        "Hawaii",
+        "Idaho",
+        "Illinois",
+        "Indiana",
+        "Iowa",
+        "Kansas",
+        "Kentucky",
+        "Louisiana",
+        "Maine",
+        "Maryland",
+        "Massachusetts",
+        "Michigan",
+        "Minnesota",
+        "Mississippi",
+        "Missouri",
+        "Montana",
+        "Nebraska",
+        "Nevada",
+        "New Hampshire",
+        "New Jersey",
+        "New Mexico",
+        "New York",
+        "North Carolina",
+        "North Dakota",
+        "Ohio",
+        "Oklahoma",
+        "Oregon",
+        "Pennsylvania",
+        "Rhode Island",
+        "South Carolina",
+        "South Dakota",
+        "Tennessee",
+        "Texas",
+        "Utah",
+        "Vermont",
+        "Virginia",
+        "Washington",
+        "West Virginia",
+        "Wisconsin",
+        "Wyoming",
+        "ALA",
+        "American Library Association",
+        "Washington DC",
+        "Philadelphia",
+        "Chicago",
+        "Boston",
+        "San Francisco",
+        "Los Angeles"
+      ]
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "aliases": [
+        "Ontario",
+        "Quebec",
+        "British Columbia",
+        "Alberta",
+        "Manitoba",
+        "Saskatchewan",
+        "Nova Scotia",
+        "New Brunswick",
+        "Newfoundland",
+        "Toronto",
+        "Vancouver",
+        "Montreal",
+        "Ottawa",
+        "Calgary",
+        "Edmonton"
+      ]
+    },
+    {
+      "name": "Australia",
+      "code": "AU",
+      "aliases": [
+        "New South Wales",
+        "Victoria",
+        "Queensland",
+        "Western Australia",
+        "South Australia",
+        "Tasmania",
+        "Northern Territory",
+        "Sydney",
+        "Melbourne",
+        "Brisbane",
+        "Perth",
+        "Adelaide",
+        "ALIA",
+        "Australian Library and Information Association"
+      ]
+    },
+    {
+      "name": "New Zealand",
+      "code": "NZ",
+      "aliases": [
+        "Aotearoa",
+        "Auckland",
+        "Wellington",
+        "Christchurch"
+      ]
+    },
+    {
+      "name": "Ireland",
+      "code": "IE",
+      "aliases": [
+        "Republic of Ireland",
+        "Eire",
+        "Dublin",
+        "Cork",
+        "Galway",
+        "Limerick",
+        "Wexford"
+      ]
+    },
+    {
+      "name": "France",
+      "code": "FR",
+      "aliases": [
+        "Paris",
+        "Lyon",
+        "Marseille"
+      ]
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "aliases": [
+        "Deutschland",
+        "Berlin",
+        "Munich",
+        "Hamburg",
+        "Frankfurt"
+      ]
+    },
+    {
+      "name": "Netherlands",
+      "code": "NL",
+      "aliases": [
+        "Holland",
+        "Amsterdam",
+        "Rotterdam",
+        "The Hague",
+        "Utrecht"
+      ]
+    },
+    {
+      "name": "Sweden",
+      "code": "SE",
+      "aliases": [
+        "Stockholm",
+        "Gothenburg",
+        "Malmo"
+      ]
+    },
+    {
+      "name": "Norway",
+      "code": "NO",
+      "aliases": [
+        "Oslo",
+        "Bergen"
+      ]
+    },
+    {
+      "name": "Denmark",
+      "code": "DK",
+      "aliases": [
+        "Copenhagen",
+        "Aarhus"
+      ]
+    },
+    {
+      "name": "Finland",
+      "code": "FI",
+      "aliases": [
+        "Helsinki",
+        "Oodi",
+        "Espoo",
+        "Tampere"
+      ]
+    },
+    {
+      "name": "Spain",
+      "code": "ES",
+      "aliases": [
+        "Madrid",
+        "Barcelona",
+        "Valencia",
+        "Seville"
+      ]
+    },
+    {
+      "name": "Italy",
+      "code": "IT",
+      "aliases": [
+        "Rome",
+        "Milan",
+        "Naples",
+        "Turin",
+        "Florence"
+      ]
+    },
+    {
+      "name": "Portugal",
+      "code": "PT",
+      "aliases": [
+        "Lisbon",
+        "Porto"
+      ]
+    },
+    {
+      "name": "Poland",
+      "code": "PL",
+      "aliases": [
+        "Warsaw",
+        "Krakow"
+      ]
+    },
+    {
+      "name": "Ukraine",
+      "code": "UA",
+      "aliases": [
+        "Kyiv",
+        "Lviv",
+        "Odesa"
+      ]
+    },
+    {
+      "name": "Belgium",
+      "code": "BE",
+      "aliases": [
+        "Brussels",
+        "Antwerp",
+        "Ghent"
+      ]
+    },
+    {
+      "name": "Switzerland",
+      "code": "CH",
+      "aliases": [
+        "Geneva",
+        "Zurich",
+        "Basel",
+        "Bern"
+      ]
+    },
+    {
+      "name": "Austria",
+      "code": "AT",
+      "aliases": [
+        "Vienna",
+        "Salzburg"
+      ]
+    },
+    {
+      "name": "Czechia",
+      "code": "CZ",
+      "aliases": [
+        "Czech Republic",
+        "Prague",
+        "Brno"
+      ]
+    },
+    {
+      "name": "Greece",
+      "code": "GR",
+      "aliases": [
+        "Athens",
+        "Thessaloniki",
+        "Lesbos"
+      ]
+    },
+    {
+      "name": "Turkey",
+      "code": "TR",
+      "aliases": [
+        "Turkiye",
+        "Türkiye",
+        "Istanbul",
+        "Ankara"
+      ]
+    },
+    {
+      "name": "Saudi Arabia",
+      "code": "SA",
+      "aliases": [
+        "Saudia Arabia",
+        "Riyadh",
+        "Jeddah"
+      ]
+    },
+    {
+      "name": "Syria",
+      "code": "SY",
+      "aliases": [
+        "Damascus",
+        "Aleppo"
+      ]
+    },
+    {
+      "name": "Singapore",
+      "code": "SG",
+      "aliases": [
+        "NLB",
+        "National Library Board"
+      ]
+    },
+    {
+      "name": "Japan",
+      "code": "JP",
+      "aliases": [
+        "Tokyo",
+        "Kyoto",
+        "Osaka"
+      ]
+    },
+    {
+      "name": "South Korea",
+      "code": "KR",
+      "aliases": [
+        "Korea",
+        "Seoul",
+        "Busan"
+      ]
+    },
+    {
+      "name": "China",
+      "code": "CN",
+      "aliases": [
+        "Beijing",
+        "Shanghai",
+        "Shenzhen",
+        "Guangzhou"
+      ]
+    },
+    {
+      "name": "Hong Kong",
+      "code": "HK",
+      "aliases": []
+    },
+    {
+      "name": "India",
+      "code": "IN",
+      "aliases": [
+        "Delhi",
+        "Mumbai",
+        "Bangalore",
+        "Kolkata"
+      ]
+    },
+    {
+      "name": "Nigeria",
+      "code": "NG",
+      "aliases": [
+        "Lagos",
+        "Abuja"
+      ]
+    },
+    {
+      "name": "South Africa",
+      "code": "ZA",
+      "aliases": [
+        "Johannesburg",
+        "Cape Town",
+        "Durban",
+        "Pretoria"
+      ]
+    },
+    {
+      "name": "Kenya",
+      "code": "KE",
+      "aliases": [
+        "Nairobi"
+      ]
+    },
+    {
+      "name": "Ghana",
+      "code": "GH",
+      "aliases": [
+        "Accra"
+      ]
+    },
+    {
+      "name": "Brazil",
+      "code": "BR",
+      "aliases": [
+        "Brasil",
+        "Sao Paulo",
+        "Rio de Janeiro"
+      ]
+    },
+    {
+      "name": "Argentina",
+      "code": "AR",
+      "aliases": [
+        "Buenos Aires"
+      ]
+    },
+    {
+      "name": "Mexico",
+      "code": "MX",
+      "aliases": [
+        "Mexico City",
+        "Guadalajara"
+      ]
+    },
+    {
+      "name": "United Arab Emirates",
+      "code": "AE",
+      "aliases": [
+        "UAE",
+        "Dubai",
+        "Abu Dhabi",
+        "Sharjah"
+      ]
+    },
+    {
+      "name": "Philippines",
+      "code": "PH",
+      "aliases": [
+        "Manila"
+      ]
+    },
+    {
+      "name": "Lebanon",
+      "code": "LB",
+      "aliases": [
+        "Beirut"
+      ]
+    },
+    {
+      "name": "Estonia",
+      "code": "EE",
+      "aliases": [
+        "Tallinn"
+      ]
+    },
+    {
+      "name": "Tanzania",
+      "code": "TZ",
+      "aliases": [
+        "Dar es Salaam"
+      ]
+    },
+    {
+      "name": "Iceland",
+      "code": "IS",
+      "aliases": [
+        "Reykjavik"
+      ]
+    },
+    {
+      "name": "Vietnam",
+      "code": "VN",
+      "aliases": [
+        "Hanoi",
+        "Ho Chi Minh",
+        "Da Nang"
+      ]
+    },
+    {
+      "name": "Palestine",
+      "code": "PS",
+      "aliases": [
+        "Gaza",
+        "West Bank",
+        "Ramallah"
+      ]
+    },
+    {
+      "name": "Malta",
+      "code": "MT",
+      "aliases": [
+        "Valletta"
+      ]
+    },
+    {
+      "name": "British Virgin Islands",
+      "code": "VG",
+      "aliases": [
+        "BVI"
+      ]
+    },
+    {
+      "name": "Global",
+      "code": "GLOBAL",
+      "aliases": [
+        "International",
+        "Europe",
+        "Worldwide",
+        "IFLA",
+        "EU",
+        "European Union",
+        "Africa",
+        "Global"
+      ]
+    },
+    {
+      "name": "Afghanistan",
+      "code": "AF",
+      "aliases": [
+        "Kabul"
+      ]
+    },
+    {
+      "name": "Albania",
+      "code": "AL",
+      "aliases": [
+        "Tirana"
+      ]
+    },
+    {
+      "name": "Algeria",
+      "code": "DZ",
+      "aliases": [
+        "Algiers"
+      ]
+    },
+    {
+      "name": "Andorra",
+      "code": "AD",
+      "aliases": []
+    },
+    {
+      "name": "Angola",
+      "code": "AO",
+      "aliases": [
+        "Luanda"
+      ]
+    },
+    {
+      "name": "Antigua and Barbuda",
+      "code": "AG",
+      "aliases": []
+    },
+    {
+      "name": "Armenia",
+      "code": "AM",
+      "aliases": [
+        "Yerevan"
+      ]
+    },
+    {
+      "name": "Azerbaijan",
+      "code": "AZ",
+      "aliases": [
+        "Baku"
+      ]
+    },
+    {
+      "name": "Bahamas",
+      "code": "BS",
+      "aliases": [
+        "Nassau"
+      ]
+    },
+    {
+      "name": "Bahrain",
+      "code": "BH",
+      "aliases": [
+        "Manama"
+      ]
+    },
+    {
+      "name": "Bangladesh",
+      "code": "BD",
+      "aliases": [
+        "Dhaka"
+      ]
+    },
+    {
+      "name": "Barbados",
+      "code": "BB",
+      "aliases": [
+        "Bridgetown"
+      ]
+    },
+    {
+      "name": "Belarus",
+      "code": "BY",
+      "aliases": [
+        "Minsk"
+      ]
+    },
+    {
+      "name": "Belize",
+      "code": "BZ",
+      "aliases": []
+    },
+    {
+      "name": "Benin",
+      "code": "BJ",
+      "aliases": []
+    },
+    {
+      "name": "Bhutan",
+      "code": "BT",
+      "aliases": [
+        "Thimphu"
+      ]
+    },
+    {
+      "name": "Bolivia",
+      "code": "BO",
+      "aliases": [
+        "La Paz",
+        "Sucre"
+      ]
+    },
+    {
+      "name": "Bosnia and Herzegovina",
+      "code": "BA",
+      "aliases": [
+        "Bosnia",
+        "Sarajevo"
+      ]
+    },
+    {
+      "name": "Botswana",
+      "code": "BW",
+      "aliases": [
+        "Gaborone"
+      ]
+    },
+    {
+      "name": "Brunei",
+      "code": "BN",
+      "aliases": []
+    },
+    {
+      "name": "Bulgaria",
+      "code": "BG",
+      "aliases": [
+        "Sofia"
+      ]
+    },
+    {
+      "name": "Burkina Faso",
+      "code": "BF",
+      "aliases": []
+    },
+    {
+      "name": "Burundi",
+      "code": "BI",
+      "aliases": []
+    },
+    {
+      "name": "Cabo Verde",
+      "code": "CV",
+      "aliases": [
+        "Cape Verde"
+      ]
+    },
+    {
+      "name": "Cambodia",
+      "code": "KH",
+      "aliases": [
+        "Phnom Penh"
+      ]
+    },
+    {
+      "name": "Cameroon",
+      "code": "CM",
+      "aliases": [
+        "Yaounde"
+      ]
+    },
+    {
+      "name": "Central African Republic",
+      "code": "CF",
+      "aliases": []
+    },
+    {
+      "name": "Chad",
+      "code": "TD",
+      "aliases": []
+    },
+    {
+      "name": "Chile",
+      "code": "CL",
+      "aliases": [
+        "Santiago"
+      ]
+    },
+    {
+      "name": "Colombia",
+      "code": "CO",
+      "aliases": [
+        "Bogota",
+        "Medellin"
+      ]
+    },
+    {
+      "name": "Comoros",
+      "code": "KM",
+      "aliases": []
+    },
+    {
+      "name": "Congo",
+      "code": "CG",
+      "aliases": [
+        "Brazzaville"
+      ]
+    },
+    {
+      "name": "DR Congo",
+      "code": "CD",
+      "aliases": [
+        "Democratic Republic of the Congo",
+        "Kinshasa"
+      ]
+    },
+    {
+      "name": "Costa Rica",
+      "code": "CR",
+      "aliases": [
+        "San Jose"
+      ]
+    },
+    {
+      "name": "Cote d'Ivoire",
+      "code": "CI",
+      "aliases": [
+        "Ivory Coast",
+        "Abidjan"
+      ]
+    },
+    {
+      "name": "Croatia",
+      "code": "HR",
+      "aliases": [
+        "Zagreb",
+        "Dubrovnik"
+      ]
+    },
+    {
+      "name": "Cuba",
+      "code": "CU",
+      "aliases": [
+        "Havana"
+      ]
+    },
+    {
+      "name": "Cyprus",
+      "code": "CY",
+      "aliases": [
+        "Nicosia"
+      ]
+    },
+    {
+      "name": "Dominica",
+      "code": "DM",
+      "aliases": []
+    },
+    {
+      "name": "Dominican Republic",
+      "code": "DO",
+      "aliases": [
+        "Santo Domingo"
+      ]
+    },
+    {
+      "name": "Ecuador",
+      "code": "EC",
+      "aliases": [
+        "Quito",
+        "Guayaquil"
+      ]
+    },
+    {
+      "name": "Egypt",
+      "code": "EG",
+      "aliases": [
+        "Cairo",
+        "Alexandria"
+      ]
+    },
+    {
+      "name": "El Salvador",
+      "code": "SV",
+      "aliases": [
+        "San Salvador"
+      ]
+    },
+    {
+      "name": "Equatorial Guinea",
+      "code": "GQ",
+      "aliases": []
+    },
+    {
+      "name": "Eritrea",
+      "code": "ER",
+      "aliases": [
+        "Asmara"
+      ]
+    },
+    {
+      "name": "Eswatini",
+      "code": "SZ",
+      "aliases": [
+        "Swaziland"
+      ]
+    },
+    {
+      "name": "Ethiopia",
+      "code": "ET",
+      "aliases": [
+        "Addis Ababa"
+      ]
+    },
+    {
+      "name": "Fiji",
+      "code": "FJ",
+      "aliases": [
+        "Suva"
+      ]
+    },
+    {
+      "name": "Gabon",
+      "code": "GA",
+      "aliases": [
+        "Libreville"
+      ]
+    },
+    {
+      "name": "Gambia",
+      "code": "GM",
+      "aliases": [
+        "Banjul"
+      ]
+    },
+    {
+      "name": "Georgia",
+      "code": "GE",
+      "aliases": [
+        "Tbilisi"
+      ]
+    },
+    {
+      "name": "Grenada",
+      "code": "GD",
+      "aliases": []
+    },
+    {
+      "name": "Guatemala",
+      "code": "GT",
+      "aliases": [
+        "Guatemala City"
+      ]
+    },
+    {
+      "name": "Guinea",
+      "code": "GN",
+      "aliases": [
+        "Conakry"
+      ]
+    },
+    {
+      "name": "Guinea-Bissau",
+      "code": "GW",
+      "aliases": []
+    },
+    {
+      "name": "Guyana",
+      "code": "GY",
+      "aliases": [
+        "Georgetown"
+      ]
+    },
+    {
+      "name": "Haiti",
+      "code": "HT",
+      "aliases": [
+        "Port-au-Prince"
+      ]
+    },
+    {
+      "name": "Honduras",
+      "code": "HN",
+      "aliases": [
+        "Tegucigalpa"
+      ]
+    },
+    {
+      "name": "Hungary",
+      "code": "HU",
+      "aliases": [
+        "Budapest"
+      ]
+    },
+    {
+      "name": "Indonesia",
+      "code": "ID",
+      "aliases": [
+        "Jakarta",
+        "Bali",
+        "Surabaya"
+      ]
+    },
+    {
+      "name": "Iran",
+      "code": "IR",
+      "aliases": [
+        "Tehran"
+      ]
+    },
+    {
+      "name": "Iraq",
+      "code": "IQ",
+      "aliases": [
+        "Baghdad",
+        "Basra",
+        "Mosul"
+      ]
+    },
+    {
+      "name": "Israel",
+      "code": "IL",
+      "aliases": [
+        "Tel Aviv",
+        "Jerusalem",
+        "Haifa"
+      ]
+    },
+    {
+      "name": "Jamaica",
+      "code": "JM",
+      "aliases": [
+        "Kingston"
+      ]
+    },
+    {
+      "name": "Jordan",
+      "code": "JO",
+      "aliases": [
+        "Amman"
+      ]
+    },
+    {
+      "name": "Kazakhstan",
+      "code": "KZ",
+      "aliases": [
+        "Astana",
+        "Almaty"
+      ]
+    },
+    {
+      "name": "Kiribati",
+      "code": "KI",
+      "aliases": []
+    },
+    {
+      "name": "Kosovo",
+      "code": "XK",
+      "aliases": [
+        "Pristina"
+      ]
+    },
+    {
+      "name": "Kuwait",
+      "code": "KW",
+      "aliases": [
+        "Kuwait City"
+      ]
+    },
+    {
+      "name": "Kyrgyzstan",
+      "code": "KG",
+      "aliases": [
+        "Bishkek"
+      ]
+    },
+    {
+      "name": "Laos",
+      "code": "LA",
+      "aliases": [
+        "Vientiane"
+      ]
+    },
+    {
+      "name": "Latvia",
+      "code": "LV",
+      "aliases": [
+        "Riga"
+      ]
+    },
+    {
+      "name": "Lesotho",
+      "code": "LS",
+      "aliases": []
+    },
+    {
+      "name": "Liberia",
+      "code": "LR",
+      "aliases": [
+        "Monrovia"
+      ]
+    },
+    {
+      "name": "Libya",
+      "code": "LY",
+      "aliases": [
+        "Tripoli",
+        "Benghazi"
+      ]
+    },
+    {
+      "name": "Liechtenstein",
+      "code": "LI",
+      "aliases": [
+        "Vaduz"
+      ]
+    },
+    {
+      "name": "Lithuania",
+      "code": "LT",
+      "aliases": [
+        "Vilnius",
+        "Kaunas"
+      ]
+    },
+    {
+      "name": "Luxembourg",
+      "code": "LU",
+      "aliases": []
+    },
+    {
+      "name": "Madagascar",
+      "code": "MG",
+      "aliases": [
+        "Antananarivo"
+      ]
+    },
+    {
+      "name": "Malawi",
+      "code": "MW",
+      "aliases": [
+        "Lilongwe"
+      ]
+    },
+    {
+      "name": "Malaysia",
+      "code": "MY",
+      "aliases": [
+        "Kuala Lumpur",
+        "Penang"
+      ]
+    },
+    {
+      "name": "Maldives",
+      "code": "MV",
+      "aliases": [
+        "Male"
+      ]
+    },
+    {
+      "name": "Mali",
+      "code": "ML",
+      "aliases": [
+        "Bamako",
+        "Timbuktu"
+      ]
+    },
+    {
+      "name": "Marshall Islands",
+      "code": "MH",
+      "aliases": []
+    },
+    {
+      "name": "Mauritania",
+      "code": "MR",
+      "aliases": [
+        "Nouakchott"
+      ]
+    },
+    {
+      "name": "Mauritius",
+      "code": "MU",
+      "aliases": [
+        "Port Louis"
+      ]
+    },
+    {
+      "name": "Micronesia",
+      "code": "FM",
+      "aliases": []
+    },
+    {
+      "name": "Moldova",
+      "code": "MD",
+      "aliases": [
+        "Chisinau"
+      ]
+    },
+    {
+      "name": "Monaco",
+      "code": "MC",
+      "aliases": []
+    },
+    {
+      "name": "Mongolia",
+      "code": "MN",
+      "aliases": [
+        "Ulaanbaatar"
+      ]
+    },
+    {
+      "name": "Montenegro",
+      "code": "ME",
+      "aliases": [
+        "Podgorica"
+      ]
+    },
+    {
+      "name": "Morocco",
+      "code": "MA",
+      "aliases": [
+        "Rabat",
+        "Casablanca",
+        "Marrakech"
+      ]
+    },
+    {
+      "name": "Mozambique",
+      "code": "MZ",
+      "aliases": [
+        "Maputo"
+      ]
+    },
+    {
+      "name": "Myanmar",
+      "code": "MM",
+      "aliases": [
+        "Burma",
+        "Yangon"
+      ]
+    },
+    {
+      "name": "Namibia",
+      "code": "NA",
+      "aliases": [
+        "Windhoek"
+      ]
+    },
+    {
+      "name": "Nauru",
+      "code": "NR",
+      "aliases": []
+    },
+    {
+      "name": "Nepal",
+      "code": "NP",
+      "aliases": [
+        "Kathmandu"
+      ]
+    },
+    {
+      "name": "Nicaragua",
+      "code": "NI",
+      "aliases": [
+        "Managua"
+      ]
+    },
+    {
+      "name": "Niger",
+      "code": "NE",
+      "aliases": [
+        "Niamey"
+      ]
+    },
+    {
+      "name": "North Korea",
+      "code": "KP",
+      "aliases": [
+        "Pyongyang"
+      ]
+    },
+    {
+      "name": "North Macedonia",
+      "code": "MK",
+      "aliases": [
+        "Macedonia",
+        "Skopje"
+      ]
+    },
+    {
+      "name": "Oman",
+      "code": "OM",
+      "aliases": [
+        "Muscat"
+      ]
+    },
+    {
+      "name": "Pakistan",
+      "code": "PK",
+      "aliases": [
+        "Islamabad",
+        "Karachi",
+        "Lahore"
+      ]
+    },
+    {
+      "name": "Palau",
+      "code": "PW",
+      "aliases": []
+    },
+    {
+      "name": "Panama",
+      "code": "PA",
+      "aliases": [
+        "Panama City"
+      ]
+    },
+    {
+      "name": "Papua New Guinea",
+      "code": "PG",
+      "aliases": [
+        "Port Moresby"
+      ]
+    },
+    {
+      "name": "Paraguay",
+      "code": "PY",
+      "aliases": [
+        "Asuncion"
+      ]
+    },
+    {
+      "name": "Peru",
+      "code": "PE",
+      "aliases": [
+        "Lima",
+        "Cusco"
+      ]
+    },
+    {
+      "name": "Qatar",
+      "code": "QA",
+      "aliases": [
+        "Doha"
+      ]
+    },
+    {
+      "name": "Romania",
+      "code": "RO",
+      "aliases": [
+        "Bucharest",
+        "Cluj"
+      ]
+    },
+    {
+      "name": "Russia",
+      "code": "RU",
+      "aliases": [
+        "Russian Federation",
+        "Moscow",
+        "Saint Petersburg"
+      ]
+    },
+    {
+      "name": "Rwanda",
+      "code": "RW",
+      "aliases": [
+        "Kigali"
+      ]
+    },
+    {
+      "name": "Saint Kitts and Nevis",
+      "code": "KN",
+      "aliases": []
+    },
+    {
+      "name": "Saint Lucia",
+      "code": "LC",
+      "aliases": []
+    },
+    {
+      "name": "Saint Vincent and the Grenadines",
+      "code": "VC",
+      "aliases": []
+    },
+    {
+      "name": "Samoa",
+      "code": "WS",
+      "aliases": []
+    },
+    {
+      "name": "San Marino",
+      "code": "SM",
+      "aliases": []
+    },
+    {
+      "name": "Sao Tome and Principe",
+      "code": "ST",
+      "aliases": []
+    },
+    {
+      "name": "Senegal",
+      "code": "SN",
+      "aliases": [
+        "Dakar"
+      ]
+    },
+    {
+      "name": "Serbia",
+      "code": "RS",
+      "aliases": [
+        "Belgrade"
+      ]
+    },
+    {
+      "name": "Seychelles",
+      "code": "SC",
+      "aliases": []
+    },
+    {
+      "name": "Sierra Leone",
+      "code": "SL",
+      "aliases": [
+        "Freetown"
+      ]
+    },
+    {
+      "name": "Slovakia",
+      "code": "SK",
+      "aliases": [
+        "Bratislava"
+      ]
+    },
+    {
+      "name": "Slovenia",
+      "code": "SI",
+      "aliases": [
+        "Ljubljana"
+      ]
+    },
+    {
+      "name": "Solomon Islands",
+      "code": "SB",
+      "aliases": []
+    },
+    {
+      "name": "Somalia",
+      "code": "SO",
+      "aliases": [
+        "Mogadishu"
+      ]
+    },
+    {
+      "name": "South Sudan",
+      "code": "SS",
+      "aliases": [
+        "Juba"
+      ]
+    },
+    {
+      "name": "Sri Lanka",
+      "code": "LK",
+      "aliases": [
+        "Colombo"
+      ]
+    },
+    {
+      "name": "Sudan",
+      "code": "SD",
+      "aliases": [
+        "Khartoum"
+      ]
+    },
+    {
+      "name": "Suriname",
+      "code": "SR",
+      "aliases": [
+        "Paramaribo"
+      ]
+    },
+    {
+      "name": "Taiwan",
+      "code": "TW",
+      "aliases": [
+        "Taipei"
+      ]
+    },
+    {
+      "name": "Tajikistan",
+      "code": "TJ",
+      "aliases": [
+        "Dushanbe"
+      ]
+    },
+    {
+      "name": "Thailand",
+      "code": "TH",
+      "aliases": [
+        "Bangkok"
+      ]
+    },
+    {
+      "name": "Timor-Leste",
+      "code": "TL",
+      "aliases": [
+        "East Timor"
+      ]
+    },
+    {
+      "name": "Togo",
+      "code": "TG",
+      "aliases": [
+        "Lome"
+      ]
+    },
+    {
+      "name": "Tonga",
+      "code": "TO",
+      "aliases": []
+    },
+    {
+      "name": "Trinidad and Tobago",
+      "code": "TT",
+      "aliases": [
+        "Port of Spain"
+      ]
+    },
+    {
+      "name": "Tunisia",
+      "code": "TN",
+      "aliases": [
+        "Tunis"
+      ]
+    },
+    {
+      "name": "Turkmenistan",
+      "code": "TM",
+      "aliases": [
+        "Ashgabat"
+      ]
+    },
+    {
+      "name": "Tuvalu",
+      "code": "TV",
+      "aliases": []
+    },
+    {
+      "name": "Uganda",
+      "code": "UG",
+      "aliases": [
+        "Kampala"
+      ]
+    },
+    {
+      "name": "Uruguay",
+      "code": "UY",
+      "aliases": [
+        "Montevideo"
+      ]
+    },
+    {
+      "name": "Uzbekistan",
+      "code": "UZ",
+      "aliases": [
+        "Tashkent"
+      ]
+    },
+    {
+      "name": "Vanuatu",
+      "code": "VU",
+      "aliases": []
+    },
+    {
+      "name": "Vatican City",
+      "code": "VA",
+      "aliases": [
+        "Holy See",
+        "Vatican"
+      ]
+    },
+    {
+      "name": "Venezuela",
+      "code": "VE",
+      "aliases": [
+        "Caracas"
+      ]
+    },
+    {
+      "name": "Yemen",
+      "code": "YE",
+      "aliases": [
+        "Sanaa",
+        "Aden"
+      ]
+    },
+    {
+      "name": "Zambia",
+      "code": "ZM",
+      "aliases": [
+        "Lusaka"
+      ]
+    },
+    {
+      "name": "Zimbabwe",
+      "code": "ZW",
+      "aliases": [
+        "Harare"
+      ]
+    }
   ]
 }

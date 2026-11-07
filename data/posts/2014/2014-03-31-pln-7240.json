@@ -1,0 +1,62 @@
+{
+  "id": "pln-post-7240",
+  "source_id": 7240,
+  "url": "https://www.publiclibrariesnews.com/2014/03/april-fools-day.html",
+  "slug": "april-fools-day",
+  "title": "April Fool’s Day",
+  "date_published": "2014-03-31T21:55:40",
+  "date_modified": "2014-04-01T22:50:22",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "On this April Fool’s Day, we have the government still keen on preventing prisoners receiving books despite the benefits that literacy gives. We also have a council closing down a school library service thus ensuring more people will presumably, eventually, end up in prison. Finally, we have another council which appears to want to move a town library somewhere out of town to save expense. What an appropriate date.",
+    "html": "<p style=\"text-align: justify;\">On this April Fool&#8217;s Day,<a title=\"CILIP\" href=\"http://www.cilip.org.uk/cilip/news/what-difference-do-prison-libraries-make\"> we have the government still keen on preventing prisoners receiving books </a>despite the benefits that literacy gives.<a title=\"North Yorkshire\" href=\"http://www.thebookseller.com/news/north-yorks-school-library-service-close.html\"> We also have a council closing down a school library service </a>thus ensuring more people will presumably, eventually, end up in prison. Finally, <a title=\"Conwy\" href=\"http://www.dailypost.co.uk/news/north-wales-news/conwy-protesters-demonstrate-against-plans-6900231\">we have another council which appears to want to move a town library somewhere out of town to save expense</a>. What an appropriate date.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 18,
+  "story_ids": [
+    "pln-story-7240-changes-001",
+    "pln-story-7240-changes-002",
+    "pln-story-7240-changes-003",
+    "pln-story-7240-intl-001",
+    "pln-story-7240-intl-002",
+    "pln-story-7240-intl-003",
+    "pln-story-7240-intl-004",
+    "pln-story-7240-intl-005",
+    "pln-story-7240-intl-006",
+    "pln-story-7240-intl-007",
+    "pln-story-7240-intl-008",
+    "pln-story-7240-intl-009",
+    "pln-story-7240-intl-010",
+    "pln-story-7240-intl-011",
+    "pln-story-7240-natl-001",
+    "pln-story-7240-natl-002",
+    "pln-story-7240-natl-003",
+    "pln-story-7240-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 6,
+    "libraries_count": 7,
+    "countries_count": 6,
+    "top_categories": {
+      "closures_and_threats": 4,
+      "digital_and_technology": 3,
+      "cuts_and_finance": 3,
+      "refurbishment_and_new_builds": 2,
+      "campaigns_and_protests": 2,
+      "staffing_and_unions": 2,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-15260",
+  "source_id": 15260,
+  "url": "https://www.publiclibrariesnews.com/2019/12/its-been-a-bumpy-ride-since-2010-and-it-looks-like-it-will-continue.html",
+  "slug": "its-been-a-bumpy-ride-since-2010-and-it-looks-like-it-will-continue",
+  "title": "It’s been a bumpy ride since 2010 and it looks like it will continue",
+  "date_published": "2019-12-08T19:07:15",
+  "date_modified": "2019-12-08T19:07:45",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The timing of the CIPFA figures for libraries is normally embarrassing for something supposedly from the information sector. The figures are published, in this age of instant communication, a full eight months after the period they cover and have a hight cost attached, despite councils giving their information for free. However, the timing this year, a week before the general election, looks inspired. The figures clearly show the damage that has been done to the sector since 2010: a huge cut to budget which, even leaving aside inflation, is almost a third down; big decreases to staffing, issues and visits. It’s an awful record for any government and there is nothing to credibly show that Mr Johnson would change tack if given, gulp, another five years. But I’ve looked at the latest opinion polls and it looks like the electorate will give him another five years. So keep putting on the body armour, library sector, the bumpy ride is set to continue.",
+    "html": "<p class=\"wp-block-paragraph\">The timing of the CIPFA figures for libraries is normally embarrassing for something supposedly from the information sector. The figures are published, in this age of instant communication, a full eight months after the period they cover and have a hight cost attached, despite councils giving their information for free. </p> <p class=\"wp-block-paragraph\">However, the timing this year, a week before the general election, looks inspired. The figures clearly show the damage that has been done to the sector since 2010: a huge cut to budget which, even leaving aside inflation, is almost a third down; big decreases to staffing, issues and visits. It&#8217;s an awful record for any government and there is nothing to credibly show that Mr Johnson would change tack if given, gulp, another five years.</p> <p class=\"wp-block-paragraph\">But I&#8217;ve looked at the latest opinion polls and it looks like the electorate <em>will</em> give him another five years. So keep putting on the body armour, library sector, the bumpy ride is set to continue.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 31,
+  "story_ids": [
+    "pln-story-15260-changes-001",
+    "pln-story-15260-changes-002",
+    "pln-story-15260-changes-003",
+    "pln-story-15260-changes-004",
+    "pln-story-15260-changes-005",
+    "pln-story-15260-local-001",
+    "pln-story-15260-local-002",
+    "pln-story-15260-local-003",
+    "pln-story-15260-local-004",
+    "pln-story-15260-local-005",
+    "pln-story-15260-local-006",
+    "pln-story-15260-local-007",
+    "pln-story-15260-local-008",
+    "pln-story-15260-local-009",
+    "pln-story-15260-local-010",
+    "pln-story-15260-local-011",
+    "pln-story-15260-local-012",
+    "pln-story-15260-local-013",
+    "pln-story-15260-local-014",
+    "pln-story-15260-local-015",
+    "pln-story-15260-local-016",
+    "pln-story-15260-local-017",
+    "pln-story-15260-local-018",
+    "pln-story-15260-local-019",
+    "pln-story-15260-intl-001",
+    "pln-story-15260-intl-002",
+    "pln-story-15260-natl-001",
+    "pln-story-15260-natl-002",
+    "pln-story-15260-natl-003",
+    "pln-story-15260-natl-004",
+    "pln-story-15260-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 20,
+    "libraries_count": 12,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 10,
+      "cuts_and_finance": 6,
+      "staffing_and_unions": 5,
+      "refurbishment_and_new_builds": 3,
+      "opening_hours": 2,
+      "events_and_activities": 2,
+      "volunteers_and_community": 1,
+      "governance_and_trusts": 1,
+      "digital_and_technology": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

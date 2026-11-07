@@ -1,0 +1,67 @@
+{
+  "id": "pln-post-13301",
+  "source_id": 13301,
+  "url": "https://www.publiclibrariesnews.com/2017/11/a-quiet-few-days-cumbria-anglesey-and-a-fracking-fund.html",
+  "slug": "a-quiet-few-days-cumbria-anglesey-and-a-fracking-fund",
+  "title": "A quiet few days: Cumbria, Anglesey and a fracking fund",
+  "date_published": "2017-11-14T19:23:56",
+  "date_modified": "2017-11-19T17:39:24",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A reasonably quiet couple of days with a few libraries threatened in Cumbria and more detail on what is likely to happen in Anglesey. There’s a somewhat hard to believe report that fracking will result in £1 billion of community grants for groups, but it specifically mentions libraries so here’s hoping. There’s also a couple of things about health and wellbeing from the LGA and Task Force.",
+    "html": "<p style=\"text-align: justify;\">A reasonably quiet couple of days with a few libraries threatened in Cumbria and more detail on what is likely to happen in Anglesey. There&#8217;s a somewhat hard to believe report that fracking will result in £1 billion of community grants for groups, but it specifically mentions libraries so here&#8217;s hoping. There&#8217;s also a couple of things about health and wellbeing from the LGA and Task Force.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 21,
+  "story_ids": [
+    "pln-story-13301-changes-001",
+    "pln-story-13301-changes-002",
+    "pln-story-13301-local-001",
+    "pln-story-13301-local-002",
+    "pln-story-13301-local-003",
+    "pln-story-13301-local-004",
+    "pln-story-13301-local-005",
+    "pln-story-13301-local-006",
+    "pln-story-13301-local-007",
+    "pln-story-13301-local-008",
+    "pln-story-13301-local-009",
+    "pln-story-13301-local-010",
+    "pln-story-13301-intl-001",
+    "pln-story-13301-natl-001",
+    "pln-story-13301-natl-002",
+    "pln-story-13301-natl-003",
+    "pln-story-13301-natl-004",
+    "pln-story-13301-natl-005",
+    "pln-story-13301-natl-006",
+    "pln-story-13301-natl-007",
+    "pln-story-13301-natl-008"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 8,
+    "countries_count": 3,
+    "top_categories": {
+      "cuts_and_finance": 6,
+      "closures_and_threats": 5,
+      "staffing_and_unions": 5,
+      "events_and_activities": 3,
+      "campaigns_and_protests": 3,
+      "co_location": 1,
+      "digital_and_technology": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

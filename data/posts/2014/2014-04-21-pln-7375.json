@@ -1,0 +1,73 @@
+{
+  "id": "pln-post-7375",
+  "source_id": 7375,
+  "url": "https://www.publiclibrariesnews.com/2014/04/the-unstaffed-fully-self-service-library.html",
+  "slug": "the-unstaffed-fully-self-service-library",
+  "title": "The unstaffed fully self-service library",
+  "date_published": "2014-04-21T21:26:01",
+  "date_modified": "2014-04-22T21:47:46",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Some technology-related moves have caught my eye over the Easter weekend. Bibliotheca have taken note of the current parlous state of UK public libraries finances and come up with a scheme that allows authorised members of the public to use library buildings while they are entirely unstaffed. CCTV keeps watch and doors open and close at the appointed times. This may be seen by some as the natural next step in a process which started with self-service machines and will be very attractive to library authorities, although perhaps less so to their staff. A full description of the technology and some thoughts on have been provided by Mick Fortune and I recommend you have a read. The announcement by the Government of a panel on digital inclusion has also raised an eyebrow at Public Libraries News Towers. There’s no mention in it of the vital role that public libraries play in both providing access and assistance to those who don’t yet have internet access or an idea of how to use if they did. Of course, that tuition may be a little difficult if there’s no-one in the building in the first place … but authorities may be weighing the cuts in in budgets with all possibilities and judging accordingly.",
+    "html": "<p style=\"text-align: justify;\">Some technology-related moves have caught my eye over the Easter weekend. Bibliotheca have taken note of the current parlous state of UK public libraries finances and come up with a scheme that allows authorised members of the public to use library buildings while they are entirely unstaffed. CCTV keeps watch and doors open and close at the appointed times. This may be seen by some as the natural next step in a process which started with self-service machines and will be very attractive to library authorities, although perhaps less so to their staff. <a title=\"Mickfortune.com\" href=\"http://www.mickfortune.com/Wordpress/?p=1083\">A full description of the technology and some thoughts on have been provided by Mick Fortune and I recommend you have a read</a>.</p> <p style=\"text-align: justify;\">The announcement by the Government of a panel on digital inclusion has also raised an eyebrow at <em>Public Libraries News </em>Towers. There&#8217;s no mention in it of the vital role that public libraries play in both providing access and assistance to those who don&#8217;t yet have internet access or an idea of how to use if they did. Of course, that tuition may be a little difficult if there&#8217;s no-one in the building in the first place &#8230; but authorities may be weighing the cuts in in budgets with all possibilities and judging accordingly.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 25,
+  "story_ids": [
+    "pln-story-7375-changes-001",
+    "pln-story-7375-changes-002",
+    "pln-story-7375-changes-003",
+    "pln-story-7375-changes-004",
+    "pln-story-7375-changes-005",
+    "pln-story-7375-changes-006",
+    "pln-story-7375-changes-007",
+    "pln-story-7375-changes-008",
+    "pln-story-7375-intl-001",
+    "pln-story-7375-intl-002",
+    "pln-story-7375-intl-003",
+    "pln-story-7375-intl-004",
+    "pln-story-7375-intl-005",
+    "pln-story-7375-intl-006",
+    "pln-story-7375-intl-007",
+    "pln-story-7375-intl-008",
+    "pln-story-7375-intl-009",
+    "pln-story-7375-intl-010",
+    "pln-story-7375-intl-011",
+    "pln-story-7375-intl-012",
+    "pln-story-7375-intl-013",
+    "pln-story-7375-intl-014",
+    "pln-story-7375-intl-015",
+    "pln-story-7375-intl-016",
+    "pln-story-7375-intl-017"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 9,
+    "countries_count": 6,
+    "top_categories": {
+      "cuts_and_finance": 6,
+      "staffing_and_unions": 6,
+      "digital_and_technology": 5,
+      "volunteers_and_community": 4,
+      "mobile_and_outreach": 3,
+      "opening_hours": 3,
+      "book_bans_and_challenges": 3,
+      "campaigns_and_protests": 2,
+      "events_and_activities": 2,
+      "closures_and_threats": 2,
+      "governance_and_trusts": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

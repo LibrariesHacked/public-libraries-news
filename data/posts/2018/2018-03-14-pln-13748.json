@@ -1,0 +1,74 @@
+{
+  "id": "pln-post-13748",
+  "source_id": 13748,
+  "url": "https://www.publiclibrariesnews.com/2018/03/london-2.html",
+  "slug": "london-2",
+  "title": "London",
+  "date_published": "2018-03-14T20:55:19",
+  "date_modified": "2018-03-18T20:29:49",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "One of the many odd things about the UK is the dominance of London. It’s where the big businesses are, where government is and where the money is. House prices there make it very hard for anyone established elsewhere to move to it without accepting long commutes or far smaller accommodation. Set against this, transport links are such that it often makes more sense to have a national meeting there, despite it being in the South East corner, than anywhere else, and this will only be increased when HS2 (specifically designed to save travel times to the capital) is completed. In the public library world, the DCMS (and hence the Taskforce), the British Library and ACE are of course based there, as is CILIP. However, there’s no real big public library there on the scale of the biggest regional libraries (such as Liverpool, Manchester and Birmingham) due to the multiple number of London boroughs. A wave of new appointments, is now going to concentrate power in the capital even more. The SCL, due to its previously tiny staffing, was not particularly London-centric but the decision has been made that it’s new expanded staff will be based there. This follows on from the interesting decision to base the person in charge for the single digital presence – surely a job which by its very nature could be handled largely by computer – in the British Library in London, amongst the most expensive real estate in the world. These appointments show the huge magnetic attraction of the capital and, to some extent, represent a pragmatic realisation a lot of the meetings and business is going to be conducted there. And also it needs to be remembered that the SCL is highly regional in nature, with its new President being from the North East and its current one from Manchester. However, the decision to place the posts there has necessarily barred many from applying and places the onus more than before on the new improved SCL to demonstrate that it is not becoming yet another London body but rather is still a local one to all the multi-distributed librarians throughout the country.",
+    "html": "<p style=\"text-align: justify;\">One of the many odd things about the UK is the dominance of London. It&#8217;s where the big businesses are, where government is and where the money is. House prices there make it very hard for anyone established elsewhere to move to it without accepting long commutes or far smaller accommodation. Set against this, transport links are such that it often makes more sense to have a national meeting there, despite it being in the South East corner, than anywhere else, and this will only be increased when HS2 (specifically designed to save travel times to the capital) is completed. In the public library world, the DCMS (and hence the Taskforce), the British Library and ACE are of course based there, as is CILIP. However, there&#8217;s no real big public library there on the scale of the biggest regional libraries (such as Liverpool, Manchester and Birmingham) due to the multiple number of London boroughs.</p> <p style=\"text-align: justify;\">A wave of new appointments, is now going to concentrate power in the capital even more. The SCL, due to its previously tiny staffing, was not particularly London-centric but the decision has been made that it&#8217;s new expanded staff will be based there. This follows on from the interesting decision to base the person in charge for the single digital presence &#8211; surely a job which by its very nature could be handled largely by computer &#8211; in the British Library in London, amongst the most expensive real estate in the world. These appointments show the huge magnetic attraction of the capital and, to some extent, represent a pragmatic realisation a lot of the meetings and business is going to be conducted there. And also it needs to be remembered that the SCL is highly regional in nature, with its new President being from the North East and its current one from Manchester. However, the decision to place the posts there has necessarily barred many from applying and places the onus more than before on the new improved SCL to demonstrate that it is not becoming yet another London body but rather is still a local one to all the multi-distributed librarians throughout the country.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 25,
+  "story_ids": [
+    "pln-story-13748-changes-001",
+    "pln-story-13748-changes-002",
+    "pln-story-13748-changes-003",
+    "pln-story-13748-changes-004",
+    "pln-story-13748-local-001",
+    "pln-story-13748-local-002",
+    "pln-story-13748-local-003",
+    "pln-story-13748-local-004",
+    "pln-story-13748-local-005",
+    "pln-story-13748-local-006",
+    "pln-story-13748-local-007",
+    "pln-story-13748-local-008",
+    "pln-story-13748-local-009",
+    "pln-story-13748-local-010",
+    "pln-story-13748-local-011",
+    "pln-story-13748-local-012",
+    "pln-story-13748-local-013",
+    "pln-story-13748-intl-001",
+    "pln-story-13748-intl-002",
+    "pln-story-13748-intl-003",
+    "pln-story-13748-intl-004",
+    "pln-story-13748-natl-001",
+    "pln-story-13748-natl-002",
+    "pln-story-13748-natl-003",
+    "pln-story-13748-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 7,
+    "countries_count": 7,
+    "top_categories": {
+      "cuts_and_finance": 8,
+      "closures_and_threats": 7,
+      "refurbishment_and_new_builds": 6,
+      "staffing_and_unions": 4,
+      "volunteers_and_community": 3,
+      "opening_hours": 3,
+      "digital_and_technology": 3,
+      "campaigns_and_protests": 2,
+      "events_and_activities": 2,
+      "governance_and_trusts": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

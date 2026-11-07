@@ -1,0 +1,80 @@
+{
+  "id": "pln-post-8488",
+  "source_id": 8488,
+  "url": "https://www.publiclibrariesnews.com/2014/12/librarians-with-swords-libraries-in-pubs.html",
+  "slug": "librarians-with-swords-libraries-in-pubs",
+  "title": "Librarians with swords, “libraries” in pubs",
+  "date_published": "2014-12-09T20:05:55",
+  "date_modified": "2014-12-11T22:21:55",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news"
+  ],
+  "stories_count": 30,
+  "story_ids": [
+    "pln-story-8488-changes-001",
+    "pln-story-8488-changes-002",
+    "pln-story-8488-intl-001",
+    "pln-story-8488-intl-002",
+    "pln-story-8488-intl-003",
+    "pln-story-8488-intl-004",
+    "pln-story-8488-intl-005",
+    "pln-story-8488-intl-006",
+    "pln-story-8488-intl-007",
+    "pln-story-8488-intl-008",
+    "pln-story-8488-intl-009",
+    "pln-story-8488-intl-010",
+    "pln-story-8488-intl-011",
+    "pln-story-8488-intl-012",
+    "pln-story-8488-intl-013",
+    "pln-story-8488-intl-014",
+    "pln-story-8488-intl-015",
+    "pln-story-8488-intl-016",
+    "pln-story-8488-intl-017",
+    "pln-story-8488-intl-018",
+    "pln-story-8488-intl-019",
+    "pln-story-8488-intl-020",
+    "pln-story-8488-intl-021",
+    "pln-story-8488-ideas-001",
+    "pln-story-8488-ideas-002",
+    "pln-story-8488-ideas-003",
+    "pln-story-8488-ideas-004",
+    "pln-story-8488-ideas-005",
+    "pln-story-8488-ideas-006",
+    "pln-story-8488-ideas-007"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 18,
+    "countries_count": 5,
+    "top_categories": {
+      "cuts_and_finance": 12,
+      "closures_and_threats": 10,
+      "staffing_and_unions": 4,
+      "campaigns_and_protests": 4,
+      "opening_hours": 3,
+      "digital_and_technology": 3,
+      "refurbishment_and_new_builds": 3,
+      "volunteers_and_community": 2,
+      "co_location": 2,
+      "book_bans_and_challenges": 2,
+      "governance_and_trusts": 1,
+      "warm_spaces_and_wellbeing": 1,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

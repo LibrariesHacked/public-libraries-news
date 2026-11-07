@@ -1,0 +1,78 @@
+{
+  "id": "pln-post-7976",
+  "source_id": 7976,
+  "url": "https://www.publiclibrariesnews.com/2014/08/librarians-of-the-year.html",
+  "slug": "librarians-of-the-year",
+  "title": "Librarians of the Year",
+  "date_published": "2014-08-13T21:32:06",
+  "date_modified": "2014-08-17T20:52:33",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "It’s great to see public librarians being recognised for their exceptional service. Well done to those who received the awards and for all those others who were nominated. This is the first year that the awards have taken place and I hope that this becomes a firm tradition, with benefits including improving the standing of the winners in their communities and also for the profession as a whole.",
+    "html": "<p style=\"text-align: justify;\">It&#8217;s great to see public librarians being recognised for their exceptional service. Well done to those who received the awards and for all those others who were nominated. This is the first year that the awards have taken place and I hope that this becomes a firm tradition, with benefits including improving the standing of the winners in their communities and also for the profession as a whole.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "national_news"
+  ],
+  "stories_count": 29,
+  "story_ids": [
+    "pln-story-7976-changes-001",
+    "pln-story-7976-changes-002",
+    "pln-story-7976-changes-003",
+    "pln-story-7976-changes-004",
+    "pln-story-7976-changes-005",
+    "pln-story-7976-changes-006",
+    "pln-story-7976-changes-007",
+    "pln-story-7976-changes-008",
+    "pln-story-7976-changes-009",
+    "pln-story-7976-intl-001",
+    "pln-story-7976-intl-002",
+    "pln-story-7976-natl-001",
+    "pln-story-7976-natl-002",
+    "pln-story-7976-natl-003",
+    "pln-story-7976-natl-004",
+    "pln-story-7976-natl-005",
+    "pln-story-7976-natl-006",
+    "pln-story-7976-natl-007",
+    "pln-story-7976-natl-008",
+    "pln-story-7976-natl-009",
+    "pln-story-7976-natl-010",
+    "pln-story-7976-natl-011",
+    "pln-story-7976-natl-012",
+    "pln-story-7976-natl-013",
+    "pln-story-7976-natl-014",
+    "pln-story-7976-natl-015",
+    "pln-story-7976-natl-016",
+    "pln-story-7976-natl-017",
+    "pln-story-7976-natl-018"
+  ],
+  "stats": {
+    "authorities_count": 19,
+    "libraries_count": 15,
+    "countries_count": 5,
+    "top_categories": {
+      "staffing_and_unions": 7,
+      "cuts_and_finance": 6,
+      "events_and_activities": 5,
+      "closures_and_threats": 4,
+      "refurbishment_and_new_builds": 4,
+      "volunteers_and_community": 3,
+      "mobile_and_outreach": 3,
+      "digital_and_technology": 2,
+      "warm_spaces_and_wellbeing": 2,
+      "opening_hours": 2,
+      "co_location": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

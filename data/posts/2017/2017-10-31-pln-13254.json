@@ -1,0 +1,70 @@
+{
+  "id": "pln-post-13254",
+  "source_id": 13254,
+  "url": "https://www.publiclibrariesnews.com/2017/10/manchester-becomes-a-unesco-creative-city-of-literature.html",
+  "slug": "manchester-becomes-a-unesco-creative-city-of-literature",
+  "title": "Manchester becomes a UNESCO Creative City of Literature",
+  "date_published": "2017-10-31T19:20:06",
+  "date_modified": "2017-11-02T20:47:38",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "I’m delighted to see Manchester has just been announced as a UNESCO Creative City of Literature. The city has so many beautiful libraries, historic and modern, capped by my currently most favourite library of all, Manchester Central Library. It’s a city with a lot of going on, not least a lot of creative writing and reading. I hope the announcement will serve to make it even more so.",
+    "html": "<p>I&#8217;m delighted to see Manchester has just been announced as a UNESCO Creative City of Literature. The city has so many beautiful libraries, historic and modern, capped by my currently most favourite library of all, Manchester Central Library. It&#8217;s a city with a lot of going on, not least a lot of creative writing and reading. I hope the announcement will serve to make it even more so.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 22,
+  "story_ids": [
+    "pln-story-13254-changes-001",
+    "pln-story-13254-changes-002",
+    "pln-story-13254-local-001",
+    "pln-story-13254-local-002",
+    "pln-story-13254-local-003",
+    "pln-story-13254-local-004",
+    "pln-story-13254-local-005",
+    "pln-story-13254-local-006",
+    "pln-story-13254-local-007",
+    "pln-story-13254-local-008",
+    "pln-story-13254-local-009",
+    "pln-story-13254-local-010",
+    "pln-story-13254-local-011",
+    "pln-story-13254-intl-001",
+    "pln-story-13254-intl-002",
+    "pln-story-13254-intl-003",
+    "pln-story-13254-intl-004",
+    "pln-story-13254-natl-001",
+    "pln-story-13254-natl-002",
+    "pln-story-13254-natl-003",
+    "pln-story-13254-natl-004",
+    "pln-story-13254-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 8,
+    "countries_count": 5,
+    "top_categories": {
+      "digital_and_technology": 5,
+      "cuts_and_finance": 4,
+      "governance_and_trusts": 3,
+      "co_location": 3,
+      "closures_and_threats": 3,
+      "staffing_and_unions": 3,
+      "volunteers_and_community": 2,
+      "refurbishment_and_new_builds": 2,
+      "events_and_activities": 2,
+      "opening_hours": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

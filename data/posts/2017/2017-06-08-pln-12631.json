@@ -1,0 +1,77 @@
+{
+  "id": "pln-post-12631",
+  "source_id": 12631,
+  "url": "https://www.publiclibrariesnews.com/2017/06/take-a-deep-breath-learn-something-new-improve.html",
+  "slug": "take-a-deep-breath-learn-something-new-improve",
+  "title": "Take a deep breath, learn something new, improve",
+  "date_published": "2017-06-08T20:27:08",
+  "date_modified": "2017-06-11T21:00:32",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "If you’re reading this on Friday, with most or all of the general election results having come in, you will have more idea than I currently have on what the next five years holds for UK public libraries. More of the same or not. No matter what happens, always remember the importance of public libraries in so many different aspects of life and for all ages. If you work in libraries, be proud of what you do and aim to learn something new to make your work even better. If you advocate or campaign for libraries, take a deep breath. No matter what happens, your skills and your energy are going to be needed, no matter who you are.",
+    "html": "<p style=\"text-align: justify;\">If you&#8217;re reading this on Friday, with most or all of the general election results having come in, you will have more idea than I currently have on what the next five years holds for UK public libraries. More of the same or not. No matter what happens, always remember the importance of public libraries in so many different aspects of life and for all ages. If you work in libraries, be proud of what you do and aim to learn something new to make your work even better. If you advocate or campaign for libraries, take a deep breath. No matter what happens, your skills and your energy are going to be needed, no matter who you are.</p>"
+  },
+  "sections_found": [
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 28,
+  "story_ids": [
+    "pln-story-12631-local-001",
+    "pln-story-12631-local-002",
+    "pln-story-12631-local-003",
+    "pln-story-12631-local-004",
+    "pln-story-12631-local-005",
+    "pln-story-12631-local-006",
+    "pln-story-12631-intl-001",
+    "pln-story-12631-intl-002",
+    "pln-story-12631-intl-003",
+    "pln-story-12631-intl-004",
+    "pln-story-12631-intl-005",
+    "pln-story-12631-natl-001",
+    "pln-story-12631-natl-002",
+    "pln-story-12631-natl-003",
+    "pln-story-12631-natl-004",
+    "pln-story-12631-natl-005",
+    "pln-story-12631-natl-006",
+    "pln-story-12631-natl-007",
+    "pln-story-12631-natl-008",
+    "pln-story-12631-natl-009",
+    "pln-story-12631-natl-010",
+    "pln-story-12631-natl-011",
+    "pln-story-12631-natl-012",
+    "pln-story-12631-natl-013",
+    "pln-story-12631-natl-014",
+    "pln-story-12631-natl-015",
+    "pln-story-12631-natl-016",
+    "pln-story-12631-natl-017"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 5,
+    "countries_count": 2,
+    "top_categories": {
+      "staffing_and_unions": 7,
+      "events_and_activities": 4,
+      "closures_and_threats": 3,
+      "volunteers_and_community": 3,
+      "mobile_and_outreach": 2,
+      "cuts_and_finance": 2,
+      "opening_hours": 1,
+      "campaigns_and_protests": 1,
+      "refurbishment_and_new_builds": 1,
+      "digital_and_technology": 1,
+      "book_bans_and_challenges": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

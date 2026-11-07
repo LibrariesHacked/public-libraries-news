@@ -1,0 +1,64 @@
+{
+  "id": "pln-post-14139",
+  "source_id": 14139,
+  "url": "https://www.publiclibrariesnews.com/2018/07/libraries-of-the-year.html",
+  "slug": "libraries-of-the-year",
+  "title": "Libraries of the Year",
+  "date_published": "2018-07-15T18:49:58",
+  "date_modified": "2018-07-18T19:31:06",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "There’s some great things going on in libraries. I see so much brilliant stuff in the news doing this blog and in my work regionally and locally. Up and down the country, library services are looking up from their books and reaching out the local community and beyond, working out what they need to succeed. Those services lucky enough to have both staff and have those staff be active and busy, rather than wait for people to walk through the door (and, yes, this still happens in places) can be something to behold. So well done to Liverpool Central, one of my favourite libraries, and to the others on the list. You do us proud and are, literally, examples for all. And, lest we forget, thanks also to the BookSeller who set up this award. It’s a magazine that’s taken for granted a little and perhaps not seen much in many libraries these days, with there often being limited numbers subscribed to it and perhaps just one paper copy per service, if that. But it does sterling work and its support for public libraries – comparable only to the Guardian – has been notable for as long as I can remember, with the current issue being a brilliant example of how it both reports on libraries and seeks to support them.",
+    "html": "<p style=\"text-align: justify;\">There&#8217;s some great things going on in libraries. I see so much brilliant stuff in the news doing this blog and in my work regionally and locally. Up and down the country, library services are looking up from their books and reaching out the local community and beyond, working out what they need to succeed. Those services lucky enough to have both staff and have those staff be active and busy, rather than wait for people to walk through the door (and, yes, this still happens in places) can be something to behold. So well done to Liverpool Central, <a href=\"https://www.publiclibrariesnews.com/practitioners/new-libraries/big-new-libraries-liverpool\">one of my favourite libraries</a>, and to the others on the list. You do us proud and are, literally, examples for all. And, lest we forget, thanks also to the <em>BookSeller </em>who set up this award. It&#8217;s a magazine that&#8217;s taken for granted a little and perhaps not seen much in many libraries these days, with there often being limited numbers subscribed to it and perhaps just one paper copy per service, if that. But it does sterling work and its support for public libraries &#8211; comparable only to the <em>Guardian</em> &#8211; has been notable for as long as I can remember, with the current issue being a brilliant example of how it both reports on libraries and seeks to support them.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 16,
+  "story_ids": [
+    "pln-story-14139-changes-001",
+    "pln-story-14139-local-001",
+    "pln-story-14139-local-002",
+    "pln-story-14139-local-003",
+    "pln-story-14139-local-004",
+    "pln-story-14139-local-005",
+    "pln-story-14139-local-006",
+    "pln-story-14139-intl-001",
+    "pln-story-14139-intl-002",
+    "pln-story-14139-intl-003",
+    "pln-story-14139-intl-004",
+    "pln-story-14139-intl-005",
+    "pln-story-14139-intl-006",
+    "pln-story-14139-natl-001",
+    "pln-story-14139-natl-002",
+    "pln-story-14139-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 4,
+    "countries_count": 6,
+    "top_categories": {
+      "cuts_and_finance": 6,
+      "closures_and_threats": 4,
+      "events_and_activities": 3,
+      "opening_hours": 3,
+      "volunteers_and_community": 2,
+      "refurbishment_and_new_builds": 2,
+      "staffing_and_unions": 2,
+      "warm_spaces_and_wellbeing": 1,
+      "campaigns_and_protests": 1,
+      "digital_and_technology": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

@@ -1,0 +1,66 @@
+{
+  "id": "pln-post-5683",
+  "source_id": 5683,
+  "url": "https://www.publiclibrariesnews.com/2013/07/edinburgh-visitors-up-15-the-englandscotland-divide.html",
+  "slug": "edinburgh-visitors-up-15-the-englandscotland-divide",
+  "title": "Edinburgh visitors up 15%: the England/Scotland divide",
+  "date_published": "2013-07-23T21:28:04",
+  "date_modified": "2013-07-24T20:49:13",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Good to see that the award-winning Edinburgh library service, well-known for its initiatives has had a 15% increase in visitors last year compared to 2010. Doubtless the two new libraries helped but the embracing of new technology has also been a factor. Helpful too has been the successful public protest that meant that cuts proposed in 2011/12 did not come to pass. South of the border, such cuts largely do come to pass and so it’s far harder for library services to be as successful as their northern brethren. The suspicion here is that library usage mirrors library funding – so cuts to the budget means less usage, which of course makes cuts to budget more likely. Just look at Lincolnshire where the cuts are being pushed through with the somewhat self-contradictory argument that libraries are (a) not strongly needed and (b) it’s expected that people will work for free to keep them open. One ticket to Edinburgh please.",
+    "html": "<p style=\"text-align: justify;\"><strong></strong><a title=\"Scotsman\" href=\"http://www.edinburghnews.scotsman.com/news/city-libraries-get-e-book-boost-1-3007316\">Good to see that the award-winning Edinburgh library service, well-known for its initiatives has had a 15% increase in visitors last year compared to 2010</a>. Doubtless <a title=\"Scotsman\" href=\"http://www.scotsman.com/edinburgh-evening-news/edinburgh/around-the-capital/police_and_council_staff_take_up_roles_within_library_hub_1_2087563\">the two new libraries helped</a> but the embracing of new technology has also been a factor. Helpful too has been the successful public protest that meant <a title=\"Ekklesia\" href=\"http://www.ekklesia.co.uk/node/16369\">that cuts proposed in 2011/12</a> did not come to pass. South of the border, such cuts largely <em>do </em>come to pass and so it&#8217;s far harder for library services to be as successful as their northern brethren. The suspicion here is that library usage mirrors library funding &#8211; so cuts to the budget means less usage, which of course makes cuts to budget more likely. <a title=\"Lincolnshire Echo\" href=\"http://www.lincolnshireecho.co.uk/Council-bans-libraries-closure-petitions/story-19494882-detail/story.html\">Just look at Lincolnshire where the cuts are being pushed through with the somewhat self-contradictory argument that libraries are (a) not strongly needed and (b) it&#8217;s expected that people will work for free to keep them open. </a>One ticket to Edinburgh please.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "local_news"
+  ],
+  "stories_count": 20,
+  "story_ids": [
+    "pln-story-5683-changes-001",
+    "pln-story-5683-changes-002",
+    "pln-story-5683-changes-003",
+    "pln-story-5683-changes-004",
+    "pln-story-5683-changes-005",
+    "pln-story-5683-changes-006",
+    "pln-story-5683-changes-007",
+    "pln-story-5683-changes-008",
+    "pln-story-5683-changes-009",
+    "pln-story-5683-changes-010",
+    "pln-story-5683-local-001",
+    "pln-story-5683-local-002",
+    "pln-story-5683-local-003",
+    "pln-story-5683-local-004",
+    "pln-story-5683-local-005",
+    "pln-story-5683-local-006",
+    "pln-story-5683-local-007",
+    "pln-story-5683-local-008",
+    "pln-story-5683-local-009",
+    "pln-story-5683-local-010"
+  ],
+  "stats": {
+    "authorities_count": 9,
+    "libraries_count": 6,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 7,
+      "campaigns_and_protests": 5,
+      "cuts_and_finance": 4,
+      "digital_and_technology": 3,
+      "staffing_and_unions": 3,
+      "volunteers_and_community": 3,
+      "opening_hours": 2,
+      "mobile_and_outreach": 2,
+      "refurbishment_and_new_builds": 2,
+      "events_and_activities": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

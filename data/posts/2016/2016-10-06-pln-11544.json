@@ -1,0 +1,72 @@
+{
+  "id": "pln-post-11544",
+  "source_id": 11544,
+  "url": "https://www.publiclibrariesnews.com/2016/10/minister-says-the-future-is-social-enterprises.html",
+  "slug": "minister-says-the-future-is-social-enterprises",
+  "title": "Minister says the future is social enterprises",
+  "date_published": "2016-10-06T20:15:08",
+  "date_modified": "2016-10-09T18:32:41",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Rob Wilson, the minister responsible for public libraries, has gone on record as saying libraries should move towards a “community hub” model, probably with social enterprises running them and ties in with health and wellbeing. Being the chair of the Libraries Taskforce is boss of Northamptonhire, whose model Rob Wilson is so approving of, this is no surprise. The Taskforce – a major source of information to the minster – is hardly going to diss the views of their boss. In addition, Rob comes from a background of being very pro volunteer and social enterprise so it ties in with his pre-existing thinking. But, look at the webpage for “First for Wellbeing“, the Northants social enterprise, and you’ll see you need to scroll down for a first mention of libraries, if you can find it at all. It may be that FTW (great acronym, by the way) are indeed good for libraries but there’s sufficient worries in other non-library led trusts (hello again Warrington Livewire) to be more cautious of this approach than the minister apparently is.",
+    "html": "<p style=\"text-align: justify;\">Rob Wilson, the minister responsible for public libraries, has gone on record as saying libraries should move towards a &#8220;community hub&#8221; model, probably with social enterprises running them and ties in with health and wellbeing. Being the chair of the Libraries Taskforce is boss of Northamptonhire, whose model Rob Wilson is so approving of, this is no surprise. The Taskforce &#8211; a major source of information to the minster &#8211; is hardly going to diss the views of their boss. In addition, Rob comes from a background of being very pro volunteer and social enterprise so it ties in with his pre-existing thinking. But, look at the webpage for &#8220;<a href=\"https://www.firstforwellbeing.co.uk/\" target=\"_blank\">First for Wellbeing</a>&#8220;, the Northants social enterprise, and you&#8217;ll see you need to <em>scroll down</em> for a first mention of libraries, if you can find it at all. It may be that FTW (great acronym, by the way) are indeed good for libraries but there&#8217;s sufficient worries in other non-library led trusts (hello again Warrington Livewire) to be more cautious of this approach than the minister apparently is.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 22,
+  "story_ids": [
+    "pln-story-11544-changes-001",
+    "pln-story-11544-changes-002",
+    "pln-story-11544-changes-003",
+    "pln-story-11544-local-001",
+    "pln-story-11544-local-002",
+    "pln-story-11544-local-003",
+    "pln-story-11544-local-004",
+    "pln-story-11544-local-005",
+    "pln-story-11544-local-006",
+    "pln-story-11544-local-007",
+    "pln-story-11544-local-008",
+    "pln-story-11544-local-009",
+    "pln-story-11544-local-010",
+    "pln-story-11544-local-011",
+    "pln-story-11544-local-012",
+    "pln-story-11544-local-013",
+    "pln-story-11544-intl-001",
+    "pln-story-11544-natl-001",
+    "pln-story-11544-natl-002",
+    "pln-story-11544-natl-003",
+    "pln-story-11544-natl-004",
+    "pln-story-11544-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 11,
+    "countries_count": 4,
+    "top_categories": {
+      "closures_and_threats": 5,
+      "events_and_activities": 5,
+      "cuts_and_finance": 4,
+      "opening_hours": 3,
+      "volunteers_and_community": 3,
+      "digital_and_technology": 3,
+      "warm_spaces_and_wellbeing": 2,
+      "book_bans_and_challenges": 2,
+      "staffing_and_unions": 2,
+      "campaigns_and_protests": 2,
+      "unstaffed_open_plus": 1,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

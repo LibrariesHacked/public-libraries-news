@@ -1,0 +1,78 @@
+{
+  "id": "pln-post-10416",
+  "source_id": 10416,
+  "url": "https://www.publiclibrariesnews.com/2016/01/no-money-no-policy-and-shouts-of-protest.html",
+  "slug": "no-money-no-policy-and-shouts-of-protest",
+  "title": "No money, no policy and shouts of protest",
+  "date_published": "2016-01-17T21:13:52",
+  "date_modified": "2016-01-19T21:26:38",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "A piece in the Telegraph on the drastic reductions in library book stock since 2010 is made fascinating by the DCMS trying its best to make the figures look like a good thing. Apparently, it’s all about “removing costly unused stock” (which I assume they mean to be reference books but those are not included in the figures mentioned: do your research, DCMS) and concentrating on the rise of e-books. The fallacy of that last is shown by the percentage quoted. A quick tip here, by the way, is that unless a total actual base number of issues is given, a percentage in the hundreds is meaningless. If anything, it shows how small the actual figure is if it can be increased by 420 per cent. Ed Vaizey – much loved (or at least mentioned), as you know, by myself and many of the readers of these posts – has now celebrated more time as arts minister than anyone else in history. It is unlikely that many librarians would see this as a good thing, although he at least does use a library occasionally even if he has not shown himself not overly willing to effectively superintend them. His statement on the arts quotes that a minister should give “money, policy and silence”. Since 2010, libraries have been given drastically reduced amounts of money, no policy and have been in the limelight like never before, with shouts of protest drowning any imagined silence. Unless of course he means the silence of closed libraries. In that, at least, his tenure has been successful.",
+    "html": "<p style=\"text-align: justify;\">A piece in the Telegraph on the drastic reductions in library book stock since 2010 is made fascinating by the DCMS trying its best to make the figures look like a good thing. Apparently, it&#8217;s all about &#8220;removing costly unused stock&#8221; (which I assume they mean to be reference books but those are not included in the figures mentioned: do your research, DCMS) and concentrating on the rise of e-books. The fallacy of that last is shown by the percentage quoted. A quick tip here, by the way, is that unless a total actual base number of issues is given, a percentage in the hundreds is meaningless. If anything, it shows how small the actual figure is if it can be increased by 420 per cent.</p> <p style=\"text-align: justify;\">Ed Vaizey &#8211; much loved (or at least mentioned), as you know, by myself and many of the readers of these posts &#8211; has now celebrated more time as arts minister than anyone else in history. It is unlikely that many librarians would see this as a good thing, although he at least does use a library occasionally even if he has not shown himself not overly willing to effectively superintend them. His statement on the arts quotes that a minister should give &#8220;money, policy and silence&#8221;. Since 2010, libraries have been given drastically reduced amounts of money, no policy and have been in the limelight like never before, with shouts of protest drowning any imagined silence. Unless of course he means the silence of closed libraries. In that, at least, his tenure has been successful.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 27,
+  "story_ids": [
+    "pln-story-10416-changes-001",
+    "pln-story-10416-changes-002",
+    "pln-story-10416-local-001",
+    "pln-story-10416-local-002",
+    "pln-story-10416-local-003",
+    "pln-story-10416-local-004",
+    "pln-story-10416-local-005",
+    "pln-story-10416-local-006",
+    "pln-story-10416-local-007",
+    "pln-story-10416-local-008",
+    "pln-story-10416-local-009",
+    "pln-story-10416-local-010",
+    "pln-story-10416-local-011",
+    "pln-story-10416-local-012",
+    "pln-story-10416-local-013",
+    "pln-story-10416-local-014",
+    "pln-story-10416-local-015",
+    "pln-story-10416-local-016",
+    "pln-story-10416-intl-001",
+    "pln-story-10416-intl-002",
+    "pln-story-10416-intl-003",
+    "pln-story-10416-intl-004",
+    "pln-story-10416-intl-005",
+    "pln-story-10416-natl-001",
+    "pln-story-10416-natl-002",
+    "pln-story-10416-natl-003",
+    "pln-story-10416-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 14,
+    "libraries_count": 11,
+    "countries_count": 7,
+    "top_categories": {
+      "closures_and_threats": 7,
+      "cuts_and_finance": 7,
+      "staffing_and_unions": 5,
+      "digital_and_technology": 5,
+      "campaigns_and_protests": 4,
+      "mobile_and_outreach": 2,
+      "opening_hours": 2,
+      "events_and_activities": 2,
+      "co_location": 1,
+      "book_bans_and_challenges": 1,
+      "governance_and_trusts": 1,
+      "warm_spaces_and_wellbeing": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

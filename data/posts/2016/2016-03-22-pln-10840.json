@@ -1,0 +1,79 @@
+{
+  "id": "pln-post-10840",
+  "source_id": 10840,
+  "url": "https://www.publiclibrariesnews.com/2016/03/countries-of-culture.html",
+  "slug": "countries-of-culture",
+  "title": "Countries of Culture",
+  "date_published": "2016-03-22T21:09:41",
+  "date_modified": "2016-03-28T21:43:10",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Protests Local news from all over the place, with the stand out for me being the strike and protests in Lambeth. The Carnegie UK Library Lab winners for this year are announced tomorrow so more information on them with the next post. Finally, due to the horrible events in Belgium, the release of BBC research into changes/cuts to public libraries, including a series of BBC radio (and some television) pieces, have been pushed back to next week. I was involved in helping out in small ways with the research at various stages but not seen the final report as yet.",
+    "html": "<p style=\"text-align: justify;\">Protests Local news from all over the place, with the stand out for me being the strike and protests in Lambeth. The Carnegie UK Library Lab winners for this year are announced tomorrow so more information on them with the next post. Finally, due to the horrible events in Belgium, the release of BBC research into changes/cuts to public libraries, including a series of BBC radio (and some television) pieces, have been pushed back to next week. I was involved in helping out in small ways with the research at various stages but not seen the final report as yet.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 29,
+  "story_ids": [
+    "pln-story-10840-changes-001",
+    "pln-story-10840-changes-002",
+    "pln-story-10840-local-001",
+    "pln-story-10840-local-002",
+    "pln-story-10840-local-003",
+    "pln-story-10840-local-004",
+    "pln-story-10840-local-005",
+    "pln-story-10840-local-006",
+    "pln-story-10840-local-007",
+    "pln-story-10840-local-008",
+    "pln-story-10840-local-009",
+    "pln-story-10840-local-010",
+    "pln-story-10840-local-011",
+    "pln-story-10840-local-012",
+    "pln-story-10840-local-013",
+    "pln-story-10840-local-014",
+    "pln-story-10840-local-015",
+    "pln-story-10840-local-016",
+    "pln-story-10840-local-017",
+    "pln-story-10840-local-018",
+    "pln-story-10840-local-019",
+    "pln-story-10840-local-020",
+    "pln-story-10840-local-021",
+    "pln-story-10840-local-022",
+    "pln-story-10840-intl-001",
+    "pln-story-10840-intl-002",
+    "pln-story-10840-natl-001",
+    "pln-story-10840-natl-002",
+    "pln-story-10840-natl-003"
+  ],
+  "stats": {
+    "authorities_count": 18,
+    "libraries_count": 17,
+    "countries_count": 3,
+    "top_categories": {
+      "cuts_and_finance": 14,
+      "staffing_and_unions": 7,
+      "campaigns_and_protests": 7,
+      "closures_and_threats": 6,
+      "digital_and_technology": 4,
+      "volunteers_and_community": 4,
+      "events_and_activities": 3,
+      "co_location": 2,
+      "mobile_and_outreach": 2,
+      "refurbishment_and_new_builds": 1,
+      "governance_and_trusts": 1,
+      "book_bans_and_challenges": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

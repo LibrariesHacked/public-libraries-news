@@ -1,0 +1,75 @@
+{
+  "id": "pln-post-9402",
+  "source_id": 9402,
+  "url": "https://www.publiclibrariesnews.com/2015/07/cuts-in-camden-more-details-on-losses-in-bucks-dorset-and-worcs.html",
+  "slug": "cuts-in-camden-more-details-on-losses-in-bucks-dorset-and-worcs",
+  "title": "Cuts in Camden, more details on losses in Bucks, Dorset and Worcs",
+  "date_published": "2015-07-14T21:54:27",
+  "date_modified": "2015-07-16T21:06:14",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "It’s more cuts today I’m afraid. Some deep cuts have happened very much under the radar in Buckinghamshire – cuts of a fifth in some of the largest libraries. Camden have announced the first phase of cutting its libraries budget by £800k, which is going to hurt. Meanwhile, in the world of mobiles, Dorset is going to lose 75 stops and it has become clear that 3 out of 4 mobiles have been withdrawn earlier this year in Worcestershire. This will all doubtless please the writer from Kirkbymoorside who welcomes library closures (apparently because she never needs one herself) but the comments on her articles, and the people I meet every day in libraries, show thankfully that others know better.",
+    "html": "<p style=\"text-align: justify;\">It&#8217;s more cuts today I&#8217;m afraid. Some deep cuts have happened very much under the radar in Buckinghamshire &#8211; cuts of a fifth in some of the largest libraries. Camden have announced the first phase of cutting its libraries budget by £800k, which is going to hurt. Meanwhile, in the world of mobiles, Dorset is going to lose 75 stops and it has become clear that 3 out of 4 mobiles have been withdrawn earlier this year in Worcestershire. This will all doubtless please <a title=\"Kirkbymoorside.info\" href=\"http://www.kirkbymoorside.info/kirkbymoorside-doesnt-need-a-library/\">the writer from Kirkbymoorside </a>who welcomes library closures (apparently because she never needs one herself) but the comments on her articles, and the people I meet every day in libraries, show thankfully that others know better.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "ideas",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 25,
+  "story_ids": [
+    "pln-story-9402-changes-001",
+    "pln-story-9402-changes-002",
+    "pln-story-9402-changes-003",
+    "pln-story-9402-changes-004",
+    "pln-story-9402-local-001",
+    "pln-story-9402-local-002",
+    "pln-story-9402-local-003",
+    "pln-story-9402-local-004",
+    "pln-story-9402-local-005",
+    "pln-story-9402-local-006",
+    "pln-story-9402-local-007",
+    "pln-story-9402-local-008",
+    "pln-story-9402-local-009",
+    "pln-story-9402-local-010",
+    "pln-story-9402-local-011",
+    "pln-story-9402-local-012",
+    "pln-story-9402-local-013",
+    "pln-story-9402-local-014",
+    "pln-story-9402-local-015",
+    "pln-story-9402-local-016",
+    "pln-story-9402-intl-001",
+    "pln-story-9402-intl-002",
+    "pln-story-9402-natl-001",
+    "pln-story-9402-natl-002",
+    "pln-story-9402-ideas-001"
+  ],
+  "stats": {
+    "authorities_count": 13,
+    "libraries_count": 10,
+    "countries_count": 3,
+    "top_categories": {
+      "closures_and_threats": 6,
+      "mobile_and_outreach": 6,
+      "cuts_and_finance": 5,
+      "volunteers_and_community": 4,
+      "opening_hours": 3,
+      "staffing_and_unions": 3,
+      "campaigns_and_protests": 2,
+      "digital_and_technology": 2,
+      "events_and_activities": 1,
+      "book_bans_and_challenges": 1,
+      "governance_and_trusts": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

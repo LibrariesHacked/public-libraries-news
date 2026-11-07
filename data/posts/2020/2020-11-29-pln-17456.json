@@ -1,0 +1,79 @@
+{
+  "id": "pln-post-17456",
+  "source_id": 17456,
+  "url": "https://www.publiclibrariesnews.com/2020/11/here-we-go-again.html",
+  "slug": "here-we-go-again",
+  "title": "Here we go again",
+  "date_published": "2020-11-29T11:53:30",
+  "date_modified": "2020-11-30T19:33:10",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "There will be a strong sense of deja vu in English public libraries this week, as they are allowed to reopen for browsing after the semi-lockdown of the last month. As before, each council will make its own choices about exactly how far it reopens its services so there is likely to be some variation, but basically many (normally not all) libraries in each council will offer browsing and PC access. Most services now have experience of click and collect so it will be interesting to see how many continue with that as well. What’s different than the first reopening is that libraries are already prepared and know what they’re doing. December is also traditionally a very quiet month. It’s very much worse than before, though, for Croydon, who effectively declared bankruptcy last week and say they will cut services to a “bare legal minimum”. It’s hardly been a fantastically funded service before, having only recently gone back to the council after being run by the now defunct Carillion, and a veteran of some fairly serious cuts over the last decade. The fear is, as well, that Croydon’s announcement will be the first of many such elsewhere in the country. Rishi Sunak’s announcement of £4 billion, including specific mention of capital budgets for libraries, has largely been met with scepticism online. Many point out that existing libraries barely have sufficient funding, with hundreds closed or passed to volunteers since the Conservatives took over a decade ago. The devil, as with most big funding announcements, will be in the detail, but one should expect at most a few nice library projects to come from this. It will more likely long-term be seen as, at best, a slight tinkering to improve the government’s public relations, than as a step-change in library provision. It is, after all, hard to be overly optimistic about it in a week when an entire council pretty much goes under, with more expected.",
+    "html": "<p class=\"wp-block-paragraph\">There will be a strong sense of <em>deja vu</em> in English public libraries this week, as they are allowed to reopen for browsing after the semi-lockdown of the last month. As before, each council will make its own choices about exactly how far it reopens its services so there is likely to be some variation, but basically many (normally not all) libraries in each council will offer browsing and PC access. Most services now have experience of click and collect so it will be interesting to see how many continue with that as well. What&#8217;s different than the first reopening is that libraries are already prepared and know what they&#8217;re doing. December is also traditionally a very quiet month.</p> <p class=\"wp-block-paragraph\">It&#8217;s very much worse than before, though, for Croydon, who effectively declared bankruptcy last week and say they will cut services to a &#8220;bare legal minimum&#8221;. <a href=\"https://www.publiclibrariesnews.com/about-public-libraries-news/information/changes-by-local-authority-a-to-fife/coventry-to-dorset\">It&#8217;s hardly been a fantastically funded service before, having only recently gone back to the council after being run by the now defunct Carillion, and a veteran of some fairly serious cuts over the last decade</a>. The fear is, as well, that Croydon&#8217;s announcement will be the first of many such elsewhere in the country. </p> <p class=\"wp-block-paragraph\">Rishi Sunak&#8217;s announcement of £4 billion, including specific mention of capital budgets for libraries, has largely been met with scepticism online. Many point out that existing libraries barely have sufficient funding, with hundreds closed or passed to volunteers since the Conservatives took over a decade ago. The devil, as with most big funding announcements, will be in the detail, but one should expect at most a few nice library projects to come from this. It will more likely long-term be seen as, at best, a slight tinkering to improve the government&#8217;s public relations, than as a step-change in library provision. It is, after all, hard to be overly optimistic about it in a week when an entire council pretty much goes under, with more expected.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 30,
+  "story_ids": [
+    "pln-story-17456-changes-001",
+    "pln-story-17456-changes-002",
+    "pln-story-17456-changes-003",
+    "pln-story-17456-local-001",
+    "pln-story-17456-local-002",
+    "pln-story-17456-local-003",
+    "pln-story-17456-local-004",
+    "pln-story-17456-local-005",
+    "pln-story-17456-local-006",
+    "pln-story-17456-local-007",
+    "pln-story-17456-local-008",
+    "pln-story-17456-local-009",
+    "pln-story-17456-local-010",
+    "pln-story-17456-local-011",
+    "pln-story-17456-local-012",
+    "pln-story-17456-local-013",
+    "pln-story-17456-local-014",
+    "pln-story-17456-local-015",
+    "pln-story-17456-local-016",
+    "pln-story-17456-local-017",
+    "pln-story-17456-local-018",
+    "pln-story-17456-local-019",
+    "pln-story-17456-intl-001",
+    "pln-story-17456-intl-002",
+    "pln-story-17456-intl-003",
+    "pln-story-17456-intl-004",
+    "pln-story-17456-natl-001",
+    "pln-story-17456-natl-002",
+    "pln-story-17456-natl-003",
+    "pln-story-17456-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 19,
+    "libraries_count": 20,
+    "countries_count": 7,
+    "top_categories": {
+      "refurbishment_and_new_builds": 5,
+      "governance_and_trusts": 5,
+      "cuts_and_finance": 4,
+      "staffing_and_unions": 4,
+      "mobile_and_outreach": 3,
+      "closures_and_threats": 3,
+      "opening_hours": 2,
+      "digital_and_technology": 2,
+      "campaigns_and_protests": 2,
+      "events_and_activities": 2,
+      "co_location": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

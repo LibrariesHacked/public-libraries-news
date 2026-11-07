@@ -1,0 +1,64 @@
+{
+  "id": "pln-post-7310",
+  "source_id": 7310,
+  "url": "https://www.publiclibrariesnews.com/2014/04/leicestershire-have-36-in-danger-ceredigion-and-awards.html",
+  "slug": "leicestershire-have-36-in-danger-ceredigion-and-awards",
+  "title": "Leicestershire have 36 in danger; Ceredigion; and awards.",
+  "date_published": "2014-04-08T22:15:06",
+  "date_modified": "2014-04-10T21:45:58",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "Every UK public library authority now has at least a webpage or two advertising its services but how many have a webpage just for what libraries provide for children? I don’t know of any. For such a key part of the library clientele, this seems to be a bit odd … so I hope you’re all going to impress with me with tons of great examples now: please send them in (along with any news or thoughts) to me at ianlibrarian@live.co.uk, thank you.",
+    "html": "<p style=\"text-align: justify;\">Every UK public library authority now has at least a webpage or two advertising its services but how many have a webpage just for what libraries provide for children? I don&#8217;t know of any. For such a key part of the library clientele, this seems to be a bit odd &#8230; so I hope you&#8217;re all going to impress with me with tons of great examples now: please send them in (along with any news or thoughts) to me at <a href=\"mailto:ianlibrarian@live.co.uk\">ianlibrarian@live.co.uk</a>, thank you.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news"
+  ],
+  "stories_count": 18,
+  "story_ids": [
+    "pln-story-7310-changes-001",
+    "pln-story-7310-changes-002",
+    "pln-story-7310-changes-003",
+    "pln-story-7310-changes-004",
+    "pln-story-7310-changes-005",
+    "pln-story-7310-intl-001",
+    "pln-story-7310-intl-002",
+    "pln-story-7310-intl-003",
+    "pln-story-7310-intl-004",
+    "pln-story-7310-intl-005",
+    "pln-story-7310-intl-006",
+    "pln-story-7310-intl-007",
+    "pln-story-7310-intl-008",
+    "pln-story-7310-intl-009",
+    "pln-story-7310-intl-010",
+    "pln-story-7310-intl-011",
+    "pln-story-7310-intl-012",
+    "pln-story-7310-intl-013"
+  ],
+  "stats": {
+    "authorities_count": 6,
+    "libraries_count": 6,
+    "countries_count": 5,
+    "top_categories": {
+      "closures_and_threats": 7,
+      "cuts_and_finance": 5,
+      "campaigns_and_protests": 5,
+      "volunteers_and_community": 4,
+      "staffing_and_unions": 2,
+      "opening_hours": 1,
+      "events_and_activities": 1,
+      "refurbishment_and_new_builds": 1,
+      "digital_and_technology": 1,
+      "mobile_and_outreach": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

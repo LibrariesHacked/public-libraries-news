@@ -1,0 +1,78 @@
+{
+  "id": "pln-post-18266",
+  "source_id": 18266,
+  "url": "https://www.publiclibrariesnews.com/2021/10/halloween-themed-week-possible-cuts-in-dorset-gateshead-hartlepool-and-slough.html",
+  "slug": "halloween-themed-week-possible-cuts-in-dorset-gateshead-hartlepool-and-slough",
+  "title": "Halloween themed week: Possible cuts in Dorset, Gateshead, Hartlepool and Slough",
+  "date_published": "2021-10-31T19:36:42",
+  "date_modified": "2021-10-31T19:36:47",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "There’s some scary news for libraries this week as four library services announce consultations. These tend to include only cuts as options so it’s fairly clear where the direction of intended travel is. The cuts look to be particular severe in Gateshead with a 2010-like 5 out of 8 being under threat. On the other hand, the whole of the island of Ireland is now fines-free, with Northern Ireland no longer forcing its customers to pay for not being able to return theirs books on time, following the example of the Republic of Ireland two years ago.",
+    "html": "<p class=\"wp-block-paragraph\">There&#8217;s some scary news for libraries this week as four library services announce consultations. These tend to include only cuts as options so it&#8217;s fairly clear where the direction of intended travel is. The cuts look to be particular severe in Gateshead with a 2010-like 5 out of 8 being under threat. On the other hand, the whole of the island of Ireland is now fines-free, with Northern Ireland no longer forcing its customers to pay for not being able to return theirs books on time, following the example of the Republic of Ireland two years ago. </p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 31,
+  "story_ids": [
+    "pln-story-18266-changes-001",
+    "pln-story-18266-changes-002",
+    "pln-story-18266-changes-003",
+    "pln-story-18266-changes-004",
+    "pln-story-18266-local-001",
+    "pln-story-18266-local-002",
+    "pln-story-18266-local-003",
+    "pln-story-18266-local-004",
+    "pln-story-18266-local-005",
+    "pln-story-18266-local-006",
+    "pln-story-18266-local-007",
+    "pln-story-18266-local-008",
+    "pln-story-18266-local-009",
+    "pln-story-18266-local-010",
+    "pln-story-18266-local-011",
+    "pln-story-18266-local-012",
+    "pln-story-18266-local-013",
+    "pln-story-18266-local-014",
+    "pln-story-18266-local-015",
+    "pln-story-18266-local-016",
+    "pln-story-18266-local-017",
+    "pln-story-18266-local-018",
+    "pln-story-18266-local-019",
+    "pln-story-18266-local-020",
+    "pln-story-18266-intl-001",
+    "pln-story-18266-intl-002",
+    "pln-story-18266-intl-003",
+    "pln-story-18266-natl-001",
+    "pln-story-18266-natl-002",
+    "pln-story-18266-natl-003",
+    "pln-story-18266-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 19,
+    "libraries_count": 23,
+    "countries_count": 7,
+    "top_categories": {
+      "events_and_activities": 5,
+      "closures_and_threats": 4,
+      "staffing_and_unions": 4,
+      "book_bans_and_challenges": 3,
+      "digital_and_technology": 3,
+      "cuts_and_finance": 3,
+      "refurbishment_and_new_builds": 3,
+      "volunteers_and_community": 1,
+      "campaigns_and_protests": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

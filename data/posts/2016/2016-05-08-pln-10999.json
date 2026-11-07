@@ -1,0 +1,74 @@
+{
+  "id": "pln-post-10999",
+  "source_id": 10999,
+  "url": "https://www.publiclibrariesnews.com/2016/05/so-what-does-lancashire-and-newfoundland-have-in-common.html",
+  "slug": "so-what-does-lancashire-and-newfoundland-have-in-common",
+  "title": "So what does Lancashire and Newfoundland have in common?",
+  "date_published": "2016-05-08T19:58:45",
+  "date_modified": "2016-05-10T20:50:30",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "More information has come out about the cuts in Lancashire. It’s pretty bad. The press release from the council is an unfortunate example of the best possible gloss being put on a bad situation, with the real needs of users (and the feelings of library staff, not to say their jobs) seemingly pretty much ignored. Canada is not a place I normally associate with deep cuts but it looks like the politicians in Newfoundland are trying to change that. It’s heartening to see the national reaction, not to say revulsion, that this is causing in that country, though. So things may end differently there. We can hope so. Meanwhile, there’s a nice refurb in Bradford and an extension of the embarrassing closure in Hereford and something very interesting going on in a Malaysian airport …",
+    "html": "<p style=\"text-align: justify;\">More information has come out about the cuts in Lancashire. It&#8217;s pretty bad. The press release from the council is an unfortunate example of the best possible gloss being put on a bad situation, with the real needs of users (and the feelings of library staff, not to say their jobs) seemingly pretty much ignored. Canada is not a place I normally associate with deep cuts but it looks like the politicians in Newfoundland are trying to change that. It&#8217;s heartening to see the national reaction, not to say revulsion, that this is causing in that country, though. So things may end differently there. We can hope so. Meanwhile, there&#8217;s a nice refurb in Bradford and an extension of the embarrassing closure in Hereford and something very interesting going on in a Malaysian airport &#8230;</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 27,
+  "story_ids": [
+    "pln-story-10999-changes-001",
+    "pln-story-10999-changes-002",
+    "pln-story-10999-changes-003",
+    "pln-story-10999-local-001",
+    "pln-story-10999-local-002",
+    "pln-story-10999-local-003",
+    "pln-story-10999-local-004",
+    "pln-story-10999-local-005",
+    "pln-story-10999-local-006",
+    "pln-story-10999-local-007",
+    "pln-story-10999-local-008",
+    "pln-story-10999-local-009",
+    "pln-story-10999-local-010",
+    "pln-story-10999-local-011",
+    "pln-story-10999-local-012",
+    "pln-story-10999-local-013",
+    "pln-story-10999-local-014",
+    "pln-story-10999-intl-001",
+    "pln-story-10999-intl-002",
+    "pln-story-10999-intl-003",
+    "pln-story-10999-intl-004",
+    "pln-story-10999-intl-005",
+    "pln-story-10999-natl-001",
+    "pln-story-10999-natl-002",
+    "pln-story-10999-natl-003",
+    "pln-story-10999-natl-004",
+    "pln-story-10999-natl-005"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 10,
+    "countries_count": 5,
+    "top_categories": {
+      "closures_and_threats": 8,
+      "cuts_and_finance": 8,
+      "events_and_activities": 6,
+      "staffing_and_unions": 5,
+      "refurbishment_and_new_builds": 4,
+      "campaigns_and_protests": 2,
+      "digital_and_technology": 2,
+      "co_location": 1,
+      "volunteers_and_community": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

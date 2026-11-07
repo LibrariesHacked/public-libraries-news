@@ -1,0 +1,32 @@
+{
+  "id": "pln-post-698",
+  "source_id": 698,
+  "url": "https://www.publiclibrariesnews.com/2010/11/wednesday-10th-november-2.html",
+  "slug": "wednesday-10th-november-2",
+  "title": "Wednesday 10th November",
+  "date_published": "2010-11-10T20:14:00",
+  "date_modified": "2010-11-10T20:14:00",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "",
+    "html": ""
+  },
+  "sections_found": [
+    "editorial"
+  ],
+  "stories_count": 0,
+  "story_ids": [],
+  "stats": {
+    "authorities_count": 0,
+    "libraries_count": 0,
+    "countries_count": 0,
+    "top_categories": {}
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

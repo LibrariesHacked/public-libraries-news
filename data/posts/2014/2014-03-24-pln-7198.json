@@ -1,0 +1,64 @@
+{
+  "id": "pln-post-7198",
+  "source_id": 7198,
+  "url": "https://www.publiclibrariesnews.com/2014/03/ed-vaizey-publishes-comparative-library-data-sort-of-ish.html",
+  "slug": "ed-vaizey-publishes-comparative-library-data-sort-of-ish",
+  "title": "Ed Vaizey publishes comparative library data.  Sort of. Ish.",
+  "date_published": "2014-03-24T23:41:06",
+  "date_modified": "2014-03-25T21:31:03",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "The DCMS has released the latest (2013) reports showing how well each library authority are doing compared to the others. This was a flagship (in so far as anything libraries-related Ed Vaizey does can be so called) policy last year and it is intended to allow anyone to hold their authority to account. It is also intended to show who are the most successful councils which the others can then copy. Sadly, there wasn’t much evidence of this happening last year: or at least it didn’t hit the newspapers. I was looking for mentions and there were barely any. More could doubtless have been made of the data but the minister, in his wisdom (presumably the DCMS is so cash strapped it needs the money too?) has decided to charge £475 (plus VAT, naturally) to each authority if it wants the fully accessible works. One could see that as shooting one’s own policy in the foot a little as, on the one hand, Ed is keen to show how open the data is but, on the other hand, £570 is too much for many to actually go the whole hog and actually use it. This year, the cracks are starting to show even further. It is entirely voluntary whether library services send in the data that the reports depend on. Unsurprisingly, it looks like 10 out of the 151 have simply refused to do so this year. It’s impossible to tell why (budget cuts meaning there’s no staff to send in the information? A desire not to be embarrassed? The suspicion no one actually uses it?) but the mere fact that it’s not comprehensive limits its usefulness. Even worse it has, as of checking now, only 78 authorities actually on the list: one hopes the omission of the others are only temporary. In fact, this half-baked launch is inadvertently demonstrating the very weakness of Vaizey’s own approach – making things voluntary means the loss of the comprehensive and efficient and cutting staff to the bone means things don’t go right. How ironic, Mr Vaizey.",
+    "html": "<p style=\"text-align: justify;\"><a title=\"DCMS\" href=\"https://www.gov.uk/government/news/library-comparison-reports-published\">The DCMS has released the latest (2013) reports showing how well each library authority are doing compared to the others</a>. This was a flagship (in so far as anything libraries-related Ed Vaizey does can be so called) policy last year and it is intended to allow anyone to hold their authority to account. It is also intended to show who are the most successful councils which the others can then copy. Sadly, there wasn&#8217;t much evidence of this happening last year: or at least it didn&#8217;t hit the newspapers. I was looking for mentions and there were barely any. More could doubtless have been made of the data but the minister, in his wisdom (presumably the DCMS is so cash strapped it needs the money too?) has decided to charge £475 (plus VAT, naturally) to each authority if it wants the fully accessible works. One could see that as shooting one&#8217;s own policy in the foot a little as, on the one hand, Ed is keen to show how open the data is but, on the other hand, £570 is too much for many to actually go the whole hog and actually use it.</p> <p style=\"text-align: justify;\">This year, the cracks are starting to show even further. It is entirely voluntary whether library services send in <a title=\"DCMS\" href=\"http://www.cipfa.org/services/research-and-statistics/comparative-profiles/public-libraries/cipfastats-library-profiles-english-authorities-2013\">the data that the reports depend on. Unsurprisingly, it looks like 10 out of the 151 have simply refused to do so this year</a>. It&#8217;s impossible to tell why (budget cuts meaning there&#8217;s no staff to send in the information? A desire not to be embarrassed? The suspicion no one actually uses it?) but the mere fact that it&#8217;s not comprehensive limits its usefulness. Even worse it has, as of checking now, only 78 authorities actually on the list: one hopes the omission of the others are only temporary. In fact, this half-baked launch is inadvertently demonstrating the very weakness of Vaizey&#8217;s own approach &#8211; making things voluntary means the loss of the comprehensive and efficient and cutting staff to the bone means things don&#8217;t go right. How ironic, Mr Vaizey.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news"
+  ],
+  "stories_count": 16,
+  "story_ids": [
+    "pln-story-7198-changes-001",
+    "pln-story-7198-changes-002",
+    "pln-story-7198-changes-003",
+    "pln-story-7198-changes-004",
+    "pln-story-7198-changes-005",
+    "pln-story-7198-local-001",
+    "pln-story-7198-local-002",
+    "pln-story-7198-local-003",
+    "pln-story-7198-local-004",
+    "pln-story-7198-local-005",
+    "pln-story-7198-local-006",
+    "pln-story-7198-local-007",
+    "pln-story-7198-local-008",
+    "pln-story-7198-intl-001",
+    "pln-story-7198-intl-002",
+    "pln-story-7198-intl-003"
+  ],
+  "stats": {
+    "authorities_count": 7,
+    "libraries_count": 18,
+    "countries_count": 4,
+    "top_categories": {
+      "cuts_and_finance": 7,
+      "closures_and_threats": 5,
+      "staffing_and_unions": 4,
+      "campaigns_and_protests": 4,
+      "book_bans_and_challenges": 3,
+      "volunteers_and_community": 3,
+      "events_and_activities": 2,
+      "digital_and_technology": 2,
+      "opening_hours": 2,
+      "mobile_and_outreach": 1,
+      "refurbishment_and_new_builds": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}

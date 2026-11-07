@@ -1,0 +1,74 @@
+{
+  "id": "pln-post-13010",
+  "source_id": 13010,
+  "url": "https://www.publiclibrariesnews.com/2017/08/no-national-public-libraries-website-until-at-least-2019.html",
+  "slug": "no-national-public-libraries-website-until-at-least-2019",
+  "title": "No national public libraries website until at least 2019",
+  "date_published": "2017-08-30T19:28:46",
+  "date_modified": "2017-09-03T18:16:58",
+  "author": "Ian Anstice / The Library Campaign",
+  "editorial": {
+    "text": "After a recommendation in 2014 and two reports, the news is that a single digital presence for public libraries will have to wait at least another year and a half while another report is being produced. A “single digital presence”, incidentally, is simply a website (and if we’re lucky, an app) offering e-resources and/or catalogues. Or possibly not,, as no decisions have yet been made even on what it actually is. Meanwhile, there’s a patchwork of hundreds of library websites, some very good but some lamentably bad, all around the country. The reasons for the delay I suspect is that there’s (a) no money, (b) too many different authorities with (c) no-one actually with the authority to direct action and possibly (d) not enough actual technical expertise and know-how amongst the decision makers. As such the chances of a national library website by 2020 [Edit – originally said 2010 as a typo – or perhaps I like making sure-thing predictions? Ed.] is looking slight and the temptation to kick things into the long grass quite high. So that’s me being pessimistic. Sorry about that. I really hope I’m proven wrong and there’s something really impressive in sight before the end of the decade. But I’m having difficulty actually believing it. Anyone willing to take a bet? Now for two impressive things. The big promising trend I’ve been seeing for a year or two is libraries feeding children over the school holidays. It’s an idea originating in the USA that is taking off here with some really good results. Have a read below about what is happening in Rochadale. The other seriously good thing is happening literally a world away – Auckland have been done some really good life-changing things with the homeless, up to and including reading groups and cinema screenings. Have a read of their story here.",
+    "html": "<p style=\"text-align: justify;\">After a recommendation in 2014 and two reports, the news is that a single digital presence for public libraries will have to wait at least another year and a half while another report is being produced. A &#8220;single digital presence&#8221;, incidentally, is simply a website (and if we&#8217;re lucky, an app) offering e-resources and/or catalogues. Or possibly not,, as no decisions have yet been made even on what it actually is. Meanwhile, there&#8217;s a patchwork of hundreds of library websites, some very good but some lamentably bad, all around the country. The reasons for the delay I suspect is that there&#8217;s (a) no money, (b) too many different authorities with (c) no-one actually with the authority to direct action and possibly (d) not enough actual technical expertise and know-how amongst the decision makers. As such the chances of a national library website by 2020 [Edit &#8211; originally said 2010 as a typo &#8211; or perhaps I like making sure-thing predictions? Ed.] is looking slight and the temptation to kick things into the long grass quite high. So that&#8217;s me being pessimistic. Sorry about that. I really hope I&#8217;m proven wrong and there&#8217;s something really impressive in sight before the end of the decade. But I&#8217;m having difficulty actually believing it. Anyone willing to take a bet?</p> <p style=\"text-align: justify;\">Now for two impressive things. The big promising trend I&#8217;ve been seeing for a year or two is libraries feeding children over the school holidays. It&#8217;s an idea originating in the USA that is taking off here with some really good results. Have a read below about what is happening in Rochadale. The other seriously good thing is happening literally a world away &#8211; Auckland have been done some really good life-changing things with the homeless, up to and including reading groups and cinema screenings.<a href=\"http://Hope House Surgery is having to revisit its plans for a new Doctor’s Surgery, Children’s Centre, Library and Community Kitchen after B&amp;NES’ Development Control Committee decided to defer a decision on the application, so that further design negotiations can take place\"> Have a read of their story here</a>.</p>"
+  },
+  "sections_found": [
+    "changes",
+    "editorial",
+    "international_news",
+    "local_news",
+    "national_news"
+  ],
+  "stories_count": 28,
+  "story_ids": [
+    "pln-story-13010-changes-001",
+    "pln-story-13010-changes-002",
+    "pln-story-13010-changes-003",
+    "pln-story-13010-changes-004",
+    "pln-story-13010-changes-005",
+    "pln-story-13010-local-001",
+    "pln-story-13010-local-002",
+    "pln-story-13010-local-003",
+    "pln-story-13010-local-004",
+    "pln-story-13010-local-005",
+    "pln-story-13010-local-006",
+    "pln-story-13010-local-007",
+    "pln-story-13010-local-008",
+    "pln-story-13010-local-009",
+    "pln-story-13010-local-010",
+    "pln-story-13010-intl-001",
+    "pln-story-13010-intl-002",
+    "pln-story-13010-intl-003",
+    "pln-story-13010-intl-004",
+    "pln-story-13010-intl-005",
+    "pln-story-13010-intl-006",
+    "pln-story-13010-intl-007",
+    "pln-story-13010-intl-008",
+    "pln-story-13010-intl-009",
+    "pln-story-13010-natl-001",
+    "pln-story-13010-natl-002",
+    "pln-story-13010-natl-003",
+    "pln-story-13010-natl-004"
+  ],
+  "stats": {
+    "authorities_count": 10,
+    "libraries_count": 15,
+    "countries_count": 10,
+    "top_categories": {
+      "cuts_and_finance": 5,
+      "co_location": 3,
+      "refurbishment_and_new_builds": 3,
+      "staffing_and_unions": 3,
+      "closures_and_threats": 3,
+      "digital_and_technology": 3,
+      "governance_and_trusts": 2,
+      "opening_hours": 1
+    }
+  },
+  "attribution": {
+    "source": "Public Libraries News",
+    "source_url": "https://www.publiclibrariesnews.com/",
+    "license": "CC BY 4.0",
+    "license_url": "https://creativecommons.org/licenses/by/4.0/",
+    "notes": "Content copyright Ian Anstice / The Library Campaign, licensed under Creative Commons Attribution."
+  }
+}
