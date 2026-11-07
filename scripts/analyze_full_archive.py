@@ -1,9 +1,21 @@
+"""
+Archive analysis script for Public Libraries News datasets.
+
+Calculates aggregate metrics across all parsed posts and stories, evaluating
+resolution accuracy, category distributions, and entity matching rates.
+"""
+
 import json
 import glob
 import os
 from collections import Counter
 
 def main():
+    """Evaluate and print corpus-wide metrics across post and story JSON partitions.
+
+    Summarizes total posts, date ranges, section counts, entity matching percentages,
+    and thematic taxonomy distributions.
+    """
     story_files = sorted(glob.glob("data/stories/*.json"))
     post_index_path = "data/posts_index.json"
 

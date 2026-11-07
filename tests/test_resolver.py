@@ -1,16 +1,23 @@
 """
 Unit tests for EntityResolver (UK Local Authorities, Countries, Libraries, Classification).
+
+Tests rule-based entity resolution, authority aliases, geographic centroids,
+branch detection from LibraryCommons, and content categorization.
 """
 
 import unittest
 from src.resolver import EntityResolver
 
 class TestEntityResolver(unittest.TestCase):
+    """Test suite validating geographic entity resolution and thematic classification."""
+
     @classmethod
     def setUpClass(cls):
+        """Initialize a shared EntityResolver instance for all tests."""
         cls.resolver = EntityResolver()
 
     def test_uk_authority_exact(self):
+        """Verify exact matches against canonical UK local authority names."""
         res, cls_obj, tags = self.resolver.resolve("Barnsley", "The council is proposing new services.", "local_news")
         self.assertEqual(res.entity_type, "local_authority")
         self.assertEqual(res.country, "England")
@@ -20,6 +27,7 @@ class TestEntityResolver(unittest.TestCase):
         self.assertEqual(res.library_service.gss_code, "E08000016")
 
     def test_uk_authority_alias(self):
+        """Verify that known aliases, colloquialisms, and acronyms map to canonical authority names."""
         res, _, _ = self.resolver.resolve("Cheshire West", "News from Chester libraries.", "changes")
         self.assertEqual(res.entity_type, "local_authority")
         self.assertEqual(res.library_service.name, "Cheshire West and Chester")
@@ -29,6 +37,7 @@ class TestEntityResolver(unittest.TestCase):
         self.assertEqual(res_rct.library_service.name, "Rhondda Cynon Taf")
 
     def test_scotland_and_ni(self):
+        """Verify proper nation assignment for Scottish and Northern Irish library services."""
         res_scot, _, _ = self.resolver.resolve("Aberdeen", "Aberdeen central library news.", "local_news")
         self.assertEqual(res_scot.country, "Scotland")
 
@@ -36,6 +45,7 @@ class TestEntityResolver(unittest.TestCase):
         self.assertEqual(res_ni.country, "Northern Ireland")
 
     def test_country_matching(self):
+        """Verify international country name resolution and ISO alpha-2 codes."""
         res_us, _, _ = self.resolver.resolve("USA", "American Library Association reports challenge.", "international_news")
         self.assertEqual(res_us.entity_type, "country")
         self.assertEqual(res_us.country, "United States")
@@ -46,6 +56,7 @@ class TestEntityResolver(unittest.TestCase):
         self.assertEqual(res_ca.country_code, "CA")
 
     def test_library_branch_matching(self):
+        """Verify that specific branch names in story text are matched to LibraryCommons IDs."""
         text = "Staff and campaigners gathered outside Harborne Library to protest against proposed reductions in hours."
         res, cls_obj, tags = self.resolver.resolve("Birmingham", text, "local_news")
         self.assertEqual(res.entity_type, "local_authority")
@@ -58,6 +69,7 @@ class TestEntityResolver(unittest.TestCase):
         self.assertIn("opening_hours", cls_obj.categories)
 
     def test_classification_and_change_type(self):
+        """Verify thematic taxonomy classification, change types, sector bodies, and monetary values."""
         text = "DCMS officials met with council officers over £1.2m proposed budget cuts and closure of two branches."
         res, cls_obj, tags = self.resolver.resolve("Unknown Council", text, "changes")
         self.assertIn("closures_and_threats", cls_obj.categories)

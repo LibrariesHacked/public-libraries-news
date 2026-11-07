@@ -1,5 +1,8 @@
 """
 Unit tests for PLNPostParser.
+
+Validates HTML section segmentation, story entity extraction, hyperlink harvesting,
+and integration with EntityResolver.
 """
 
 import unittest
@@ -26,11 +29,15 @@ SAMPLE_POST_HTML = """
 """
 
 class TestPostParser(unittest.TestCase):
+    """Test suite verifying HTML parsing, section splitting, and story item generation."""
+
     def setUp(self):
+        """Initialize parser instance backed by the default entity resolver."""
         resolver = EntityResolver()
         self.parser = PLNPostParser(resolver=resolver)
 
     def test_parse_post(self):
+        """Verify that posts are correctly split into editorial commentary and discrete stories."""
         editorial, stories, sections = self.parser.parse_post(
             source_id=99999,
             post_date="2024-10-20T18:00:00Z",

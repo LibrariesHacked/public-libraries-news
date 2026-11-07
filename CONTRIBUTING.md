@@ -1,6 +1,16 @@
+---
+layout: default
+title: Contributing
+description: Guidelines for contributing authority aliases, library branch updates, and code improvements.
+---
+
 # Contributing to Public Libraries News Scraper
 
-We welcome contributions from library campaigners, data analysts, and developers.
+[🏠 Home](index.md) · [Overview](docs/overview.md) · [Data Structure](docs/data-structure.md) · [Entity Matching](docs/entity-matching.md) · [Consuming the Data](docs/consuming-the-data.md) · [Automation](docs/automation.md)
+
+---
+
+We welcome contributions from library campaigners, sector observers, data analysts, and developers.
 
 ## How Can I Contribute?
 
@@ -19,10 +29,13 @@ If a specific weekly post has a unique layout variation that our parser struggle
 * The link to the Public Libraries News post.
 * The section or story that was missed or improperly parsed.
 
+---
+
 ## Code Style & Testing
 Before submitting a pull request with code changes:
-* Ensure tests pass:
+* Ensure all tests pass:
   ```bash
   python -m unittest discover tests
   ```
+* Adhere to the code style: classes, methods, and files must have concise docstrings describing *what* and *why* in a few sentences.
 * Keep dependencies minimal. The core scraper is designed to run cleanly on the standard Python library without external package requirements.

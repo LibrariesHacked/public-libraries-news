@@ -1,8 +1,20 @@
+"""
+Dataset inspection script for parsed stories and posts.
+
+Inspects parsed posts and stories to verify entity resolution rates, link extraction,
+clean text formatting, and unresolved entity outliers.
+"""
+
 import json
 import glob
 import re
 
 def analyze_all():
+    """Inspect recently parsed posts and stories to report resolution and formatting quality.
+
+    Checks resolved authority counts, international country coverage, branch mentions,
+    and identifies any story entities failing resolution.
+    """
     posts = glob.glob("data/posts/*/*.json")
     print(f"Total Posts Loaded: {len(posts)}\n")
 

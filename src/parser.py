@@ -1,7 +1,8 @@
 """
 HTML Parser for Public Libraries News weekly posts.
-Splits posts into standard sections (Editorial, Changes, Local news, International news)
-and extracts discrete story items with links and entity headings.
+
+Segments HTML post content into structural sections (Editorial, Changes, Local news,
+International news) and extracts individual story items with hyperlinks and entity headers.
 """
 
 from html import unescape
@@ -11,8 +12,13 @@ from typing import Dict, List, Optional, Tuple, Any
 import urllib.parse
 
 class HTMLTextExtractor(HTMLParser):
-    """Extract plain text, clean HTML, and hyperlinks from an HTML fragment."""
+    """HTML parser extracting normalized plain text and anchor links from markup fragments.
+    
+    Accumulates text nodes and extracts href targets, link text, and clean domain names.
+    """
+
     def __init__(self):
+        """Initialize parser state buffers for text fragments and hyperlink records."""
         super().__init__()
         self.text_parts = []
         self.links = []
@@ -20,6 +26,7 @@ class HTMLTextExtractor(HTMLParser):
         self._current_link_text = []
 
     def handle_starttag(self, tag, attrs):
+        """Process opening tags, capturing hyperlink destinations and inserting word boundaries."""
         attrs_dict = dict(attrs)
         if tag == "a" and "href" in attrs_dict:
             self._current_link = attrs_dict["href"]
@@ -28,6 +35,7 @@ class HTMLTextExtractor(HTMLParser):
             self.text_parts.append(" ")
 
     def handle_endtag(self, tag):
+        """Finalize active hyperlinks, extracting domain names and resetting link buffers."""
         if tag == "a" and self._current_link:
             link_text = "".join(self._current_link_text).strip()
             if self._current_link and link_text:
@@ -48,22 +56,25 @@ class HTMLTextExtractor(HTMLParser):
             self.text_parts.append(" ")
 
     def handle_data(self, data):
+        """Append raw character data to the text buffer and active link buffer."""
         self.text_parts.append(data)
         if self._current_link is not None:
             self._current_link_text.append(data)
 
     def get_text(self) -> str:
+        """Collapse text parts and whitespace into a clean single-spaced string."""
         raw = "".join(self.text_parts)
         # Collapse multiple whitespace/newlines
         return re.sub(r"\s+", " ", raw).strip()
 
 def extract_text_and_links(html_snippet: str) -> Tuple[str, List[Dict[str, str]]]:
+    """Extract plain text and structured link dictionaries from an HTML fragment."""
     parser = HTMLTextExtractor()
     parser.feed(html_snippet)
     return parser.get_text(), parser.links
 
 def clean_html_fragment(html_snippet: str) -> str:
-    """Sanitize HTML fragment, preserving basic links and emphasis while stripping layout tags."""
+    """Sanitize HTML fragment by preserving links and emphasis while stripping layout tags."""
     # Remove unwanted style and script tags
     s = re.sub(r"<(script|style)[^>]*>.*?</\1>", "", html_snippet, flags=re.DOTALL | re.IGNORECASE)
     # Strip span and font tags but keep contents
@@ -73,7 +84,11 @@ def clean_html_fragment(html_snippet: str) -> str:
     return s
 
 class PLNPostParser:
-    """Parses full WordPress post content into structured sections and stories."""
+    """Parses full WordPress post content into structured sections and stories.
+    
+    Identifies editorial introductions, detects section boundaries, and splits
+    bulleted items into discrete stories linked via an optional EntityResolver.
+    """
 
     SECTION_PATTERNS = [
         ("editorial", r"^(editorial|editorial and national)\b"),
@@ -87,15 +102,19 @@ class PLNPostParser:
     SEPARATORS_PATTERN = re.compile(r"\s*(?:[\u2013\u2014\-:]|&ndash;|&mdash;)\s*")
 
     def __init__(self, resolver=None):
+        """Initialize parser with an optional EntityResolver for story tagging."""
         self.resolver = resolver
 
     def parse_post(self, source_id: int, post_date: str, post_html: str) -> Tuple[Dict[str, str], List[Dict[str, Any]], List[str]]:
-        """
-        Parses post HTML.
+        """Parse raw HTML content into editorial text, story dictionaries, and section names.
+        
+        Args:
+            source_id: WordPress numeric post ID.
+            post_date: ISO 8601 publication date string.
+            post_html: Raw HTML string of the post body.
+            
         Returns:
-            editorial_dict: {"text": "...", "html": "..."}
-            stories: list of story dicts
-            sections_found: list of section names found
+            Tuple of (editorial dictionary, list of parsed story dictionaries, list of section names).
         """
         blocks = self._split_into_blocks(post_html)
         current_section = "editorial"
@@ -225,7 +244,7 @@ class PLNPostParser:
         return editorial_dict, all_stories, sorted(list(sections_found))
 
     def _split_into_blocks(self, html: str) -> List[str]:
-        """Split HTML into logical block units (paragraphs, list items, headings)."""
+        """Split HTML string into logical block elements (paragraphs, list items, headings)."""
         # Split on block-level HTML tags
         parts = re.split(r"(<(?:p|h[1-6]|li)[^>]*>.*?</(?:p|h[1-6]|li)>)", html, flags=re.DOTALL | re.IGNORECASE)
         blocks = []
@@ -236,7 +255,10 @@ class PLNPostParser:
         return blocks
 
     def _detect_section_heading(self, block: str) -> Optional[str]:
-        """Check if a block is a section heading."""
+        """Identify whether a block corresponds to a canonical section header.
+        
+        Returns the section key (e.g. 'local_news', 'changes') or None.
+        """
         text, _ = extract_text_and_links(block)
         clean = text.lower().strip()
         # Strip numbering or punctuation
@@ -249,9 +271,9 @@ class PLNPostParser:
         return None
 
     def _parse_story_block(self, block: str, section: str) -> Optional[Dict[str, Any]]:
-        """
-        Extract entity prefix, story body, and links from a block.
-        Format typically: <p><strong>Entity Name</strong> – Story text... <a href="..."></a></p>
+        """Extract bold entity prefix, body text, clean HTML, and links from a story block.
+        
+        Handles bold leading tags, delimiter dashes, and plain text bullet fallbacks.
         """
         # 1. Look for bold tag prefix: <strong>...</strong> or <b>...</b>
         match_bold = re.search(r"<(?:strong|b)>([^<]+)</(?:strong|b)>\s*(?:[\u2013\u2014\-:]|&ndash;|&mdash;)?\s*(.*)", block, flags=re.DOTALL | re.IGNORECASE)

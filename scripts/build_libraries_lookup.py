@@ -8,6 +8,11 @@ import os
 import sys
 
 def build_libraries_lookup(source_dir: str, output_path: str):
+    """Compile raw library JSON files from LibraryCommons into an optimized lookup dataset.
+
+    Extracts library branch names, authority codes, coordinates, and statuses
+    to enable branch-level entity resolution.
+    """
     if not os.path.exists(source_dir):
         print(f"Directory {source_dir} not found")
         return

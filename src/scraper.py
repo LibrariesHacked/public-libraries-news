@@ -1,6 +1,8 @@
 """
 Polite WordPress REST API scraper for Public Libraries News.
-Fetches posts incrementally or in backfill mode.
+
+Fetches weekly digests incrementally or across the full historical archive,
+transforming raw post payloads into structured models, editorial text, and discrete stories.
 """
 
 import json
@@ -21,6 +23,12 @@ USER_AGENT = (
 )
 
 class PLNScraper:
+    """Manages HTTP communication with the WordPress REST API and coordinates parsing and storage.
+    
+    Operates in either an incremental mode for fast weekly updates or a paginated backfill mode
+    for historical archiving.
+    """
+
     def __init__(
         self,
         base_url: str = "https://www.publiclibrariesnews.com",
@@ -28,6 +36,14 @@ class PLNScraper:
         resolver: Optional[EntityResolver] = None,
         rate_limit_delay: float = 1.5,
     ):
+        """Configure API endpoints, parsers, entity resolvers, and politeness rate limits.
+        
+        Args:
+            base_url: Domain of the WordPress installation to query.
+            storage: Storage manager instance for saving files and indexes.
+            resolver: Entity resolver instance for geographic and library linking.
+            rate_limit_delay: Delay in seconds between paginated requests.
+        """
         self.base_url = base_url.rstrip("/")
         self.api_endpoint = f"{self.base_url}/wp-json/wp/v2/posts"
         self.storage = storage or PLNStorage()
@@ -36,6 +52,10 @@ class PLNScraper:
         self.rate_limit_delay = rate_limit_delay
 
     def _fetch_json(self, url: str) -> Optional[Any]:
+        """Fetch and parse JSON from a REST API URL with custom User-Agent headers.
+        
+        Returns parsed JSON or None if the request fails or pagination terminates.
+        """
         req = urllib.request.Request(
             url,
             headers={
@@ -58,7 +78,11 @@ class PLNScraper:
             return None
 
     def process_raw_post(self, raw_post: Dict[str, Any]) -> Tuple[Dict[str, Any], List[Dict[str, Any]]]:
-        """Convert WordPress REST post payload into Post model and Story items."""
+        """Convert a WordPress REST API post payload into structured Post and Story models.
+        
+        Extracts editorial content, segments story sections, links entities, and computes
+        post-level summary statistics.
+        """
         source_id = raw_post["id"]
         post_date = raw_post.get("date_gmt") or raw_post.get("date") or ""
         post_modified = raw_post.get("modified_gmt") or raw_post.get("modified") or post_date
@@ -132,10 +156,16 @@ class PLNScraper:
         return post.to_dict(), stories
 
     def run_incremental(self, per_page: int = 10) -> int:
-        """
-        Check page 1 of recent posts. If all posts match the index, exit immediately.
-        Otherwise parse new/updated posts and save them.
-        Returns count of new/updated posts processed.
+        """Check latest posts from the API and process only new or modified entries.
+        
+        Designed for scheduled weekly execution. Exits immediately when all recent
+        posts match the local index.
+        
+        Args:
+            per_page: Number of recent posts to check (default: 10).
+            
+        Returns:
+            Number of newly parsed or updated posts.
         """
         index = self.storage.load_index()
         url = f"{self.api_endpoint}?page=1&per_page={per_page}&orderby=date&order=desc"
@@ -191,8 +221,17 @@ class PLNScraper:
         return updated_count
 
     def run_backfill(self, max_pages: Optional[int] = None, per_page: int = 50) -> int:
-        """
-        Paginate through all historical posts from the WordPress API.
+        """Paginate sequentially through the complete WordPress archive.
+        
+        Fetches historical posts back to 2010, saving partition files and
+        respecting the politeness rate limit between pages.
+        
+        Args:
+            max_pages: Optional upper limit on the number of pages to process.
+            per_page: Number of posts to retrieve per API request (default: 50).
+            
+        Returns:
+            Total count of historical posts parsed and updated.
         """
         index = self.storage.load_index()
         page = 1

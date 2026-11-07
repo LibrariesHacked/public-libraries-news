@@ -1,6 +1,9 @@
 #!/usr/bin/env python3
 """
 Command line entrypoint for the Public Libraries News scraper.
+
+Allows running weekly incremental updates or paginated archive backfills
+with configurable rate limiting and page limits.
 """
 
 import argparse
@@ -8,6 +11,11 @@ import sys
 from .scraper import PLNScraper
 
 def main():
+    """Parse command line arguments and execute the scraper workflow.
+    
+    Supports incremental runs for scheduled weekly updates and backfill
+    runs for historical archive pagination.
+    """
     parser = argparse.ArgumentParser(
         description="Scrape and parse weekly news posts from Public Libraries News."
     )

@@ -22,6 +22,12 @@ def _clean_str(s: str) -> str:
     return re.sub(r"[^a-z0-9 ]+", " ", s.lower()).strip()
 
 class EntityResolver:
+    """Resolves raw entity names and story text into canonical places, councils, and libraries.
+    
+    Performs deterministic, rule-based matching against UK local authorities, international
+    countries, and physical library buildings from LibraryCommons, and assigns taxonomy tags.
+    """
+
     CATEGORY_PATTERNS = [
         ("closures_and_threats", r"\b(clos(e|ed|ing|ure|ures)|threat(en|ened|s)?|ax(ed|ing)?)\b"),
         ("cuts_and_finance", r"\b(budget|cuts?|savings|saving|deficit|section 114|s114|bankruptcy|funding|capital|grant|investment)\b"),
@@ -78,6 +84,12 @@ class EntityResolver:
     )
 
     def __init__(self, lookups_dir: Optional[str] = None):
+        """Load authority, country, and library reference dictionaries from disk.
+        
+        Args:
+            lookups_dir: Optional directory path containing reference JSON files;
+                         defaults to data/lookups/.
+        """
         if lookups_dir is None:
             lookups_dir = os.path.join(os.path.dirname(__file__), "..", "data", "lookups")
 
@@ -93,6 +105,7 @@ class EntityResolver:
         self._load_lookups()
 
     def _load_lookups(self):
+        """Read and index authority, country, and library JSON lookups into memory."""
         # 1. UK Authorities
         auth_path = os.path.join(self.lookups_dir, "uk_authorities.json")
         if os.path.exists(auth_path):
@@ -133,10 +146,18 @@ class EntityResolver:
                         self.libraries_by_auth_code.setdefault(acode, []).append(lib)
 
     def resolve(self, entity_raw: str, text: str, section: str) -> Tuple[EntityResolution, StoryClassification, List[str]]:
-        """
-        Given the raw entity heading, story body text, and section name,
-        resolve entity type, country, library service, specific libraries, coordinates,
-        classification metadata, and tags.
+        """Resolve entity type, geographic coordinates, library service, and taxonomy tags.
+        
+        Evaluates the section context, resolves aliases to canonical councils or countries,
+        detects individual branch names in the text, and extracts category classifications.
+        
+        Args:
+            entity_raw: Bold header or country prefix extracted from the story item.
+            text: Plain text body of the news story.
+            section: Section name (e.g. 'local_news', 'changes', 'international_news').
+            
+        Returns:
+            Tuple of (EntityResolution, StoryClassification, list of category tag strings).
         """
         clean_entity = _clean_str(entity_raw)
         resolution = EntityResolution(entity_type="general")
@@ -255,7 +276,10 @@ class EntityResolver:
         return resolution, classification, tags
 
     def _match_libraries_in_text(self, text: str, candidates: List[Dict[str, Any]]) -> List[LibraryMention]:
-        """Check candidates to see if any branch names appear in the story text."""
+        """Scan story body text for candidate library branch names within the matched authority.
+        
+        Matches both full branch names and distinctive place prefixes against candidate records.
+        """
         mentions: List[LibraryMention] = []
         clean_text_spaced = f" {_clean_str(text)} "
         seen_ids = set()
@@ -292,7 +316,10 @@ class EntityResolver:
         return mentions
 
     def _classify_story(self, text: str, section: str, entity_raw: str) -> Tuple[StoryClassification, List[str]]:
-        """Extract taxonomy categories, change_type, sector bodies, money mentions, and tags."""
+        """Classify story text into library categories, change types, sector bodies, and finances.
+        
+        Applies keyword patterns, computes category priority, and extracts currency figures.
+        """
         combined_text = f"{entity_raw} {text}"
         low = combined_text.lower()
 

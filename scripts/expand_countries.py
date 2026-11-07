@@ -1,3 +1,10 @@
+"""
+Country lookup database expansion script.
+
+Adds ISO country entries and common capital city/region aliases to data/lookups/countries.json
+to support international story resolution.
+"""
+
 import json
 
 # Comprehensive list of countries: (Name, Code, [Aliases])
@@ -154,6 +161,11 @@ ADDITIONAL_COUNTRIES = [
 ]
 
 def main():
+    """Merge additional country definitions and aliases into the country lookup table.
+
+    Reads data/lookups/countries.json, deduplicates by name and ISO code, and saves
+    the updated reference table.
+    """
     path = "data/lookups/countries.json"
     with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)

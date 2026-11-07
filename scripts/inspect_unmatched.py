@@ -1,7 +1,19 @@
+"""
+Unmatched entity inspection utility.
+
+Groups and analyzes unresolved entities by section to identify candidates for
+lookup alias enrichment and country name mapping.
+"""
+
 import json
 import glob
 
 def detailed_inspection():
+    """Group unresolved stories by section and print match percentages and sample entities.
+
+    Helps identify patterns in unmatched local authorities, national campaigns, or
+    international country names needing dictionary updates.
+    """
     by_section = {}
     unmatched_by_sec = {}
 

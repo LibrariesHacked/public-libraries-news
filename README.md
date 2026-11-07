@@ -1,25 +1,57 @@
-# Public Libraries News Scraper
+---
+layout: default
+title: Public Libraries News Scraper & Open Data Archive
+description: Automated weekly pipeline and open data archive for Public Libraries News, tracking UK and international library developments.
+---
 
-Automated weekly scraper and entity resolver for [Public Libraries News](https://www.publiclibrariesnews.com/), tracking what is happening to public library services across the UK and internationally.
+# Public Libraries News Scraper & Open Data Archive
 
-This project runs automatically every Sunday evening via GitHub Actions to pick up new weekly digests, extract the editorial commentary, and parse discrete news items from sections including **Changes**, **Local news by authority**, and **International news**. Extracted stories are matched against official UK local authorities and over 4,200 individual library branches from [LibraryCommons](https://github.com/LibrariesHacked/libraryon-commons).
+Automated weekly scraper and entity resolver for [Public Libraries News](https://www.publiclibrariesnews.com/) (PLN), curated by **Ian Anstice** in partnership with **The Library Campaign**.
+
+Every week, Public Libraries News chronicles developments, funding changes, campaigns, and news stories across UK and international public libraries. This project automatically processes each new digest into structured open data, linking stories to local authorities and 4,200+ library branches from [LibraryCommons](https://github.com/LibrariesHacked/libraryon-commons).
+
+Online documentation and web portal: **[https://librarieshacked.github.io/public-libraries-news/](https://librarieshacked.github.io/public-libraries-news/)**
 
 ---
 
-## Documentation
+## Quick Start: Choose Your Path
 
-Comprehensive plain-English guides and specifications:
-* [Overview & Architecture](docs/overview.md) - How the system works in plain English with diagrams
-* [Data Structure](docs/data-structure.md) - Guide to posts, stories, and schema specifications
-* [Entity Matching](docs/entity-matching.md) - How councils, libraries, and countries are linked without AI
-* [Automation & Scheduling](docs/automation.md) - How the weekly GitHub Actions job runs
-* [Consuming the Data](docs/consuming-the-data.md) - How to load raw data files in JavaScript, Python, or cURL
+### 📚 For Library Users, Campaigners & Observers
+If you want to view, download, or use the data without writing code:
+* **Direct Data Downloads**:
+  * [Latest Weekly Digest (`latest.json`)](https://raw.githubusercontent.com/LibrariesHacked/public-libraries-news/main/data/latest.json) — The newest post, editorial, and parsed stories.
+  * [All Posts Catalog (`posts_index.json`)](https://raw.githubusercontent.com/LibrariesHacked/public-libraries-news/main/data/posts_index.json) — Full directory of every post since 2010.
+  * [Yearly Story Archives (`data/stories/`)](https://github.com/LibrariesHacked/public-libraries-news/tree/main/data/stories) — JSON archives for each year (2010–2026).
+* **Plain English Guides**:
+  * [Overview & Architecture](docs/overview.md) — What the system does in simple terms with diagrams.
+  * [Consuming the Data](docs/consuming-the-data.md) — How to download, view, or connect to the data.
+* **Content License**: All news content is released under [Creative Commons Attribution (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Attribution required to Ian Anstice and The Library Campaign.
+
+### 💻 For Developers, Data Engineers & Researchers
+If you are integrating this data into applications or contributing to the codebase:
+* **Architecture**: Built entirely with Python 3 standard library modules (`urllib.request`, `html.parser`, `dataclasses`). Zero external scraping dependencies.
+* **Automated Scheduling**: Scheduled GitHub Actions workflow runs every Sunday at 21:00 UTC with incremental change detection.
+* **Technical Guides**:
+  * [Data Structure & Schema](docs/data-structure.md) — Post and story object schemas.
+  * [Entity Matching](docs/entity-matching.md) — Authority GSS mapping and branch coordinate resolution.
+  * [Automation & Scheduling](docs/automation.md) — GitHub Actions pipeline details.
+
+---
+
+## Documentation Index
+
+* [🏠 Online Documentation Portal](index.md)
+* [📖 Project Overview](docs/overview.md) - How the system works in plain English with diagrams
+* [📊 Data Structure](docs/data-structure.md) - Guide to posts, stories, and schema specifications
+* [🔍 Entity Matching](docs/entity-matching.md) - How councils, libraries, and countries are linked without AI
+* [⚡ Consuming the Data](docs/consuming-the-data.md) - How to load raw data files in JavaScript, Python, or cURL
+* [🤖 Automation & Scheduling](docs/automation.md) - How the weekly GitHub Actions job runs
 
 ---
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See [Deployment](#deployment) for notes on how the automated pipeline runs.
+These instructions will get you a copy of the project up and running on your local machine for development, testing, and exploration.
 
 ### Prerequisites
 
@@ -45,7 +77,7 @@ The scraper is purposefully designed to run using Python's standard library, req
    source venv/bin/activate  # On Windows: .\venv\Scripts\activate
    ```
 
-3. Run an initial check:
+3. Run an incremental check against the latest posts:
    ```bash
    python -m src.cli --mode incremental
    ```
@@ -54,7 +86,7 @@ The scraper is purposefully designed to run using Python's standard library, req
 
 ## Running the Tests
 
-The repository includes a unit test suite to verify HTML parsing, section splitting, and entity resolution against councils and library branches.
+The repository includes a comprehensive unit test suite to verify HTML parsing, section splitting, and entity resolution against councils and library branches.
 
 To run all automated tests:
 
@@ -82,6 +114,7 @@ The live system is deployed as an automated **GitHub Action** that runs every Su
 * **Trigger**: Automated schedule via `.github/workflows/scrape.yml` or manual trigger via GitHub's `workflow_dispatch`.
 * **Idempotent**: Runs in incremental mode by default, querying recent posts and exiting immediately if no new or updated posts exist.
 * **No AI dependencies**: The regular runs are deterministic, fast (< 10 seconds), and completely free to run.
+* **GitHub Pages**: Deployed automatically via `.github/workflows/deploy-pages.yml` using the Cayman Jekyll theme.
 
 ---
 
@@ -89,6 +122,7 @@ The live system is deployed as an automated **GitHub Action** that runs every Su
 
 * [Python 3](https://www.python.org/) - Core scraping, parsing, and normalization pipeline
 * [GitHub Actions](https://github.com/features/actions) - Automated Sunday evening execution
+* [GitHub Pages](https://pages.github.com/) - Documentation and open data portal
 * [LibraryCommons](https://github.com/LibrariesHacked/libraryon-commons) - Reference directory of 4,200+ UK public library branches
 * [WordPress REST API](https://developer.wordpress.org/rest-api/) - Primary post syndication endpoint
 

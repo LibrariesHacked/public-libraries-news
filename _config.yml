@@ -1,0 +1,18 @@
+theme: jekyll-theme-cayman
+title: Public Libraries News Open Data
+description: Structured weekly open data archive of Public Libraries News posts, UK library authorities, branch mentions, and campaign taxonomies.
+repository: LibrariesHacked/public-libraries-news
+
+# GitHub Pages settings
+plugins:
+  - jekyll-relative-links
+
+relative_links:
+  enabled: true
+  collections: true
+
+# Markdown rendering settings
+kramdown:
+  input: GFM
+  hard_wrap: false
+  syntax_highlighter: rouge

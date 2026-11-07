@@ -1,5 +1,8 @@
 """
 Storage manager for PLN data files, partitions, and indexes.
+
+Manages reading, writing, and atomic updating of weekly post files,
+yearly story partitions, catalog indexes, and quick-feed summaries.
 """
 
 import json
@@ -7,7 +10,17 @@ import os
 from typing import Dict, List, Optional, Any
 
 class PLNStorage:
+    """Handles file persistence for weekly posts, yearly story partitions, and manifests.
+    
+    Provides isolated file write operations and keeps catalog indexes synchronized.
+    """
+
     def __init__(self, base_dir: Optional[str] = None):
+        """Initialize storage directories and file paths under the target data directory.
+        
+        Args:
+            base_dir: Optional root path for data storage; defaults to the repo's data/ folder.
+        """
         if base_dir is None:
             base_dir = os.path.join(os.path.dirname(__file__), "..", "data")
         self.base_dir = os.path.abspath(base_dir)

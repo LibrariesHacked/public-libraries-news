@@ -1,9 +1,21 @@
+"""
+Story taxonomy analysis script.
+
+Tests regex pattern coverage across historical story corpora to validate classification
+keyword rules for library campaigns, funding, governance, and events.
+"""
+
 import json
 import glob
 import re
 from collections import Counter
 
 def analyze():
+    """Scan story texts across data partitions to evaluate category keyword frequency.
+
+    Runs regex patterns against combined entity and story text to measure potential
+    tagging volume across defined taxonomy buckets.
+    """
     words = Counter()
     bigrams = Counter()
     total_stories = 0

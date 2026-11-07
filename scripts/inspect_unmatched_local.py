@@ -1,7 +1,19 @@
+"""
+Local news unmatched entity inspection script.
+
+Filters for local news and changes stories that failed UK library service matching,
+printing their raw entity text and resolved classification for diagnostic review.
+"""
+
 import json
 import glob
 
 def main():
+    """Print all local news and changes stories with unresolved library service references.
+
+    Extracts story text snippets and entity classifications to pinpoint naming discrepancies
+    or non-authority items in local sections.
+    """
     unmatched = []
     for f in glob.glob("data/stories/*.json"):
         stories = json.load(open(f, encoding="utf-8"))
