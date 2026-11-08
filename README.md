@@ -12,11 +12,9 @@ Every week, Public Libraries News chronicles developments, funding changes, camp
 
 Online documentation and web portal: **[https://librarieshacked.github.io/public-libraries-news/](https://librarieshacked.github.io/public-libraries-news/)**
 
----
-
 ## Quick Start: Choose Your Path
 
-### 📚 For Library Users, Campaigners & Observers
+### For Library Users, Campaigners & Observers
 If you want to view, download, or use the data without writing code:
 * **Direct Data Downloads**:
   * [Latest Weekly Digest (`latest.json`)](https://raw.githubusercontent.com/LibrariesHacked/public-libraries-news/main/data/latest.json) — The newest post, editorial, and parsed stories.
@@ -25,9 +23,9 @@ If you want to view, download, or use the data without writing code:
 * **Plain English Guides**:
   * [Overview & Architecture](docs/overview.md) — What the system does in simple terms with diagrams.
   * [Consuming the Data](docs/consuming-the-data.md) — How to download, view, or connect to the data.
-* **Content License**: All news content is released under [Creative Commons Attribution (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Attribution required to Ian Anstice and The Library Campaign.
+* **Content License**: All news content is released under [Creative Commons Attribution (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/). Attribution required to Ian Anstice and Public Libraries News. It would also be polite to reference that this is supported by The Library Campaign.
 
-### 💻 For Developers, Data Engineers & Researchers
+### For Developers, Data Engineers & Researchers
 If you are integrating this data into applications or contributing to the codebase:
 * **Architecture**: Built entirely with Python 3 standard library modules (`urllib.request`, `html.parser`, `dataclasses`). Zero external scraping dependencies.
 * **Automated Scheduling**: Scheduled GitHub Actions workflow runs every Sunday at 21:00 UTC with incremental change detection.
@@ -36,18 +34,14 @@ If you are integrating this data into applications or contributing to the codeba
   * [Entity Matching](docs/entity-matching.md) — Authority GSS mapping and branch coordinate resolution.
   * [Automation & Scheduling](docs/automation.md) — GitHub Actions pipeline details.
 
----
-
 ## Documentation Index
 
-* [🏠 Online Documentation Portal](index.md)
-* [📖 Project Overview](docs/overview.md) - How the system works in plain English with diagrams
-* [📊 Data Structure](docs/data-structure.md) - Guide to posts, stories, and schema specifications
-* [🔍 Entity Matching](docs/entity-matching.md) - How councils, libraries, and countries are linked without AI
-* [⚡ Consuming the Data](docs/consuming-the-data.md) - How to load raw data files in JavaScript, Python, or cURL
-* [🤖 Automation & Scheduling](docs/automation.md) - How the weekly GitHub Actions job runs
-
----
+* [Online Documentation Portal](index.md)
+* [Project Overview](docs/overview.md) - How the system works with diagrams
+* [Data Structure](docs/data-structure.md) - Guide to posts, stories, and schema specifications
+* [Entity Matching](docs/entity-matching.md) - How councils, libraries, and countries are linked
+* [Consuming the Data](docs/consuming-the-data.md) - How to load raw data files in JavaScript, Python, or cURL
+* [Automation & Scheduling](docs/automation.md) - How the weekly GitHub Actions job runs
 
 ## Getting Started
 
@@ -82,8 +76,6 @@ The scraper is purposefully designed to run using Python's standard library, req
    python -m src.cli --mode incremental
    ```
 
----
-
 ## Running the Tests
 
 The repository includes a comprehensive unit test suite to verify HTML parsing, section splitting, and entity resolution against councils and library branches.
@@ -105,8 +97,6 @@ python -m unittest tests/test_parser.py
 python -m unittest tests/test_resolver.py
 ```
 
----
-
 ## Deployment
 
 The live system is deployed as an automated **GitHub Action** that runs every Sunday at 21:00 UTC (9:00 PM UK time).
@@ -116,8 +106,6 @@ The live system is deployed as an automated **GitHub Action** that runs every Su
 * **No AI dependencies**: The regular runs are deterministic, fast (< 10 seconds), and completely free to run.
 * **GitHub Pages**: Deployed automatically via `.github/workflows/deploy-pages.yml` using the Cayman Jekyll theme.
 
----
-
 ## Built With
 
 * [Python 3](https://www.python.org/) - Core scraping, parsing, and normalization pipeline
@@ -126,39 +114,16 @@ The live system is deployed as an automated **GitHub Action** that runs every Su
 * [LibraryCommons](https://github.com/LibrariesHacked/libraryon-commons) - Reference directory of 4,200+ UK public library branches
 * [WordPress REST API](https://developer.wordpress.org/rest-api/) - Primary post syndication endpoint
 
----
+## Contributors
 
-## Contributing
+See the list of [contributors](https://github.com/LibrariesHacked/public-libraries-news/contributors) who participated in this project.
 
-Please read [CONTRIBUTING.md](CONTRIBUTING.md) for details on our code of conduct and the process for submitting pull requests to us.
+## Licence
 
-If you notice a council name or alias that is not matching correctly, you can add it directly to `data/lookups/uk_authorities.json` via a pull request.
-
----
-
-## Versioning
-
-We use [SemVer](http://semver.org/) for versioning. For the versions available, see the [tags on this repository](https://github.com/LibrariesHacked/public-libraries-news/tags).
-
----
-
-## Authors
-
-* **Dave Adair** - *Initial work & Architecture* - [Libraries Hacked](https://github.com/LibrariesHacked)
-
-See also the list of [contributors](https://github.com/LibrariesHacked/public-libraries-news/contributors) who participated in this project.
-
----
-
-## License
-
-* **Code & Scripts**: Licensed under the [MIT License](LICENSE) or CC0 public dedication.
+* **Code & Scripts**: Licensed under the [MIT License](LICENSE)
 * **News Content**: Scraped text from Public Libraries News is licensed under the **Creative Commons Attribution (CC BY 4.0)** license.
-
----
 
 ## Acknowledgments
 
 * **Ian Anstice** for founding and maintaining [Public Libraries News](https://www.publiclibrariesnews.com/) as an invaluable sector resource since 2010.
-* **The Library Campaign** for their partnership in keeping Public Libraries News independent, active, and accessible.
-* **LibraryOn / LibraryCommons** for open library branch location data.
+* **The Library Campaign** for their partnership in keeping Public Libraries News independent, active, and accessible
