@@ -1,5 +1,3132 @@
 [
   {
+    "id": "pln-story-20330-natl-002",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "national_news",
+    "entity_raw": "The Guardian view on the British Library",
+    "text": "don’t privatise the reading rooms – Guardian. “Handing three of them over to a private contractor to operate commercially, as the British Library proposes, would change the character of a cherished institution.” … “As a national institution, it is a place in which everyone has a stake. The government must get behind it, and look for an alternative solution”",
+    "text_html": "<li><strong><a href=\"https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-the-british-library-dont-privatise-the-reading-rooms\">The Guardian view on the British Library: don’t privatise the reading rooms</a></strong> &#8211; Guardian. &#8220;Handing three of them over to a private contractor to operate commercially, as the British Library proposes, would change the character of a cherished institution.&#8221; &#8230; &#8220;As a national institution, it is a place in which everyone has a stake. The government must get behind it, and&nbsp;look for an alternative solution&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.theguardian.com/commentisfree/2026/nov/09/the-guardian-view-on-the-british-library-dont-privatise-the-reading-rooms",
+        "text": "The Guardian view on the British Library: don’t privatise the reading rooms",
+        "domain": "theguardian.com"
+      }
+    ],
+    "resolution": {
+      "entity_type": "national",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "library_service": null,
+      "libraries_mentioned": [],
+      "coordinates": null
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [
+        "British Library"
+      ],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-natl-001",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "national_news",
+    "entity_raw": "CILIP AGM",
+    "text": "CILIP. 24 November, 2-3.45pm, online. “Join the CILIP AGM to celebrate our profession, hear about our key strategic priorities for the coming year and vote on key resolutions for members.”",
+    "text_html": "<li><strong><a href=\"https://my.cilip.org.uk/events-calendar/cilip-agm/?utm_campaign=7538692_CILIP%20AGM%202026%20Invite&amp;utm_medium=email&amp;utm_source=The%20Chartered%20Institute%20of%20Library%20and%20%20Information%20Professionals&amp;dm_i=6WFS,4HKW4,9VGRV,C0O5V,1,0,0,0\">CILIP AGM</a></strong> &#8211; CILIP. 24 November, 2-3.45pm, online. &#8220;Join the CILIP AGM to celebrate our profession, hear about our key strategic priorities for the coming year and vote on key resolutions for members.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://my.cilip.org.uk/events-calendar/cilip-agm/?utm_campaign=7538692_CILIP%20AGM%202026%20Invite&utm_medium=email&utm_source=The%20Chartered%20Institute%20of%20Library%20and%20%20Information%20Professionals&dm_i=6WFS,4HKW4,9VGRV,C0O5V,1,0,0,0",
+        "text": "CILIP AGM",
+        "domain": "my.cilip.org.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "national",
+      "country": "United Kingdom",
+      "country_code": "GB",
+      "library_service": null,
+      "libraries_mentioned": [],
+      "coordinates": null
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [
+        "CILIP"
+      ],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-local-038",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Wrexham",
+    "text": "Borras Park opens community book library with £1,000 business backing – Herald Express. Box library.",
+    "text_html": "<li><strong><a href=\"https://herald.wales/north-wales/wrexham-north-wales/borras-park-community-book-library-opens/\">Wrexham &#8211; Borras Park opens community book library with £1,000 business backing</a></strong> &#8211; Herald Express. Box library.</li>",
+    "links": [
+      {
+        "url": "https://herald.wales/north-wales/wrexham-north-wales/borras-park-community-book-library-opens/",
+        "text": "Wrexham – Borras Park opens community book library with £1,000 business backing",
+        "domain": "herald.wales"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "Wales",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Wrexham",
+        "gss_code": "W06000006",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 53.0458,
+        "longitude": -2.9931
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": [
+        "£1,000"
+      ]
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-local-037",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "West Sussex",
+    "text": "Thousands of West Sussex children take part in Summer Reading Challenge – West Sussex Council. ” This year almost 11,000 children took part across 36 libraries, spending the summer discovering new stories and sounds.”",
+    "text_html": "<li><strong><a href=\"https://www.westsussex.gov.uk/news/thousands-of-west-sussex-children-take-part-in-summer-reading-challenge/\">West Sussex &#8211; Thousands of West Sussex children take part in Summer Reading Challenge</a></strong> &#8211; West Sussex Council. &#8221;&nbsp;This year almost 11,000 children took part across 36 libraries, spending the summer discovering new stories and sounds.&#8221; </li>",
+    "links": [
+      {
+        "url": "https://www.westsussex.gov.uk/news/thousands-of-west-sussex-children-take-part-in-summer-reading-challenge/",
+        "text": "West Sussex – Thousands of West Sussex children take part in Summer Reading Challenge",
+        "domain": "westsussex.gov.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "West Sussex",
+        "gss_code": "E10000032",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 50.8365,
+        "longitude": -0.7792
+      }
+    },
+    "classification": {
+      "categories": [
+        "book_bans_and_challenges",
+        "events_and_activities"
+      ],
+      "primary_category": "book_bans_and_challenges",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "book_bans_and_challenges",
+      "events_and_activities"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-036",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "West Dunbartonshire",
+    "text": "Residents Help Shape Future of West Dunbartonshire Library Services – West Dunbartonshire Council. “The consultation attracted 256 responses, with the majority coming from existing library members and feedback demonstrated strong support for maintaining accessible library services.”",
+    "text_html": "<li><strong><a href=\"https://www.west-dunbarton.gov.uk/council/newsroom/news/2026/nov/library-services-consultation\">West Dunbartonshire &#8211; Residents Help Shape Future of West Dunbartonshire Library Services</a></strong> &#8211; West Dunbartonshire Council. &#8220;The consultation attracted 256 responses, with the majority coming from existing library members and feedback demonstrated strong support for maintaining accessible library services.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.west-dunbarton.gov.uk/council/newsroom/news/2026/nov/library-services-consultation",
+        "text": "West Dunbartonshire – Residents Help Shape Future of West Dunbartonshire Library Services",
+        "domain": "west-dunbarton.gov.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "Scotland",
+      "country_code": "GB",
+      "library_service": {
+        "name": "West Dunbartonshire",
+        "gss_code": "S12000039",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 55.9442,
+        "longitude": -4.5686
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-local-035",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Thurrock",
+    "text": "Council puts libraries under scrutiny and calls for residents’ views – Thurrock Nub. “The assessment will build a detailed evidence base to inform the development of a new Library Strategy, ensuring services continue to meet the needs of residents now and in the years ahead.”",
+    "text_html": "<li><strong><a href=\"https://thurrock.nub.news/news/local-news/council-puts-libraries-under-scrutiny-and-calls-for-residents-views-314353\">Thurrock &#8211; Council puts libraries under scrutiny and calls for residents&#8217; views</a></strong> &#8211; Thurrock Nub. &#8220;The assessment will build a detailed evidence base to inform the development of a new Library Strategy, ensuring services continue to meet the needs of residents now and in the years ahead.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://thurrock.nub.news/news/local-news/council-puts-libraries-under-scrutiny-and-calls-for-residents-views-314353",
+        "text": "Thurrock – Council puts libraries under scrutiny and calls for residents’ views",
+        "domain": "thurrock.nub.news"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Thurrock",
+        "gss_code": "E06000034",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 51.4889,
+        "longitude": 0.3582
+      }
+    },
+    "classification": {
+      "categories": [
+        "refurbishment_and_new_builds"
+      ],
+      "primary_category": "refurbishment_and_new_builds",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "refurbishment_and_new_builds"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-034",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Swansea",
+    "text": "Swansea library visits rise despite fall in number of books borrowed – Herald Wales. “The new central library at Y Storfa, Oxford Street, has driven a surge in footfall since it opened last December following its relocation from the seafront Civic Centre.Y Storfa has exhibition space and other council services like housing options based there and is home to the West Glamorgan Archive Service. Councillors on a scrutiny group heard people visited libraries for a broader range of reasons than in the past and that reading and book borrowing more widely had declined.”",
+    "text_html": "<li><strong><a href=\"https://herald.wales/west-wales/swansea/swansea-library-visits-rise-despite-fall-in-number-of-books-borrowed/\">Swansea &#8211; Swansea library visits rise despite fall in number of books borrowed</a></strong> &#8211; Herald Wales. &#8220;The new central library at Y Storfa, Oxford Street, has driven a surge in footfall since it opened last December following its relocation from the seafront Civic Centre.Y Storfa has exhibition space and other council services like housing options based there and is home to the West Glamorgan Archive Service. Councillors on a scrutiny group heard people visited libraries for a broader range of reasons than in the past and that reading and book borrowing more widely had declined.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://herald.wales/west-wales/swansea/swansea-library-visits-rise-despite-fall-in-number-of-books-borrowed/",
+        "text": "Swansea – Swansea library visits rise despite fall in number of books borrowed",
+        "domain": "herald.wales"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "Wales",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Swansea",
+        "gss_code": "W06000011",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 51.6214,
+        "longitude": -3.9436
+      }
+    },
+    "classification": {
+      "categories": [
+        "events_and_activities",
+        "co_location"
+      ],
+      "primary_category": "co_location",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "events_and_activities",
+      "co_location"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-033",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Surrey",
+    "text": "Surrey library could become soft play centre with ninja challenge and volcano climb planned – Get Surrey. Staines. Discover Surrey County Council’s story in touring library exhibition – Surrey Council. ” Surrey County Council’s Story will launch at Guildford library on Thursday 3 December before it visits venues across the county from December 2026 to March 2027.”",
+    "text_html": "<li><strong><a href=\"https://www.getsurrey.co.uk/news/surrey-news/surrey-library-could-become-soft-34902777\">Surrey &#8211; Surrey library could become soft play centre with ninja challenge and volcano climb planned</a></strong> &#8211; Get Surrey. Staines. <ul class=\"wp-block-list\"> <li><strong><a href=\"https://www.surreycc.gov.uk/community/news/categories/celebrating/discover-138-years-of-surrey-county-councils-history-in-a-free-exhibition-touring-surrey-libraries\">Discover Surrey County Council&#8217;s story in touring library exhibition</a></strong> &#8211; Surrey Council. &#8221; Surrey County Council’s Story will launch at Guildford library on Thursday 3 December before it visits venues across the county from December 2026 to March 2027.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.getsurrey.co.uk/news/surrey-news/surrey-library-could-become-soft-34902777",
+        "text": "Surrey – Surrey library could become soft play centre with ninja challenge and volcano climb planned",
+        "domain": "getsurrey.co.uk"
+      },
+      {
+        "url": "https://www.surreycc.gov.uk/community/news/categories/celebrating/discover-138-years-of-surrey-county-councils-history-in-a-free-exhibition-touring-surrey-libraries",
+        "text": "Discover Surrey County Council’s story in touring library exhibition",
+        "domain": "surreycc.gov.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Surrey",
+        "gss_code": "E10000030",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_e6b0828b-6776-4693-9c24-32be0a6bdf2c",
+          "name": "Guildford",
+          "postcode": "GU1 4AL",
+          "lat": 51.236683318770844,
+          "lng": -0.5717673438813727,
+          "status": "Open",
+          "slug": "guildford"
+        },
+        {
+          "id": "lib_0b0ca9f7-a01f-4e0b-aa4a-b45bab90a233",
+          "name": "Staines",
+          "postcode": "TW18 4QB",
+          "lat": 51.433066854072706,
+          "lng": -0.5087621539263694,
+          "status": "Open",
+          "slug": "staines"
+        }
+      ],
+      "coordinates": {
+        "latitude": 51.3148,
+        "longitude": -0.56
+      }
+    },
+    "classification": {
+      "categories": [
+        "book_bans_and_challenges",
+        "events_and_activities"
+      ],
+      "primary_category": "book_bans_and_challenges",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "book_bans_and_challenges",
+      "events_and_activities"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-032",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Stockport",
+    "text": "Find a warm welcome across Stockport this winter – Stockport Council. “All Stockport Libraries offer a place to relax, enjoy a free hot drink, meet other people or take part in activities. You can also find help to get online, including free access to computers and wifi.”",
+    "text_html": "<li><strong><a href=\"https://www.stockport.gov.uk/news/find-a-warm-welcome-across-stockport-this-winter\">Stockport &#8211; Find a warm welcome across Stockport this winter</a></strong> &#8211; Stockport Council. &#8220;All Stockport Libraries offer a place to relax, enjoy a free hot drink, meet other people or take part in activities. You can also find help to get online, including free access to computers and wifi.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.stockport.gov.uk/news/find-a-warm-welcome-across-stockport-this-winter",
+        "text": "Stockport – Find a warm welcome across Stockport this winter",
+        "domain": "stockport.gov.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Stockport",
+        "gss_code": "E08000007",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 53.4106,
+        "longitude": -2.1575
+      }
+    },
+    "classification": {
+      "categories": [
+        "events_and_activities",
+        "digital_and_technology",
+        "warm_spaces_and_wellbeing"
+      ],
+      "primary_category": "digital_and_technology",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "events_and_activities",
+      "digital_and_technology",
+      "warm_spaces_and_wellbeing"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-031",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Staffordshire",
+    "text": "Bleed control kits introduced at Staffordshire libraries – Staffordshire Council. “The specialist first-aid kits contain equipment that can be used to help control serious bleeding while waiting for emergency services to arrive … Staff at the 16 libraries have received training on how to use the equipment, which will be available during normal library opening hours.”",
+    "text_html": "<li><strong><a href=\"https://www.staffordshire.gov.uk/newsroom/2026/bleed-control-kits-introduced-staffordshire-libraries\">Staffordshire &#8211; Bleed control kits introduced at Staffordshire libraries </a></strong>&#8211; Staffordshire Council. &#8220;The specialist first-aid kits contain equipment that can be used to help control serious bleeding while waiting for emergency services to arrive &#8230; Staff at the 16 libraries have received training on how to use the equipment, which will be available during normal library opening hours.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.staffordshire.gov.uk/newsroom/2026/bleed-control-kits-introduced-staffordshire-libraries",
+        "text": "Staffordshire – Bleed control kits introduced at Staffordshire libraries",
+        "domain": "staffordshire.gov.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Staffordshire",
+        "gss_code": "E10000028",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 52.8067,
+        "longitude": -2.1167
+      }
+    },
+    "classification": {
+      "categories": [
+        "staffing_and_unions",
+        "opening_hours"
+      ],
+      "primary_category": "staffing_and_unions",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "staffing_and_unions",
+      "opening_hours"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-030",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Shropshire",
+    "text": "Cuts to library services to be discussed – BBC. “Shropshire’s six main libraries could have their opening hours cut and two other libraries could close under plans due to be discussed by councillors. There is also a proposal to end Shropshire Council’s mobile library service …”. Six main library would have opening hours cut to 30 hours per week, Lantern and Gobowen libraries under threat. see also Cabinet asked to approve library service consultation – Shropshire Council Council plans cuts to Oswestry library hours and Gobowen closure – Advertizer.",
+    "text_html": "<li><strong><a href=\"https://www.bbc.co.uk/news/articles/cx4g1g1z9n52o\">Shropshire &#8211; Cuts to library services to be discussed </a></strong>&#8211; BBC. &#8220;Shropshire&#8217;s six main libraries could have their opening hours cut and two other libraries could close under plans due to be discussed by councillors. There is also a proposal to end Shropshire Council&#8217;s mobile library service &#8230;&#8221;. Six main library would have opening hours cut to 30 hours per week, Lantern and Gobowen libraries under threat. <em>see also </em><strong><a href=\"https://newsroom.shropshire.gov.uk/2026/11/cabinet-asked-to-approve-library-service-consultation/\">Cabinet asked to approve library service consultation</a></strong> &#8211; Shropshire Council <ul class=\"wp-block-list\"> <li><strong><a href=\"https://www.bordercountiesadvertizer.co.uk/news/26725342.council-plans-cuts-oswestry-library-hours-gobowen-closure/\">Council plans cuts to Oswestry library hours and Gobowen closure</a></strong> &#8211; Advertizer. </li>",
+    "links": [
+      {
+        "url": "https://www.bbc.co.uk/news/articles/cx4g1g1z9n52o",
+        "text": "Shropshire – Cuts to library services to be discussed",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "https://newsroom.shropshire.gov.uk/2026/11/cabinet-asked-to-approve-library-service-consultation/",
+        "text": "Cabinet asked to approve library service consultation",
+        "domain": "newsroom.shropshire.gov.uk"
+      },
+      {
+        "url": "https://www.bordercountiesadvertizer.co.uk/news/26725342.council-plans-cuts-oswestry-library-hours-gobowen-closure/",
+        "text": "Council plans cuts to Oswestry library hours and Gobowen closure",
+        "domain": "bordercountiesadvertizer.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Shropshire",
+        "gss_code": "E06000051",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_f0ec9a89-4714-4849-b8c5-0ba7a42c70a8",
+          "name": "Gobowen",
+          "postcode": "SY11 3PF",
+          "lat": 52.89729,
+          "lng": -3.03728,
+          "status": "Open",
+          "slug": "gobowen"
+        },
+        {
+          "id": "lib_293f10b3-c5e7-475a-8866-cc017e4fb664",
+          "name": "Oswestry",
+          "postcode": "SY11 1JN",
+          "lat": 52.86036455573812,
+          "lng": -3.055913682841231,
+          "status": "Open",
+          "slug": "oswestry"
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.7073,
+        "longitude": -2.7553
+      }
+    },
+    "classification": {
+      "categories": [
+        "closures_and_threats",
+        "cuts_and_finance",
+        "opening_hours",
+        "mobile_and_outreach"
+      ],
+      "primary_category": "closures_and_threats",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "closures_and_threats",
+      "cuts_and_finance",
+      "opening_hours",
+      "mobile_and_outreach"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-029",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Surrey",
+    "text": "Leatherhead : essential maintenance closure at Library 30 November- mid January – East Surrey News. “Leatherhead Library will be closed from 30 November until mid to late January while essential maintenance works are carried out to the building.”",
+    "text_html": "<li><strong><a href=\"https://newleatherheadliving.wordpress.com/2026/11/14/leatherhead-essential-maintenance-closure-at-library-30-november-mid-january/\">Surrey &#8211; Leatherhead : essential maintenance closure at Library 30 November- mid January </a></strong>&#8211; East Surrey News. &#8220;Leatherhead Library will be closed from 30 November until mid to late January while essential maintenance works are carried out to the building.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://newleatherheadliving.wordpress.com/2026/11/14/leatherhead-essential-maintenance-closure-at-library-30-november-mid-january/",
+        "text": "Surrey – Leatherhead : essential maintenance closure at Library 30 November- mid January",
+        "domain": "newleatherheadliving.wordpress.com"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Surrey",
+        "gss_code": "E10000030",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_7afe326d-f2d6-44f3-b715-f6d9f1d0ba42",
+          "name": "Leatherhead",
+          "postcode": "KT22 8DP",
+          "lat": 51.29355732313337,
+          "lng": -0.32894745974133205,
+          "status": "Open",
+          "slug": "leatherhead"
+        }
+      ],
+      "coordinates": {
+        "latitude": 51.3148,
+        "longitude": -0.56
+      }
+    },
+    "classification": {
+      "categories": [
+        "closures_and_threats"
+      ],
+      "primary_category": "closures_and_threats",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "closures_and_threats"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-028",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Sheffield",
+    "text": "New image shows Sheffield’s Central Library transformed into huge art gallery in £180m project – The Star. “Councillors this week unanimously agreed to approve plans to turn the Sheffield Central Library building into a modern and accessible art gallery, and move the library and city archives into an upgraded Millennium Gallery building. Councillors on the Strategy and Resources Policy Committee approved a £100,000 budget for the next stage of the plans.” Broomhill Library Receive Prestigious King’s Award – Crosspool News. “The award recognises the remarkable dedication, commitment and community spirit shown by the library’s volunteers, whose tireless efforts keep this much-loved local resource thriving. Week after week, volunteers generously give their time to run the library service, maintain the beautiful gardens, and organise a wide range of imaginative activities and events that bring people of all ages together and enrich community life.”",
+    "text_html": "<li><strong><a href=\"https://www.thestar.co.uk/news/politics/new-image-shows-sheffields-central-library-transformed-into-huge-art-gallery-in-ps180m-project-9344167\">Sheffield &#8211; New image shows Sheffield&#8217;s Central Library transformed into huge art gallery in £180m project</a></strong> &#8211; The Star. &#8220;Councillors this week unanimously agreed to approve plans to turn the Sheffield Central Library building into a modern and accessible art gallery, and move the library and city archives into an upgraded Millennium Gallery building. Councillors on the Strategy and Resources Policy Committee approved a £100,000 budget for the next stage of the plans.&#8221; <ul class=\"wp-block-list\"> <li><strong><a href=\"https://crosspool.info/2026/11/14/broomhill-library-receive-prestigious-kings-award/\">Broomhill Library Receive Prestigious King’s Award</a></strong> &#8211; Crosspool News. &#8220;The award recognises the remarkable dedication, commitment and community spirit shown by the library’s volunteers, whose tireless efforts keep this much-loved local resource thriving. Week after week, volunteers generously give their time to run the library service, maintain the beautiful gardens, and organise a wide range of imaginative activities and events that bring people of all ages together and enrich community life.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.thestar.co.uk/news/politics/new-image-shows-sheffields-central-library-transformed-into-huge-art-gallery-in-ps180m-project-9344167",
+        "text": "Sheffield – New image shows Sheffield’s Central Library transformed into huge art gallery in £180m project",
+        "domain": "thestar.co.uk"
+      },
+      {
+        "url": "https://crosspool.info/2026/11/14/broomhill-library-receive-prestigious-kings-award/",
+        "text": "Broomhill Library Receive Prestigious King’s Award",
+        "domain": "crosspool.info"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Sheffield",
+        "gss_code": "E08000019",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_d0cdacda-2b8f-4cea-8f75-ebcec5a65d53",
+          "name": "Broomhill Community Library",
+          "postcode": "S10 5BQ",
+          "lat": 53.37756,
+          "lng": -1.50317,
+          "status": "Open",
+          "slug": "broomhill-community-library"
+        },
+        {
+          "id": "lib_63b0dc2e-45b2-4790-973c-e7f5664ca0df",
+          "name": "Sheffield Central",
+          "postcode": "S1 2LH",
+          "lat": 53.38005888765872,
+          "lng": -1.4670634482023672,
+          "status": "Open",
+          "slug": "sheffield-central-lending"
+        }
+      ],
+      "coordinates": {
+        "latitude": 53.3811,
+        "longitude": -1.4701
+      }
+    },
+    "classification": {
+      "categories": [
+        "cuts_and_finance",
+        "volunteers_and_community",
+        "events_and_activities"
+      ],
+      "primary_category": "cuts_and_finance",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": [
+        "£180m",
+        "£100,000"
+      ]
+    },
+    "tags": [
+      "cuts_and_finance",
+      "volunteers_and_community",
+      "events_and_activities"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-027",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "St Helens",
+    "text": "Newton-le-Willows library move faces further council work – Warrington Guardian. “In September, the council launched an engagement exercise to seek residents’ views on the potential relocation of Newton-le-Willows Library to the newly-restored Grade II listed Earlestown Town Hall. The consultation formed part of ongoing discussions arising from the borough’s library strategy, adopted by the previous council administration in 2023.” … “While respondents expressed reservations about the proposal, the consultation clearly identified two principal areas where “further information and assurance are needed”. The most frequently raised concerns related to whether Earlestown Town Hall could accommodate the full range of existing library services, activities and resources, and what the future of the historic Carnegie library building would be should a relocation be pursued. In light of the feedback received, the council is undertaking further design and feasibility work to address the key concerns raised by residents.”",
+    "text_html": "<li><strong><a href=\"https://www.warringtonguardian.co.uk/news/26721136.newton-le-willows-library-move-faces-council-work/\">St Helens &#8211; Newton-le-Willows library move faces further council work</a></strong> &#8211; Warrington Guardian. &#8220;In September, the council launched an engagement exercise to seek residents’ views on the potential relocation of Newton-le-Willows Library to the newly-restored Grade II listed Earlestown Town Hall. The consultation formed part of ongoing discussions arising from the borough’s library strategy, adopted by the previous council administration in 2023.&#8221; &#8230; &#8220;While respondents expressed reservations about the proposal, the consultation clearly identified two principal areas where “further information and assurance are needed”. The most frequently raised concerns related to whether Earlestown Town Hall could accommodate the full range of existing library services, activities and resources, and what the future of the historic Carnegie library building would be should a relocation be pursued. In light of the feedback received, the council is undertaking further design and feasibility work to address the key concerns raised by residents.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.warringtonguardian.co.uk/news/26721136.newton-le-willows-library-move-faces-council-work/",
+        "text": "St Helens – Newton-le-Willows library move faces further council work",
+        "domain": "warringtonguardian.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "St Helens",
+        "gss_code": "E08000013",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_d5010e9f-c2bc-4af8-a2d3-74419a3b26b0",
+          "name": "Newton-le-Willows Library",
+          "postcode": "WA12 9TS",
+          "lat": 53.45616,
+          "lng": -2.63731,
+          "status": "Open",
+          "slug": "newton-le-willows-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 53.4542,
+        "longitude": -2.7381
+      }
+    },
+    "classification": {
+      "categories": [
+        "events_and_activities"
+      ],
+      "primary_category": "events_and_activities",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "events_and_activities"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-026",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Rotherham",
+    "text": "Rotherham’s new library set for February opening after delays to £46m revamp – Rotherham Advertiser. “Rotherham’s new library is expected to open in February 2027, as part of a market redevelopment hit by delays and rising costs.”",
+    "text_html": "<li><strong><a href=\"https://www.rotherhamadvertiser.co.uk/news/politics/rotherhams-new-library-set-for-february-opening-after-delays-to-ps46m-revamp-9349533\">Rotherham &#8211; Rotherham’s new library set for February opening after delays to £46m revamp </a></strong>&#8211; Rotherham Advertiser. &#8220;Rotherham&#8217;s new library is expected to open in February 2027, as part of a market redevelopment hit by delays and rising costs.&#8221; </li>",
+    "links": [
+      {
+        "url": "https://www.rotherhamadvertiser.co.uk/news/politics/rotherhams-new-library-set-for-february-opening-after-delays-to-ps46m-revamp-9349533",
+        "text": "Rotherham – Rotherham’s new library set for February opening after delays to £46m revamp",
+        "domain": "rotherhamadvertiser.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Rotherham",
+        "gss_code": "E08000018",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 53.43,
+        "longitude": -1.357
+      }
+    },
+    "classification": {
+      "categories": [
+        "refurbishment_and_new_builds"
+      ],
+      "primary_category": "refurbishment_and_new_builds",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": [
+        "£46m"
+      ]
+    },
+    "tags": [
+      "refurbishment_and_new_builds"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-025",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Renfrewshire – Erskine Library has reopened in a temporary building",
+    "text": "Gazette. “The library is now operating from a new modular building within the grounds of Erskine Sports Centre, following its move from Bridgewater Shopping Centre. Services remain unchanged, with visitors able to access the same range of physical and digital resources in a bright and modern setting.”",
+    "text_html": "</a>&#8211; Gazette. &#8220;The library is now operating from a new modular building within the grounds of Erskine Sports Centre, following its move from Bridgewater Shopping Centre. Services remain unchanged, with visitors able to access the same range of physical and digital resources in a bright and modern setting.&#8221;</li>",
+    "links": [],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "Scotland",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Renfrewshire",
+        "gss_code": "S12000026",
+        "confidence": "fuzzy"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 55.8456,
+        "longitude": -4.4239
+      }
+    },
+    "classification": {
+      "categories": [
+        "refurbishment_and_new_builds",
+        "digital_and_technology"
+      ],
+      "primary_category": "refurbishment_and_new_builds",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "refurbishment_and_new_builds",
+      "digital_and_technology"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-024",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Reading",
+    "text": "Library cards for Reading school pupils – Reading Council. All schools encouraged to join all children to the library.",
+    "text_html": "<li><strong><a href=\"https://media.reading.gov.uk/news/library-cards-for-reading-school-pupils\">Reading &#8211; Library cards for Reading school pupils</a></strong> &#8211; Reading Council. All schools encouraged to join all children to the library. </li>",
+    "links": [
+      {
+        "url": "https://media.reading.gov.uk/news/library-cards-for-reading-school-pupils",
+        "text": "Reading – Library cards for Reading school pupils",
+        "domain": "media.reading.gov.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Reading",
+        "gss_code": "E06000038",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 51.4543,
+        "longitude": -0.9781
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-local-023",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Oldham",
+    "text": "Greenfield Primary recognised for Summer Reading Challenge success – Saddleworth Independent. “Royton Hall Primary and St Martin’s Primary were named as those with the highest participation in this year’s challenge, out of 92 across the area.”",
+    "text_html": "<li><strong><a href=\"https://saddind.co.uk/greenfield-primary-recognised-for-summer-reading-challenge-success/\">Oldham &#8211; Greenfield Primary recognised for Summer Reading Challenge success</a></strong> &#8211; Saddleworth Independent. &#8220;Royton Hall Primary and St Martin’s Primary were named as those with the highest participation in this year’s challenge, out of 92 across the area.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://saddind.co.uk/greenfield-primary-recognised-for-summer-reading-challenge-success/",
+        "text": "Oldham – Greenfield Primary recognised for Summer Reading Challenge success",
+        "domain": "saddind.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Oldham",
+        "gss_code": "E08000004",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_c919b6c1-1b18-4d96-a9fc-4dc382690439",
+          "name": "Greenfield Library",
+          "postcode": "OL3 7DB",
+          "lat": 53.53576,
+          "lng": -2.00598,
+          "status": "Open",
+          "slug": "greenfield-library"
+        },
+        {
+          "id": "lib_587cf035-af09-4873-bd57-87ddabddbc24",
+          "name": "Royton Library",
+          "postcode": "OL2 6QL",
+          "lat": 53.56741,
+          "lng": -2.12309,
+          "status": "Open",
+          "slug": "royton-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 53.5409,
+        "longitude": -2.1114
+      }
+    },
+    "classification": {
+      "categories": [
+        "book_bans_and_challenges",
+        "events_and_activities"
+      ],
+      "primary_category": "book_bans_and_challenges",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "book_bans_and_challenges",
+      "events_and_activities"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-022",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Nottinghamshire",
+    "text": "Nottinghamshire’s Big Christmas Jumper Swap comes to West Bridgford – West Bridgford Wire. “Nottinghamshire residents can donate their clean and wearable pre-loved Christmas jumpers between 2 and 29 November at seven libraries across the county including Arnold, Beeston, Bingham, Hucknall, Mansfield Central, Newark and Worksop.”",
+    "text_html": "<li><strong><a href=\"https://westbridgfordwire.com/nottinghamshires-big-christmas-jumper-swap-comes-to-west-bridgford/\">Nottinghamshire &#8211; Nottinghamshire’s Big Christmas Jumper Swap comes to West Bridgford </a></strong>&#8211; West Bridgford Wire. &#8220;Nottinghamshire residents can donate their clean and wearable pre-loved Christmas jumpers between 2 and 29 November at seven libraries across the county including Arnold, Beeston, Bingham, Hucknall, Mansfield Central, Newark and Worksop.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://westbridgfordwire.com/nottinghamshires-big-christmas-jumper-swap-comes-to-west-bridgford/",
+        "text": "Nottinghamshire – Nottinghamshire’s Big Christmas Jumper Swap comes to West Bridgford",
+        "domain": "westbridgfordwire.com"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Nottinghamshire",
+        "gss_code": "E10000024",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_fc705fc0-c778-41a4-8940-e7fc9cb0c36f",
+          "name": "Arnold",
+          "postcode": "NG5 7EE",
+          "lat": 53.006124,
+          "lng": -1.127339,
+          "status": "Open",
+          "slug": "arnold"
+        },
+        {
+          "id": "lib_0d69bb75-67d4-41a8-8352-1eb0e796d527",
+          "name": "Beeston",
+          "postcode": "NG9 1AE",
+          "lat": 52.92678,
+          "lng": -1.21772,
+          "status": "Open",
+          "slug": "beeston"
+        },
+        {
+          "id": "lib_23d1d1bd-6011-4b51-8c06-63fc9807bec8",
+          "name": "Bingham",
+          "postcode": "NG13 8BD",
+          "lat": 52.95203,
+          "lng": -0.95406,
+          "status": "Open",
+          "slug": "bingham"
+        },
+        {
+          "id": "lib_9c6e9b37-587a-41d7-979e-56ac2b2d9438",
+          "name": "Hucknall",
+          "postcode": "NG15 7BS",
+          "lat": 53.03838,
+          "lng": -1.20561,
+          "status": "Open",
+          "slug": "hucknall"
+        },
+        {
+          "id": "lib_b515a390-51d1-45a8-996a-30e05da84c2f",
+          "name": "Mansfield Central",
+          "postcode": "NG18 1NH",
+          "lat": 53.14541463361406,
+          "lng": -1.1981929553098158,
+          "status": "Open",
+          "slug": "mansfield-central"
+        },
+        {
+          "id": "lib_e5667096-f5e7-4c47-9be9-9ad63a31fbac",
+          "name": "Newark",
+          "postcode": "NG24 1UW",
+          "lat": 53.07454,
+          "lng": -0.80726,
+          "status": "Open",
+          "slug": "newark"
+        },
+        {
+          "id": "lib_ffd30e58-4eaa-4a34-92f4-187822cfa3a3",
+          "name": "West Bridgford",
+          "postcode": "NG2 6AT",
+          "lat": 52.933392,
+          "lng": -1.127754,
+          "status": "Open",
+          "slug": "west-bridgford"
+        },
+        {
+          "id": "lib_299e5b08-8a4b-4234-a240-eb89c135c046",
+          "name": "Worksop Library",
+          "postcode": "S80 2BP",
+          "lat": 53.30444071797286,
+          "lng": -1.119209396461777,
+          "status": "Open",
+          "slug": "worksop-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 53.1417,
+        "longitude": -1.0253
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-local-021",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "North Yorkshire",
+    "text": "Free ‘Big Read’ Book Club Comes To Harrogate And Knaresborough – Harrogate Chamber of Commerce. “The Big Read, one of the North of England’s biggest book clubs, is back by popular demand this autumn (23 – 27 November) and heading to libraries across the region, including Harrogate Library and Knaresborough Library on Friday, 27 November.”",
+    "text_html": "<li><strong><a href=\"https://www.harrogatechamber.co.uk/business-hub/free-big-read-book-club-comes-to-harrogate-and-knaresborough\">North Yorkshire &#8211; Free ‘Big Read’ Book Club Comes To Harrogate And Knaresborough</a></strong> &#8211; Harrogate Chamber of Commerce. &#8220;The Big Read, one of the North of England’s biggest book clubs, is back by popular demand this autumn (23 – 27 November) and heading to libraries across the region, including Harrogate Library and Knaresborough Library on Friday, 27 November.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.harrogatechamber.co.uk/business-hub/free-big-read-book-club-comes-to-harrogate-and-knaresborough",
+        "text": "North Yorkshire – Free ‘Big Read’ Book Club Comes To Harrogate And Knaresborough",
+        "domain": "harrogatechamber.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "North Yorkshire",
+        "gss_code": "E06000065",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_2eee2160-1926-4b40-8aaf-d96aa2de91cd",
+          "name": "Harrogate Library",
+          "postcode": "HG1 1LT",
+          "lat": 53.99131,
+          "lng": -1.53888,
+          "status": "Open",
+          "slug": "harrogate-library"
+        },
+        {
+          "id": "lib_d0842fd1-dd2a-4ddb-8b32-97040506c4b3",
+          "name": "Knaresborough Library",
+          "postcode": "HG5 8AG",
+          "lat": 54.00821,
+          "lng": -1.46698,
+          "status": "Open",
+          "slug": "knaresborough-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 54.2323,
+        "longitude": -1.4332
+      }
+    },
+    "classification": {
+      "categories": [
+        "events_and_activities"
+      ],
+      "primary_category": "events_and_activities",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "events_and_activities"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-020",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "North Northamptonshire",
+    "text": "Royal visit for Kettering as library and gallery officially opened on Duke’s tour of Northamptonshire – Northamptonshire Telegraph. see also HRH Duke of Gloucester re-opens Alfred East Gallery and Kettering Library after multi-million pound renovation – Northants Telegraph.",
+    "text_html": "<li><strong><a href=\"https://www.northantstelegraph.co.uk/news/royal-visit-for-kettering-as-library-and-gallery-officially-opened-on-dukes-tour-of-northamptonshire-9340255\">North Northamptonshire &#8211; Royal visit for Kettering as library and gallery officially opened on Duke&#8217;s tour of Northamptonshire </a></strong>&#8211; Northamptonshire Telegraph. <em>see also </em><strong><a href=\"https://www.northantstelegraph.co.uk/news/people/hrh-duke-of-gloucester-re-opens-alfred-east-gallery-and-kettering-library-after-multi-million-pound-renovation-9345214\">HRH Duke of Gloucester re-opens Alfred East Gallery and Kettering Library after multi-million pound renovation</a> </strong>&#8211; Northants Telegraph.</li>",
+    "links": [
+      {
+        "url": "https://www.northantstelegraph.co.uk/news/royal-visit-for-kettering-as-library-and-gallery-officially-opened-on-dukes-tour-of-northamptonshire-9340255",
+        "text": "North Northamptonshire – Royal visit for Kettering as library and gallery officially opened on Duke’s tour of Northamptonshire",
+        "domain": "northantstelegraph.co.uk"
+      },
+      {
+        "url": "https://www.northantstelegraph.co.uk/news/people/hrh-duke-of-gloucester-re-opens-alfred-east-gallery-and-kettering-library-after-multi-million-pound-renovation-9345214",
+        "text": "HRH Duke of Gloucester re-opens Alfred East Gallery and Kettering Library after multi-million pound renovation",
+        "domain": "northantstelegraph.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "North Northamptonshire",
+        "gss_code": "E06000062",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 52.398,
+        "longitude": -0.7259
+      }
+    },
+    "classification": {
+      "categories": [
+        "refurbishment_and_new_builds"
+      ],
+      "primary_category": "refurbishment_and_new_builds",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "refurbishment_and_new_builds"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-019",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Northern Ireland",
+    "text": "Cross-sector partnership helps young people shape future services and build skills for the digital economy – Sync NI. “The six-week programme combined paid work experience, emerging technologies and real-world problem solving, challenging participants to answer a live brief from Libraries NI: How might we reimagine libraries around what young people truly value? The initiative concluded with a graduation celebration at Ballymoney Library” … “One shortlisted concept, Silent Disco at The Library, proposed by participant Kimberly, explored how libraries could invite teenagers in on their own terms through wireless headphones and curated music channels, illustrating how youth-led design can help shape more inclusive and accessible public services.” … “Young people acted as co-designers, offering authentic insight into how libraries can continue evolving as trusted spaces for learning, wellbeing, digital participation and community connection.”",
+    "text_html": "<li><strong><a href=\"https://syncni.com/article/16208/cross-sector-partnership-helps-young-people-shape-future-services-and-build-skills-for-the-digital-economy\">Northern Ireland &#8211; Cross-sector partnership helps young people shape future services and build skills for the digital economy</a></strong> &#8211; Sync NI. &#8220;The six-week programme combined paid work experience, emerging technologies and real-world problem solving, challenging participants to answer a live brief from Libraries NI: <em>How might we reimagine libraries around what young people truly value?</em> The initiative concluded with a graduation celebration at Ballymoney Library&#8221; &#8230; &#8220;One shortlisted concept, <em>Silent Disco at The Library</em>, proposed by participant Kimberly, explored how libraries could invite teenagers in on their own terms through wireless headphones and curated music channels, illustrating how youth-led design can help shape more inclusive and accessible public services.&#8221; &#8230; &#8220;Young people acted as co-designers, offering authentic insight into how libraries can continue evolving as trusted spaces for learning, wellbeing, digital participation and community connection.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://syncni.com/article/16208/cross-sector-partnership-helps-young-people-shape-future-services-and-build-skills-for-the-digital-economy",
+        "text": "Northern Ireland – Cross-sector partnership helps young people shape future services and build skills for the digital economy",
+        "domain": "syncni.com"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "Northern Ireland",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Libraries NI",
+        "gss_code": "N92000002",
+        "confidence": "alias"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_e8db377d-865d-4e9d-8a74-68a56401a848",
+          "name": "Ballymoney Library",
+          "postcode": "BT53 6JB",
+          "lat": 55.071027,
+          "lng": -6.51083,
+          "status": "Open",
+          "slug": "ballymoney-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 54.5973,
+        "longitude": -5.9301
+      }
+    },
+    "classification": {
+      "categories": [
+        "digital_and_technology",
+        "warm_spaces_and_wellbeing"
+      ],
+      "primary_category": "digital_and_technology",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "digital_and_technology",
+      "warm_spaces_and_wellbeing"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-018",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Moray",
+    "text": "Moray Libraries recognised for digital learning success – Moray Council. “The Moray Libraries service has been highly commended at the Scottish Library and Information Council (SLIC) Awards 2026 for its Digital Learning Team’s Connected Programme. The Digital Learning Team provides a wide range of opportunities for people of all ages and abilities to develop their digital skills, build confidence and explore new technologies. From after-school Digital and STEM Clubs, coding, e-sports and the Gaming Hub, to supporting adults through Job Clubs, the IT Help Hub and IT taster courses for complete beginners through to recognised ICDL and Qualifications Scotland qualifications.” Moray libraries launch iPad lending scheme to boost digital access – Grampian Online. “Residents in Moray are now able to borrow iPads from Elgin, Forres and Buckie Libraries as part of a new scheme to help improve digital access and connect people with health and wellbeing information”",
+    "text_html": "<li><strong><a href=\"https://newsroom.moray.gov.uk/news/moray-libraries-recognised-for-digital-learning-success\">Moray &#8211; Moray Libraries recognised for digital learning success</a></strong> &#8211; Moray Council. &#8220;The Moray Libraries service has been highly commended at the Scottish Library and Information Council (SLIC) Awards 2026 for its Digital Learning Team&#8217;s Connected Programme. The Digital Learning Team provides a wide range of opportunities for people of all ages and abilities to develop their digital skills, build confidence and explore new technologies. From after-school Digital and STEM Clubs, coding, e-sports and the Gaming Hub, to supporting adults through Job Clubs, the IT Help Hub and IT taster courses for complete beginners through to recognised ICDL and Qualifications Scotland qualifications.&#8221; <ul class=\"wp-block-list\"> <li><strong><a href=\"https://www.grampianonline.co.uk/news/libraries-unveil-bold-new-ipad-lending-scheme-in-bid-to-boos-450037/\">Moray libraries launch iPad lending scheme to boost digital access</a></strong> &#8211; Grampian Online. &#8220;Residents in Moray are now able to borrow iPads from Elgin, Forres and Buckie Libraries as part of a new scheme to help improve digital access and connect people with health and wellbeing information&#8221;</li>",
+    "links": [
+      {
+        "url": "https://newsroom.moray.gov.uk/news/moray-libraries-recognised-for-digital-learning-success",
+        "text": "Moray – Moray Libraries recognised for digital learning success",
+        "domain": "newsroom.moray.gov.uk"
+      },
+      {
+        "url": "https://www.grampianonline.co.uk/news/libraries-unveil-bold-new-ipad-lending-scheme-in-bid-to-boos-450037/",
+        "text": "Moray libraries launch iPad lending scheme to boost digital access",
+        "domain": "grampianonline.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "Scotland",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Moray",
+        "gss_code": "S12000020",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_ca32d90a-21c0-44c2-968b-94c4103f475d",
+          "name": "Buckie Library",
+          "postcode": "AB56 1JN",
+          "lat": 57.67597,
+          "lng": -2.96705,
+          "status": "Open",
+          "slug": "buckie-library"
+        },
+        {
+          "id": "lib_c3a33f5e-b71c-44fd-bfe4-6f63a22ff5a6",
+          "name": "Elgin Library",
+          "postcode": "IV30 1HS",
+          "lat": 57.650789,
+          "lng": -3.312904,
+          "status": "Open",
+          "slug": "elgin-library"
+        },
+        {
+          "id": "lib_51f944fd-3776-4088-938e-6bb22fc2ab05",
+          "name": "Forres Library",
+          "postcode": "IV36 1BU",
+          "lat": 57.61195,
+          "lng": -3.609963,
+          "status": "Open",
+          "slug": "forres-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 57.6497,
+        "longitude": -3.3182
+      }
+    },
+    "classification": {
+      "categories": [
+        "staffing_and_unions",
+        "digital_and_technology",
+        "warm_spaces_and_wellbeing",
+        "co_location"
+      ],
+      "primary_category": "staffing_and_unions",
+      "change_type": null,
+      "sector_bodies_mentioned": [
+        "Scottish Library and Information Council"
+      ],
+      "financial_mentions": []
+    },
+    "tags": [
+      "staffing_and_unions",
+      "digital_and_technology",
+      "warm_spaces_and_wellbeing",
+      "co_location"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-017",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Midlothian",
+    "text": "National recognition as Midlothian libraries crowned Team of the Year – Edinburgh News. “The service took the top prize at the 2026 Scottish Library and Information Council (SLIC) Awards in Stirling on Friday.” … “t was recognised for its wide-ranging approach to developing libraries as community hubs, bringing together literacy, digital inclusion and practical support.” … “Successful initiatives include the Every Child a Library Member scheme, which registered more than 400 babies in a year, alongside remote advice points, activity kits and community support groups.”",
+    "text_html": "<li><strong><a href=\"https://www.edinburghnews.scotsman.com/news/national-recognition-as-midlothian-libraries-crowned-team-of-the-year-9337363\">Midlothian &#8211; National recognition as Midlothian libraries crowned Team of the Year </a></strong>&#8211; Edinburgh News. &#8220;The service took the top prize at the 2026 Scottish Library and Information Council (SLIC) Awards in Stirling on Friday.&#8221; &#8230; &#8220;t was recognised for its wide-ranging approach to developing libraries as community hubs, bringing together literacy, digital inclusion and practical support.&#8221; &#8230; &#8220;Successful initiatives include the Every Child a Library Member scheme, which registered more than 400 babies in a year, alongside remote advice points, activity kits and community support groups.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.edinburghnews.scotsman.com/news/national-recognition-as-midlothian-libraries-crowned-team-of-the-year-9337363",
+        "text": "Midlothian – National recognition as Midlothian libraries crowned Team of the Year",
+        "domain": "edinburghnews.scotsman.com"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "Scotland",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Midlothian",
+        "gss_code": "S12000019",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 55.85,
+        "longitude": -3.1
+      }
+    },
+    "classification": {
+      "categories": [
+        "digital_and_technology"
+      ],
+      "primary_category": "digital_and_technology",
+      "change_type": null,
+      "sector_bodies_mentioned": [
+        "Scottish Library and Information Council"
+      ],
+      "financial_mentions": []
+    },
+    "tags": [
+      "digital_and_technology"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-016",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Manchester – Thug with ‘peace’ neck tattoo launched horrific attack on man reading to his grandson at library",
+    "text": "Manchester Evening News. Paywalled.",
+    "text_html": "</a> &#8211; Manchester Evening News. Paywalled. </li>",
+    "links": [],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Manchester",
+        "gss_code": "E08000003",
+        "confidence": "fuzzy"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 53.4808,
+        "longitude": -2.2426
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-local-015",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Leeds",
+    "text": "Lunar rocks and meteorites arrive at Otley library – Telegraph and Argus. “Otley Library and Community Hub will be hosting a spectacular Touch the Moon event this Saturday (November 14) as part of Otley Science Festival, giving visitors the chance to handle an incredible collection of lunar rocks and meteorites.” [This is an excellent resource I have direct experience of using – fantastic – see Borrow the Moon – UKRI – Ed.]",
+    "text_html": "<li><strong><a href=\"https://www.thetelegraphandargus.co.uk/news/26722452.lunar-rocks-meteorites-arrive-otley-library/\">Leeds &#8211; Lunar rocks and meteorites arrive at Otley library</a></strong> &#8211; Telegraph and Argus. &#8220;Otley Library and Community Hub will be hosting a spectacular Touch the Moon event this Saturday (November 14) as part of Otley Science Festival, giving visitors the chance to handle an incredible collection of lunar rocks and meteorites.&#8221; [This is an excellent resource I have direct experience of using &#8211; fantastic &#8211; see <a href=\"https://www.ukri.org/what-we-do/teaching-resources/borrow-the-moon/\">Borrow the Moon – UKRI</a> &#8211; Ed.]</li>",
+    "links": [
+      {
+        "url": "https://www.thetelegraphandargus.co.uk/news/26722452.lunar-rocks-meteorites-arrive-otley-library/",
+        "text": "Leeds – Lunar rocks and meteorites arrive at Otley library",
+        "domain": "thetelegraphandargus.co.uk"
+      },
+      {
+        "url": "https://www.ukri.org/what-we-do/teaching-resources/borrow-the-moon/",
+        "text": "Borrow the Moon – UKRI",
+        "domain": "ukri.org"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Leeds",
+        "gss_code": "E08000035",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 53.8008,
+        "longitude": -1.5491
+      }
+    },
+    "classification": {
+      "categories": [
+        "events_and_activities",
+        "co_location"
+      ],
+      "primary_category": "co_location",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "events_and_activities",
+      "co_location"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-014",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Inverclyde",
+    "text": "Children offered free ukulele sessions at Greenock library – Greenock Telegraph. “Inverclyde Libraries is inviting children from Primary 5 to Secondary 2 to join Merry Music Makers. Sessions will run on Thursdays, November 19, November 26, December 10 and December 17, from 4.30pm to 5.30pm.”",
+    "text_html": "<li><strong><a href=\"https://www.greenocktelegraph.co.uk/news/26726792.children-offered-free-ukulele-sessions-greenock-library/\">Inverclyde &#8211; Children offered free ukulele sessions at Greenock library</a></strong> &#8211; Greenock Telegraph. &#8220;Inverclyde Libraries is inviting children from Primary 5 to Secondary 2 to join Merry Music Makers. Sessions will run on Thursdays, November 19, November 26, December 10 and December 17, from 4.30pm to 5.30pm.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.greenocktelegraph.co.uk/news/26726792.children-offered-free-ukulele-sessions-greenock-library/",
+        "text": "Inverclyde – Children offered free ukulele sessions at Greenock library",
+        "domain": "greenocktelegraph.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "Scotland",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Inverclyde",
+        "gss_code": "S12000018",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 55.9392,
+        "longitude": -4.7578
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-local-013",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Hounslow",
+    "text": "Osterley To Become Borough’s First Self-service Library – Brentford TW8. “Osterley is set to become the first library in the London Borough of Hounslow to introduce self-service access, with extended opening hours expected to launch in early 2027. The move forms part of Hounslow Council’s wider programme to introduce self-access technology in community hubs and libraries across the borough. Under the scheme, registered library members will be able to enter and use the library during additional unstaffed hours, supplementing the existing staffed service.” … “Plans approved for consultation would see all 11 of the borough’s community hubs and libraries equipped with self-access technology, allowing members to use facilities outside traditional opening hours. The programme is backed by a £1.2 million capital investment and is intended to significantly increase access to library buildings without substantially increasing staffing costs.”",
+    "text_html": "<li><strong><a href=\"https://www.brentfordtw8.com/default.asp?section=info&amp;page=conlibraryunstaffed003.htm\">Hounslow &#8211; Osterley To Become Borough&#8217;s First Self-service&nbsp;Library</a></strong> &#8211; Brentford TW8. &#8220;Osterley is set to become the first library in the London Borough of Hounslow to introduce self-service access, with extended opening hours expected to launch in early 2027. The move forms part of Hounslow Council&#8217;s wider programme to introduce self-access technology in community hubs and libraries across the borough. Under the scheme, registered library members will be able to enter and use the library during additional unstaffed hours, supplementing the existing staffed service.&#8221; &#8230; &#8220;Plans approved for consultation would see all 11 of the borough&#8217;s community hubs and libraries equipped with self-access technology, allowing members to use facilities outside traditional opening hours. The programme is backed by a £1.2 million capital investment and is intended to significantly increase access to library buildings without substantially increasing staffing costs.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.brentfordtw8.com/default.asp?section=info&page=conlibraryunstaffed003.htm",
+        "text": "Hounslow – Osterley To Become Borough’s First Self-service Library",
+        "domain": "brentfordtw8.com"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Hounslow",
+        "gss_code": "E09000018",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 51.4746,
+        "longitude": -0.368
+      }
+    },
+    "classification": {
+      "categories": [
+        "cuts_and_finance",
+        "staffing_and_unions",
+        "opening_hours",
+        "unstaffed_open_plus"
+      ],
+      "primary_category": "cuts_and_finance",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": [
+        "£1.2m"
+      ]
+    },
+    "tags": [
+      "cuts_and_finance",
+      "staffing_and_unions",
+      "opening_hours",
+      "unstaffed_open_plus"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-012",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Glasgow",
+    "text": "Glasgow primary school wins award after fight to save library – Glasgow Times. Paywall. “Cardonald Primary in Glasgow has won the UNICEF UK’s Gold Rights Respecting Award for its efforts to save the local library. The award recognizes schools that prioritize children’s rights and create a respectful environment for all. The school’s pupils actively campaigned for the library’s preservation, and the award is a testament to their commitment to safeguarding the library and promoting a respectful school community.”",
+    "text_html": "<li><strong><a href=\"https://www.glasgowtimes.co.uk/news/26711255.cardonald-primary-wins-unicef-award-glasgow-library-campaign/\">Glasgow &#8211; Glasgow primary school wins award after fight to save library</a></strong> &#8211; Glasgow Times. Paywall. &#8220;Cardonald Primary in Glasgow has won the UNICEF UK&#8217;s Gold Rights Respecting Award for its efforts to save the local library. The award recognizes schools that prioritize children&#8217;s rights and create a respectful environment for all. The school&#8217;s pupils actively campaigned for the library&#8217;s preservation, and the award is a testament to their commitment to safeguarding the library and promoting a respectful school community.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.glasgowtimes.co.uk/news/26711255.cardonald-primary-wins-unicef-award-glasgow-library-campaign/",
+        "text": "Glasgow – Glasgow primary school wins award after fight to save library",
+        "domain": "glasgowtimes.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "Scotland",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Glasgow City",
+        "gss_code": "S12000049",
+        "confidence": "alias"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_68ce3f1f-cb82-4d21-871e-1cfcb5b0151f",
+          "name": "Cardonald Library",
+          "postcode": "G52 3BU",
+          "lat": 55.84499,
+          "lng": -4.34783,
+          "status": "Closed (temporary)",
+          "slug": "cardonald-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 55.8642,
+        "longitude": -4.2518
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-local-011",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Essex",
+    "text": "Campaign honours Essex library workers during centenary – Chelmsford City News. “Nearly 1,400 people have signed Save Our Libraries Essex’s Roll of Appreciation, thanking staff and celebrating the service’s centenary. The roll acknowledges the challenges Essex Library Service has faced in recent years”",
+    "text_html": "<li><strong><a href=\"https://www.chelmsfordcitynews.co.uk/news/26722242.campaign-honours-essex-library-workers-centenary/\">Essex &#8211; Campaign honours Essex library workers during centenary</a></strong> &#8211; Chelmsford City News. &#8220;Nearly 1,400 people have signed Save Our Libraries Essex’s Roll of Appreciation, thanking staff and celebrating the service’s centenary. The roll acknowledges the challenges Essex Library Service has faced in recent years&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.chelmsfordcitynews.co.uk/news/26722242.campaign-honours-essex-library-workers-centenary/",
+        "text": "Essex – Campaign honours Essex library workers during centenary",
+        "domain": "chelmsfordcitynews.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Essex",
+        "gss_code": "E10000012",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_b89c70ec-8910-4cda-a165-070e0e2dff5e",
+          "name": "Chelmsford Library",
+          "postcode": "CM1 1QH",
+          "lat": 51.742602,
+          "lng": 0.500108,
+          "status": "Open",
+          "slug": "chelmsford-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 51.7356,
+        "longitude": 0.4685
+      }
+    },
+    "classification": {
+      "categories": [
+        "staffing_and_unions",
+        "book_bans_and_challenges",
+        "campaigns_and_protests"
+      ],
+      "primary_category": "book_bans_and_challenges",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "staffing_and_unions",
+      "book_bans_and_challenges",
+      "campaigns_and_protests"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-010",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Drop",
+    "text": "in event at library for families with babies and children – East Sussex Council. Eastbourne Library: “The aim of the half-day event, which is being held at Eastbourne library on Saturday, November 14, is to highlight local services which can help families during pregnancy and the first years of a child’s life.”",
+    "text_html": "<li><strong><a href=\"https://news.eastsussex.gov.uk/news-releases/posts/drop-in-event-at-library-for-families-with-babies-and-children\">Drop-in event at library for families with babies and children</a></strong> &#8211; East Sussex Council. Eastbourne Library: &#8220;The aim of the half-day event, which is being held at Eastbourne library on Saturday, November 14, is to highlight local services which can help families during pregnancy and the first years of a child’s life.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://news.eastsussex.gov.uk/news-releases/posts/drop-in-event-at-library-for-families-with-babies-and-children",
+        "text": "Drop-in event at library for families with babies and children",
+        "domain": "news.eastsussex.gov.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "East Sussex",
+        "gss_code": "E10000011",
+        "confidence": "fuzzy"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_7f41574d-253c-4af0-b6bd-5167283c8944",
+          "name": "Eastbourne Library",
+          "postcode": "BN21 4TL",
+          "lat": 50.76866871833152,
+          "lng": 0.2792553064870179,
+          "status": "Open",
+          "slug": "eastbourne-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 50.8732,
+        "longitude": 0.0125
+      }
+    },
+    "classification": {
+      "categories": [
+        "events_and_activities"
+      ],
+      "primary_category": "events_and_activities",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "events_and_activities"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-009",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "East Sussex",
+    "text": "Volunteers at Little Common Library, Bexhill come together for annual gathering – Sussex World. ““Our library continues to go from strength to strength, and that is entirely down to the wonderful people who support it.” … Based at Little Common Community Centre, the library is open on Tuesdays from 9.30am to 3.30pm and Fridays from 9.30am to 12.30pm.”",
+    "text_html": "<li><strong><a href=\"https://www.sussexexpress.co.uk/news/people/volunteers-at-little-common-library-bexhill-come-together-for-annual-gathering-9340928\">East Sussex &#8211; Volunteers at Little Common Library, Bexhill come together for annual gathering </a></strong>&#8211; Sussex World. &#8220;“Our library continues to go from strength to strength, and that is entirely down to the wonderful people who support it.” &#8230; Based at Little Common Community Centre, the library is open on Tuesdays from 9.30am to 3.30pm and Fridays from 9.30am to 12.30pm.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.sussexexpress.co.uk/news/people/volunteers-at-little-common-library-bexhill-come-together-for-annual-gathering-9340928",
+        "text": "East Sussex – Volunteers at Little Common Library, Bexhill come together for annual gathering",
+        "domain": "sussexexpress.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "East Sussex",
+        "gss_code": "E10000011",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_2ced31af-9bfe-416e-939c-ae98cb89dd6f",
+          "name": "Bexhill Library",
+          "postcode": "TN40 1DY",
+          "lat": 50.84021635026012,
+          "lng": 0.47008365417973125,
+          "status": "Open",
+          "slug": "bexhill-library"
+        },
+        {
+          "id": "lib_8a65cd29-55f9-4004-96f3-4658c2f424da",
+          "name": "Little Common Community Library",
+          "postcode": "TN39 4SQ",
+          "lat": 50.84479181473256,
+          "lng": 0.4363448995844408,
+          "status": "Open",
+          "slug": "little-common-community-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 50.8732,
+        "longitude": 0.0125
+      }
+    },
+    "classification": {
+      "categories": [
+        "volunteers_and_community"
+      ],
+      "primary_category": "volunteers_and_community",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "volunteers_and_community"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-008",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Dudley – Library honours First World War soldier",
+    "text": "GLL press release. “A plaque has been erected to name the meeting room at Kingswinford Library in honour of Private William Deeley … and served in both the Boer War and the First World War … Representing Kingswinford & Wall Heath War Memorial Group, Guy Marshall gave a talk about William – a local man who joined the Worcestershire Regiment and whose postings included the West Indies, South Africa and Malta.”",
+    "text_html": "GLL press release. &#8220;A plaque has been erected to name the meeting room at Kingswinford Library in honour of Private William Deeley &#8230; and served in both the Boer War and the First World War &#8230; Representing Kingswinford &amp; Wall Heath War Memorial Group, Guy Marshall gave a talk about William – a local man who joined the Worcestershire Regiment and whose postings included the West Indies, South Africa and Malta.&#8221;</li>",
+    "links": [],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Dudley",
+        "gss_code": "E08000027",
+        "confidence": "fuzzy"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_fc88d172-4b53-48af-a5ae-55665a58464c",
+          "name": "Kingswinford",
+          "postcode": "DY6 9JY",
+          "lat": 52.4958,
+          "lng": -2.16727,
+          "status": "Open",
+          "slug": "kingswinford"
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.5123,
+        "longitude": -2.0811
+      }
+    },
+    "classification": {
+      "categories": [
+        "governance_and_trusts"
+      ],
+      "primary_category": "governance_and_trusts",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "governance_and_trusts"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-007",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Dorset",
+    "text": "Swanage library ‘loopers’ create colourful blanket for story corner – Swanage News. “The idea for the project came about during one of the crochet group’s afternoon sessions, when one member popped downstairs to the children’s area.”",
+    "text_html": "<li><strong><a href=\"https://www.swanage.news/swanage-library-loopers-create-amazing-blanket-for-story-corner/\">Dorset &#8211; Swanage library ‘loopers’ create colourful blanket for story corner</a></strong> &#8211; Swanage News. &#8220;The idea for the project came about during one of the crochet group’s afternoon sessions, when one member popped downstairs to the children’s area.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.swanage.news/swanage-library-loopers-create-amazing-blanket-for-story-corner/",
+        "text": "Dorset – Swanage library ‘loopers’ create colourful blanket for story corner",
+        "domain": "swanage.news"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Dorset",
+        "gss_code": "E06000059",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_1bec13ec-e1a3-44a5-a787-e3109a7cf0ae",
+          "name": "Swanage",
+          "postcode": "BH19 2NU",
+          "lat": 50.60857,
+          "lng": -1.95761,
+          "status": "Open",
+          "slug": "swanage"
+        }
+      ],
+      "coordinates": {
+        "latitude": 50.7144,
+        "longitude": -2.4385
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-local-006",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Darlington – Darlington pubs’ history explored in new library exhibition",
+    "text": "Darlington and Stockton Times. Paywall.",
+    "text_html": "</a>&#8211; Darlington and Stockton Times. Paywall.</li>",
+    "links": [],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Darlington",
+        "gss_code": "E06000005",
+        "confidence": "fuzzy"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_3c8d545e-c5da-4651-bb97-73b8859bf09a",
+          "name": "Darlington Library",
+          "postcode": "DL1 1LU",
+          "lat": 54.52533,
+          "lng": -1.55269,
+          "status": "Open",
+          "slug": "darlington-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 54.5236,
+        "longitude": -1.5504
+      }
+    },
+    "classification": {
+      "categories": [
+        "refurbishment_and_new_builds",
+        "events_and_activities"
+      ],
+      "primary_category": "refurbishment_and_new_builds",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "refurbishment_and_new_builds",
+      "events_and_activities"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-005",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Cheshire West and Chester",
+    "text": "Agatha Christie: A World of Mystery at Neston Library – Cheshire Life. “Agatha Christie: A World of Mystery runs at Neston Library before touring Great Boughton, Little Sutton, Chester and Winsford Libraries in 2027.”",
+    "text_html": "<li><strong><a href=\"https://www.greatbritishlife.co.uk/magazines/cheshire/26676235.neston-library-first-hold-agatha-christie-exhibition/\">Cheshire West and Chester &#8211; Agatha Christie: A World of Mystery at Neston Library</a></strong> &#8211; Cheshire Life. &#8220;Agatha Christie: A World of Mystery runs at Neston Library before touring Great Boughton, Little Sutton, Chester and Winsford Libraries in 2027.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.greatbritishlife.co.uk/magazines/cheshire/26676235.neston-library-first-hold-agatha-christie-exhibition/",
+        "text": "Cheshire West and Chester – Agatha Christie: A World of Mystery at Neston Library",
+        "domain": "greatbritishlife.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Cheshire West and Chester",
+        "gss_code": "E06000050",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "historical_7fb863ccd93b3eaf",
+          "name": "Chester Library",
+          "postcode": "CH1 2EF",
+          "lat": null,
+          "lng": null,
+          "status": "Closed (permanent)",
+          "slug": "chester-library-closed-2017-ch12ef"
+        },
+        {
+          "id": "lib_fbb04853-a2ec-412f-934e-1fd1108bc260",
+          "name": "Great Boughton Library",
+          "postcode": "CH3 5LB",
+          "lat": 53.197296186803996,
+          "lng": -2.8541691552574484,
+          "status": "Open",
+          "slug": "great-boughton-library"
+        },
+        {
+          "id": "lib_2f840cfe-2df0-40b8-8ff2-8dd6320991ca",
+          "name": "Little Sutton Library",
+          "postcode": "CH66 1RB",
+          "lat": 53.28768,
+          "lng": -2.94705,
+          "status": "Open",
+          "slug": "little-sutton-library"
+        },
+        {
+          "id": "lib_aa356f4e-2320-40c7-bdb0-9b7cd895c5ee",
+          "name": "Neston Library",
+          "postcode": "CH64 6QG",
+          "lat": 53.29035,
+          "lng": -3.06711,
+          "status": "Open",
+          "slug": "neston-library"
+        },
+        {
+          "id": "lib_feee13f7-82aa-44ea-8bfe-1c654b4e1d7e",
+          "name": "Winsford Library",
+          "postcode": "CW7 2AS",
+          "lat": 53.192532,
+          "lng": -2.528801,
+          "status": "Open",
+          "slug": "winsford-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 53.1905,
+        "longitude": -2.8916
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-local-004",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Carmarthenshire",
+    "text": "Celebrating 100 years of Llanelli Library – Carmarthenshire Council. “The occasion was marked with a variety of special activities and displays, linking together Winnie-the-Pooh’s 100th birthday by hosting a teddy bears’ picnic and games. The library also celebrated 100 years since Agatha Christie published The Murder of Roger Ackroyd, her third novel featuring Hercule Poirot, by inviting visitors to solve a mystery around the library.”",
+    "text_html": "<li><strong><a href=\"https://newsroom.carmarthenshire.gov.wales/2026/11/celebrating-100-years-of-llanelli-library/\">Carmarthenshire &#8211; Celebrating 100 years of Llanelli Library </a></strong>&#8211; Carmarthenshire Council. &#8220;The occasion was marked with a variety of special activities and displays, linking together Winnie-the-Pooh’s 100th birthday by hosting a teddy bears’ picnic and games. The library also celebrated 100 years since Agatha Christie published The Murder of Roger Ackroyd, her third novel featuring Hercule Poirot, by inviting visitors to solve a mystery around the library.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://newsroom.carmarthenshire.gov.wales/2026/11/celebrating-100-years-of-llanelli-library/",
+        "text": "Carmarthenshire – Celebrating 100 years of Llanelli Library",
+        "domain": "newsroom.carmarthenshire.gov.wales"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "Wales",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Carmarthenshire",
+        "gss_code": "W06000010",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_7a51da0d-b288-4b0c-b359-dd05b37c3931",
+          "name": "Llanelli Library",
+          "postcode": "SA15 3TY",
+          "lat": 51.682879,
+          "lng": -4.161304,
+          "status": "Open",
+          "slug": "llanelli-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 51.8576,
+        "longitude": -4.3121
+      }
+    },
+    "classification": {
+      "categories": [
+        "events_and_activities"
+      ],
+      "primary_category": "events_and_activities",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "events_and_activities"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-003",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Bradford",
+    "text": "Bradford City Library to close ahead of move saving council £420,000 a year – Asian Standard. “Bradford City Library will close this weekend ahead of a move to Britannia House next month that will save the council £420,000 a year in rent. The library will close at its current City Park location on Saturday, 14 November, before reopening at Britannia House on Monday, 7 December.” see also Library to close ahead of move to new location – BBC.",
+    "text_html": "<li><strong><a href=\"https://www.asianstandard.co.uk/bradford-city-library-to-close-ahead-of-move-saving-council-420000-a-year/\">Bradford &#8211; Bradford City Library to close ahead of move saving council £420,000 a year</a></strong> &#8211; Asian Standard. &#8220;Bradford City Library will close this weekend ahead of a move to Britannia House next month that will save the council £420,000 a year in rent. The library will close at its current City Park location on Saturday, 14 November, before reopening at Britannia House on Monday, 7 December.&#8221; <em>see also </em><strong><a href=\"https://www.bbc.co.uk/news/articles/crp3ewdkq5wxo\">Library to close ahead of move to new location </a></strong>&#8211; BBC. </li>",
+    "links": [
+      {
+        "url": "https://www.asianstandard.co.uk/bradford-city-library-to-close-ahead-of-move-saving-council-420000-a-year/",
+        "text": "Bradford – Bradford City Library to close ahead of move saving council £420,000 a year",
+        "domain": "asianstandard.co.uk"
+      },
+      {
+        "url": "https://www.bbc.co.uk/news/articles/crp3ewdkq5wxo",
+        "text": "Library to close ahead of move to new location",
+        "domain": "bbc.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Bradford",
+        "gss_code": "E08000032",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_7b30e364-8397-4a3f-9685-3cacc45eafc4",
+          "name": "Bradford City Library",
+          "postcode": "BD1 1SD",
+          "lat": 53.792778,
+          "lng": -1.754359,
+          "status": "Open",
+          "slug": "bradford-city-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 53.796,
+        "longitude": -1.7594
+      }
+    },
+    "classification": {
+      "categories": [
+        "closures_and_threats",
+        "cuts_and_finance",
+        "refurbishment_and_new_builds"
+      ],
+      "primary_category": "closures_and_threats",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": [
+        "£420,000",
+        "£420,000"
+      ]
+    },
+    "tags": [
+      "closures_and_threats",
+      "cuts_and_finance",
+      "refurbishment_and_new_builds"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-002",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Bournemouth Christchurch Poole",
+    "text": "Council aiming to reopen Charminster Library in early December – Daily Echo. “Charminster Library has been closed since December 2025 following the partial ceiling collapse. In March it was announced that the library would be closed indefinitely on health and safety grounds and because of the higher-than-expected cost of repairs.” see also Hopes for library reopening after ceiling collapse – BBC.",
+    "text_html": "<li><strong><a href=\"https://www.bournemouthecho.co.uk/news/26720904.council-aiming-reopen-charminster-library-early-december/\">Bournemouth Christchurch Poole &#8211; Council aiming to reopen Charminster Library in early December </a></strong>&#8211; Daily Echo. &#8220;Charminster Library has been closed since December 2025 following the partial ceiling collapse. In March it was announced that the library would be closed indefinitely on health and safety grounds and because of the higher-than-expected cost of repairs.&#8221; <em>see also </em><strong><a href=\"https://www.bbc.co.uk/news/articles/c6n83lzdeknpo\">Hopes for library reopening after ceiling collapse</a></strong> &#8211; BBC. </li>",
+    "links": [
+      {
+        "url": "https://www.bournemouthecho.co.uk/news/26720904.council-aiming-reopen-charminster-library-early-december/",
+        "text": "Bournemouth Christchurch Poole – Council aiming to reopen Charminster Library in early December",
+        "domain": "bournemouthecho.co.uk"
+      },
+      {
+        "url": "https://www.bbc.co.uk/news/articles/c6n83lzdeknpo",
+        "text": "Hopes for library reopening after ceiling collapse",
+        "domain": "bbc.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Bournemouth, Christchurch and Poole",
+        "gss_code": "E06000058",
+        "confidence": "fuzzy"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_c4eb977c-b808-4dd9-a341-e14f5985eba4",
+          "name": "Charminster Library",
+          "postcode": "BH8 9HT",
+          "lat": 50.74546885372588,
+          "lng": -1.8612048485943464,
+          "status": "Open",
+          "slug": "charminster-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 50.7192,
+        "longitude": -1.8808
+      }
+    },
+    "classification": {
+      "categories": [
+        "closures_and_threats",
+        "refurbishment_and_new_builds"
+      ],
+      "primary_category": "closures_and_threats",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "closures_and_threats",
+      "refurbishment_and_new_builds"
+    ]
+  },
+  {
+    "id": "pln-story-20330-local-001",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "local_news",
+    "entity_raw": "Birmingham",
+    "text": "Kings Heath Library to open five days a week from 2027 – Birmingham Now. “Alongside next year’s renovation works to weatherproof and modernise the building, we’ve now had confirmation that the library will be resourced to open five days a week, up from the current four days.” and there will be no lunchtime closure. Mobile library to serve Acocks Green while library closed – Birmingham Now. “A mobile library with thousands of books will serve the community while Acocks Green Library remains closed for roof replacement.” … “Residents should expect to use the mobile library for a long period as Acocks Green Liberal Democrats said on their social media that “it will be there every Wednesday, until the Library reopens, which is likely to take just over a year”.”",
+    "text_html": "<li><strong><a href=\"https://www.birmingham-now.co.uk/news/26695327.kings-heath-library-open-five-days-week-2027/\">Birmingham &#8211; Kings Heath Library to open five days a week from 2027</a></strong> &#8211; Birmingham Now. &#8220;Alongside next year’s renovation works to weatherproof and modernise the building, we’ve now had confirmation that the library will be resourced to open five days a week, up from the current four days.&#8221; and there will be no lunchtime closure. <ul class=\"wp-block-list\"> <li><strong><a href=\"https://www.birmingham-now.co.uk/news/26721471.mobile-library-serve-acocks-green-library-closed/\">Mobile library to serve Acocks Green while library closed</a></strong> &#8211; Birmingham Now. &#8220;A mobile library with thousands of books will serve the community while Acocks Green Library remains closed for roof replacement.&#8221; &#8230; &#8220;Residents should expect to use the mobile library for a long period as Acocks Green Liberal Democrats said on their social media that &#8220;it will be there every Wednesday, until the Library reopens, which is likely to take just over a year&#8221;.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.birmingham-now.co.uk/news/26695327.kings-heath-library-open-five-days-week-2027/",
+        "text": "Birmingham – Kings Heath Library to open five days a week from 2027",
+        "domain": "birmingham-now.co.uk"
+      },
+      {
+        "url": "https://www.birmingham-now.co.uk/news/26721471.mobile-library-serve-acocks-green-library-closed/",
+        "text": "Mobile library to serve Acocks Green while library closed",
+        "domain": "birmingham-now.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Birmingham",
+        "gss_code": "E08000025",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_2f34f1c3-c02e-4c76-ae1e-9063e1524304",
+          "name": "Acocks Green Library",
+          "postcode": "B27 7XH",
+          "lat": 52.44543,
+          "lng": -1.82386,
+          "status": "Open",
+          "slug": "acocks-green-library"
+        },
+        {
+          "id": "lib_4dccfaac-9863-4712-b241-d06e019dd7e5",
+          "name": "Kings Heath Library",
+          "postcode": "B14 7SW",
+          "lat": 52.43763,
+          "lng": -1.89295,
+          "status": "Open",
+          "slug": "kings-heath-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.4862,
+        "longitude": -1.8904
+      }
+    },
+    "classification": {
+      "categories": [
+        "closures_and_threats",
+        "refurbishment_and_new_builds",
+        "mobile_and_outreach"
+      ],
+      "primary_category": "closures_and_threats",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "closures_and_threats",
+      "refurbishment_and_new_builds",
+      "mobile_and_outreach"
+    ]
+  },
+  {
+    "id": "pln-story-20330-intl-010",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "international_news",
+    "entity_raw": "North Caroline",
+    "text": "Washington City Council resolution targeting LGBTQ-themed library programs fails – WHQR. [This resolution has effectively passed in Staffordshire UK – Ed.]",
+    "text_html": "<li><strong><a href=\"https://www.whqr.org/2026-11-10/washington-city-council-resolution-targeting-lgbtq-themed-library-programs-fails\">North Caroline &#8211; Washington City Council resolution targeting LGBTQ-themed library programs fails </a></strong>&#8211; WHQR. [This resolution has effectively passed in Staffordshire UK &#8211; Ed.]</li>",
+    "links": [
+      {
+        "url": "https://www.whqr.org/2026-11-10/washington-city-council-resolution-targeting-lgbtq-themed-library-programs-fails",
+        "text": "North Caroline – Washington City Council resolution targeting LGBTQ-themed library programs fails",
+        "domain": "whqr.org"
+      }
+    ],
+    "resolution": {
+      "entity_type": "country",
+      "country": "United States",
+      "country_code": "US",
+      "library_service": null,
+      "libraries_mentioned": [],
+      "coordinates": null
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-intl-009",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "international_news",
+    "entity_raw": "Michigan",
+    "text": "Tension over library board – WNEM TV5. Questions over improper governance and purchases.",
+    "text_html": "<strong>Tension over library board</strong> </a>&#8211; WNEM TV5. Questions over improper governance and purchases.</li>",
+    "links": [],
+    "resolution": {
+      "entity_type": "country",
+      "country": "United States",
+      "country_code": "US",
+      "library_service": null,
+      "libraries_mentioned": [],
+      "coordinates": null
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-intl-008",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "international_news",
+    "entity_raw": "Massachusetts",
+    "text": "From cornhole to KitchenAids, Cape libraries loan out more than books – CAI. “Cornhole” is a type of game played on a lawn. “no matter how indestructible a library of things item might seem, there’s always the risk of it getting lost or damaged. Every library handles this differently. In Bourne you have to sign a borrowing agreement. In Osterville you have to provide credit card information to check out the most expensive items. At Whelden Memorial, it’s more of a case-by-case situation, Figaratto says.”",
+    "text_html": "<li><strong><a href=\"https://www.capeandislands.org/local-news/2026-11-10/from-cornhole-to-kitchenaids-cape-libraries-loan-out-non-traditional-items?_amp=true\">Massachusetts &#8211; From cornhole to KitchenAids, Cape libraries loan out more than books</a></strong> &#8211; CAI. &#8220;Cornhole&#8221; is a type of game played on a lawn. &#8220;no matter how indestructible a library of things item might seem, there’s always the risk of it getting lost or damaged. Every library handles this differently. In Bourne you have to sign a borrowing agreement. In Osterville you have to provide credit card information to check out the most expensive items. At Whelden Memorial, it’s more of a case-by-case situation, Figaratto says.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.capeandislands.org/local-news/2026-11-10/from-cornhole-to-kitchenaids-cape-libraries-loan-out-non-traditional-items?_amp=true",
+        "text": "Massachusetts – From cornhole to KitchenAids, Cape libraries loan out more than books",
+        "domain": "capeandislands.org"
+      }
+    ],
+    "resolution": {
+      "entity_type": "country",
+      "country": "United States",
+      "country_code": "US",
+      "library_service": null,
+      "libraries_mentioned": [],
+      "coordinates": null
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-intl-007",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "international_news",
+    "entity_raw": "USA",
+    "text": "Alabama – Birmingham Proposes $444K to Bring UAB Social Workers into Public Libraries – Birmingham Times. Florida – Flooding Clean-Up Kit Distribution at Select Brevard County Libraries – Melbourne Florida. “The flood clean-up kits are designed to clean and disinfect homes following floods. Kits include: 1 5-gallon bucket, 14” broom, 14” squeegee, mop head, brushes, sponge, work gloves, rubber gloves, mask, heavy duty garbage bags, and liquid cleaner.”",
+    "text_html": "<li><strong><a href=\"https://www.birminghamtimes.com/2026/11/birmingham-proposes-444k-to-bring-uab-social-workers-into-public-libraries/\">USA &#8211; Alabama &#8211; Birmingham Proposes $444K to Bring UAB Social Workers into Public Libraries</a></strong> &#8211; Birmingham Times. <ul class=\"wp-block-list\"> <li><strong><a href=\"https://www.melbourneflorida.org/News-articles/Flooding-Clean-Up-Kit-Distribution-at-Select-Brevard-County-Libraries\">Florida &#8211; Flooding Clean-Up Kit Distribution at Select Brevard County Libraries</a></strong> &#8211; Melbourne Florida. &#8220;The flood clean-up kits are designed to clean and disinfect homes following floods. Kits include: 1 5-gallon bucket, 14” broom, 14” squeegee, mop head, brushes, sponge, work gloves, rubber gloves, mask, heavy duty garbage bags, and liquid cleaner.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.birminghamtimes.com/2026/11/birmingham-proposes-444k-to-bring-uab-social-workers-into-public-libraries/",
+        "text": "USA – Alabama – Birmingham Proposes $444K to Bring UAB Social Workers into Public Libraries",
+        "domain": "birminghamtimes.com"
+      },
+      {
+        "url": "https://www.melbourneflorida.org/News-articles/Flooding-Clean-Up-Kit-Distribution-at-Select-Brevard-County-Libraries",
+        "text": "Florida – Flooding Clean-Up Kit Distribution at Select Brevard County Libraries",
+        "domain": "melbourneflorida.org"
+      }
+    ],
+    "resolution": {
+      "entity_type": "country",
+      "country": "United States",
+      "country_code": "US",
+      "library_service": null,
+      "libraries_mentioned": [],
+      "coordinates": null
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": [
+        "$444K"
+      ]
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-intl-006",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "international_news",
+    "entity_raw": "New Zealand",
+    "text": "The library: more than just a place to borrow a book – The Press. “I must admit my initial reaction to some of this was one of mild bewilderment. A library with a gaming zone? A library with a laser cutter? It turns out that the problem isn’t with modern libraries, but my rather stubborn attachment to the past. What I’d failed to appreciate is that the purpose of a library was never really the books. They were simply the best technology available for doing the job. The job is making knowledge, ideas and the tools to explore them accessible to everyone, regardless of their means.”",
+    "text_html": "<li><strong><a href=\"https://www.thepress.co.nz/nz-news/361114562/library-more-just-place-borrow-book\">New Zealand &#8211; The library: more than just a place to borrow a book</a></strong> &#8211; The Press. &#8220;I must admit my initial reaction to some of this was one of mild bewilderment. A library with a gaming zone? A library with a laser cutter? It turns out that the problem isn&#8217;t with modern libraries, but my rather stubborn attachment to the past. What I’d failed to appreciate is that the purpose of a library was never really the books. They were simply the best technology available for doing the job. The job is making knowledge, ideas and the tools to explore them accessible to everyone, regardless of their means.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.thepress.co.nz/nz-news/361114562/library-more-just-place-borrow-book",
+        "text": "New Zealand – The library: more than just a place to borrow a book",
+        "domain": "thepress.co.nz"
+      }
+    ],
+    "resolution": {
+      "entity_type": "country",
+      "country": "New Zealand",
+      "country_code": "NZ",
+      "library_service": null,
+      "libraries_mentioned": [],
+      "coordinates": null
+    },
+    "classification": {
+      "categories": [
+        "staffing_and_unions"
+      ],
+      "primary_category": "staffing_and_unions",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "staffing_and_unions"
+    ]
+  },
+  {
+    "id": "pln-story-20330-intl-005",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "international_news",
+    "entity_raw": "India",
+    "text": "New Indian mega library rocked by scandal over ‘AI-generated books’ – BBC. “An Indian court has ordered an investigation into allegations that a public library in the southern state of Tamil Nadu bought hundreds of books suspected of being generated using AI. The controversy began after Tamil novelist Perumal Murugan raised concerns about books containing false information and questionable authorship at a newly opened library in Coimbatore city.” see also Tamil Nadu Suspends 5 Library Officials Over Fake Books – Urban Acres. “Tamil Nadu has suspended five library officials over the procurement of books allegedly containing fabricated authorship, invalid ISBNs, artificial intelligence-generated misinformation and inflated prices for the Periyar Arivulagam Library in Coimbatore” and Over 70,000 books from two publishing houses withdrawn across Tamil Nadu public libraries – Mathrubumi English.",
+    "text_html": "<li><strong><a href=\"https://www.bbc.co.uk/news/articles/c54gne3plvrxo\">India &#8211; New Indian mega library rocked by scandal over &#8216;AI-generated books&#8217; </a></strong>&#8211; BBC. &#8220;An Indian court has ordered an investigation into allegations that a public library in the southern state of Tamil Nadu bought hundreds of books suspected of being generated using AI. The controversy began after Tamil novelist Perumal Murugan raised concerns about books containing false information and questionable authorship at a newly opened library in Coimbatore city.&#8221; <em>see also </em><strong><a href=\"https://urbanacres.in/tamil-nadu-suspends-5-library-officials-over-fake-books/\">Tamil Nadu Suspends 5 Library Officials Over Fake Books </a></strong>&#8211; Urban Acres. &#8220;Tamil Nadu has suspended five library officials over the procurement of books allegedly containing fabricated authorship, invalid ISBNs, artificial intelligence-generated misinformation and inflated prices for the Periyar Arivulagam Library in Coimbatore&#8221; <em>and </em><strong><a href=\"https://english.mathrubhumi.com/amp/news/india/over-70000-books-two-publishing-houses-withdrawn-tamil-nadu-public-libraries-ptiga90maxj\">Over 70,000 books from two publishing houses withdrawn across Tamil Nadu public libraries</a></strong> &#8211; Mathrubumi English. </li>",
+    "links": [
+      {
+        "url": "https://www.bbc.co.uk/news/articles/c54gne3plvrxo",
+        "text": "India – New Indian mega library rocked by scandal over ‘AI-generated books’",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "https://urbanacres.in/tamil-nadu-suspends-5-library-officials-over-fake-books/",
+        "text": "Tamil Nadu Suspends 5 Library Officials Over Fake Books",
+        "domain": "urbanacres.in"
+      },
+      {
+        "url": "https://english.mathrubhumi.com/amp/news/india/over-70000-books-two-publishing-houses-withdrawn-tamil-nadu-public-libraries-ptiga90maxj",
+        "text": "Over 70,000 books from two publishing houses withdrawn across Tamil Nadu public libraries",
+        "domain": "english.mathrubhumi.com"
+      }
+    ],
+    "resolution": {
+      "entity_type": "country",
+      "country": "India",
+      "country_code": "IN",
+      "library_service": null,
+      "libraries_mentioned": [],
+      "coordinates": null
+    },
+    "classification": {
+      "categories": [
+        "digital_and_technology"
+      ],
+      "primary_category": "digital_and_technology",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "digital_and_technology"
+    ]
+  },
+  {
+    "id": "pln-story-20330-intl-004",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "international_news",
+    "entity_raw": "Alberta",
+    "text": "Edmonton – Local law requires books showing physical sexual acts will be kept in separate area, where those Under 16 will need parental consent to access",
+    "text_html": "</ul> </li> </ul> <figure class=\"wp-block-embed alignleft is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"> <iframe loading=\"lazy\" class=\"youtube-player\" title=\"YouTube video player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/L8EBTez0bLY?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-GB&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe> <figcaption class=\"wp-element-caption\">Alberta &#8211; Edmonton &#8211; Local law requires books showing physical sexual acts will be kept in separate area, where those Under 16 will need parental consent to access</figcaption></figure> <ul class=\"wp-block-list\">",
+    "links": [],
+    "resolution": {
+      "entity_type": "country",
+      "country": "Canada",
+      "country_code": "CA",
+      "library_service": null,
+      "libraries_mentioned": [],
+      "coordinates": null
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-intl-003",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "international_news",
+    "entity_raw": "Saskatchewan",
+    "text": "This Sask. village is fighting to keep its library open. It’s not the only one closing – CBC.",
+    "text_html": "<li><strong><a href=\"https://www.cbc.ca/player/play/video/9.7419981\">Saskatchewan &#8211; This Sask. village is fighting to keep its library open. It&#8217;s not the only one closing</a></strong> &#8211; CBC. </li>",
+    "links": [
+      {
+        "url": "https://www.cbc.ca/player/play/video/9.7419981",
+        "text": "Saskatchewan – This Sask. village is fighting to keep its library open. It’s not the only one closing",
+        "domain": "cbc.ca"
+      }
+    ],
+    "resolution": {
+      "entity_type": "country",
+      "country": "Canada",
+      "country_code": "CA",
+      "library_service": null,
+      "libraries_mentioned": [],
+      "coordinates": null
+    },
+    "classification": {
+      "categories": [
+        "closures_and_threats"
+      ],
+      "primary_category": "closures_and_threats",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "closures_and_threats"
+    ]
+  },
+  {
+    "id": "pln-story-20330-intl-002",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "international_news",
+    "entity_raw": "Canada",
+    "text": "Halifax Central Library – World Architects. “The new Halifax Central Library is the most significant public building built in Halifax in a generation, and represents the diverse communities, talents, and creativity of the residents of Halifax throughout the municipality and present this to the world.” Library workers are back on the job – TB Newswatch. “hunder Bay Public Library workers were back to work Thursday for the first time following a nearly month-long labour dispute. Head Librarian Ruth Hamlin-Douglas says there is a sense of relief among the staff.”",
+    "text_html": "<li><strong><a href=\"https://world-architects.com/es/projects/view/halifax-central-library\">Canada &#8211; Halifax Central Library</a></strong> &#8211; World Architects. &#8220;The new Halifax Central Library is the most significant public building built in Halifax in a generation, and represents the diverse communities, talents, and creativity of the residents of Halifax throughout the municipality and present this to the world.&#8221; <ul class=\"wp-block-list\"> <li><strong><a href=\"https://www.tbnewswatch.com/local-journalism-initiative-lji/library-workers-are-back-on-the-job-13011670\">Library workers are back on the job</a></strong> &#8211; TB Newswatch. &#8220;hunder Bay Public Library workers were back to work Thursday for the first time following a nearly month-long labour dispute. Head Librarian Ruth Hamlin-Douglas says there is a sense of relief among the staff.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://world-architects.com/es/projects/view/halifax-central-library",
+        "text": "Canada – Halifax Central Library",
+        "domain": "world-architects.com"
+      },
+      {
+        "url": "https://www.tbnewswatch.com/local-journalism-initiative-lji/library-workers-are-back-on-the-job-13011670",
+        "text": "Library workers are back on the job",
+        "domain": "tbnewswatch.com"
+      }
+    ],
+    "resolution": {
+      "entity_type": "country",
+      "country": "Canada",
+      "country_code": "CA",
+      "library_service": null,
+      "libraries_mentioned": [],
+      "coordinates": null
+    },
+    "classification": {
+      "categories": [
+        "staffing_and_unions"
+      ],
+      "primary_category": "staffing_and_unions",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "staffing_and_unions"
+    ]
+  },
+  {
+    "id": "pln-story-20330-intl-001",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "international_news",
+    "entity_raw": "Australia",
+    "text": "Mural on new library in Brisbane includes AI images such as a three-winged parrot. Locals are not amused.",
+    "text_html": "<figure class=\"wp-block-embed alignleft is-type-video is-provider-youtube wp-block-embed-youtube wp-embed-aspect-16-9 wp-has-aspect-ratio\"> <iframe loading=\"lazy\" class=\"youtube-player\" title=\"YouTube video player\" width=\"640\" height=\"360\" src=\"https://www.youtube.com/embed/bV2l5EqiS0U?version=3&#038;rel=1&#038;showsearch=0&#038;showinfo=1&#038;iv_load_policy=1&#038;fs=1&#038;hl=en-GB&#038;autohide=2&#038;wmode=transparent\" allowfullscreen=\"true\" style=\"border:0;\" sandbox=\"allow-scripts allow-same-origin allow-popups allow-presentation allow-popups-to-escape-sandbox\"></iframe> <figcaption class=\"wp-element-caption\">Australia &#8211; Mural on new library in Brisbane includes AI images such as a three-winged parrot. Locals are not amused.</figcaption></figure> <ul class=\"wp-block-list\">",
+    "links": [],
+    "resolution": {
+      "entity_type": "country",
+      "country": "Australia",
+      "country_code": "AU",
+      "library_service": null,
+      "libraries_mentioned": [],
+      "coordinates": null
+    },
+    "classification": {
+      "categories": [
+        "refurbishment_and_new_builds",
+        "digital_and_technology"
+      ],
+      "primary_category": "refurbishment_and_new_builds",
+      "change_type": null,
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "refurbishment_and_new_builds",
+      "digital_and_technology"
+    ]
+  },
+  {
+    "id": "pln-story-20330-changes-011",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "changes",
+    "entity_raw": "Libraries Hacked Launches LibraryCommons: A New Digital Home for UK Public Library Information",
+    "text": "Press Release. “LibraryCommons brings together library locations, service information, news and data from across the UK, creating the foundations for a comprehensive, openly accessible library information platform.” …”Libraries Hacked is inviting library services, sector bodies and partner organisations to contribute information, suggest enhancements and collaborate on the future development of the platform. LibraryCommons is available now at https://www.librarycommons.org.uk/",
+    "text_html": "</a>&#8211; Press Release. &#8220;LibraryCommons brings together library locations, service information, news and data from across the UK, creating the foundations for a comprehensive, openly accessible library information platform.&#8221; &#8230;&#8221;Libraries Hacked is inviting library services, sector bodies and partner organisations to contribute information, suggest enhancements and collaborate on the future development of the platform. LibraryCommons is available now at&nbsp;<a href=\"https://www.librarycommons.org.uk/\" target=\"_blank\" rel=\"noopener\">https://www.librarycommons.org.uk/</a></p>",
+    "links": [
+      {
+        "url": "https://www.librarycommons.org.uk/",
+        "text": "https://www.librarycommons.org.uk/",
+        "domain": "librarycommons.org.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "general",
+      "country": null,
+      "country_code": null,
+      "library_service": null,
+      "libraries_mentioned": [],
+      "coordinates": null
+    },
+    "classification": {
+      "categories": [
+        "digital_and_technology"
+      ],
+      "primary_category": "digital_and_technology",
+      "change_type": "other",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "digital_and_technology"
+    ]
+  },
+  {
+    "id": "pln-story-20330-changes-010",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "changes",
+    "entity_raw": "Libraries Hacked launches Library Commons",
+    "text": "and answers a few questions from PLN",
+    "text_html": "<strong>and answers a few questions from PLN</strong></p>",
+    "links": [],
+    "resolution": {
+      "entity_type": "general",
+      "country": null,
+      "country_code": null,
+      "library_service": null,
+      "libraries_mentioned": [],
+      "coordinates": null
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": "other",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-changes-009",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "changes",
+    "entity_raw": "Camden",
+    "text": "David Walliams books taken off library shelves amid allegations author ‘preyed on teenage girls’ – Camden New Journal. ““We are committed to making Camden a safer place for women and girls, to challenging harmful attitudes, and promoting healthy relationships.“Following these allegations, we believe the most appropriate action is to remove these books from display.”",
+    "text_html": "<li><strong><a href=\"https://www.camdennewjournal.co.uk/article/david-walliams-books-taken-off-library-shelves-amid-allegations-author-preyed-on-young-girls\">Camden &#8211; David Walliams books taken off library shelves amid allegations author ‘preyed on teenage girls&#8217; </a></strong>&#8211; Camden New Journal. &#8220;“We are committed to making Camden a safer place for women and girls, to challenging harmful attitudes, and promoting healthy relationships.“Following these allegations, we believe the most appropriate action is to remove these books from display.”</li>",
+    "links": [
+      {
+        "url": "https://www.camdennewjournal.co.uk/article/david-walliams-books-taken-off-library-shelves-amid-allegations-author-preyed-on-young-girls",
+        "text": "Camden – David Walliams books taken off library shelves amid allegations author ‘preyed on teenage girls’",
+        "domain": "camdennewjournal.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Camden",
+        "gss_code": "E09000007",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 51.529,
+        "longitude": -0.1255
+      }
+    },
+    "classification": {
+      "categories": [
+        "events_and_activities"
+      ],
+      "primary_category": "events_and_activities",
+      "change_type": "other",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "events_and_activities"
+    ]
+  },
+  {
+    "id": "pln-story-20330-changes-008",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "changes",
+    "entity_raw": "Calderdale",
+    "text": "David Walliams books remain on Calderdale’s library shelves – Halifax Courier. “This week sources across Calderdale’s public library service said there had been no instructions to take Walliams’ books off the shelves. “There’s been no circulation going around,” said one source. Another said: “We have not been informed of anything.” and David Walliams books still available at these libraries – Telegraph and Argus. “When the LDRS visited Halifax library on Friday (13 November) two books by Walliams were available to borrow – The Blunders and Slime.”",
+    "text_html": "<li><strong><a href=\"https://www.halifaxcourier.co.uk/news/people/david-walliams-books-remain-on-calderdales-library-shelves-9350693\">Calderdale &#8211; David Walliams books remain on Calderdale&#8217;s library shelves</a></strong> &#8211; Halifax Courier. &#8220;This week sources across Calderdale’s public library service said there had been no instructions to take Walliams’ books off the shelves. “There’s been no circulation going around,” said one source. Another said: “We have not been informed of anything.&#8221; <em>and </em><strong><a href=\"https://www.thetelegraphandargus.co.uk/news/26728738.david-walliams-books-available-calderdale-libraries/\">David Walliams books still available at these libraries</a></strong> &#8211; Telegraph and Argus. &#8220;When the LDRS visited Halifax library on Friday (13 November) two books by Walliams were available to borrow – The Blunders and Slime.&#8221;</li>",
+    "links": [
+      {
+        "url": "https://www.halifaxcourier.co.uk/news/people/david-walliams-books-remain-on-calderdales-library-shelves-9350693",
+        "text": "Calderdale – David Walliams books remain on Calderdale’s library shelves",
+        "domain": "halifaxcourier.co.uk"
+      },
+      {
+        "url": "https://www.thetelegraphandargus.co.uk/news/26728738.david-walliams-books-available-calderdale-libraries/",
+        "text": "David Walliams books still available at these libraries",
+        "domain": "thetelegraphandargus.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Calderdale",
+        "gss_code": "E08000033",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 53.7225,
+        "longitude": -1.8606
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": "other",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-changes-007",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "changes",
+    "entity_raw": "Authorities removing",
+    "text": "Camden, Telford & Wrekin.",
+    "text_html": "<a href=\"https://www.camdennewjournal.co.uk/article/david-walliams-books-taken-off-library-shelves-amid-allegations-author-preyed-on-young-girls\">Camden</a>, <a href=\"https://www.birminghammail.co.uk/news/midlands-news/midlands-council-removes-david-walliams-34904147.amp\">Telford &amp; Wrekin</a>.</li>",
+    "links": [
+      {
+        "url": "https://www.camdennewjournal.co.uk/article/david-walliams-books-taken-off-library-shelves-amid-allegations-author-preyed-on-young-girls",
+        "text": "Camden",
+        "domain": "camdennewjournal.co.uk"
+      },
+      {
+        "url": "https://www.birminghammail.co.uk/news/midlands-news/midlands-council-removes-david-walliams-34904147.amp",
+        "text": "Telford & Wrekin",
+        "domain": "birminghammail.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Camden",
+        "gss_code": "E09000007",
+        "confidence": "fuzzy"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 51.529,
+        "longitude": -0.1255
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": "other",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-changes-006",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "changes",
+    "entity_raw": "Authorities not removing",
+    "text": "Bolton, Bracknell Forest, Bristol, Calderdale, Durham, East Lothian, East Sussex, Essex, Gateshead, Gloucestershire, Guernsey, Hampshire, Hartlepool, Hertfordshire, Inverclyde, Jersey, Kent, Liverpool, Medway, Newcastle, Norfolk, North Tyneside, Northern Ireland, Northumberland, Portsmouth, Somerset, South Tyneside, Surrey, Swindon, Waltham Forest, Westmorland & Furness, West Sussex, Wokingham, York.",
+    "text_html": "<a href=\"https://www.theboltonnews.co.uk/news/26725060.bolton-councils-whether-david-walliams-books-will-removed/\">Bolton</a>, <a href=\"https://www.bracknellnews.co.uk/news/26723636.david-walliams-books-remain-library-shelves-local-libraries/\">Bracknell Forest</a>, <a href=\"https://www.bbc.co.uk/news/articles/cm205j41nj0eo\">Bristol</a>, <a href=\"https://www.halifaxcourier.co.uk/news/people/david-walliams-books-remain-on-calderdales-library-shelves-9350693\">Calderdale</a>, Durham, <a href=\"https://www.eastlothiancourier.com/news/26726234.east-lothian-libraries-not-removed-david-walliams-titles/\">East Lothian</a>, <a href=\"https://www.theargus.co.uk/news/26724249.sussex-councils-explain-library-stock-policy-walliams/#google_vignette\">East Sussex</a>, <a href=\"https://www.essexcountynews.co.uk/news/26722697.essex-council-comments-david-walliams-library-books/\">Essex</a>, Gateshead, <a href=\"https://www.bbc.co.uk/news/articles/cm205j41nj0eo\">Gloucestershire</a>, <a href=\"https://www.yahoo.com/news/world/articles/library-not-walliams-books-off-151733159.html\">Guernsey</a>, <a href=\"https://meonvalleytimes.co.uk/david-walliams-books-to-remain-hampshire-libraries/\">Hampshire</a>, <a href=\"https://www.hartlepoolmail.co.uk/education/why-hartlepools-libraries-are-keeping-david-walliamss-books-on-their-shelves-9351129\">Hartlepool</a>, <a href=\"https://www.thecomet.net/news/26724062.plans-david-walliams-books-hertfordshire-libraries/\">Hertfordshire</a>, <a href=\"https://www.greenocktelegraph.co.uk/news/26728648.david-walliams-books-remain-inverclyde-libraries/\">Inverclyde,</a> <a href=\"https://jerseyeveningpost.com/news/2026/11/14/david-walliams-books-to-remain-in-school-libraries-at-present-time/\">Jersey</a>, <a href=\"https://www.kentonline.co.uk/kent/news/kent-county-council-refuses-to-remove-david-walliams-books-347325/\">Kent</a>, <a href=\"https://www.liverpoolecho.co.uk/news/liverpool-news/liverpool-libraries-issue-statement-stocking-34906053\">Liverpool</a>, Medway, Newcastle, <a href=\"https://www.edp24.co.uk/news/26729651.david-walliams-books-remain-norfolk-libraries/\">Norfolk</a>, North Tyneside, <a href=\"https://www.belfastlive.co.uk/news/northern-ireland/ni-libraries-schools-respond-call-34902742\">Northern Ireland</a>, Northumberland, Portsmouth, <a href=\"https://www.bbc.co.uk/news/articles/cm205j41nj0eo\">Somerset</a>, South Tyneside, <a href=\"https://www.bbc.co.uk/news/articles/cvkg5jkpl2pno\">Surrey</a>, <a href=\"https://www.gazetteandherald.co.uk/news/26727546.swindon-libraries-issues-statement-david-walliams-books/\">Swindon</a>, Waltham Forest, <a href=\"https://www.nwemail.co.uk/news/26728550.south-cumbria-libraries-will-not-remove-david-walliams-books/\">Westmorland &amp; Furness</a>, <a href=\"https://www.theargus.co.uk/news/26724249.sussex-councils-explain-library-stock-policy-walliams/#google_vignette\">West Sussex</a>, <a href=\"https://wokingham.today/david-walliams-books-to-remain-on-shelves-in-wokingham-despite-allegations/\">Wokingham</a>, <a href=\"https://www.yorkpress.co.uk/news/26726770.david-walliams-booked-remain-libraries-york/\">York</a>. </li>",
+    "links": [
+      {
+        "url": "https://www.theboltonnews.co.uk/news/26725060.bolton-councils-whether-david-walliams-books-will-removed/",
+        "text": "Bolton",
+        "domain": "theboltonnews.co.uk"
+      },
+      {
+        "url": "https://www.bracknellnews.co.uk/news/26723636.david-walliams-books-remain-library-shelves-local-libraries/",
+        "text": "Bracknell Forest",
+        "domain": "bracknellnews.co.uk"
+      },
+      {
+        "url": "https://www.bbc.co.uk/news/articles/cm205j41nj0eo",
+        "text": "Bristol",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "https://www.halifaxcourier.co.uk/news/people/david-walliams-books-remain-on-calderdales-library-shelves-9350693",
+        "text": "Calderdale",
+        "domain": "halifaxcourier.co.uk"
+      },
+      {
+        "url": "https://www.eastlothiancourier.com/news/26726234.east-lothian-libraries-not-removed-david-walliams-titles/",
+        "text": "East Lothian",
+        "domain": "eastlothiancourier.com"
+      },
+      {
+        "url": "https://www.theargus.co.uk/news/26724249.sussex-councils-explain-library-stock-policy-walliams/#google_vignette",
+        "text": "East Sussex",
+        "domain": "theargus.co.uk"
+      },
+      {
+        "url": "https://www.essexcountynews.co.uk/news/26722697.essex-council-comments-david-walliams-library-books/",
+        "text": "Essex",
+        "domain": "essexcountynews.co.uk"
+      },
+      {
+        "url": "https://www.bbc.co.uk/news/articles/cm205j41nj0eo",
+        "text": "Gloucestershire",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "https://www.yahoo.com/news/world/articles/library-not-walliams-books-off-151733159.html",
+        "text": "Guernsey",
+        "domain": "yahoo.com"
+      },
+      {
+        "url": "https://meonvalleytimes.co.uk/david-walliams-books-to-remain-hampshire-libraries/",
+        "text": "Hampshire",
+        "domain": "meonvalleytimes.co.uk"
+      },
+      {
+        "url": "https://www.hartlepoolmail.co.uk/education/why-hartlepools-libraries-are-keeping-david-walliamss-books-on-their-shelves-9351129",
+        "text": "Hartlepool",
+        "domain": "hartlepoolmail.co.uk"
+      },
+      {
+        "url": "https://www.thecomet.net/news/26724062.plans-david-walliams-books-hertfordshire-libraries/",
+        "text": "Hertfordshire",
+        "domain": "thecomet.net"
+      },
+      {
+        "url": "https://www.greenocktelegraph.co.uk/news/26728648.david-walliams-books-remain-inverclyde-libraries/",
+        "text": "Inverclyde,",
+        "domain": "greenocktelegraph.co.uk"
+      },
+      {
+        "url": "https://jerseyeveningpost.com/news/2026/11/14/david-walliams-books-to-remain-in-school-libraries-at-present-time/",
+        "text": "Jersey",
+        "domain": "jerseyeveningpost.com"
+      },
+      {
+        "url": "https://www.kentonline.co.uk/kent/news/kent-county-council-refuses-to-remove-david-walliams-books-347325/",
+        "text": "Kent",
+        "domain": "kentonline.co.uk"
+      },
+      {
+        "url": "https://www.liverpoolecho.co.uk/news/liverpool-news/liverpool-libraries-issue-statement-stocking-34906053",
+        "text": "Liverpool",
+        "domain": "liverpoolecho.co.uk"
+      },
+      {
+        "url": "https://www.edp24.co.uk/news/26729651.david-walliams-books-remain-norfolk-libraries/",
+        "text": "Norfolk",
+        "domain": "edp24.co.uk"
+      },
+      {
+        "url": "https://www.belfastlive.co.uk/news/northern-ireland/ni-libraries-schools-respond-call-34902742",
+        "text": "Northern Ireland",
+        "domain": "belfastlive.co.uk"
+      },
+      {
+        "url": "https://www.bbc.co.uk/news/articles/cm205j41nj0eo",
+        "text": "Somerset",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "https://www.bbc.co.uk/news/articles/cvkg5jkpl2pno",
+        "text": "Surrey",
+        "domain": "bbc.co.uk"
+      },
+      {
+        "url": "https://www.gazetteandherald.co.uk/news/26727546.swindon-libraries-issues-statement-david-walliams-books/",
+        "text": "Swindon",
+        "domain": "gazetteandherald.co.uk"
+      },
+      {
+        "url": "https://www.nwemail.co.uk/news/26728550.south-cumbria-libraries-will-not-remove-david-walliams-books/",
+        "text": "Westmorland & Furness",
+        "domain": "nwemail.co.uk"
+      },
+      {
+        "url": "https://www.theargus.co.uk/news/26724249.sussex-councils-explain-library-stock-policy-walliams/#google_vignette",
+        "text": "West Sussex",
+        "domain": "theargus.co.uk"
+      },
+      {
+        "url": "https://wokingham.today/david-walliams-books-to-remain-on-shelves-in-wokingham-despite-allegations/",
+        "text": "Wokingham",
+        "domain": "wokingham.today"
+      },
+      {
+        "url": "https://www.yorkpress.co.uk/news/26726770.david-walliams-booked-remain-libraries-york/",
+        "text": "York",
+        "domain": "yorkpress.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Bolton",
+        "gss_code": "E08000001",
+        "confidence": "fuzzy"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 53.5769,
+        "longitude": -2.4282
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": "other",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-changes-005",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "changes",
+    "entity_raw": "Shropshire",
+    "text": "Six main libraries could have hours cut to 30 per week. Mobile library may end, 2 libraries (Gobowen and Lantern) under threat.",
+    "text_html": "<a href=\"https://www.bbc.co.uk/news/articles/cx4g1g1z9n52o\">Six main libraries could have hours cut to 30 per week. Mobile library may end, 2 libraries (Gobowen and Lantern) under threat.</a></li>",
+    "links": [
+      {
+        "url": "https://www.bbc.co.uk/news/articles/cx4g1g1z9n52o",
+        "text": "Six main libraries could have hours cut to 30 per week. Mobile library may end, 2 libraries (Gobowen and Lantern) under threat.",
+        "domain": "bbc.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Shropshire",
+        "gss_code": "E06000051",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_f0ec9a89-4714-4849-b8c5-0ba7a42c70a8",
+          "name": "Gobowen",
+          "postcode": "SY11 3PF",
+          "lat": 52.89729,
+          "lng": -3.03728,
+          "status": "Open",
+          "slug": "gobowen"
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.7073,
+        "longitude": -2.7553
+      }
+    },
+    "classification": {
+      "categories": [
+        "closures_and_threats",
+        "cuts_and_finance",
+        "opening_hours",
+        "mobile_and_outreach"
+      ],
+      "primary_category": "closures_and_threats",
+      "change_type": "closure",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "closures_and_threats",
+      "cuts_and_finance",
+      "opening_hours",
+      "mobile_and_outreach"
+    ]
+  },
+  {
+    "id": "pln-story-20330-changes-004",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "changes",
+    "entity_raw": "St Helens",
+    "text": "Newton Le Willows Library may move to Earlestown Town Hall.",
+    "text_html": "<a href=\"https://www.warringtonguardian.co.uk/news/26721136.newton-le-willows-library-move-faces-council-work/\">Newton Le Willows Library may move to Earlestown Town Hall.</a></li>",
+    "links": [
+      {
+        "url": "https://www.warringtonguardian.co.uk/news/26721136.newton-le-willows-library-move-faces-council-work/",
+        "text": "Newton Le Willows Library may move to Earlestown Town Hall.",
+        "domain": "warringtonguardian.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "St Helens",
+        "gss_code": "E08000013",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_d5010e9f-c2bc-4af8-a2d3-74419a3b26b0",
+          "name": "Newton-le-Willows Library",
+          "postcode": "WA12 9TS",
+          "lat": 53.45616,
+          "lng": -2.63731,
+          "status": "Open",
+          "slug": "newton-le-willows-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 53.4542,
+        "longitude": -2.7381
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": "other",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-changes-003",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "changes",
+    "entity_raw": "Rotherham",
+    "text": "New library set to open in February.",
+    "text_html": "<a href=\"https://www.rotherhamadvertiser.co.uk/news/politics/rotherhams-new-library-set-for-february-opening-after-delays-to-ps46m-revamp-9349533\">New library set to open in February. </a></li>",
+    "links": [
+      {
+        "url": "https://www.rotherhamadvertiser.co.uk/news/politics/rotherhams-new-library-set-for-february-opening-after-delays-to-ps46m-revamp-9349533",
+        "text": "New library set to open in February.",
+        "domain": "rotherhamadvertiser.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Rotherham",
+        "gss_code": "E08000018",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 53.43,
+        "longitude": -1.357
+      }
+    },
+    "classification": {
+      "categories": [
+        "refurbishment_and_new_builds"
+      ],
+      "primary_category": "refurbishment_and_new_builds",
+      "change_type": "investment_or_expansion",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "refurbishment_and_new_builds"
+    ]
+  },
+  {
+    "id": "pln-story-20330-changes-002",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "changes",
+    "entity_raw": "Bradford",
+    "text": "City Library will move to Britannia House in December to save £420k p.a. rent",
+    "text_html": "<a href=\"https://www.asianstandard.co.uk/bradford-city-library-to-close-ahead-of-move-saving-council-420000-a-year/\">City Library will move to Britannia House in December to save £420k p.a. rent</a></li>",
+    "links": [
+      {
+        "url": "https://www.asianstandard.co.uk/bradford-city-library-to-close-ahead-of-move-saving-council-420000-a-year/",
+        "text": "City Library will move to Britannia House in December to save £420k p.a. rent",
+        "domain": "asianstandard.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Bradford",
+        "gss_code": "E08000032",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [],
+      "coordinates": {
+        "latitude": 53.796,
+        "longitude": -1.7594
+      }
+    },
+    "classification": {
+      "categories": [],
+      "primary_category": null,
+      "change_type": "other",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": [
+        "£420k"
+      ]
+    },
+    "tags": []
+  },
+  {
+    "id": "pln-story-20330-changes-001",
+    "post_id": "pln-post-20330",
+    "post_date": "2026-11-15",
+    "section": "changes",
+    "entity_raw": "Birmingham",
+    "text": "Kings Heath Library opening hours increase by one day plus no lunchtime closure; Acocks Green Library closed for a year for roof replacement, with mobile library service temporary replacement.",
+    "text_html": "<a href=\"https://www.birmingham-now.co.uk/news/26695327.kings-heath-library-open-five-days-week-2027/\">Kings Heath Library opening hours increase by one day plus no lunchtime closure</a>; <a href=\"https://www.birmingham-now.co.uk/news/26721471.mobile-library-serve-acocks-green-library-closed/\">Acocks Green Library closed for a year for roof replacement, with mobile library service temporary replacement</a>.</li>",
+    "links": [
+      {
+        "url": "https://www.birmingham-now.co.uk/news/26695327.kings-heath-library-open-five-days-week-2027/",
+        "text": "Kings Heath Library opening hours increase by one day plus no lunchtime closure",
+        "domain": "birmingham-now.co.uk"
+      },
+      {
+        "url": "https://www.birmingham-now.co.uk/news/26721471.mobile-library-serve-acocks-green-library-closed/",
+        "text": "Acocks Green Library closed for a year for roof replacement, with mobile library service temporary replacement",
+        "domain": "birmingham-now.co.uk"
+      }
+    ],
+    "resolution": {
+      "entity_type": "local_authority",
+      "country": "England",
+      "country_code": "GB",
+      "library_service": {
+        "name": "Birmingham",
+        "gss_code": "E08000025",
+        "confidence": "exact"
+      },
+      "libraries_mentioned": [
+        {
+          "id": "lib_2f34f1c3-c02e-4c76-ae1e-9063e1524304",
+          "name": "Acocks Green Library",
+          "postcode": "B27 7XH",
+          "lat": 52.44543,
+          "lng": -1.82386,
+          "status": "Open",
+          "slug": "acocks-green-library"
+        },
+        {
+          "id": "lib_4dccfaac-9863-4712-b241-d06e019dd7e5",
+          "name": "Kings Heath Library",
+          "postcode": "B14 7SW",
+          "lat": 52.43763,
+          "lng": -1.89295,
+          "status": "Open",
+          "slug": "kings-heath-library"
+        }
+      ],
+      "coordinates": {
+        "latitude": 52.4862,
+        "longitude": -1.8904
+      }
+    },
+    "classification": {
+      "categories": [
+        "closures_and_threats",
+        "opening_hours",
+        "mobile_and_outreach"
+      ],
+      "primary_category": "closures_and_threats",
+      "change_type": "closure",
+      "sector_bodies_mentioned": [],
+      "financial_mentions": []
+    },
+    "tags": [
+      "closures_and_threats",
+      "opening_hours",
+      "mobile_and_outreach"
+    ]
+  },
+  {
     "id": "pln-story-20294-natl-005",
     "post_id": "pln-post-20294",
     "post_date": "2026-11-08",
